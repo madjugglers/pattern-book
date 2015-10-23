@@ -162,7 +162,8 @@ guarantee of consistency.
 
 * **Double 3-count**
 
-  **Pass, pass, self.** Academics can argue over whether this can be represented as 3/2 count.
+  **Pass, pass, self.** Academics can argue over whether this can be represented
+  as 3/2 count.
 
 * **Turbo**
 
@@ -253,10 +254,15 @@ doing it.
 #### Random Tips on Passing Patterns
 * **Better Never than Late**
 
-    If you miss a beat, don't pass on the next throw! Instead, wait for the pass to come around again in the pattern.
+    If you miss a beat, don't pass on the next throw! Instead, wait for the pass
+    to come around again in the pattern.
+
 * **Always keep your eye on Mel**
 
-   Don't pick up the clubs until you're sure the pattern is over, unless you know you can pick up and keep juggling. Even when you're not juggling, it's wise to keep an eye on Mel.
+   Don't pick up the clubs until you're sure the pattern is over, unless you
+   know you can pick up and keep juggling. Even when you're not juggling, it's
+   wise to keep an eye on Mel.
+
 * **Juggling means never having to say you're sorry**
 
     No, really.
@@ -265,44 +271,84 @@ doing it.
 
     (However, if you draw blood then you do have to say you're sorry.)
 
-    Beginners often apologize profusely for their lack of skill. It's ok! We already know you're a beginner. But we like passing with other people and passing with beginners too. You'll get better soon and the best way is with lots of passing! If people want to do a hard pattern that is too advanced for beginners then they will, and you'll be left out of that one. Just do a pattern with somebody else. If we're juggling with you it's because we want to, not because we have to. Most patterns have positions of varying skill requirements, so if you're a beginner in a bigger or more advanced pattern, we'll try to put you in the best spot for your level. Just try to do the best you can, and if you drop, try to keep the timing anyway.
+    Beginners often apologize profusely for their lack of skill. It's ok! We
+    already know you're a beginner. But we like passing with other people and
+    passing with beginners too. You'll get better soon and the best way is with
+    lots of passing! If people want to do a hard pattern that is too advanced
+    for beginners then they will, and you'll be left out of that one. Just do a
+    pattern with somebody else. If we're juggling with you it's because we want
+    to, not because we have to. Most patterns have positions of varying skill
+    requirements, so if you're a beginner in a bigger or more advanced pattern,
+    we'll try to put you in the best spot for your level. Just try to do the
+    best you can, and if you drop, try to keep the timing anyway.
 
 ##### Timing
-It may already be obvious, but good timing is critical to group passing patterns. One of the best tools to keep timing is your ears. For most patterns, all the catches should happen at the same time. When the timing is perfectly synchronized the sound of catching clubs is a metronome for the pattern.
+It may already be obvious, but good timing is critical to group passing
+patterns. One of the best tools to keep timing is your ears. For most patterns,
+all the catches should happen at the same time. When the timing is perfectly
+synchronized the sound of catching clubs is a metronome for the pattern.
 
-Otherwise, find a juggler in your field of vision and make sure you throw at exactly the same time as they do (either passes or selves).
+Otherwise, find a juggler in your field of vision and make sure you throw at
+exactly the same time as they do (either passes or selves).
 
 Make sure all the passes of the same spin go to the same height.
 
-For many patterns, selecting a juggler to count out loud as a metronome can be very helpful.
+For many patterns, selecting a juggler to count out loud as a metronome can be
+very helpful.
 
 ##### Leads
-The second most important skill is for the passer to lead the catcher in the direction they are moving. The amount of lead varies based on the height of the throw, the tempo of the juggling, and how fast the weaver is moving.
+The second most important skill is for the passer to lead the catcher in the
+direction they are moving. The amount of lead varies based on the height of the
+throw, the tempo of the juggling, and how fast the weaver is moving.
 
-Outside leads are the easiest, because they are thrown away from the catcher's pattern.
+Outside leads are the easiest, because they are thrown away from the catcher's
+pattern.
 
-Inside leads are trickier, because they are thrown towards the catcher's pattern, and if the passer is exchanging clubs with the catcher, the two passes are prone to collision. (For some patterns, such as the Cyclone, the weavers are moving so fast that the inside leads go all the way on the other side of the incoming pass.)
+Inside leads are trickier, because they are thrown towards the catcher's
+pattern, and if the passer is exchanging clubs with the catcher, the two passes
+are prone to collision. (For some patterns, such as the Cyclone, the weavers are
+moving so fast that the inside leads go all the way on the other side of the
+incoming pass.)
 
-One key to throwing good leads is to be able to see where your passes land. That's a difficult skill at first, and especially hard for some patterns with high throws, but your target will certainly appreciate the effort. Otherwise, good communication (especially for dropbacks or other blind passes) helps fine tune lead throws.
+One key to throwing good leads is to be able to see where your passes land.
+That's a difficult skill at first, and especially hard for some patterns with
+high throws, but your target will certainly appreciate the effort. Otherwise,
+good communication (especially for dropbacks or other blind passes) helps fine
+tune lead throws.
 
-Remember that in a feed, the feedee on the same side as the feeder's pass must throw an inside and/or deep pass to give the feeder room to throw underneath to the next feedee.
+Remember that in a feed, the feedee on the same side as the feeder's pass must
+throw an inside and/or deep pass to give the feeder room to throw underneath to
+the next feedee.
 
 ##### Turning
-Twister weaves are all about turning. In general you can classify how hard a moving pattern is by how many selves are allocated to turn 180 degrees. For example, the Standard Twister Weave has 5 selves (weaving in 6-count). The Fast Spiral has 3 selves (weaving in 4-count). The Chocolate Swirl has 1 self (crossing sides in double 3 count).
+Twister weaves are all about turning. In general you can classify how hard a
+moving pattern is by how many selves are allocated to turn 180 degrees. For
+example, the Standard Twister Weave has 5 selves (weaving in 6-count). The Fast
+Spiral has 3 selves (weaving in 4-count). The Chocolate Swirl has 1 self
+(crossing sides in double 3 count).
 
-In most of these patterns you can turn either to the outside or the inside. One turn is usually easier than the other, but I recommend jugglers learn both turns whenever possible. Learn turning in easy patterns like the Twister Weave and then you can apply those to Clovers or Strange Attractors and other more advanced weaves.
+In most of these patterns you can turn either to the outside or the inside. One
+turn is usually easier than the other, but I recommend jugglers learn both turns
+whenever possible. Learn turning in easy patterns like the Twister Weave and
+then you can apply those to Clovers or Strange Attractors and other more
+advanced weaves.
 
-It is also helpful to practice turning while juggling solo. How many selves does it take you to turn 180 degrees while spinning continuously?
-
+It is also helpful to practice turning while juggling solo. How many selves does
+it take you to turn 180 degrees while spinning continuously?
 ##### Learning
 
-Take advantage of opportunities to pass with jugglers better than you. That's how you'll learn timing.
+Take advantage of opportunities to pass with jugglers better than you. That's
+how you'll learn timing.
 
-Take advantage of opportunities to pass with jugglers less skilled than you. That's how you'll learn catching.
+Take advantage of opportunities to pass with jugglers less skilled than you.
+That's how you'll learn catching.
 
-Be sure to pass with jugglers at the same level as you. That's how you know how good you really are. :)
+Be sure to pass with jugglers at the same level as you. That's how you know how
+good you really are. :)
 
-Lots of passing patterns benefit from solo skills too. You'll need to be able to juggle 4 clubs comfortably in triple singles, double singles and the fountain to do a lot of the 7 and 8 club based passing patterns.
+Lots of passing patterns benefit from solo skills too. You'll need to be able to
+juggle 4 clubs comfortably in triple singles, double singles and the fountain to
+do a lot of the 7 and 8 club based passing patterns.
 
 ##### Internet Passing Resources
 * [Madison Area Jugglers](http://madjugglers.com)
