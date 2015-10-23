@@ -306,9 +306,7 @@ Lots of passing patterns benefit from solo skills too. You'll need to be able to
 
 ##### Internet Passing Resources
 * [Madison Area Jugglers](http://madjugglers.com)
-* [Passing DB](http://passingdb.com)
 * [International Juggling Association site](http://www.juggle.org)
-* Aidan's web site [*http://www.geocities.com/aidanjburns*](http://www.geocities.com/aidanjburns)
 * [Will Murray's site](http://www.csulb.edu/~wmurray/)
 * Mark Weston's passing collection
 * Martin Frost and Stanford jugglers
@@ -327,6 +325,6 @@ Lots of passing patterns benefit from solo skills too. You'll need to be able to
 * [Appendix A: 7 Club Patterns and Variations](09_appendix_a_7clubs.md)
 * [Appendix B: Dual Passing Patterns](10_appendix_b_dual_passing.md)
 * [Appendix C: Gandini Siteswap Weaves](11_appendix_c_gandini_weaves.md)
-* [Appendix D: Seven Club Two-Count Exposed](12_appendix_d_7_club2ct.md)
+* [Appendix D: Seven Club Two-Count Exposed](12_appendix_d_7club2ct.md)
 * [Appendix E: Synchronous Passing](13_appendix_e_synchronous_passing.md)
 * [Appendix F: Passing 43](14_appendix_f_passing_43.md)
