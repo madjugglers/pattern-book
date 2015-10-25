@@ -61,6 +61,7 @@ where you can also download the latest edition of this book.
 | **B**       | A     |       |       |       |
 | **C**       |       | A     |       | A     |
 | **D**       |       |       | A     |       |
+
 > * Right hand counting
 
 When juggling the cascade, each hand takes turns throwing: right, left, right,
@@ -101,7 +102,7 @@ starting instructions may be noted in the graph or underneath it.
 ##### Typewriter Extra Club Feed (13 clubs)
 
 | **Juggler** | **1** | **2** | **3** | **4** | **5** | **6** |
-|-------------|-------|-------|-------|-------|-------|-------|
+|:-----------:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 | **A**       | D-D   |       | D-C   |       | D-B   |       |
 | **B**       |       | D-A   |       |       |       |       |
 | **C**       |       |       |       | D-A   |       |       |
@@ -117,7 +118,7 @@ hand throws. A throws right Double pass to D, then left self, then right Double
 pass to C, then left self, then right Double pass to B.
 
 *How to tip: Jugglers C and D should throw a little higher and deeper so A has
-*room to pass underneath to C and B.*
+room to pass underneath to C and B.*
 
 ##### Some Funny Left/Right Box
 
@@ -127,6 +128,7 @@ pass to C, then left self, then right Double pass to B.
 | **B**       | A     | D     | A     |       | C     |       |
 | **C**       |       | A     |       | D     | B     | D     |
 | **D**       |       | B     |       | C     | A     | C     |
+
 > * Both hands counting
 
 The above pattern has both hands counting, so the column under 1 is a right hand
@@ -151,59 +153,38 @@ guarantee of consistency.
 #### Secret Juggling Code Words (Glossary)
 
 * **Chocolate Bar**
-
   Pass, pass, self, self.
-
 * **n-count**
-
   States the count when passes are made. For example, 2-count means: pass, self,
   pass, self, etc. Three count means: pass, self, self, pass, self, self, etc.
   One count means: pass, pass, pass, (no self throws).
-
 * **Double 3-count**
-
   **Pass, pass, self.** Academics can argue over whether this can be represented
   as 3/2 count.
-
 * **Turbo**
-
   Three weaving jugglers who pass among themselves
-
 * **Weave**
-
   The feedees move in a figure 8 while juggling. The standard (or preverse) weave
   is back on the ends and forward through the middles. The inverse weave is
   forward on the ends and back through the middle.
-
 * **ZOC**
-
   Zone of Catchability – Refers to the area around a passer where they can catch
   passes.
-
 * **Immaculate Assumption**
-
   When you think that a juggler is about to move or pass...maybe they even give
-  you the look...you know, the **look**...but then they don't! Phantom
-
+  you the look...you know, the **look**...but then they don't!
+* **Phantom**
   A feedee place holder who isn't really there. A feeder, for example, may feed
   2 real feeders and a phantom in a sweep feed: pass, pass, self, pass and
   repeat.
-
 * **Mustard**
-
   Energy, power, spice, velocity or chi added to throws. As in, your corner
   passes need more mustard. The opposite of mustard is mayonnaise.
-
 * **Chalant**
-
   To drop a perfectly fine pass due to lack of focus. The opposite of nonchalant.
-
 * **NFP**
-
   Nice Pass.
-
 * **Wuss**
-
   The amount of gentleness, tenderness and love added to a juggling throw.
   Compare to mayonnaise. The quality of passes you would make to your favorite
   grandmother. As in, please add some wuss to your middle passes. You're hurting
@@ -216,61 +197,39 @@ these patterns? Actually, they sort of make themselves once you invite the
 opportunity. Here are some tips on how to make new passing patterns and have fun
 doing it.
 
-* Start with a classic juggling pattern or any geometric figure (box, triangle,
+1. Start with a classic juggling pattern or any geometric figure (box, triangle,
   star, Y, W, line, etc.).
-
-* Think about everybody juggling 3 or 4 clubs.
-
-* Replace any selves with a pass to another juggler doing a self.
-
-* Any two jugglers can switch places. Any three jugglers can weave, or turbo.
-
-* Replace any 4-count with a Twister Weave, or a 7-club 4-count.
-
-* Replace any 2-count with a Weave.
-
-* Replace any 3-count with a double 3 count.
-
-* Replace any feed with an extra club feed.
-
-* Replace any extra club feed with a 2 extra club feed.
-
-* The jugglers can move in any pattern (circles, clovers, figure eights, or any
+1. Think about everybody juggling 3 or 4 clubs.
+1. Replace any selves with a pass to another juggler doing a self.
+1. Any two jugglers can switch places. Any three jugglers can weave, or turbo.
+1. Replace any 4-count with a Twister Weave, or a 7-club 4-count.
+1. Replace any 2-count with a Weave.
+1. Replace any 3-count with a double 3 count.
+1. Replace any feed with an extra club feed.
+1. Replace any extra club feed with a 2 extra club feed.
+1. The jugglers can move in any pattern (circles, clovers, figure eights, or any
   juggling siteswap just to name a few).
-
-* The clubs can be passed in any juggling pattern or siteswap (admittedly,
+1. The clubs can be passed in any juggling pattern or siteswap (admittedly,
   patterns get challenging quickly once you get past the easier siteswaps).
-
-* Try the same movement in a different count, or left handed.
-
-* Try the same passing sequence in a different movement.
-
-* Many of our favorite patterns are group collaborations where lots of people
+1. Try the same movement in a different count, or left handed.
+1. Try the same passing sequence in a different movement.
+1. Many of our favorite patterns are group collaborations where lots of people
   gave ideas for new ways to move or pass.
-
-* Share your favorite club passing patterns with other jugglers and listen to
+1. Share your favorite club passing patterns with other jugglers and listen to
   their ideas too.
 
 #### Random Tips on Passing Patterns
 * **Better Never than Late**
-
     If you miss a beat, don't pass on the next throw! Instead, wait for the pass
     to come around again in the pattern.
-
 * **Always keep your eye on Mel**
-
-   Don't pick up the clubs until you're sure the pattern is over, unless you
-   know you can pick up and keep juggling. Even when you're not juggling, it's
-   wise to keep an eye on Mel.
-
+    Don't pick up the clubs until you're sure the pattern is over, unless you
+    know you can pick up and keep juggling. Even when you're not juggling, it's
+    wise to keep an eye on Mel.
 * **Juggling means never having to say you're sorry**
-
-    No, really.
-
-    Don't say you're sorry unless you draw blood.
-
-    (However, if you draw blood then you do have to say you're sorry.)
-
+    No, really.  
+    Don't say you're sorry unless you draw blood.  
+    (However, if you draw blood then you do have to say you're sorry.)  
     Beginners often apologize profusely for their lack of skill. It's ok! We
     already know you're a beginner. But we like passing with other people and
     passing with beginners too. You'll get better soon and the best way is with
@@ -335,6 +294,7 @@ advanced weaves.
 
 It is also helpful to practice turning while juggling solo. How many selves does
 it take you to turn 180 degrees while spinning continuously?
+
 ##### Learning
 
 Take advantage of opportunities to pass with jugglers better than you. That's

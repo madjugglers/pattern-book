@@ -13,6 +13,7 @@ before trying them in larger patterns.
 | **A**       | B     | C     |
 | **B**       | A     |       |
 | **C**       |       | A     |
+
 > * Right hand counting
 
 How about left handed, chocolate bar, feeder in double 3-count (and feedees in
@@ -33,6 +34,7 @@ extra club chocolate bar feeds.
 | **A**       | C      | B      |
 | **B**       | A      | T-self |
 | **C**       | T-self | A      |
+
 > * Right hand counting
 > * B starts with 4
 
@@ -43,6 +45,7 @@ extra club chocolate bar feeds.
 | **A**       | C      | T-self | B      |
 | **B**       | A      |        | T-self |
 | **C**       | T-self | A      |        |
+
 > * Right hand counting
 > * B starts with 4
 
@@ -59,6 +62,7 @@ double straight self, pass (533p, 5p33, 443p, 44px3 all work).
 | **A**       | D-B   |        | D-C   |       |        |
 | **B**       |       | T-self |       | D-A   |        |
 | **C**       |       | D-A    |       |       | T-self |
+
 > * Both hands counting, start with right hands
 > * A and C start with 4 clubs
 
@@ -73,6 +77,7 @@ The timing is a bit wonky, B and C should delay slightly at the start.
 | **A**       | Dx-B   | Dx-B   | Dx-C   | Dx-C   |
 | **B**       | A      | A      | D-self | D-self |
 | **C**       | D-self | D-self | A      | A      |
+
 > * Both hands counting, start with right hands
 > * A and C start with 4 clubs
 > * A throws all crossing doubles
@@ -109,6 +114,7 @@ rotating feed is the same as a feast.
 | **A**       | B     |       | C     |
 | **B**       | A     | C     |       |
 | **C**       |       | B     | A     |
+
 > * Right hand counting
 
 ##### Pulsar
@@ -118,6 +124,7 @@ rotating feed is the same as a feast.
 | **A**       | B     | C     |       | C     |       | B     | C     | B     | C     |        | B      |        |
 | **B**       | A     |       | C     |       | C     | A     |       | A     |       | C      | A      | C      |
 | **C**       |       | A     | B     | A     | B     |       | A     |       | A     | B      |        | B      |
+
 > * Right hand counting
 > * Rules:
 >   * Jugglers take turns as feeders: A is first, then C, then B (repeat).
@@ -154,7 +161,7 @@ Right, self, right, self, self, left, self, self, self, left, self, self.
 | **B**       |       |       |       | A     |       |       | A     |       | A     |        |        | A      |
 | **C**       | A     |       | A     |       |       | A     |       |       |       | A      |        |        |
 
-Both hands counting, right hand starts
+> * Both hands counting, right hand starts
 
 A is the feeder, and B and C are doing the Three-piece Puzzle pattern six throws out of phase.
 
@@ -181,6 +188,7 @@ Here are two nice variations related to a Martin's Madness feed.
 | **A**       | D-B   | D-C   | 1     |
 | **B**       |       | A     |       |
 | **C**       |       |       | A     |
+
 > * Both hands counting, right hand starts
 
 A does 441 (i.e. double pass, double pass, shuffle)
@@ -215,6 +223,7 @@ feeder to transfer the extra club.
 | **A**       | D-B    |       | D-C   |        | D-C   |       | D-self | Pause |       |
 | **B**       |        | D-A   |       | D-self | Pause |       | D-C    |       | D-C   |
 | **C**       | D-self | Pause |       | D-A    |       | D-B   |        | D-B   |       |
+
 > * Both hands counting.
 > * A and C start with right hand.
 > * B starts with left hand
@@ -242,6 +251,7 @@ version has 10 clubs, and A starts with 4 clubs.
 | **A**       | D-C   |       |       |
 | **B**       |       | D-B   |       |
 | **C**       |       |       | D-A   |
+
 > * Both hands counting
 > * All jugglers start in sync with right hand
 > * All passes cross
@@ -281,6 +291,7 @@ Here's another variation on a 10 club triangle from 4-count 7 with triples.
 | **A**       | T-C   | B     | C     |
 | **B**       | C     | A     | T-A   |
 | **C**       | B     | T-B   | A     |
+
 > * Right hand counting
 
 You can skip all the single passes until the triple passes are reliable.
@@ -293,6 +304,7 @@ You can skip all the single passes until the triple passes are reliable.
 | **A**       | C      |        | T-self |
 | **B**       |        | T-self | A      |
 | **C**       | T-self | B      |        |
+
 > * Right hand counting
 > * A starts with 4
 
@@ -303,6 +315,7 @@ You can skip all the single passes until the triple passes are reliable.
 | **A**       | C      |       |        | T-self |       |
 | **B**       |        |       | T-self |        | A     |
 | **C**       | T-self |       | B      |        |       |
+
 > * Both hand counting
 > * A starts with 4 and right hand
 > * C starts with left
@@ -336,7 +349,7 @@ be extended to a number of interesting variations, such as the Bubbler of David.
 | **B**       | A     |       | A     | C     | A     | C     |       | C     |       |
 | **C**       |       | A     |       | B     |       | B     | A     | B     | A     |
 
-Right hand counting
+> * Right hand counting
 
 A Turbo is a group of 3 weaving jugglers who feed themselves. It is also a
 Two-leaf Clover or a continuous change sides feed through the middle. Pass every
@@ -392,6 +405,7 @@ for you (some people think a right to left double is easier).
 | **A**       | D-B     |         | D-C     |         | D-C     |         |         |         | D-C     | Move     |          |          | T-B      | Pause    |
 | **B**       |         | D-A     | Move    |         |         | T-C     | Pause   |         |         |          | D-C      |          | D-A      |          |
 | **C**       |         |         |         | D-A     |         | D-B     |         | D-A     |         | D-B      |          | D-B      |          |          |
+
 > * Both hands counting
 > * A starts with right hand.
 > * B and C start with left hand.
@@ -435,6 +449,7 @@ transition.
 | **A**       | D-B   |       | D-C   |       | D-B   |       | D-C   |        | D-C   |        |        |
 | **B**       |       | D-A   |       |       |       | D-A   |       | D-self |       |        | D-C    |
 | **C**       |       |       |       | D-A   |       |       |       | D-A    |       | D-B    |        |
+
 > * Both hands counting
 > * A starts with R
 > * B and C start with L
@@ -464,7 +479,7 @@ Mel is B (Mel is always B), and starts facing A, then it looks like this.
 | **B**       |       | A     |       |       | C     |       |       | A     |       |        | C      |        |
 | **C**       | A     |       |       | A     | B     |       | A     |       |       | A      | B      |        |
 
-Both hands counting
+> * Both hands counting
 
 **Peter's Backcrosses**
 
@@ -514,6 +529,7 @@ A and B face each other. C faces A and B.
 | **A**       | D-C     |         | B       |         |
 | **B**       |         |         | A       |         |
 | **C**       |         | T       |         | D-A     |
+
 > * Both hands counting
 > * A starts with 4 clubs.
 
