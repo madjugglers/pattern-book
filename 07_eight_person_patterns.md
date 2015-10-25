@@ -67,8 +67,7 @@ Right hand counting
 
 Pattern by Kat Girdaukas.
 
-1.  ![](./media/image112.png)
-    =========================
+![](./media/image112.png)
 
     1.  ### Twister Sandwich
 

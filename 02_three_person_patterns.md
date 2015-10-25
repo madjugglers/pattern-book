@@ -1,7 +1,7 @@
-###  3 Person Patterns
+#  3 Person Patterns
 
 
-#### Feed (for 3 jugglers)
+## Feed (for 3 jugglers)
 
 The feed for 3 jugglers is the simplest 3 person pattern and likely the first
 one you tried. Because juggling with 3 is so much different than with 2, it's
@@ -20,14 +20,14 @@ How about left handed, chocolate bar, feeder in double 3-count (and feedees in
 3-count), or Tom's (which is 3 passes in a row to each feedee with no selves for
 the feeder)?
 
-##### Extra Club Feeds
+### Extra Club Feeds
 
 Then extra club 2-count feeds with 10, 11 and 12 clubs (in singles and doubles
 and triples). There are 4-count feeds in triples and popcorn feeds in 5-count,
 6-count and 7-count. And 7 club double 3-count feeds in pass, pass, pause. And
 extra club chocolate bar feeds.
 
-###### 4-Count Popcorn Feed
+#### 4-Count Popcorn Feed
 
 | **Juggler** | **1**  | **2**  |
 |-------------|--------|--------|
@@ -38,7 +38,7 @@ extra club chocolate bar feeds.
 > * Right hand counting
 > * B starts with 4
 
-###### 6-Count Popcorn Feed
+#### 6-Count Popcorn Feed
 
 | **Juggler** | **1**  | **2**  | **3**  |
 |-------------|--------|--------|--------|
@@ -55,7 +55,7 @@ Note: you can replace any triple self, self, single pass with a triple pass,
 single self to make things more interesting, or with double straight self,
 double straight self, pass (533p, 5p33, 443p, 44px3 all work).
 
-###### 5-Count Popcorn Feed (one variation)
+#### 5-Count Popcorn Feed (one variation)
 
 | **Juggler** | **1** | **2**  | **3** | **4** | **5**  |
 |-------------|-------|--------|-------|-------|--------|
@@ -70,7 +70,7 @@ The timing is a bit wonky, B and C should delay slightly at the start.
 
 4.5p:B 3 4.5p:C 3 3 | 3 5 3 4.5p:A 3 | 3 4.5p:A 3 5 3
 
-###### Extra Clubs Chocolate Bar Feed (one variation)
+#### Extra Clubs Chocolate Bar Feed (one variation)
 
 | **Juggler** | **1**  | **2**  | **3**  | **4**  |
 |-------------|--------|--------|--------|--------|
@@ -88,7 +88,7 @@ Fast/Slow Feeds, Gorilla Feeds, Site-Swap Feeds...we do all of them in Madison,
 but they're not really part of the Pattern Book yet. Look them up somewhere else
 for now and maybe we'll get some of them in a future passing pattern book.
 
-#### Triangle
+## Triangle
 
 When 3 jugglers stand in a triangle, three obvious passing formations are the
 inside triangle (pass to the juggler on the left with a right hand pass),
@@ -104,7 +104,7 @@ patterns.
 See Extra Club Triangles for variations of the triangle with 3-count, double 3
 count and 1-count, 2-count and 4-count.
 
-##### Rotating Feed
+### Rotating Feed
 
 The Rotating Feed Triangle is the simplest rotating feed. For 3 jugglers, a
 rotating feed is the same as a feast.
@@ -117,7 +117,7 @@ rotating feed is the same as a feast.
 
 > * Right hand counting
 
-##### Pulsar
+### Pulsar
 
 | **Juggler** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** | **11** | **12** |
 |-------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|--------|--------|--------|
@@ -147,13 +147,13 @@ Try this with 1-count, so that both hands pass when you are the feeder.
 
 Pulsar dates to 1993 by Steve Otteson and MAJ.
 
-#### Puzzle and Variations
+## Puzzle and Variations
 
-##### Three-piece Puzzle (for 2 jugglers)
+### Three-piece Puzzle (for 2 jugglers)
 
 Right, self, right, self, self, left, self, self, self, left, self, self.
 
-##### Puzzle Feeder (for 3 jugglers)
+### Puzzle Feeder (for 3 jugglers)
 
 | **Juggler** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** | **11** | **12** |
 |-------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|--------|--------|--------|
@@ -165,7 +165,7 @@ Right, self, right, self, self, left, self, self, self, left, self, self.
 
 A is the feeder, and B and C are doing the Three-piece Puzzle pattern six throws out of phase.
 
-##### Puzzle Feast
+### Puzzle Feast
 
 | **Juggler** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** | **11** | **12** |
 |-------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|--------|--------|--------|
@@ -179,7 +179,7 @@ In the Puzzle Feast, all 3 jugglers are doing what A did in the Puzzle Feeder pa
 
 Three-piece Puzzle and Puzzle Feeder patterns are by Jim Brennen. Puzzle Feast is by Steve Otteson.
 
-#### Siteswap Feeds
+## Siteswap Feeds
 
 Here are two nice variations related to a Martin's Madness feed.
 
@@ -210,7 +210,7 @@ Alternatively, A can throw straight passes and B and C can throw cross passes (s
 ** TODO: Reviewers – is that right?**
 ===============================
 
-#### Extra Club Rotating Feed (for 3 jugglers)
+## Extra Club Rotating Feed (for 3 jugglers)
 
 There are several versions of the extra club rotating feed, but this is one of
 my favorites based on an extra club 2 count feed (10 club 2-count). After each
@@ -228,14 +228,14 @@ feeder to transfer the extra club.
 > * A and C start with right hand.
 > * B starts with left hand
 
-##### Variations
+### Variations
 
  Once you're comfortable with this pattern, try pirouetting under the double
 self, or instead of throwing the double self, do two single selves and an early
 triple straight pass instead (followed by a pause), or both!
 By Luke Emery 1999.
 
-#### Extra Club Triangles
+## Extra Club Triangles
 
 There are a lot of nice extra club triangle variations. Here are a few examples
 to play with.
@@ -244,7 +244,7 @@ This pattern is based on the standard 7 club 3-count in double spins and extends
 it to a triangle. All passes cross (rights to right, lefts to left). This
 version has 10 clubs, and A starts with 4 clubs.
 
-##### 10 Club 3 Count Triangle
+### 10 Club 3 Count Triangle
 
 | **Juggler** | **1** | **2** | **3** |
 |-------------|-------|-------|-------|
@@ -259,7 +259,7 @@ version has 10 clubs, and A starts with 4 clubs.
 If that isn't challenging enough. Add more clubs and passes. A and C start with
 4.
 
-##### 11 Club 2 of 3 Count Triangle
+### 11 Club 2 of 3 Count Triangle
 
 | **Juggler** | **1** | **2** | **3** |
 |-------------|-------|-------|-------|
@@ -267,7 +267,7 @@ If that isn't challenging enough. Add more clubs and passes. A and C start with
 | **B**       |       | D-B   | D-B   |
 | **C**       | D-A   |       | D-A   |
 
-##### 12 Club 1-Count Triangle
+### 12 Club 1-Count Triangle
 
 | **Juggler** | **1** | **2** | **3** |
 |-------------|-------|-------|-------|
@@ -282,7 +282,7 @@ jugglers have also tried them.
 
 There are corresponding extensions to a 5 person star in the 5 Person Patterns.
 
-##### 10 Club Triangle with Triple-Single-Single
+### 10 Club Triangle with Triple-Single-Single
 
 Here's another variation on a 10 club triangle from 4-count 7 with triples.
 
@@ -296,7 +296,7 @@ Here's another variation on a 10 club triangle from 4-count 7 with triples.
 
 You can skip all the single passes until the triple passes are reliable.
 
-##### 6-Count Popcorn Triangle
+### 6-Count Popcorn Triangle
 
 |             |        |        |        |
 |-------------|--------|--------|--------|
@@ -308,7 +308,7 @@ You can skip all the single passes until the triple passes are reliable.
 > * Right hand counting
 > * A starts with 4
 
-##### 5-Count Popcorn Triangle
+### 5-Count Popcorn Triangle
 
 | **Juggler** | **1**  | **2** | **3**  | **4**  | **5** |
 |-------------|--------|-------|--------|--------|-------|
@@ -333,7 +333,7 @@ Another 5-Count triangle is to throw crossing triples to the left in 5-count.
 This timing is also wonky 1 2/3 count or some such difference between each
 juggler.
 
-##### 10 Club 4-Count Triangle
+### 10 Club 4-Count Triangle
 
 The juggler with 4 clubs starts with a right hand double to the left and then
 repeats in 4-count. Each juggler passes a right handed double to the left as the
@@ -341,7 +341,7 @@ incoming double pass approaches. The timing on this pattern is not symmetric.
 Each juggler is 1/3 beat out of time with the juggler before. This pattern can
 be extended to a number of interesting variations, such as the Bubbler of David.
 
-#### Turbo
+## Turbo
 
 | **Juggler** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** |
 |-------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
@@ -370,7 +370,7 @@ To learn the Turbo, start by practicing a regular feed change sides. Then learn
 the feed change sides through the middle. Finally, speed up the change side
 moves until the feedees all move at the earliest possible opportunity.
 
-##### Variations
+### Variations
 
 There are a lot of Turbo variations. Turbos can be done in almost any count and
 combined in many different ways.
@@ -390,7 +390,7 @@ combined in many different ways.
 * Also see Interlocking Turbos in 6 person patterns and Strange Attractor in 5
 person patterns.
 
-##### 10-Club Turbo
+### 10-Club Turbo
 
 The 10 Club Turbo has the same positions and movement as the Turbo but with an
 extra club. Usually we throw the passes as doubles (same as in 7 club 2-count).
@@ -423,7 +423,7 @@ speed. Excelsior!
 
 By Luke Emery, 1999.
 
-##### Variations
+### Variations
 
 Try with single passes instead of double passes in 7 club 2 count singles speed.
 
@@ -431,7 +431,7 @@ We worked out an 11-Club Turbo variation with triple selves on the transitions,
 but it's too hard for us to run more than a couple transitions at a time. Maybe
 we'll get it in a future version of the book.
 
-#### Another 10-Club Turbo
+## Another 10-Club Turbo
 
 The pattern above will always be **the** 10-Club Turbo, but here is another
 version that makes a nice diversion. It's based on an extra club feed too, but
@@ -463,11 +463,11 @@ collisions.
 
 By Luke Emery, 2002.
 
-#### Lines
+## Lines
 
 The Line is another classic family of patterns with countless variations. Here are a few we often juggle in Madison.
 
-##### Mel in the Middle
+### Mel in the Middle
 
 A double 3 count pass with a moving juggler in the middle spinning around. If
 Mel is B (Mel is always B), and starts facing A, then it looks like this.
@@ -504,19 +504,19 @@ Extra club version of Mel in the Middle, except in 4-count instead of 3-count. I
 > * ½ P marks half pirouette underneath the double
 > * 1 is the same as 11. This is just one possible variation of spinning underneath popcorn.
 
-##### Dropback Line
+### Dropback Line
 
 A passes to B. B drops back to C. C passes to A. You can do a dropback line in
 any count: 2-count, 4-count, 3-count, chocolate bar. It's a nice pattern to add
 clubs to as well. Try one two, or 3 extra clubs with doubles or one extra club
 in 3-count (A and B cross, C throws straight).
 
-##### Line Feed
+### Line Feed
 
 You can do any of the feed variations in a line layout instead of a V. Some will
 be useful for more complex patterns. Also see 4 person Lines.
 
-##### Extra Club Line
+### Extra Club Line
 
 What do you do if there are 3 club passers and one is more advanced, one is
 intermediate and the third is a beginner. Here's a nice pattern to accommodate
@@ -536,7 +536,7 @@ A and B face each other. C faces A and B.
 A alternates right hand doubles to C and singles to B. B does right hand 4-count
 to A. A alternates right triple selves and doubles to A (fast popcorn).
 
-#### GDP
+## GDP
 
 | **Juggler** | **1**   | **2**   | **3**   | **4**   | **5**   | **6**   | **7**   | **8**   | **9**   |
 |-------------|---------|---------|---------|---------|---------|---------|---------|---------|---------|
@@ -562,7 +562,7 @@ middle). Start over.
 
 By Luke Emery, 1999.
 
-##### Variations
+### Variations
 
 Doubles – Throw doubles instead of singles.
 
@@ -571,6 +571,6 @@ triple followed by a pirouette, etc.)
 
 There's a 5 person variation we call Cathedral in the 5 Person Patterns.
 
-#### Up, Up and Over
+## Up, Up and Over
 
 Ok, Mike, how do you do this one, exactly?

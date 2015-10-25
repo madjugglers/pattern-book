@@ -1,7 +1,4 @@
-# Madison Area Jugglers Pattern Book
-## Version 2.0 *DRAFT COPY*
-
-### Hello Madison Club Passers and Friends!
+# Hello Madison Club Passers and Friends!
 
 Welcome to the Madison Area Jugglers Book of Patterns, a collection of patterns
 for intermediate to advanced passers. These patterns are part of our repertoire
@@ -41,7 +38,7 @@ when we didn't know. If we have erred in our credits, please let us know.
 This book of patterns is on the web at
 [*www.madjugglers.com*](http://www.madjugglers.com/).
 
-#### Version History
+## Version History
 * Madison, Wisconsin, October 1999 Version 1.0
 * Madison, Wisconsin, January 2001 Version 1.1
 * Madison, Wisconsin, March 2001 Version 1.2
@@ -51,9 +48,9 @@ If you have any questions, comments or suggestions relating to this book,
 please visit the [Madjugglers Github site](https://github.com/madjugglers),
 where you can also download the latest edition of this book.
 
-#### How To Read Patterns
+## How To Read Patterns
 
-##### Standard Feed
+### Standard Feed
 
 | **Juggler** | **1** | **2** | **3** | **4** |
 |-------------|-------|-------|-------|-------|
@@ -62,7 +59,7 @@ where you can also download the latest edition of this book.
 | **C**       |       | A     |       | A     |
 | **D**       |       |       | A     |       |
 
-> * Right hand counting
+:* Right hand counting
 
 When juggling the cascade, each hand takes turns throwing: right, left, right,
 left, etc. Usually, all of the jugglers in the pattern throw their right hand
@@ -99,7 +96,7 @@ and are also straight unless noted.
 Special instructions like different counts, double selves, crossing passes or
 starting instructions may be noted in the graph or underneath it.
 
-##### Typewriter Extra Club Feed (13 clubs)
+### Typewriter Extra Club Feed (13 clubs)
 
 | **Juggler** | **1** | **2** | **3** | **4** | **5** | **6** |
 |:-----------:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -120,7 +117,7 @@ pass to C, then left self, then right Double pass to B.
 *How to tip: Jugglers C and D should throw a little higher and deeper so A has
 room to pass underneath to C and B.*
 
-##### Some Funny Left/Right Box
+### Some Funny Left/Right Box
 
 | **Juggler** | **1** | **2** | **3** | **4** | **5** | **6** |
 |-------------|-------|-------|-------|-------|-------|-------|
@@ -142,7 +139,7 @@ A, and a left hand pass to C. then the pattern repeats.
 Any variation to anything said above will be noted as needed when a pattern
 requires special circumstances.
 
-##### Site Swaps
+### Site Swaps
 
 Occasionally passing site swaps are used to describe patterns. For example, 7
 club 2-count would be 4p 3 | 3 4p (2<sup>nd</sup> juggler starts with left
@@ -150,7 +147,7 @@ hand). There are a number of different site swap notations out there for
 passing. We use whatever seems to make sense to us at the moment and make no
 guarantee of consistency.
 
-#### Secret Juggling Code Words (Glossary)
+## Secret Juggling Code Words (Glossary)
 
 * **Chocolate Bar**
   Pass, pass, self, self.
@@ -190,7 +187,7 @@ guarantee of consistency.
   grandmother. As in, please add some wuss to your middle passes. You're hurting
   my catching hand!
 
-#### Passing Pattern Philosophy
+## Passing Pattern Philosophy
 
 We're occasionally asked at juggling conventions, where do you come up with all
 these patterns? Actually, they sort of make themselves once you invite the
@@ -218,7 +215,7 @@ doing it.
 1. Share your favorite club passing patterns with other jugglers and listen to
   their ideas too.
 
-#### Random Tips on Passing Patterns
+## Random Tips on Passing Patterns
 * **Better Never than Late**
     If you miss a beat, don't pass on the next throw! Instead, wait for the pass
     to come around again in the pattern.
@@ -241,7 +238,7 @@ doing it.
     we'll try to put you in the best spot for your level. Just try to do the
     best you can, and if you drop, try to keep the timing anyway.
 
-##### Timing
+### Timing
 It may already be obvious, but good timing is critical to group passing
 patterns. One of the best tools to keep timing is your ears. For most patterns,
 all the catches should happen at the same time. When the timing is perfectly
@@ -255,7 +252,7 @@ Make sure all the passes of the same spin go to the same height.
 For many patterns, selecting a juggler to count out loud as a metronome can be
 very helpful.
 
-##### Leads
+### Leads
 The second most important skill is for the passer to lead the catcher in the
 direction they are moving. The amount of lead varies based on the height of the
 throw, the tempo of the juggling, and how fast the weaver is moving.
@@ -279,7 +276,7 @@ Remember that in a feed, the feedee on the same side as the feeder's pass must
 throw an inside and/or deep pass to give the feeder room to throw underneath to
 the next feedee.
 
-##### Turning
+### Turning
 Twister weaves are all about turning. In general you can classify how hard a
 moving pattern is by how many selves are allocated to turn 180 degrees. For
 example, the Standard Twister Weave has 5 selves (weaving in 6-count). The Fast
@@ -295,7 +292,7 @@ advanced weaves.
 It is also helpful to practice turning while juggling solo. How many selves does
 it take you to turn 180 degrees while spinning continuously?
 
-##### Learning
+### Learning
 
 Take advantage of opportunities to pass with jugglers better than you. That's
 how you'll learn timing.
@@ -310,7 +307,7 @@ Lots of passing patterns benefit from solo skills too. You'll need to be able to
 juggle 4 clubs comfortably in triple singles, double singles and the fountain to
 do a lot of the 7 and 8 club based passing patterns.
 
-##### Internet Passing Resources
+### Internet Passing Resources
 * [Madison Area Jugglers](http://madjugglers.com)
 * [International Juggling Association site](http://www.juggle.org)
 * [Will Murray's site](http://www.csulb.edu/~wmurray/)
@@ -318,7 +315,7 @@ do a lot of the 7 and 8 club based passing patterns.
 * Martin Frost and Stanford jugglers
 * [Gandini Juggling Project](http://www.gandinijuggling.com/)
 
-### The patterns
+# The patterns
 * [Three Person Patterns](02_three_person_patterns.md)
 * [Four Person Patterns](03_four_person_patterns.md)
 * [Five Person Patterns](04_five_person_patterns.md)
@@ -327,7 +324,7 @@ do a lot of the 7 and 8 club based passing patterns.
 * [Eight Person Patterns](07_eight_person_patterns.md)
 * [Big Patterns (9+ people)](08_big_patterns.md)
 
-### Appendices
+# Appendices
 * [Appendix A: 7 Club Patterns and Variations](09_appendix_a_7clubs.md)
 * [Appendix B: Dual Passing Patterns](10_appendix_b_dual_passing.md)
 * [Appendix C: Gandini Siteswap Weaves](11_appendix_c_gandini_weaves.md)
