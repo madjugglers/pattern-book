@@ -61,7 +61,7 @@ where you can also download the latest edition of this book.
 | **B**       | A     |       |       |       |
 | **C**       |       | A     |       | A     |
 | **D**       |       |       | A     |       |
-> Right hand counting
+> * Right hand counting
 
 When juggling the cascade, each hand takes turns throwing: right, left, right,
 left, etc. Usually, all of the jugglers in the pattern throw their right hand
