@@ -23,7 +23,8 @@ Right hand counting
 
 Pattern by Mike Newton.
 
-### ![](./media/image110.jpeg)
+###
+![](./media/image110.jpeg)
 
 Here's another MAJ standard. E and F are carriage return feeders, feeding to 3 positions: left, middle, right, left, middle, right, etc. The rest of the jugglers move around in a ring, passing to the feeders. They pass 3 times to each feeder and then turn around to pass 3 times to the next feeder.
 
@@ -45,7 +46,8 @@ The feeders G and H feed carriage return to 4 positions (instead of 3 positions 
 
 Pattern by Mike Newton and MAJ.
 
-### ![](./media/image111.jpeg)
+###
+![](./media/image111.jpeg)
 
 Kat's Khaos Butterfly is two standard feeds back to back. After each sweep of the feed, each juggler moves to the next position.
 
@@ -104,7 +106,8 @@ Variations: (1) Replace either standard weave with one standard feeder or two ev
 
 Pattern by Peter Kaseman and MAJ.
 
-### ![](./media/image113.png)
+###
+![](./media/image113.png)
 
 This pattern is a cross between the Asynchronous Double Weave and the Canoe. The Canoe for 3 jugglers is commonly referred to as a drop-back line. We recommend that you can do these before trying the Weaving Canoes.
 

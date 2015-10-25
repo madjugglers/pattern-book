@@ -49,7 +49,8 @@ Also see the 1-2-3 Apollo for 6 jugglers and the 1-2-4 Apollo for 7 jugglers.
 
 The Apollo was invented by N.A.S.A. The Apollo juggling pattern was invented by the Gemini Jugglers in 1991.
 
-### ![](./media/image36.png)
+###
+![](./media/image36.png)
 
 This is a standard weave where the feeder is divided into two feeder (one passing on the inside and one on the outside). This is a good warm up pattern for the Twister Weave. In addition, all of the Twister Weave variations can be applied to this weave too.
 
@@ -72,7 +73,8 @@ The same variations for the standard weave and the Twister Weave can be used for
 
 When was this pattern created? We have been doing it since 1994.
 
-### ![](./media/image38.jpeg)
+###
+![](./media/image38.jpeg)
 
 The Twister Weave has the exact same passes as the Mr. Inside Mr. Outside Weave. However, the Mister Inside Feeder is on the opposite side of the weavers, so the feedees turn around between every pass.
 
@@ -331,7 +333,8 @@ Right hands counting
 
 Pattern by MAJ.
 
-### ![](./media/image44.png)
+###
+![](./media/image44.png)
 
 The Chocolate Bar feed is shares a 1-Count feed between two feeders. The standard positions are 2 feeders facing 3 feedees. The Wedgee Positions are another alternative pattern layout.
 
@@ -405,7 +408,8 @@ Both hands counting, right hand starts
 
 Pattern by Steve Otteson and MAJ.
 
-### ![](./media/image46.png)
+###
+![](./media/image46.png)
 
 The chocolate swirl is a moving extension of Double Chocolate Double Three Count. It is noteworthy for jugglers moving from one side of the pattern to the other with only a single self throw. That is possible. It is also noteworthy for being hard, both to remember and to juggle.
 
@@ -426,7 +430,8 @@ Once you get comfortable with one transition at a time, then you can run the tra
 
 Pattern by Luke Emery
 
-### ![](./media/image47.png) / Mangled Squirrel
+###
+![](./media/image47.png) / Mangled Squirrel
 
 The Mango Swirl was an attempt to create a change sides pattern for the 2 extra club W pattern. Unfortunately, our first attempts were more mangled than mango, and more squirrelly than swirly and thus its alternate name. There are a couple possible transitions. Although we originally created the pattern with a different transition, this one seems easier (especially if you've practiced the Extra Club Turbo).
 
@@ -571,7 +576,8 @@ Right handed 2-count
 
 Classic pattern. When were these patterns created? We have been doing them since 1992.
 
-### ![](./media/image54.png)
+###
+![](./media/image54.png)
 
 Any feed or feast can be done with an extra club by throwing passes as doubles and following every feedee pass and every feeder cycle with a self double to restore the timing. A right to left self double switches left and rights.
 
@@ -604,7 +610,8 @@ The steady state right hand sequence is feed 3 passes, double self, then the seq
 
 Pattern by Luke Emery, 1999.
 
-### ![](./media/image55.png)
+###
+![](./media/image55.png)
 
 The feast is an extension to the 5 juggler feast and the 5 juggler Extra Club Rotating Feed. The feeders alternate straight across right hand triples and doubles to keep the timing working.
 
@@ -723,7 +730,8 @@ You can add an additional Whirling Melvish juggler in the middle back to back to
 
 Pattern by Luke Emery, 2000.
 
-### ![](./media/image58.jpeg)
+###
+![](./media/image58.jpeg)
 
 The Cathedral is an extension of the GDP to 5 jugglers. It is a 4 leaf clover with 2 extra clubs and all triple passes over the top. This is a spectacular pattern, but challenging.
 
@@ -784,7 +792,8 @@ You can extend this pattern to 2 of 3-count or even 1-count if you're feeling am
 
 When was this pattern created? We have been doing it since 1992.
 
-### ![](./media/image61.png)
+###
+![](./media/image61.png)
 
 There are lots of nice variations on a star with extra clubs. If you're comfortable with 7 and 8 club passing patterns using left and right passes, try these.
 
@@ -849,7 +858,8 @@ A and E starts with 4
 
 All jugglers start with right hand
 
-### ![](./media/image62.png)
+###
+![](./media/image62.png)
 
 In this star a triple pass goes around the pattern. Single passes take up the extra time.
 

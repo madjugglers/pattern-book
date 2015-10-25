@@ -35,8 +35,8 @@ This book may be freely reproduced and distributed for non-commercial use.
 We have tried to give credit to the creators of the patterns and have indicated
 when we didn't know. If we have erred in our credits, please let us know.
 
-This book of patterns is on the web at
-[*www.madjugglers.com*](http://www.madjugglers.com/).
+This book of patterns is on the web at the
+[Madison Area Jugglers' Website](http://www.madjugglers.com/).
 
 ## Version History
 * Madison, Wisconsin, October 1999 Version 1.0
@@ -59,7 +59,7 @@ where you can also download the latest edition of this book.
 | **C**       |       | A     |       | A     |
 | **D**       |       |       | A     |       |
 
-:* Right hand counting
+> * Right hand counting
 
 When juggling the cascade, each hand takes turns throwing: right, left, right,
 left, etc. Usually, all of the jugglers in the pattern throw their right hand

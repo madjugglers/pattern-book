@@ -1,4 +1,4 @@
-#  3 Person Patterns
+#  3-Person Patterns
 
 
 ## Feed (for 3 jugglers)

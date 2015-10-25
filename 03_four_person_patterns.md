@@ -337,7 +337,8 @@ There are a number of variations floating around where the weavers trade place w
 
 The Standard Weave has been around longer than any of us have been juggling.
 
-### ![](./media/image6.png)
+###
+![](./media/image6.png)
 
 This weave variation has the same passes as the standard weave, but the weavers move back and forth instead of in a figure 8.
 
@@ -355,7 +356,8 @@ Each juggler has its own slot to move on. Each slot has three positions: left, m
 
 When was this pattern created? We have been doing it since 1992.
 
-### ![](./media/image8.jpeg)
+###
+![](./media/image8.jpeg)
 
 A standard weave is in a figure eight, which is two loops connected by a center. Now imagine warping space so that one of the loops is folded back inside the other. That's the Inside Out Weave.
 
@@ -457,7 +459,8 @@ Right hand counting
 
 Created in 2001 by Mike Newton and the MAJ.
 
-### ![](./media/image13.jpeg)
+###
+![](./media/image13.jpeg)
 
 This is the standard three leaf clover with an extra club added and all passes as doubles. As usual, there are a number of ways to add a club. Here is a slower version that is a little easier. The feeder passes twice to the 2<sup>nd</sup> and 3<sup>rd</sup> feedees. The Hyper Clover is a faster and more elegant (but much harder) relation.
 
@@ -531,7 +534,8 @@ This was one of the first extra club clover variations we tried. (The first atte
 
 Pattern by Luke Emery, 2001.
 
-### ![](./media/image14.png)
+###
+![](./media/image14.png)
 
 There is a whole family of benzene ring patterns, where movers juggle in a circle between two feeders. The Benzene Ring for Six and for Eight are much easier patterns to start, but Benzene Ring for Four is more fun.
 
@@ -565,7 +569,8 @@ This pattern could be considered a 2-seated unicycle without the seats, going ba
 
 Pattern created July, 1997 by MAJ.
 
-### ![](./media/image15.png)
+###
+![](./media/image15.png)
 
 A chocolate bar variation of the 4 person Benzene Ring starts in the same positions as the Benzene Ring. Each juggler is in chocolate bar. The inner jugglers throw right pass, left pass, then right to left single and do a half pirouette underneath, followed by a left self and then repeat.
 
@@ -974,7 +979,8 @@ Like most feeds, this can be turned into a weave. The feeder throws windshield w
 
 This pattern dates to September, 1999 by Luke Emery and the MAJ.
 
-### ![](./media/image20.png)
+###
+![](./media/image20.png)
 
 This is like a 4-person version of a synchronous double weave.
 
@@ -990,7 +996,8 @@ After the 4th box, the jugglers are inverted, but the passing sequence repeats.
 
 This pattern dates to 1997 by Mike Newton and MAJ.
 
-### ![](./media/image25.png)
+###
+![](./media/image25.png)
 
 The unicycle is a nice moving pattern in 3-count.
 
@@ -1020,7 +1027,8 @@ Also see Extra Club Unicycle and Two Seated Unicycle.
 
 Unicycle dates to 1996 by MAJ.
 
-### ![](./media/image26.png)
+###
+![](./media/image26.png)
 
 The Extra Club Unicycle is a fun moving pattern in 4-count with triple passes, double passes and dropbacks.
 
@@ -1290,7 +1298,8 @@ A and D start with 4 and right hand
 
 B and C start with 3 and left hand and throw all dropbacks as doubles
 
-### ![](./media/image30.jpeg)
+###
+![](./media/image30.jpeg)
 
 Here's another version of the 4 person clover. However, we juggle the Standard Clover more often (which used to be called the New Clover) because it is easier to remember and has a nicer flow to it.
 

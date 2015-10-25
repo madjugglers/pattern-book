@@ -28,7 +28,8 @@ E and F do a sweep feed with a phantom (don't pass to the phantom).
 
 Pattern by MAJ.
 
-### ![](./media/image99.png)
+###
+![](./media/image99.png)
 
 Easy patterns for lots of people
 
@@ -185,7 +186,8 @@ Like the Twister Sandwich in 9 Person Patterns, you can replace one or both of t
 
 Pattern by MAJ.
 
-### ![](./media/image104.jpeg)
+###
+![](./media/image104.jpeg)
 
 This amazing pattern is another crown jewel of the MAJ pattern repertoire. It's a combination of Twister Plus and Double Time Twister.
 
@@ -229,7 +231,8 @@ See all those selves? Once you're comfortable with this pattern, make life more 
 
 Pattern by Luke Emery.
 
-### ![](./media/image106.png)
+###
+![](./media/image106.png)
 
 A and B are feeding a standard weave with one position common to both. The weavers do a standard weave until they get between A and B. The weaver then leaves one weave to enter the other. During this transition, the weaver makes 2 passes in a row.
 

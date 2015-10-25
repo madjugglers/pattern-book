@@ -21,7 +21,8 @@ Nice easy 4-count pattern.
 
 Pattern by MAJ.
 
-### ![](./media/image66.png)
+###
+![](./media/image66.png)
 
 It's trickier than you might think, even if you rock double 3 count.
 
@@ -61,7 +62,8 @@ See Anklet for a 4 juggler version.
 
 Pattern by MAJ.
 
-### ![](./media/image68.png)
+###
+![](./media/image68.png)
 
 As you've seen, there are a mind boggling variety of possible weaves. Well, any of these weaves can be paired up with any other weave to make a double weave. The permutations are infinite, but here are some that we like.
 
@@ -250,7 +252,8 @@ Quick poll. Does this look like a spiral to you? Us either.
 
 Pattern by Mike Newton and MAJ.
 
-### ![](./media/image76.jpeg)
+###
+![](./media/image76.jpeg)
 
 The standard weave for 1 feeder and 5 feedees has each feedee in 10-count (every 5<sup>th</sup> right) and the feeder in 2-count. Each weaver passes once on the end, moves backwards and inside, then passes once in the middle, and moves forwards and outside to the other end. A 10-count sound very slow, but I think you'll find most weavers will not be bored at all trying to keep up.
 
@@ -346,7 +349,8 @@ Lines indicate passes, and arrows indicate movement.
 
 Pattern by Luke Emery, September 1999.
 
-### ![](./media/image82.png)
+###
+![](./media/image82.png)
 
 A, B, C, and D are doing a Feast (in 4-count), but the self throw is replaced with a pass to one of the movers in the middle. A, B, C, and D are passing 4-count. E and F are passing 8-count.
 
@@ -370,7 +374,8 @@ Variation: A,B,C, and D pass 3-count, and E and F pass 6-count. Start the variat
 
 Pattern by Mike Newton.
 
-### ![](./media/image84.jpeg)
+###
+![](./media/image84.jpeg)
 
 Here's another MAJ standard. E and F are carriage return feeders, feeding to 3 positions: left, middle, right, left, middle, right, etc. The rest of the jugglers move around in a ring, passing to the feeders. They pass 3 times to each feeder and then turn around to pass 3 times to the next feeder.
 
@@ -420,7 +425,8 @@ For those seeking a challenge, try a Hex where each pair juggles a 3-count 7 clu
 
 Pattern by MAJ.
 
-### ![](./media/image86.png)
+###
+![](./media/image86.png)
 
 The Bubbler is a Star of David with interlocking triangles and extra clubs in 4-count doubles (that's the effervescent part).
 
@@ -480,7 +486,8 @@ The numbers in the table below count the passes.
 
 Pattern by Peter Kaseman and the MAJ.
 
-### ![](./media/image90.png)
+###
+![](./media/image90.png)
 
 ![](./media/image91.png)
 
@@ -610,7 +617,8 @@ You can do a nice 1-count variations similar to this too.
 
 Pattern by MAJ.
 
-### ![](./media/image97.jpeg)
+###
+![](./media/image97.jpeg)
 
 Imagine better looking oogles mating than the previous mating oogles. This is basically a 1-count Oogle variation with a 2-count left handed Y and a 2-count right handed Y superimposed.
 

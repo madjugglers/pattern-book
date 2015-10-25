@@ -7,7 +7,8 @@ pdf: *.md
 				 -V documentclass=book \
 				 -V subtitle="Version 2.0: Draft" \
 				 -V date="\today" \
-				 -V geometry="margin=1in"\
+				 -V geometry="margin=1in" \
+				 -V links-as-notes=True \
 				 -f markdown \
 				 -t latex \
 				 *.md \
