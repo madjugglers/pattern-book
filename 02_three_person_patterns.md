@@ -375,7 +375,8 @@ moves until the feedees all move at the earliest possible opportunity.
 There are a lot of Turbo variations. Turbos can be done in almost any count and
 combined in many different ways.
 
-* **Left Handed** – Same as above, but mirror image. **3-count** – Feeder does 3
+* **Left Handed** – Same as above, but mirror image.
+* **3-count** – Feeder does 3
     count, feedees do 6 count.
 * **Chocolate Bar** – Fun!
 * **Double 3 count** –

@@ -3,6 +3,7 @@ pdf: *.md
 	mkdir -p build
 	pandoc --toc \
 				 -s \
+				 --template=pdf/template.tex \
 				 -V title="Madison Area Jugglers' Pattern Book" \
 				 -V documentclass=book \
 				 -V subtitle="Version 2.0: Draft" \
