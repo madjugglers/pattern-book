@@ -183,7 +183,9 @@ guarantee of consistency.
 * **Immaculate Assumption**
 
   When you think that a juggler is about to move or pass...maybe they even give
-  you the look...you know, the **look**...but then they don't! Phantom
+  you the look...you know, the **look**...but then they don't!
+ 
+* **Phantom**
 
   A feedee place holder who isn't really there. A feeder, for example, may feed
   2 real feeders and a phantom in a sweep feed: pass, pass, self, pass and
