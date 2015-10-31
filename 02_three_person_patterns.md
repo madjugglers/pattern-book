@@ -351,8 +351,8 @@ be extended to a number of interesting variations, such as the Bubbler of David.
 
 > * Right hand counting
 
-Juggloid version:
-http://juggloid.com/editor/?s=npRW7l
+An animation of this pattern can be seen by visiting the
+[Juggloid website](http://juggloid.com/editor/?s=npRW7l)
 
 A Turbo is a group of 3 weaving jugglers who feed themselves. It is also a
 Two-leaf Clover or a continuous change sides feed through the middle. Pass every

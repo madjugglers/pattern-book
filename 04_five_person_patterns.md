@@ -89,8 +89,8 @@ When was this pattern created? We have been doing it since 1994.
 ## Twister Weave and Variations
 ![](./media/image38.jpeg)
 
-Juggloid version:
-http://juggloid.com/editor/?s=sU0PC0
+An animated version of this pattern can be seen at the
+[Juggloid website](http://juggloid.com/editor/?s=sU0PC0).
 
 The Twister Weave has the exact same passes as the Mr. Inside Mr. Outside Weave.
 However, the Mister Inside Feeder is on the opposite side of the weavers, so the
