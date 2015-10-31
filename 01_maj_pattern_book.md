@@ -324,7 +324,7 @@ do a lot of the 7 and 8 club based passing patterns.
 * [Eight Person Patterns](07_eight_person_patterns.md)
 * [Nine Person Patterns](08_nine_person_patterns.md)
 * [Ten Person Patterns](09_ten_person_patterns.md)
-* [Big Patterns (9+ people)](10_big_patterns.md)
+* [Big Patterns (11+ people)](10_big_patterns.md)
 
 # Appendices
 * [Appendix A: 7 Club Patterns and Variations](11_appendix_a_7clubs.md)
