@@ -351,6 +351,9 @@ be extended to a number of interesting variations, such as the Bubbler of David.
 
 > * Right hand counting
 
+Juggloid version:
+http://juggloid.com/editor/?s=npRW7l
+
 A Turbo is a group of 3 weaving jugglers who feed themselves. It is also a
 Two-leaf Clover or a continuous change sides feed through the middle. Pass every
 right hand throw when you are feeding, and pass every other when you are not
@@ -361,8 +364,7 @@ feeding.
 When a juggler moves to the other side, he or she cuts across in front of the
 old feeder, and turns around to pass to the new feeder.
 
-Note: Turbo is similar to Bruno's Nightmare, but with a much shorter cycle (18
-throws compared to 30 passes needed for Bruno's Nightmare).
+History: Turbo is a pattern that developed from Bruno's Nightmare.  Bruno's Nightmare was desinged without a specific count and the 18 throw version, the same number as the turbo, is called Bruno's Nightmare Turbo.  The difference between Bruno's Nightmare Turbo and Turbo is when you turn.  In Turbo you turn before entering the middle.  In Bruno's Nightmare you turn after exiting the middle.
 
 ![](./media/image2.png)
 
