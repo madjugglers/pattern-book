@@ -574,6 +574,7 @@ triple followed by a pirouette, etc.)
 
 There's a 5 person variation we call Cathedral in the 5 Person Patterns.
 
-## Up, Up and Over
+## Up Up Over
 
-Ok, Mike, how do you do this one, exactly?
+An animation of this pattern can be seen by visiting the
+[Juggloid website](http://juggloid.com/editor/?s=yhIKp1)
