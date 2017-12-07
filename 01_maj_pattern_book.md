@@ -15,10 +15,24 @@ Thursdays and Sundays, and if you don't know the patterns already then you
 probably will. This book is not intended to be an encyclopedia of all possible
 passing patterns (that would be a big book)!
 
-Version 1 of this book edited by Mike Newton and Steve Otteson and the Madison
-Area Jugglers.
 
-Version 2 edited by Luke Emery and the Madison Area Jugglers.
+The Madison Area Jugglers (MAJ) have been attempting, inventing, and 
+recording juggling patterns for longer than most of us can remember. In the 1990's, when
+our memories were already getting strained by the variations, 
+Version 0.1 of the passing book was compiled by Mike Newton (date?). 
+Steve Otteson put in a big effort to update for Version 1.0 (date). Melonhead still 
+caries around a tattered version of this printout.
+Luke Emery picked up the torch and created a major update (Version 2.0, 2012), though 
+this copy was not widely distributed.   In 2015 Matt Hemke and Evan Driscol created
+a github repository for the project and converted Luke's version into a repo. 
+ Recently  Chan Wilson, Jeff Adamus, and
+Melonhead have been recording the patterns we do at Thursday and Sunday practices.  It's
+an amazing collection, and 
+for those who remember the code words, like  1-5-1 Foi Graham or 3-4 Twister, it's enough
+to figure out what we really did.  But most of us forget the code words after a while,
+except for the frequently juggled ones, and this has been an impetus for the current 
+update.  All along the editors have had 
+substantial input from many members of the Madison Area Jugglers.
 
 Our thanks go out to all of the many jugglers who have helped us. Club passing
 is a social pastime that needs a group of similarly inclined jugglers. Many of
@@ -43,6 +57,7 @@ This book of patterns is on the web at the
 * Madison, Wisconsin, January 2001 Version 1.1
 * Madison, Wisconsin, March 2001 Version 1.2
 * Madison, Wisconsin, January 2012 Version 2.0
+* Madison, Wisconsinm January 2017 Version 3.0
 
 If you have any questions, comments or suggestions relating to this book,
 please visit the [Madjugglers Github site](https://github.com/madjugglers),
