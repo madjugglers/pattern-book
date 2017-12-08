@@ -95,9 +95,9 @@ Pattern by Mike Newton and Luke Emery.
 Similar to the Triangle Weave, except with 8 sides and 48 jugglers. This was
 the big pattern at 2007 Madfest.
 
-![](./media/octagon-1.jpeg)
+![](./media/octagon-1.jpg)
 
-![](./media/octagon-2.jpeg)
+![](./media/octagon-2.jpg)
 
 Pattern by Mike Newton.
 
