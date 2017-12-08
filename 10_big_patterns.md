@@ -82,7 +82,8 @@ feeders on either end and the Mr. Inside feeder in the middle.
 There are all the usual variations of different weave counts, chocolate bars,
 left handed etc. The pattern design can be any polygon where the side is a weave
 with a Mr. Inside feeder and the vertices of the polygon are a Mr. Outside
-feeder who alternates passing between weaves. See also the Octagon Weave. The
+feeder who alternates passing between weaves (also known as Doc Blanchard and Glenn Davis). 
+See also the Octagon Weave. The
 number of jugglers is 5N were N is the number of sides of the polygon (three for
 each weave plus 2 feeders).
 
@@ -90,10 +91,13 @@ Pattern by Mike Newton and Luke Emery.
 
 ## Octagon Weave
 
-<!-- TODO GET GRAPHICS FROM KAT!-->
 
-Same as the Triangle Weave, except with 8 sides and 40 jugglers instead of 3
-sides and 15 jugglers.
+Similar to the Triangle Weave, except with 8 sides and 48 jugglers. This was
+the big pattern at 2007 Madfest.
+
+![](./media/octagon-1.jpeg)
+
+![](./media/octagon-2.jpeg)
 
 Pattern by Mike Newton.
 
