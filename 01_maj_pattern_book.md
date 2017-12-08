@@ -23,8 +23,10 @@ Version 0.1 of the passing book was compiled by Mike Newton (date?).
 Steve Otteson put in a big effort to update for Version 1.0 (date). Melonhead still 
 caries around a tattered version of this printout.
 Luke Emery picked up the torch and created a major update (Version 2.0, 2012), though 
-this copy was not widely distributed.   In 2015 Matt Hemke and Evan Driscol created
-a github repository for the project and converted Luke's version into a repo. 
+this copy was not widely distributed.   In 2015 Matt Hemke, Evan Driscol,
+and Nick Aitkins  created
+a github repository for the project, converted Luke's version into a repo, and
+updated the collection further. 
  Recently  Chan Wilson, Jeff Adamus, and
 Melonhead have been recording the patterns we do at Thursday and Sunday practices.  It's
 an amazing collection, and 
@@ -164,43 +166,58 @@ guarantee of consistency.
 
 ## Secret Juggling Code Words (Glossary)
 
-* **Chocolate Bar**
-  Pass, pass, self, self.
-* **n-count**
+
+* **Chocolate Bar**.
+  pass, pass, self, self.
+* **n-count**.
   States the count when passes are made. For example, 2-count means: pass, self,
   pass, self, etc. Three count means: pass, self, self, pass, self, self, etc.
-  One count means: pass, pass, pass, (no self throws).
-* **Double 3-count**
-  **Pass, pass, self.** Academics can argue over whether this can be represented
-  as 3/2 count.
-* **Turbo**
-  Three weaving jugglers who pass among themselves
-* **Weave**
-  The feedees move in a figure 8 while juggling. The standard (or preverse) weave
+  One count means: pass, pass, pass, (no self throws).  Stating the count does not necessarily imply what hands are doing what. E.g., left-hand 2-count is different from right-hand 2-count.  Odd counts are nicely balanced for the hands, then the only issue is the start, which we usually do out of the right.
+* **Everies**. 2-count
+* **Every-others**. 4 count
+* **Double 3-count**.  pass, pass, self: Academics usually insist that this is a  3/2 count not 2/3 count.
+* **Ultimate**. 1 count
+* **Feed**. A passing configuration where one juggler passes to multiple others.
+* **Feeder**. One who feeds.  Usually this juggler is stationary and passing on a faster count than the others.
+* **Feedee**. One who passes with a feeder.  
+* **Carriage return**. A style of feeding where the feeder returns to the first
+ feedee in the line after passing in sequence to all feedees.
+* **Windshield wiper**. The more common style of feeding where the feeder 
+first feeds the line in sequence, and then returns in reverse order.  Windshield wiper and carriage return are the same with two feedees, but
+ differ for three or more feedees.
+* **Weave**. A most popular moving pattern with three feedees and a feeder, which is the basis of many multi-person patterns.
+  The 3 feedees move in a figure 8 while juggling. The standard (preverted or preverse) weave
   is back on the ends and forward through the middles. The inverse weave is
-  forward on the ends and back through the middle.
-* **ZOC**
-  Zone of Catchability – Refers to the area around a passer where they can catch
+  forward on the ends and back through the middle. Many-many weave variations are presented in this book.
+* **Turbo**.  Three weaving jugglers who pass among themselves and without a feeder.
+* **ZOC**.
+  Zone of Catchability. Refers to the area around a passer where they can catch
   passes.
-* **Immaculate Assumption**
+* **ZOOS** (sounds like the Greek god Zeus)  Zone of occupied space.   Space occupied by a moving juggler.
+* **Immaculate Assumption**.
   When you think that a juggler is about to move or pass...maybe they even give
   you the look...you know, the **look**...but then they don't!
-* **Phantom**
+* **Phantom**.
   A feedee place holder who isn't really there. A feeder, for example, may feed
   2 real feeders and a phantom in a sweep feed: pass, pass, self, pass and
   repeat.
-* **Mustard**
+* **Mustard**.
   Energy, power, spice, velocity or chi added to throws. As in, your corner
   passes need more mustard. The opposite of mustard is mayonnaise.
-* **Chalant**
+* **Chalant**.
   To drop a perfectly fine pass due to lack of focus. The opposite of nonchalant.
-* **NFP**
+* **NFP**.
   Nice Pass.
-* **Wuss**
+* **Wuss**.
   The amount of gentleness, tenderness and love added to a juggling throw.
   Compare to mayonnaise. The quality of passes you would make to your favorite
   grandmother. As in, please add some wuss to your middle passes. You're hurting
   my catching hand!
+* **Southern Wisconsin convention**.  When changing sides from a feedee position in a standard count, do so on a outside-throw/inside-catch; e.g. 
+ on a  right-hand throw/left-hand reception when on the right side of the 
+ feedee line.
+* **A Canadian catch**.   An impressive catch that would have been difficult
+ for most mortal jugglers to achieve.
 
 ## Passing Pattern Philosophy
 
@@ -231,17 +248,17 @@ doing it.
   their ideas too.
 
 ## Random Tips on Passing Patterns
-* **Better Never than Late**
-    If you miss a beat, don't pass on the next throw! Instead, wait for the pass
+* **Better Never than Late**.
+    If you miss a passing beat, don't pass on the next throw! Instead, wait for the pass
     to come around again in the pattern.
 * **Always keep your eye on Mel**
     Don't pick up the clubs until you're sure the pattern is over, unless you
     know you can pick up and keep juggling. Even when you're not juggling, it's
     wise to keep an eye on Mel.
+* **Juggle slow, move fast**. You get it. There's a tendency to speed up
+ your juggling when you need to move. Don't.
 * **Juggling means never having to say you're sorry**
-    No, really.  
-    Don't say you're sorry unless you draw blood.  
-    (However, if you draw blood then you do have to say you're sorry.)  
+    No, really.  Don't say you're sorry unless you draw blood.  (However, if you draw blood then you do have to say you're sorry.)  
     Beginners often apologize profusely for their lack of skill. It's ok! We
     already know you're a beginner. But we like passing with other people and
     passing with beginners too. You'll get better soon and the best way is with
@@ -252,6 +269,7 @@ doing it.
     requirements, so if you're a beginner in a bigger or more advanced pattern,
     we'll try to put you in the best spot for your level. Just try to do the
     best you can, and if you drop, try to keep the timing anyway.
+* **Throw global, catch local**.  What else would you do?
 
 ### Timing
 It may already be obvious, but good timing is critical to group passing
