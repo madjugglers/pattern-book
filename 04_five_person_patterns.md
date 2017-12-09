@@ -1006,3 +1006,18 @@ pattern book. Maybe you should try it for yourself and see what you think!
 ![](./media/image64.png)
 
 Pattern by Mike Newton.
+
+## Ivy$\pi$ weave (read ivy pie weave)
+
+Here's a variation on the 2$\pi$/3.  We figured it out by adding one and then
+a second feeder to fill the gap in the 3-person pattern.  Then we noticed
+you could have everyone move through all the positions.   Pretty fun.
+First tried Aug 27, 2017 by Mike, Mel, Conor, Nick, and Jason.
+We do this on a 4-count base, which keeps the moves doable.  So, e.g., each
+juggler passes 4 in a row on that count, and then has a break.  But each
+juggler only passes to 2 other jugglers. Note the sharp turns going
+from positions 2-to-3 and 7-to-8.
+
+![](./media/ivypi.png)
+
+
