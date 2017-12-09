@@ -178,22 +178,24 @@ guarantee of consistency.
 * **Double 3-count**.  pass, pass, self: Academics usually insist that this is a  3/2 count not 2/3 count.
 * **Ultimate**. 1 count
 * **Feed**. A passing configuration where one juggler passes to multiple others.
-* **Feeder**. One who feeds.  Usually this juggler is stationary and passing on a faster count than the others.
-* **Feedee**. One who passes with a feeder.  
+* **Feeder**. One who feeds.  Usually this juggler is stationary. 
+* **Feedee**. One who passes with a feeder. 
+* **Feast**. A pattern having only feeders, usually arranged in a circle.
 * **Carriage return**. A style of feeding where the feeder returns to the first
  feedee in the line after passing in sequence to all feedees.
 * **Windshield wiper**. The more common style of feeding where the feeder 
 first feeds the line in sequence, and then returns in reverse order.  Windshield wiper and carriage return are the same with two feedees, but
  differ for three or more feedees.
 * **Weave**. A most popular moving pattern with three feedees and a feeder, which is the basis of many multi-person patterns.
-  The 3 feedees move in a figure 8 while juggling. The standard (preverted or preverse) weave
-  is back on the ends and forward through the middles. The inverse weave is
-  forward on the ends and back through the middle. Many-many weave variations are presented in this book.
+  The 3 feedees move in a figure 8 while juggling. 
+* **Preverted/Inverted.** Two moving conventions in the weave: back-on-the-end/forward-through-the-middle; or visa versa.
+* **Mr. Inside/Mr. Outside**.  The two feeding positions of a doubly-fed weave.
+* **Doc Blanchard/Glenn Davis**. Mr. Inside/Mr. Outside.
 * **Turbo**.  Three weaving jugglers who pass among themselves and without a feeder.
 * **ZOC**.
   Zone of Catchability. Refers to the area around a passer where they can catch
   passes.
-* **ZOOS** (sounds like the Greek god Zeus)  Zone of occupied space.   Space occupied by a moving juggler.
+* **ZOOS**. (sounds like the Greek god Zeus)  Zone of occupied space.   Space occupied by a moving juggler.
 * **Immaculate Assumption**.
   When you think that a juggler is about to move or pass...maybe they even give
   you the look...you know, the **look**...but then they don't!
@@ -213,7 +215,7 @@ first feeds the line in sequence, and then returns in reverse order.  Windshield
   Compare to mayonnaise. The quality of passes you would make to your favorite
   grandmother. As in, please add some wuss to your middle passes. You're hurting
   my catching hand!
-* **Southern Wisconsin convention**.  When changing sides from a feedee position in a standard count, do so on a outside-throw/inside-catch; e.g. 
+* **Southern Wisconsin convention**.  When changing sides from a feedee position in a standard count, do so on an outside-throw/inside-catch; e.g. 
  on a  right-hand throw/left-hand reception when on the right side of the 
  feedee line.
 * **A Canadian catch**.   An impressive catch that would have been difficult
@@ -251,12 +253,12 @@ doing it.
 * **Better Never than Late**.
     If you miss a passing beat, don't pass on the next throw! Instead, wait for the pass
     to come around again in the pattern.
-* **Always keep your eye on Mel**
+* **Always keep your eye on Mel**.
     Don't pick up the clubs until you're sure the pattern is over, unless you
     know you can pick up and keep juggling. Even when you're not juggling, it's
     wise to keep an eye on Mel.
 * **Juggle slow, move fast**. You get it. There's a tendency to speed up
- your juggling when you need to move. Don't.
+ your juggling when you move. Don't.
 * **Juggling means never having to say you're sorry**
     No, really.  Don't say you're sorry unless you draw blood.  (However, if you draw blood then you do have to say you're sorry.)  
     Beginners often apologize profusely for their lack of skill. It's ok! We
@@ -340,15 +342,8 @@ Lots of passing patterns benefit from solo skills too. You'll need to be able to
 juggle 4 clubs comfortably in triple singles, double singles and the fountain to
 do a lot of the 7 and 8 club based passing patterns.
 
-### Internet Passing Resources
-* [Madison Area Jugglers](http://madjugglers.com)
-* [International Juggling Association site](http://www.juggle.org)
-* [Will Murray's site](http://www.csulb.edu/~wmurray/)
-* Mark Weston's passing collection
-* Martin Frost and Stanford jugglers
-* [Gandini Juggling Project](http://www.gandinijuggling.com/)
 
-# The patterns
+## The guts of this book: the patterns
 * [Three Person Patterns](02_three_person_patterns.md)
 * [Four Person Patterns](03_four_person_patterns.md)
 * [Five Person Patterns](04_five_person_patterns.md)
@@ -359,10 +354,21 @@ do a lot of the 7 and 8 club based passing patterns.
 * [Ten Person Patterns](09_ten_person_patterns.md)
 * [Big Patterns (11+ people)](10_big_patterns.md)
 
-# Appendices
+## More stuff about patterns: the appendices
 * [Appendix A: 7 Club Patterns and Variations](11_appendix_a_7clubs.md)
 * [Appendix B: Dual Passing Patterns](12_appendix_b_dual_passing.md)
 * [Appendix C: Gandini Siteswap Weaves](13_appendix_c_gandini_weaves.md)
 * [Appendix D: Seven Club Two-Count Exposed](14_appendix_d_7club2ct.md)
 * [Appendix E: Synchronous Passing](15_appendix_e_synchronous_passing.md)
 * [Appendix F: Passing 43](16_appendix_f_passing_43.md)
+
+
+## More stuff online: Internet Passing Resources
+* [Madison Area Jugglers](http://madjugglers.com)
+* [International Juggling Association site](http://www.juggle.org)
+* [Will Murray's site](http://www.csulb.edu/~wmurray/)
+* Mark Weston's passing collection
+* Martin Frost and Stanford jugglers
+* [Gandini Juggling Project](http://www.gandinijuggling.com/)
+
+

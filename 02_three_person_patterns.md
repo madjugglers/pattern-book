@@ -359,18 +359,25 @@ Two-leaf Clover or a continuous change sides feed through the middle. Pass every
 right hand throw when you are feeding, and pass every other when you are not
 feeding.
 
-![](./media/image1.png)
+| layout     | moves/passes |
+|-------------|-------|
+| ![](./media/image1.png){width=25%} |![](./media/image2.png){width=40%} |
 
 When a juggler moves to the other side, he or she cuts across in front of the
 old feeder, and turns around to pass to the new feeder.
 
 History: Turbo is a pattern that developed from Bruno's Nightmare.  Bruno's Nightmare was desinged without a specific count and the 18 throw version, the same number as the turbo, is called Bruno's Nightmare Turbo.  The difference between Bruno's Nightmare Turbo and Turbo is when you turn.  In Turbo you turn before entering the middle.  In Bruno's Nightmare you turn after exiting the middle.
 
-![](./media/image2.png)
 
 To learn the Turbo, start by practicing a regular feed change sides. Then learn
 the feed change sides through the middle. Finally, speed up the change side
 moves until the feedees all move at the earliest possible opportunity.
+
+*Jazzing it up:* When changing sides the mover has the option of clockwise or
+counter-clockwise turns. Try both.  One is harder and cooler.  The standard (inside) turn is usually easier for right-handers off the right side of the feed
+and harder for right-handers off the left side.  Try double or triple earlies
+before entering the middle. Try a behind-the-back pass when moving
+  off the right side.
 
 ### Variations
 
@@ -473,7 +480,7 @@ and moving in groups of three.  There are three moving jugglers, A, B, and C, an
 there is not a feeder being swapped here; all folks are moving all the time.  Four count is fun; three count is more fun.   In any count, it’s pass-one, pass-the other, self.   Whatever is the base count the pattern has a gap (in this layout, positions 2 and 5) where you can plug in any other juggler or 
 pattern that matches that count (including three other jugglers doing a 2$\pi$/3!).   Looks like two pies when viewed from above, and it’s 3 jugglers.  Plus, each circle in the layout is divided into 3, hence the name.  We invented  2$\pi$/3 in summer 2017 and juggled it a lot then.
 
-![](./media/twopionthree.png)
+![](./media/twopionthree.png){width=90%}
 
 
 

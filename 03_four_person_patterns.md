@@ -318,7 +318,7 @@ feeder throwing PPPSS instead of PSPSP).
 | **D**       |         |         |         | A       |         |         |         |         | A       |
 
 In this variation, the weavers move in a 5 count to the middle and a 4 count to
-the outsides. The inverse works too, but is a bit harder.
+the outsides. We also call this the 4-count-5-count weave. Notice the 3/2 feeder starts pass-self-pass-pass.    The inverse works too, but is a bit harder.
 
 The variations with a 4-count or 3 of 4-count for the feeders don't work with
 the standard feed, but see the Iron Cross Weave, Spiral Weave or Twister Weave
@@ -362,12 +362,12 @@ Each juggler has its own slot to move on. Each slot has three positions: left,
 middle, and right. Weavers move back and forth on their slots. Moves are made to
 the next position after the pass is made from the current position.
 
-![](./media/image7.png)
+![](./media/image7.png){width=70%}
 
 When was this pattern created? We have been doing it since 1992.
 
 ### Inside-Out Weave
-![](./media/image8.jpeg)
+![](./media/image8.jpeg){width=50%}
 
 A standard weave is in a figure eight, which is two loops connected by a center.
 Now imagine warping space so that one of the loops is folded back inside the
@@ -433,7 +433,7 @@ and the Gandini Juggling Project in 2000.
 ## Clovers and Variations
 ### Three Leaf Clover (Standard)
 
-![](./media/image9.jpeg)
+![](./media/image9.jpeg){width=60%}
 
 | **Juggler** | **1**   | **2**   | **3**   | **4**   | **5**   | **6**   | **7**   | **8**   |
 |-------------|---------|---------|---------|---------|---------|---------|---------|---------|
@@ -480,7 +480,7 @@ The Run Over Clover is the same pattern with some of the selves replaced with pa
 
 ### Run Over Clover
 
-![](./media/image11.jpeg)
+![](./media/image11.jpeg){width=60%}
 
 | **Juggler** | **1**   | **2**   | **3**   | **4**   | **5**   | **6**   | **7**   | **8**   |
 |-------------|---------|---------|---------|---------|---------|---------|---------|---------|
@@ -496,7 +496,7 @@ The Run Over Clover is the same pattern with some of the selves replaced with pa
 Created in 2001 by Mike Newton and the MAJ.
 
 ### Extra-Club Three Leaf Clover
-![](./media/image13.jpeg)
+![](./media/image13.jpeg){width=60%}
 
 This is the standard three leaf clover with an extra club added and all passes
 as doubles. As usual, there are a number of ways to add a club. Here is a slower
@@ -573,7 +573,7 @@ able to learn the original variation too, now renamed to the Hyper-Clover.
 Pattern by Luke Emery, 2001.
 
 ## Benzene Ring (Four Juggler Version)
-![](./media/image14.png)
+![](./media/image14.png){width=50%}
 
 There is a whole family of benzene ring patterns, where movers juggle in a
 circle between two feeders. The Benzene Ring for Six and for Eight are much
@@ -616,7 +616,7 @@ backwards. It is a precursor for the Razor juggling pattern.
 Pattern created July, 1997 by MAJ.
 
 ### Chocolate Stir
-![](./media/image15.png)
+![](./media/image15.png){width=50%}
 
 A chocolate bar variation of the 4 person Benzene Ring starts in the same
 positions as the Benzene Ring. Each juggler is in chocolate bar. The inner
@@ -639,7 +639,7 @@ Pattern by Luke Emery
 
 ## Canoe
 
-![](./media/image16.png)
+![](./media/image16.png){width=70%}
 
 > * A is facing B, C, and D.
 > * B, C, and D are facing A.
@@ -1099,7 +1099,7 @@ challenging weave. Also see the Popcorn Twister and Popcorn Twister Weave.
 This pattern dates to September, 1999 by Luke Emery and the MAJ.
 
 ## Simple Egg Beater, No Handle
-![](./media/image20.png)
+![](./media/image20.png){width=50%}
 
 This is like a 4-person version of a synchronous double weave.
 
@@ -1117,7 +1117,7 @@ After the 4th box, the jugglers are inverted, but the passing sequence repeats.
 This pattern dates to 1997 by Mike Newton and MAJ.
 
 ## Unicycle
-![](./media/image25.png)
+![](./media/image25.png){width=50%}
 
 The unicycle is a nice moving pattern in 3-count.
 
@@ -1143,7 +1143,7 @@ Also see Extra Club Unicycle and Two Seated Unicycle.
 Unicycle dates to 1996 by MAJ.
 
 ### Extra-Club Unicycle
-![](./media/image26.png)
+![](./media/image26.png){width=50%}
 
 The Extra-Club Unicycle is a fun moving pattern in 4-count with triple passes,
 double passes and dropbacks.
@@ -1169,7 +1169,7 @@ back of the circle to the start.
 > * B starts with left-hand
 > * A and D start with right-hand selves
 
-![](./media/image27.png)
+![](./media/image27.png){width=50%}
 
 ## Y2K
 
@@ -1301,7 +1301,7 @@ Rush and Rest is by Steve Otteson and MAJ from 1998.
 juggler to the right. A Shooting Star is a star with one juggler missing. When
 each juggler runs out of clubs, they move to the empty space.
 
-![](./media/image28.png)
+![](./media/image28.png){width=50%}
 
 1.  A, C, and D start with 3 clubs and pass according to diagram one. When C
     runs out of clubs, C moves to the empty spot.
@@ -1418,7 +1418,7 @@ Ok, add in some more extra passes. Why not?
 ## Clover Variations
 
 ### Three Leaf Clover (Mike's Version)
-![](./media/image30.jpeg)
+![](./media/image30.jpeg){width=50%}
 
 Here's another version of the 4 person clover. However, we juggle the Standard
 Clover more often (which used to be called the New Clover) because it is easier
@@ -1436,11 +1436,11 @@ to remember and has a nicer flow to it.
 Every juggler is a feeder passing a standard 4-count feed to the other 3
 jugglers.
 
-![](./media/image31.png)
+![](./media/image31.png){width=50%}
 
 Mike Newton is the creator of this pattern.
 
-![](./media/image32.jpeg)
+![](./media/image32.jpeg){width=50%}
 
 ### Three Leaf Clover (Peter's Version)
 
@@ -1467,7 +1467,7 @@ takes 12 passes for everyone to move to the next leaf.
 
 Every juggler is a feeder in a modified typewriter feed.
 
-![](./media/image34.jpeg)
+![](./media/image34.jpeg){width=50%}
 
 ### Three-Leaf Clover (Steve's Version)
 
