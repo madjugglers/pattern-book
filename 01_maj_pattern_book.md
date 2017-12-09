@@ -220,6 +220,14 @@ first feeds the line in sequence, and then returns in reverse order.  Windshield
  feedee line.
 * **A Canadian catch**.   An impressive catch that would have been difficult
  for most mortal jugglers to achieve.
+* **Hup**.  The vocalization that signals the end of the pattern.
+* **Cycle**. The  amount of juggling after which the pattern repeats.
+* **Run it**.  Continue juggling for an indefinite number of cycles.
+* **Triple up**.  The showy last action in a pattern, after the hup, in which each
+ juggler lofts a triple self throw. 
+* **Mel catch**.  The act of catching the fat end after a 2.5 triple up.
+* **Leader**. One who calls out, *jugglers ready--up, down, ...* at the beginning
+  of a pattern. 
 
 ## Passing Pattern Philosophy
 
@@ -272,6 +280,7 @@ doing it.
     we'll try to put you in the best spot for your level. Just try to do the
     best you can, and if you drop, try to keep the timing anyway.
 * **Throw global, catch local**.  What else would you do?
+* **Mike's the leader**. Unless he's not.
 
 ### Timing
 It may already be obvious, but good timing is critical to group passing
@@ -286,6 +295,8 @@ Make sure all the passes of the same spin go to the same height.
 
 For many patterns, selecting a juggler to count out loud as a metronome can be
 very helpful.
+
+Follow the leader!
 
 ### Leads
 The second most important skill is for the passer to lead the catcher in the
