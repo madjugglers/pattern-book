@@ -166,11 +166,9 @@ guarantee of consistency.
 
 ## Secret Juggling Code Words (Glossary)
 
-
-* **$n$-count**.
-  States the count when passes are made. For example, 2-count means: pass-self-pass-self, etc. 
-   Three count means: pass-self-self-pass-self-self, etc.
-  One count means: pass-pass-pass, (no self throws).  Stating the count does not necessarily imply what hands are doing what. E.g., left-hand 2-count is different from right-hand 2-count.  Odd counts are nicely balanced for the hands, then the only issue is the start, which we usually do out of the right.
+* **$m/n$-count**. Passing frequency measured as $n$ passes in  a cycle of  $m$ passing beats.
+   For example, $2/1$-count means,  *pass-self*, then repeat.  Note $4/2$-count,  $2/1-$count, and $2-$count are equivalent, so we just used the reduced form.
+   Stating the count does not necessarily imply what hands are doing what or the starting configuration. E.g., left-hand 2-count is different from right-hand 2-count.  Odd counts are nicely balanced for the hands, then the only issue is the start, which we usually do out of the right.
 * **Canadian catch**.   An impressive catch that would have been difficult
  for most mortal jugglers to achieve.
 * **carriage return**. A style of feeding where the feeder returns to the first
@@ -182,7 +180,7 @@ guarantee of consistency.
 * **Doc Blanchard/Glenn Davis**. Mr. Inside/Mr. Outside.
 * **double 3-count**.  pass, pass, self: Academics usually insist that this is a  3/2 count not 2/3 count.
 * **everies**. 2-count
-* **every-others**. 4 count
+* **every-others**. 4-count
 * **extra clubs**.  When the number of clubs for the pattern exceeds three
  times the number of jugglers.
 * **feast**. A pattern having only feeders, usually arranged in a circle.
@@ -208,7 +206,7 @@ guarantee of consistency.
 * **three-count**. In Madison, the default passing count between two jugglers. Sometimes called the *waltz*.
 * **triple up**.  The showy last action in a pattern, after the hup, in which each
  juggler lofts a triple self. 
-* **ultimate**. 1 count
+* **ultimate**. 1-count
 * **wuss**.  The amount of gentleness, tenderness and love added to a juggling throw.
   Compare to mayonnaise. The quality of passes you would make to your favorite
   grandmother. As in, please add some wuss to your middle passes. You're hurting
