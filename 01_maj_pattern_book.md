@@ -17,16 +17,15 @@ passing patterns (that would be a big book)!
 
 
 The Madison Area Jugglers (MAJ) have been attempting, inventing, and 
-recording juggling patterns for longer than most of us can remember. In the 1990's, when
-our memories were already getting strained by the variations, 
-Version 0.1 of the passing book was compiled by Mike Newton (date?). 
-Steve Otteson put in a big effort to update for Version 1.0 (date). Melonhead still 
-caries around a tattered version of this printout.
-Luke Emery picked up the torch and created a major update (Version 2.0, 2012), though 
-this copy was not widely distributed.   In 2015 Matt Hemke, Evan Driscol,
-and Nick Aitkins  created
-a github repository for the project, converted Luke's version into a repo, and
-updated the collection further. 
+recording juggling patterns for longer than most of us can remember. In 1997, when our memories were already getting strained by the variations, Mike
+Newton compiled our first *Pattern Catalogue* to record the patterns for four
+or more jugglers which we did at Thursday and Sunday practices. 
+This morphed into the first *Pattern Book* by January 1999, but the hand-written collection (*Version 0.1*) 
+was in a pretty limiting format.  By October of that year, Steve Otteson created the first computerized collection by 
+reformating and greatly expanding Mike's hand-written notes.
+ Melonhead still caries around a tattered printout of *Version 1.0.*
+Steve made a few version updates, for example adding a bunch of extra-club patterns by Peter Kaseman and Luke Emery; the unusual computer format of Steve's version and his departure from Madison  slowed down subsequent updates, even though the MAJ continued to create new patterns at a steady rate.  The next big contribution was Luke Emery's version (*Version 2.0*, 2012), though Luke's version was not widely distributed.  In 2015 Matt Hemke, Evan Driscol,
+and Nick Aitkins  created a Github repository for the project, converted Luke's version into a repo, and updated the collection further. 
  Recently  Chan Wilson, Jeff Adamus, and
 Melonhead have been recording the patterns we do at Thursday and Sunday practices.  It's
 an amazing collection, and 
@@ -54,12 +53,6 @@ when we didn't know. If we have erred in our credits, please let us know.
 This book of patterns is on the web at the
 [Madison Area Jugglers' Website](http://www.madjugglers.com/).
 
-## Version History
-* Madison, Wisconsin, October 1999 Version 1.0
-* Madison, Wisconsin, January 2001 Version 1.1
-* Madison, Wisconsin, March 2001 Version 1.2
-* Madison, Wisconsin, January 2012 Version 2.0
-* Madison, Wisconsinm January 2017 Version 3.0
 
 If you have any questions, comments or suggestions relating to this book,
 please visit the [Madjugglers Github site](https://github.com/madjugglers),
@@ -177,6 +170,8 @@ guarantee of consistency.
 * **Every-others**. 4 count
 * **Double 3-count**.  pass, pass, self: Academics usually insist that this is a  3/2 count not 2/3 count.
 * **Ultimate**. 1 count
+* **Extra clubs**.  When the number of clubs for the pattern exceeds three
+ times the number of jugglers.
 * **Feed**. A passing configuration where one juggler passes to multiple others.
 * **Feeder**. One who feeds.  Usually this juggler is stationary. 
 * **Feedee**. One who passes with a feeder. 
@@ -382,4 +377,11 @@ do a lot of the 7 and 8 club based passing patterns.
 * Martin Frost and Stanford jugglers
 * [Gandini Juggling Project](http://www.gandinijuggling.com/)
 
+
+## Version History
+* Madison, Wisconsin, October 1999 Version 1.0
+* Madison, Wisconsin, January 2001 Version 1.1
+* Madison, Wisconsin, March 2001 Version 1.2
+* Madison, Wisconsin, January 2012 Version 2.0
+* Madison, Wisconsinm January 2017 Version 3.0
 
