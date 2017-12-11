@@ -80,7 +80,8 @@ very difficult on a fast count.  We say you are passing on an $m/n$-count if you
 a cycle of $m$ beats, counting on both hands.  
  For example, $2/1$-count means,  *pass-self*, then repeat.  When the
 denominator $n$ is 1 we just say $m$-count, as in the familiar 1-count, 2-count, 3-count, and so on. 
- Stating the count does not necessarily imply what hands are doing what or the starting 
+ Stating the count does not necessarily imply what hands are doing what, how many clubs
+are being juggled,  or the starting 
 configuration. E.g., left-hand 2-count is different from right-hand 2-count.  Odd counts are 
 nicely balanced for the hands, then the only issue is the start, which we usually do out of the right.
 
@@ -124,7 +125,7 @@ Doubles and triples to juggler A would be indicated by D-A and T-A respectively
 and are also straight unless noted.
 
 Special instructions like different counts, double selves, crossing passes or
-starting instructions may be noted in the graph or underneath it.
+starting instructions may be noted in or below the table.
 
 ### Typewriter Extra Club Feed (13 clubs)
 
@@ -174,24 +175,24 @@ requires special circumstances.
 Occasionally we invoke passing site swaps to describe patterns. For example, 7
 club 2-count would be 4p 3 | 3 4p (2<sup>nd</sup> juggler starts with left
 hand). There are a number of different site swap notations out there for
-passing.  *we're not experts in this...cite out*
+passing.  *we're not experts in this...cite out, e.g. to Will Murray's page*
 We use whatever seems to make sense to us at the moment and make no guarantee of consistency.
 
-## Secret Juggling Code Words (Glossary)
+## Secret Juggling Code Words and Phrases (Glossary)
 
 * **Bernardos**. Unecessary solo juggling tricks performed while other jugglers are trying
  to start a pattern. Named after Paul Bernardo, an expert of the craft.
 * **Canadian catch**.   An impressive catch that would have been difficult
  for most mortal jugglers to achieve.
 * **carriage return**. A style of feeding where the feeder returns to the first
- feedee in the line after passing in sequence to all feedees.
+ feedee in the line after passing in sequence to all feedees. (also called typewriter)
 * **chalant**.  To drop a perfectly fine pass due to lack of focus. The opposite of nonchalant.
-* **chocolate bar**.
-  pass--pass--self--self.  By convention, this starts with the right-hand pass.
+* **chocolate bar**. 
+  pass--pass--self--self; a $4/2$-count.   By convention, this starts with the right-hand pass.
 * **cross**.  A left-to-left or right-to-right pass.
 * **cycle**. The  amount of juggling after which the pattern repeats.
 * **Doc Blanchard/Glenn Davis**. Mr. Inside/Mr. Outside.
-* **double 3-count**.  pass-pass-self: Academics insist that this is a  3/2 count not 2/3 count.
+* **double 3-count**.  pass-pass-self: Academics insist that this is a  3/2-count not 2/3-count.
 * **encroachment**.  Premature lane-crossing between two passing jugglers.  Usually 
  entails a 5-yard penalty. 
 * **everies**. 2-count
@@ -207,18 +208,23 @@ We use whatever seems to make sense to us at the moment and make no guarantee of
   When you think that a juggler is about to move or pass...maybe they even give
   you the look...you know, the **look**...but then they don't!
 * **inverted.** A moving convention in the weave: forward-on-the-end/backd-through-the-middle
+* **I blame society**. An excuse for some juggling failure (usually by Mel).
 * **leader**. One who calls out, *jugglers ready: up, down, ...* at the beginning of a pattern. 
 * **Mel catch**.  The act of catching the fat end after a 2.5 triple up.
 * **Mr. Inside/Mr. Outside**.  The two feeding positions of a doubly-fed weave.
 * **mustard**.  Energy, power, spice, velocity or chi added to throws. As in, your corner
   passes need more mustard. The opposite of mustard is mayonnaise.
 * **NFP**.  Nice Pass.
+* **No, this is a club**. Said while pointing to a juggling club and talking to a curious 
+ passer-by who asks about the group, "Is this a club?".
 * **phantom**.
   A feedee place holder who isn't really there. A feeder, for example, may feed
   2 real feeders and a phantom in a sweep feed: pass-pass-self-pass and repeat.
 * **preverted.** A moving convention in the weave: back-on-the-end/forward-through-the-middle.
 * **run it**.  Continue juggling for an indefinite number of cycles.
+* **scheisse**.  An utterance of frustration, possibly by Dan Schuchnect. 
 * **straight**. A right-to-left or left-to-right pass.
+* **The wind is our friend**. An encouraging commentary when juggling outside.
 * **three-count**. In Madison, the default passing count between two jugglers. Sometimes called the *waltz*.
 * **triple up**.  The showy last action in a pattern, after the hup, in which each
  juggler lofts a triple self. 
@@ -234,6 +240,7 @@ We use whatever seems to make sense to us at the moment and make no guarantee of
 * **windshield wiper**. The more common style of feeding where the feeder 
 first feeds the line in sequence, and then returns in reverse order.  Windshield wiper and carriage return are the same with two feedees, but
  differ for three or more feedees.
+* **You herniated my ZOC.** Said if a pass forced extension and excessive effort in the catching.
 * **ZOC**.
   Zone of Catchability. The area around a passer where they can catch
   passes with high probability. Peter Kaseman has the largest ZOC in Madison.
@@ -246,26 +253,38 @@ these patterns? Actually, they sort of make themselves once you invite the
 opportunity. Here are some tips on how to make new passing patterns and have fun
 doing it.
 
-1. Start with a classic juggling pattern or any geometric figure (box, triangle,
+* Start with a classic juggling pattern or any geometric figure (box, triangle,
   star, Y, W, line, etc.).
-1. Think about everybody juggling 3 or 4 clubs.
-1. Replace any selves with a pass to another juggler doing a self.
-1. Any two jugglers can switch places. Any three jugglers can weave, or turbo.
-1. Replace any 4-count with a Twister Weave, or a 7-club 4-count.
-1. Replace any 2-count with a Weave.
-1. Replace any 3-count with a double 3 count.
-1. Replace any feed with an extra club feed.
-1. Replace any extra club feed with a 2 extra club feed.
-1. The jugglers can move in any pattern (circles, clovers, figure eights, or any
+* Think about everybody juggling 3 or 4 clubs.
+* Replace any selves with a pass to another juggler doing a self.
+* Any two jugglers can switch places. Any three jugglers can weave, or turbo.
+* Replace any 4-count with a Twister Weave, or a 7-club 4-count.
+* Replace any 2-count with a Weave.
+* Replace any 3-count with a double 3-count.
+* Replace any feed with an extra club feed.
+* Replace any extra club feed with a 2 extra club feed.
+* The jugglers can move in any pattern (circles, clovers, figure eights, or any
   juggling siteswap just to name a few).
-1. The clubs can be passed in any juggling pattern or siteswap (admittedly,
+* The clubs can be passed in any juggling pattern or siteswap (admittedly,
   patterns get challenging quickly once you get past the easier siteswaps).
-1. Try the same movement in a different count, or left handed.
-1. Try the same passing sequence in a different movement.
-1. Many of our favorite patterns are group collaborations where lots of people
+* Try the same movement in a different count, or left handed.
+* Try the same passing sequence in a different movement.
+* Many of our favorite patterns are group collaborations where lots of people
   gave ideas for new ways to move or pass.
-1. Share your favorite club passing patterns with other jugglers and listen to
+* Share your favorite club passing patterns with other jugglers and listen to
   their ideas too.
+* Recognize the skill level of your participants and do patterns in which everyone
+ can be challenged while also having fun.
+* Antonio Vivaldi, in 1725,  titled his Opus 8, 12 Concerti for chamber orchestra and
+ violin:   *Il cimento dell'armonia e dell'inventione*, or,
+ *The contest between harmony and invention*.  There's no evidence he was juggling, but
+ there is a connection to our endeavor. To be worked on, a juggling pattern has to be sufficiently 
+ novel that it is interesting for the participants to engage in, but also sufficiently regular that
+ it can be mastered with reasonable effort. The fact that the Pattern Book has grown 
+ is testament to the fact that jugglers regularly pass clubs in Madison; for this
+ activity to persist there must be invention of new things; and as well there must 
+ be consistent elements -- count signatures or motion elements -- that we master and 
+ then recombine in interesting and enjoyable ways.
 
 ## Random Tips on Passing Patterns
 * **Better Never than Late**.

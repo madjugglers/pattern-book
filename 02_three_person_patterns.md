@@ -480,7 +480,7 @@ and moving in groups of three.  There are three moving jugglers, A, B, and C, an
 there is not a feeder being swapped here; all folks are moving all the time.  Four count is fun; three count is more fun.   In any count, it’s pass-one, pass-the other, self.   Whatever is the base count the pattern has a gap (in this layout, positions 2 and 5) where you can plug in any other juggler or 
 pattern that matches that count (including three other jugglers doing a 2$\pi$/3!).   Looks like two pies when viewed from above, and it’s 3 jugglers.  Plus, each circle in the layout is divided into 3, hence the name.  We invented  2$\pi$/3 in summer 2017 and juggled it a lot then.
 
-![](./media/twopionthree.png){width=90%}
+![](./media/twopionthree.png){width=50%}
 
 
 
