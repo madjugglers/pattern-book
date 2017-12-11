@@ -22,7 +22,7 @@ Newton compiled our first *Pattern Catalogue* to record the patterns for four
 or more jugglers.
 This morphed into the first *Pattern Book* by January 1999, but the hand-written collection (*Version 0.1*) 
 was in a pretty limiting format.  By October of that year, Steve Otteson created the first computerized collection by 
-reformating and greatly expanding Mike's hand-written notes.
+reformating and expanding Mike's hand-written notes.
  Melonhead still caries around a tattered printout of *Version 1.0.*
 Steve made a few version updates, for example adding a bunch of extra-club patterns by Peter Kaseman and Luke Emery; the unusual computer format of Steve's version and his departure from Madison  slowed down subsequent updates, even though the MAJ continued to create new patterns at a steady rate.  The next big contribution was Luke Emery's version (*Version 2.0*, 2012). Though it was not widely distributed, Luke's version
 contained all kinds of new additions: more patterns for all numbers of jugglers, more on site-swap, more
@@ -63,14 +63,27 @@ where you can also download the latest edition of this book.
 
 There seems to be an indefinite number of ways a single juggler can juggle, so it's not
 surprising that a juggling *pattern*, which combines the efforts of multiple jugglers, can 
-also take many many forms.   In the first-course on juggle-passing, we imagine a 
-standard juggling format: 
-when juggling the cascade, each hand takes turns throwing: *right--left--right--left*
- etc. In a standard pattern, there are no extra clubs and  all jugglers in the pattern are in sync: 
-they throw their right-hand throws at the same time, and then their left-hand throws at the same time. 
-Most often too, right-hand throws are made to the left hand and left-hand throws
-are made to the right hand. This applies both to passes and self throws.  There are many  exceptions,
- which we  note when applicable.
+also take many many forms.  There are many exceptions -- and we cover a lot of them --
+but to develop our intuition  it's convenient to start with standard formulations. Say
+each juggler is throwing three clubs,   alternating hands *right-left-right-left* etc,  and
+juggling in sync with the others (all doing *right-left-right-left*...).
+In this standard formulation, passes are single-spin exchanges between jugglers, either right-to-left
+or left-to-right throws. Even without adding extra clubs or unusual throws (heff's, zips, simuls), 
+there is an incredible  variety of fun patterns found by varying where jugglers are and 
+ who passes to whom when.
+
+### Count
+
+A basic passing descriptor is the *count*, which tells the juggler how frequently to make a pass. 
+In simple patterns each juggler's count is constant, but even simple patterns can be 
+very difficult on a fast count.  We say you are passing on an $m/n$-count if you make $n$ passes in
+a cycle of $m$ beats, counting on both hands.  
+ For example, $2/1$-count means,  *pass-self*, then repeat.  When the
+denominator $n$ is 1 we just say $m$-count, as in the familiar 1-count, 2-count, 3-count, and so on. 
+ Stating the count does not necessarily imply what hands are doing what or the starting 
+configuration. E.g., left-hand 2-count is different from right-hand 2-count.  Odd counts are 
+nicely balanced for the hands, then the only issue is the start, which we usually do out of the right.
+
 
 Throw timing, throw destination, and juggler position over time have to be recorded to describe
 a juggling pattern.  We use tables and figures to express this information. For example,
@@ -80,7 +93,7 @@ The position graph shows where
 the jugglers (letters) stand. The left graph shows where and when passes are made.
 
 
-### Standard Feed
+###  Example: standard feed
 
 | **Juggler** | **1** | **2** | **3** | **4** |
 |-------------|-------|-------|-------|-------|
@@ -158,17 +171,16 @@ requires special circumstances.
 
 ### Site Swaps
 
-Occasionally passing site swaps are used to describe patterns. For example, 7
+Occasionally we invoke passing site swaps to describe patterns. For example, 7
 club 2-count would be 4p 3 | 3 4p (2<sup>nd</sup> juggler starts with left
 hand). There are a number of different site swap notations out there for
-passing. We use whatever seems to make sense to us at the moment and make no
-guarantee of consistency.
+passing.  *we're not experts in this...cite out*
+We use whatever seems to make sense to us at the moment and make no guarantee of consistency.
 
 ## Secret Juggling Code Words (Glossary)
 
-* **$m/n$-count**. Passing frequency measured as $n$ passes in  a cycle of  $m$ passing beats.
-   For example, $2/1$-count means,  *pass-self*, then repeat.  Note $4/2$-count,  $2/1-$count, and $2-$count are equivalent, so we just used the reduced form.
-   Stating the count does not necessarily imply what hands are doing what or the starting configuration. E.g., left-hand 2-count is different from right-hand 2-count.  Odd counts are nicely balanced for the hands, then the only issue is the start, which we usually do out of the right.
+* **Bernardos**. Unecessary solo juggling tricks performed while other jugglers are trying
+ to start a pattern. Named after Paul Bernardo, an expert of the craft.
 * **Canadian catch**.   An impressive catch that would have been difficult
  for most mortal jugglers to achieve.
 * **carriage return**. A style of feeding where the feeder returns to the first
@@ -176,9 +188,12 @@ guarantee of consistency.
 * **chalant**.  To drop a perfectly fine pass due to lack of focus. The opposite of nonchalant.
 * **chocolate bar**.
   pass--pass--self--self.  By convention, this starts with the right-hand pass.
+* **cross**.  A left-to-left or right-to-right pass.
 * **cycle**. The  amount of juggling after which the pattern repeats.
 * **Doc Blanchard/Glenn Davis**. Mr. Inside/Mr. Outside.
-* **double 3-count**.  pass, pass, self: Academics usually insist that this is a  3/2 count not 2/3 count.
+* **double 3-count**.  pass-pass-self: Academics insist that this is a  3/2 count not 2/3 count.
+* **encroachment**.  Premature lane-crossing between two passing jugglers.  Usually 
+ entails a 5-yard penalty. 
 * **everies**. 2-count
 * **every-others**. 4-count
 * **extra clubs**.  When the number of clubs for the pattern exceeds three
@@ -203,6 +218,7 @@ guarantee of consistency.
   2 real feeders and a phantom in a sweep feed: pass-pass-self-pass and repeat.
 * **preverted.** A moving convention in the weave: back-on-the-end/forward-through-the-middle.
 * **run it**.  Continue juggling for an indefinite number of cycles.
+* **straight**. A right-to-left or left-to-right pass.
 * **three-count**. In Madison, the default passing count between two jugglers. Sometimes called the *waltz*.
 * **triple up**.  The showy last action in a pattern, after the hup, in which each
  juggler lofts a triple self. 
@@ -220,7 +236,7 @@ first feeds the line in sequence, and then returns in reverse order.  Windshield
  differ for three or more feedees.
 * **ZOC**.
   Zone of Catchability. The area around a passer where they can catch
-  passes with high probability.
+  passes with high probability. Peter Kaseman has the largest ZOC in Madison.
 * **ZOOS**. (sounds like the Greek god Zeus)  Zone of occupied space.   Space occupied by a moving juggler.
 
 ## Passing Pattern Philosophy
