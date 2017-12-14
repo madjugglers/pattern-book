@@ -765,3 +765,13 @@ This impressive pattern with 21 clubs is in the same family as the Oogle and the
 As you might expect, A is a challenging position. C, less so.
 
 Pattern by Peter Kaseman.
+
+## Windy Two Holer
+
+A classic six-person pattern...not sure who invented, but Mel was there.
+
+Six jugglers arrange around a circle inscribed with 8 spots...1,2,...8;A-whole, number-2 whole...etc
+
+![](./media/windy.png)
+
+
