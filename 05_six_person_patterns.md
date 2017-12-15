@@ -769,15 +769,14 @@ Pattern by Peter Kaseman.
 ## Windy Two Holer
 
 This has quickly become a  classic six-person pattern; not sure who invented it, 
-but Mel was there, and it was a windy day on the library mall.  In spite of its full cycle being the rather lengthy 24 passing beats 
-(rows of the tables) the windy-two-holer is pretty easy to remember, since each juggler's task repeats every
+but Mel was there, and it was a windy day on the library mall.  Despite its full cycle being the rather lengthy 24 passing beats 
+(rows of the tables), the windy-two-holer is pretty easy to remember, since each juggler's task repeats every
 6 passing beats. This is fun in 4-count, 3-count, and even 2-count for those not faint of heart. All
 jugglers juggle in sync but move in turn.  Six jugglers arrange around a circle inscribed with eight spots: 1,2, $\cdots$ 8, 
-let's say the spots are not in the obvious order but rather they're in the order of the figure below, 
+let's say. The spots are not in the obvious order around the perimeter, but rather they're in the order of the figure below, 
 corresponding to the corners of two inscribed squares.  Now the six jugglers can cover only
 six of the eight spots.  There are two *holes*, known technically (and affectionately)
-  as the *A-hole* and the *number-2 hole*.  In the start indicated by the first row of the  table,  
-the A-hole is position 8 and the number-2 whole is *becoming* position 1. Jugglers A, B, and C move around
+  as the *A-hole* and the *number-2 hole*.  In the start indicated by the first row of the  table,  the A-hole is position 8 and the number-2 whole is *becoming* position 1. Jugglers A, B, and C move around
 the yellow square, starting in positions 7, 6, and 5, respectively.  After the first beat, juggler
 A moves into the A-hole, whereby position 7 becomes the new number-2 hole.  Likewise, jugglers
 D, F, and E move along the magenta square, starting in positions 3, 4, and in between 1 and 2.
