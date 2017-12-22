@@ -1,6 +1,6 @@
 # 4-Person Patterns
 
-## Box
+## Boxes
 
 The box is a classic passing pattern with dozens of variations, many of which
 have been around for a long time. It's a great foundation for innovating new
@@ -193,9 +193,7 @@ Pattern by Luke Emery, 2008 and named after the hurricane.
 ## Switch Sides Feed
 
 The standard Switch Sides Feed is an easy introduction to moving while passing.
-The extra club version is a fun and spectacular pattern.
-
-The basic idea is that a feeder feeds three feedees, but the feedees on the end
+The extra club version is a fun and spectacular pattern.  The basic idea is that a feeder feeds three feedees, but the feedees on the end
 move straight across after every pass so that the middle feedee becomes the new
 feeder after each sweep.
 
@@ -211,7 +209,7 @@ feeder after each sweep.
 > * Right hands counting
 > * Start with right hand
 
-In this version, weavers move back and forth in an 8-count.
+In this version, movers go back and forth, passing 8-count.
 
 ### Typewriter Switch Sides Feed
 
@@ -244,37 +242,27 @@ In this version, weavers move back and forth in an 6-count. This is a fun one.
 
 Pattern by Luke Emery.
 
+
 ## Weaves
 
 ### Standard Weave
 
 Here's where the fun really begins! This is a great pattern to master because it
-leads to many other exciting patterns.
+leads to many other exciting patterns. 
 
-![](./media/image4.jpeg)
 
-| **Juggler** | **1** | **2** | **3** |
-|-------------|-------|-------|-------|
-| **A**       | B     | C     | D     |
-| **B**       | A     |       | A     |
-| **C**       |       | A     |       |
-| **D**       |       |       | C     |
+|      |         |
+|------|--------|
+| ![](./media/image4.jpeg){width=40%}   | ![](./media/weaveTable.png){width=40%} |
+|             | Right-hand counting |
+The feeder, A, throws to the end, middle, end, middle and then repeats, passing in 2-count. 
+ That's called a wind-shield wiper field (as opposed to a typewriter feed that only goes in one direction).  Each weaver, (B,C,D), passes in their current position and then moves to the next
+position. For the standard weave, the three movers pass in a 6-count, moving back on the ends and forward in the middle in a figure eight pattern.  Beginners have a tendency to move well side-to-side but not so
+well backwards and forwards;  think of the pattern more like a bowtie than a figure 8 if that's a problem.
 
-> * Right hand counting
+![](./media/image5.png){width=80%} 
 
-Weavers move BACK on the ends and FORWARD in the middle for the standard weave.
-
-A is the feeder who throws to the end, middle, end, middle and then repeats. A
-will be in a 2-count. That's called a wind-shield wiper field (as opposed to a
-typewriter feed that only goes in one direction).
-
-Each weaver passes from their current position and then moves to the next
-position. The weavers pass in a 6-count. Weavers move back on the ends and
-forward in the middle in a figure 8 pattern.
-
-![](./media/image5.png)
-
-Note: The middle weaver moves towards the end that passes to the feeder first.
+Note on starting: The middle weaver moves towards the end that passes to the feeder first.
 
 ### Variations
 
@@ -296,7 +284,7 @@ choose a pattern that makes the weave work as long as two weavers aren't passing
 at the same time. You can slow the weave down if you want, or speed it up. Here
 are some examples (all of these in both hands counting):
 
-### 5-Count Weave (Feeder PSPSP, Feedees 5-Count)
+### 5-Count Weave: Feeder PSPSP=5/3-Count, Feedees 5-Count
 
 | **Juggler** | **1**   | **2**   | **3**   | **4**   | **5**   | **6**   | **7**   | **8**   | **9**   | **10**   |
 |-------------|---------|---------|---------|---------|---------|---------|---------|---------|---------|----------|
@@ -308,7 +296,7 @@ are some examples (all of these in both hands counting):
 There are other variations that also work out as a 5-count Weave (like the
 feeder throwing PPPSS instead of PSPSP).
 
-### Double 3-Count Weave (Feeders Double 3-Count, Feedees 4 of 5-Count)
+### Double 3-Count Weave:  Feeder 3/2-Count, Feedees 4-then-5-Count
 
 | **Juggler** | **1**   | **2**   | **3**   | **4**   | **5**   | **6**   | **7**   | **8**   | **9**   |
 |-------------|---------|---------|---------|---------|---------|---------|---------|---------|---------|
@@ -324,7 +312,7 @@ The variations with a 4-count or 3 of 4-count for the feeders don't work with
 the standard feed, but see the Iron Cross Weave, Spiral Weave or Twister Weave
 for more 4-count weave variations.
 
-### Hyper-Weave (Feeders 1-Count, Feedees 3-Count)
+### Hyper-Weave: Feeder 1-Count, Feedees 3-Count 
 
 | **Juggler** | **1**   | **2**   | **3**   | **4**   | **5**   | **6**   |
 |-------------|---------|---------|---------|---------|---------|---------|
@@ -346,19 +334,17 @@ with the feeder (typically on one end only). Work it out.
 The Standard Weave has been around longer than any of us have been juggling.
 
 ### Dresser-Drawer Weave
-![](./media/image6.png)
+
+
+|      |         |
+|------|--------|
+| ![](./media/image6.png){width=30%}   | ![](./media/weaveTable.png){width=35%}  |
+|            | Right-hand counting |
+
 
 This weave variation has the same passes as the standard weave, but the weavers
-move back and forth instead of in a figure 8.
-
-| **Juggler** | **1** | **2** | **3** |
-|-------------|-------|-------|-------|
-| **A**       | B     | C     | D     |
-| **B**       | A     |       | A     |
-| **C**       |       | A     |       |
-| **D**       |       |       | C     |
-
-Each juggler has its own slot to move on. Each slot has three positions: left,
+move side-to-side like dresser drawers  instead of through a figure eight. Usually we debate whether
+B is the socks or underwear drawer.  Each juggler has its own slot to move on. Each slot has three positions: left,
 middle, and right. Weavers move back and forth on their slots. Moves are made to
 the next position after the pass is made from the current position.
 
@@ -367,10 +353,10 @@ the next position after the pass is made from the current position.
 When was this pattern created? We have been doing it since 1992.
 
 ### Inside-Out Weave
-![](./media/image8.jpeg){width=50%}
+![](./media/image8.jpeg){width=40%}
 
-A standard weave is in a figure eight, which is two loops connected by a center.
-Now imagine warping space so that one of the loops is folded back inside the
+Take the path of a standard weave -- a figure eight -- and
+imagine warping space so that one of the loops shrinks a bit and is folded back inside the
 other. That's the Inside-Out Weave.
 
 The count and the passes are exactly the same as the standard weave, but the
@@ -430,38 +416,36 @@ Patterns and other variations in Appendix C.
 We learned about this family of weave variations from juggling with Sean Gandini
 and the Gandini Juggling Project in 2000.
 
-## Clovers and Variations
+## Clovers 
+
+The clover leaf patterns have a juggler on each *leaf*, and one
+in the middle, all moving.  As the pattern  progresses, the juggler in the middle trades places with a juggler on
+a leaf, *pushing* that juggler out of his/her leaf and back into the middle towards the next leaf in
+the sequence, and passing along the way.  There are a different ways to make this work, but the following has become our default.
+
 ### Three Leaf Clover (Standard)
 
-![](./media/image9.jpeg){width=60%}
+|      |         |
+|------|--------|
+| ![](./media/image9.jpeg){width=40%} | ![](./media/standardCloverTable.png){width=50%} |
+|            | Right-hand counting |
 
-| **Juggler** | **1**   | **2**   | **3**   | **4**   | **5**   | **6**   | **7**   | **8**   |
-|-------------|---------|---------|---------|---------|---------|---------|---------|---------|
-| **A**       | D       | B       | C       |         |         | B       |         |         |
-| **B**       |         | A       |         |         | C       | A       | D       |         |
-| **C**       |         |         | A       | D       | B       |         |         | D       |
-| **D**       | A       |         |         | C       |         |         | B       | C       |
 
-> * Right hand counting
-
-The idea of a clover leaf is to have a juggler on top of each leaf, and a
-juggler in the middle. The juggler in the middle trades places with a juggler on
-a leaf. The juggler who was on the leaf goes to the middle, and then replaces
-the juggler on the next leaf (follow the arrows in the diagram above). All of
-this movement occurs while passing.
-
-In this variation, there is a feeder who passes 3 times in a row (once to each
-of the other jugglers). Then the former feeder has 2 right hand selves to move
+In the standard version, there is a feeder who passes 3 times in a row (once to each
+of the other jugglers; from right to left). Then the former feeder has 2 right hand selves to move
 to the middle, one pass in the middle, and 2 right hand selves to move out of
-the middle. Then the pattern repeats.
+the middle. Then the pattern repeats.  We say it's  *2-in-2-out*, as that counts the right selves on
+the way through the middle.
 
 To start, ignore the fact that there is a clover. Just concentrate on the feed,
 and then moving into the middle of a feed and then moving out and repeating the
-feed.
+feed.  After the feed, as you start your *2-in*, it's helpful to move forward and slightly to the right while
+simultaneously rotating to the right (clockwise, from above); this helps you open up to be ready to be the
+middle pass in the next person's feed.
 
-Just remember, feed, 2 in and 2 out. In the diagram above, A is the first
+Just remember, feed, 2 selves-in-pass-2-selves-out. In the diagram above, A is the first
 feeder. In 8 passes, the clover has completed a cycle where every juggler has
-moved from their leaf to the next leaf.
+moved from their leaf to the next leaf. *how many beats for a full cycle?*
 
 ![](./media/image10.jpeg)
 
@@ -480,16 +464,12 @@ The Run Over Clover is the same pattern with some of the selves replaced with pa
 
 ### Run Over Clover
 
-![](./media/image11.jpeg){width=60%}
+|      |         |
+|------|--------|
+| ![](./media/image11.jpeg){width=40%} | ![](./media/runoverclovertable.png){width=50%} |
+|            | Right-hand counting |
 
-| **Juggler** | **1**   | **2**   | **3**   | **4**   | **5**   | **6**   | **7**   | **8**   |
-|-------------|---------|---------|---------|---------|---------|---------|---------|---------|
-| **A**       | D       | B       | C       | B       |         | B       |         | B       |
-| **B**       |         | A       |         | A       | C       | A       | D       | A       |
-| **C**       |         | D       | A       | D       | B       | D       |         | D       |
-| **D**       | A       | C       |         | C       |         | C       | B       | C       |
 
-> * Right hand counting
 
 ![](./media/image12.jpeg)
 
@@ -576,8 +556,8 @@ Pattern by Luke Emery, 2001.
 ![](./media/image14.png){width=50%}
 
 There is a whole family of benzene ring patterns, where movers juggle in a
-circle between two feeders. The Benzene Ring for Six and for Eight are much
-easier patterns to start, but Benzene Ring for Four is more fun.
+circle between two feeders. The Benzene Ring for Six and for Eight are 
+easier patterns to learn, but Benzene Ring for Four is more fun.
 
 This version is in 3-count.
 
@@ -636,6 +616,12 @@ pirouette underneath, followed by a left self and then repeat.
 >   Ring.
 
 Pattern by Luke Emery
+
+## $2\pi/3$ With Post
+
+Take the 3-person $2\pi/3$ pattern, but add a stationary *post* who feeds the same count as 
+everyone else, but alternating to positions 2 and 5.
+
 
 ## Canoe
 

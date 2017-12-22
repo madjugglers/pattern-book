@@ -88,10 +88,12 @@ Fast/Slow Feeds, Gorilla Feeds, Site-Swap Feeds...we do all of them in Madison,
 but they're not really part of the Pattern Book yet. Look them up somewhere else
 for now and maybe we'll get some of them in a future passing pattern book.
 
-## Triangle
+## Triangles
 
-When 3 jugglers stand in a triangle, three obvious passing formations are the
-inside triangle (pass to the juggler on the left with a right hand pass),
+Math geeks recognize that the positions of any three non-colinear jugglers
+form vertices of a triangle.  But that's not what jugglers mean by triangle -- they mean
+equilateral triangle.  When 3 jugglers are so evenly positioned, three obvious passing formations are 
+suggested: the inside triangle (pass to the juggler on the left with a right hand pass),
 outside triangle (pass to the juggler on the right with a right hand pass), and
 two jugglers pass with each other while the other does a self.
 
@@ -341,8 +343,14 @@ incoming double pass approaches. The timing on this pattern is not symmetric.
 Each juggler is 1/3 beat out of time with the juggler before. This pattern can
 be extended to a number of interesting variations, such as the Bubbler of David.
 
-## Turbo
+## Turbos
 
+### Bruno's nightmare
+
+We haven't juggled this much in Madison, but we include it for reference. It used
+to be popular in Europe! See [PassingDB](https://www.passingdb.com/patterns.php?id=49)
+
+### Turbo (standard)
 | **Juggler** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** |
 |-------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
 | **A**       | B     | C     | B     |       | B     |       | C     |       | C     |
@@ -351,8 +359,7 @@ be extended to a number of interesting variations, such as the Bubbler of David.
 
 > * Right hand counting
 
-An animation of this pattern can be seen by visiting the
-[Juggloid website](http://juggloid.com/editor/?s=npRW7l)
+[Here's a cool animation of the Turbo](http://juggloid.com/editor/?s=npRW7l)  (Thanks Nick!)
 
 A Turbo is a group of 3 weaving jugglers who feed themselves. It is also a
 Two-leaf Clover or a continuous change sides feed through the middle. Pass every
@@ -366,7 +373,9 @@ feeding.
 When a juggler moves to the other side, he or she cuts across in front of the
 old feeder, and turns around to pass to the new feeder.
 
-History: Turbo is a pattern that developed from Bruno's Nightmare.  Bruno's Nightmare was desinged without a specific count and the 18 throw version, the same number as the turbo, is called Bruno's Nightmare Turbo.  The difference between Bruno's Nightmare Turbo and Turbo is when you turn.  In Turbo you turn before entering the middle.  In Bruno's Nightmare you turn after exiting the middle.
+History: We're not sure. Turbo may have developed inadvertently when in the early 90's we tried, unsuccessfully, 
+to recreate  Bruno's Nightmare from faulty memory.  The main difference between Bruno's Nightmare and Turbo is when you turn.  In Turbo you turn before entering the middle.  In Bruno's Nightmare you turn after exiting the middle, which lengthens the cycle and makes the pattern easier by some measures.  There is also variations of
+Bruno's Nightmare that we've heard about but we don't juggle.
 
 
 To learn the Turbo, start by practicing a regular feed change sides. Then learn
@@ -379,7 +388,7 @@ and harder for right-handers off the left side.  Try double or triple earlies
 before entering the middle. Try a behind-the-back pass when moving
   off the right side.
 
-### Variations
+### Count and Hand Variations
 
 There are a lot of Turbo variations. Turbos can be done in almost any count and
 combined in many different ways.
@@ -433,7 +442,7 @@ speed. Excelsior!
 
 By Luke Emery, 1999.
 
-### Variations
+### Even more variations
 
 Try with single passes instead of double passes in 7 club 2 count singles speed.
 
@@ -441,7 +450,7 @@ We worked out an 11-Club Turbo variation with triple selves on the transitions,
 but it's too hard for us to run more than a couple transitions at a time. Maybe
 we'll get it in a future version of the book.
 
-## Another 10-Club Turbo
+### Another 10-Club Turbo
 
 The pattern above will always be **the** 10-Club Turbo, but here is another
 version that makes a nice diversion. It's based on an extra club feed too, but

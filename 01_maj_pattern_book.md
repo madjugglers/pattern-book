@@ -27,7 +27,7 @@ reformating and expanding Mike's hand-written notes.
 Steve made a few version updates, for example adding a bunch of extra-club patterns by Peter Kaseman and Luke Emery; the unusual computer format of Steve's version and his departure from Madison  slowed down subsequent updates, even though the MAJ continued to create new patterns at a steady rate.  The next big contribution was Luke Emery's version (*Version 2.0*, 2012). Though it was not widely distributed, Luke's version
 contained all kinds of new additions: more patterns for all numbers of jugglers, more on site-swap, more
 on specialized extra-club patterns, and tips for creating and doing patterns.  
-In 2015 Matt Hemke, Evan Driscol, and Nick Aitkins  created a Github repository for the project, converted Luke's version into a repo, and updated the collection further. 
+In 2015 Matt Hemke and Evan Driscol  created a Github repository for the project, converted Luke's version into a repo, and updated the collection further. 
 
  Recently  Chan Wilson, Jeff Adamus, and
 Melonhead have been recording the patterns we do at  Thursday and Sunday MAJ practices.  It's
@@ -80,10 +80,12 @@ very difficult on a fast count.  We say you are passing on an $m/n$-count if you
 a cycle of $m$ beats, counting on both hands.  
  For example, $2/1$-count means,  *pass-self*, then repeat.  When the
 denominator $n$ is 1 we just say $m$-count, as in the familiar 1-count, 2-count, 3-count, and so on. 
+Double-three count is a popular count, which in this notation is $3/2$-count.
  Stating the count does not necessarily imply what hands are doing what, how many clubs
 are being juggled,  or the starting 
-configuration. E.g., left-hand 2-count is different from right-hand 2-count.  Odd counts are 
-nicely balanced for the hands, then the only issue is the start, which we usually do out of the right.
+configuration. E.g., left-hand 2-count is different from right-hand 2-count.  Odd counts (i.e.,
+odd $m$) are 
+nicely balanced for the hands; then the only issue is the start, which we usually do out of the right.
 
 
 Throw timing, throw destination, and juggler position over time have to be recorded to describe
@@ -209,6 +211,7 @@ We use whatever seems to make sense to us at the moment and make no guarantee of
   you the look...you know, the **look**...but then they don't!
 * **inverted.** A moving convention in the weave: forward-on-the-end/backd-through-the-middle
 * **I blame society**. An excuse for some juggling failure (usually by Mel).
+* **last jugglers' try**. The last attept at a pattern, but only if it goes well enough.
 * **leader**. One who calls out, *jugglers ready: up, down, ...* at the beginning of a pattern. 
 * **Mel catch**.  The act of catching the fat end after a 2.5 triple up.
 * **Mr. Inside/Mr. Outside**.  The two feeding positions of a doubly-fed weave.
@@ -220,26 +223,28 @@ We use whatever seems to make sense to us at the moment and make no guarantee of
 * **phantom**.
   A feedee place holder who isn't really there. A feeder, for example, may feed
   2 real feeders and a phantom in a sweep feed: pass-pass-self-pass and repeat.
+* **plus**.  A suffix added to indicate an extra club added to the base pattern.
 * **preverted.** A moving convention in the weave: back-on-the-end/forward-through-the-middle.
 * **run it**.  Continue juggling for an indefinite number of cycles.
 * **scheisse**.  An utterance of frustration, possibly by Dan Schuchnect. 
+* **southern Wisconsin convention**.  When changing sides from a feedee position in a standard count, do so on an outside-throw/inside-catch; e.g. 
+ on a  right-hand throw/left-hand reception when on the right side of the feedee line.
 * **straight**. A right-to-left or left-to-right pass.
+* **sweenish**.  A fancy final move in a pattern, preferably clean.
 * **The wind is our friend**. An encouraging commentary when juggling outside.
 * **three-count**. In Madison, the default passing count between two jugglers. Sometimes called the *waltz*.
+* **tomify**.  Replace a 2-count with pass-pass-pass, thus omitting selfs (Tom Pomraning)
 * **triple up**.  The showy last action in a pattern, after the hup, in which each
  juggler lofts a triple self. 
 * **ultimate**. 1-count
-* **wuss**.  The amount of gentleness, tenderness and love added to a juggling throw.
-  Compare to mayonnaise. The quality of passes you would make to your favorite
-  grandmother. As in, please add some wuss to your middle passes. You're hurting
-  my catching hand!
-* **southern Wisconsin convention**.  When changing sides from a feedee position in a standard count, do so on an outside-throw/inside-catch; e.g. 
- on a  right-hand throw/left-hand reception when on the right side of the 
- feedee line.
 * **weave**. A most popular moving pattern with three feedees and a feeder, which is the basis of many multi-person patterns.  The 3 feedees move in a figure 8 while juggling. 
 * **windshield wiper**. The more common style of feeding where the feeder 
 first feeds the line in sequence, and then returns in reverse order.  Windshield wiper and carriage return are the same with two feedees, but
  differ for three or more feedees.
+* **wuss**.  The amount of gentleness, tenderness and love added to a juggling throw.
+  Compare to mayonnaise. The quality of passes you would make to your favorite
+  grandmother. As in, please add some wuss to your middle passes. You're hurting
+  my catching hand!
 * **You herniated my ZOC.** Said if a pass forced extension and excessive effort in the catching.
 * **ZOC**.
   Zone of Catchability. The area around a passer where they can catch
@@ -417,5 +422,5 @@ do a lot of the 7 and 8 club based passing patterns.
 * Madison, Wisconsin, January 2001 Version 1.1
 * Madison, Wisconsin, March 2001 Version 1.2
 * Madison, Wisconsin, January 2012 Version 2.0
-* Madison, Wisconsinm January 2017 Version 3.0
+* Madison, Wisconsinm January 2018 Version 3.0
 
