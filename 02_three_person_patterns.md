@@ -1,6 +1,5 @@
 #  3-Person Patterns
 
-
 ## Feed (for 3 jugglers)
 
 The feed for 3 jugglers is the simplest 3 person pattern and likely the first
@@ -8,14 +7,10 @@ one you tried. Because juggling with 3 is so much different than with 2, it's
 often a good idea to be comfortable with other patterns in a 3 person feed
 before trying them in larger patterns.
 
-| **Juggler** | **1** | **2** |
-|-------------|-------|-------|
-| **A**       | B     | C     |
-| **B**       | A     |       |
-| **C**       |       | A     |
-
-> * Right hand counting
-
+|                                        |                          |
+|------------|------------|
+| ![](./media/threefixed.png){width=15%} | ![](./media/feedtable.png){width=27%} | 
+| positions                                       |    Right hand counting |
 How about left handed, chocolate bar, feeder in double 3-count (and feedees in
 3-count), or Tom's (which is 3 passes in a row to each feedee with no selves for
 the feeder)?
@@ -487,7 +482,7 @@ By Luke Emery, 2002.
 Read this *two pi on three*.   This one is a late bloomer, considering how simple it is and how long people have been juggling
 and moving in groups of three.  There are three moving jugglers, A, B, and C, and six passing beats for a full cycle: (on count of choice; rows of tables).  Everyone moves through the figure eight; in contrast to a Turbo or Bruno’s nightmare, 
 there is not a feeder being swapped here; all folks are moving all the time.  Four count is fun; three count is more fun.   In any count, it’s pass-one, pass-the other, self.   Whatever is the base count the pattern has a gap (in this layout, positions 2 and 5) where you can plug in any other juggler or 
-pattern that matches that count (including three other jugglers doing a 2$\pi$/3!).   Looks like two pies when viewed from above, and it’s 3 jugglers.  Plus, each circle in the layout is divided into 3, hence the name.  We invented  2$\pi$/3 in summer 2017 and juggled it a lot then.
+pattern that matches that count (including three other jugglers doing a 2$\pi$/3!).   Looks like two pies when viewed from above, and it’s 3 jugglers.  Plus, each circle in the layout is divided into 3, hence the name.  Mike invented  2$\pi$/3 in summer 2017 and we juggled it a lot then.
 
 ![](./media/twopionthree.png){width=50%}
 
@@ -601,6 +596,16 @@ triple followed by a pirouette, etc.)
 
 There's a 5 person variation we call Cathedral in the 5 Person Patterns.
 
-## Up, Up and Over
+## Up-Up-Over
 
-Ok, Mike, how do you do this one, exactly?
+Here's a curious pattern that exercises your 4-club columns skill.  Jugglers A and B start with 4 clubs
+each. Juggler C starts with 2 clubs.  The vertical arrow in the table means *up*, i.e., throw two clubs up
+as double selves.  Feeder A is doing a slow two-hand doubles feed, starting with C.  Juggler B starts in sync
+with A and does *up-up-over*.  Juggler C waits to receive the two incoming from A and then responds with
+*up-up-over*.
+
+|            |            |
+|------------|------------|
+| ![](./media/threefixed.png){width=15%} | ![](./media/upupovertable.png){width=27%} |
+| positions                                       |    simultaneous double throws |
+Mike and Steve did this first in the early 90's, when Madfest was still in the Memorial Union.

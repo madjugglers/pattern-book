@@ -344,13 +344,14 @@ The Standard Weave has been around longer than any of us have been juggling.
 
 This weave variation has the same passes as the standard weave, but the weavers
 move side-to-side like dresser drawers  instead of through a figure eight. Usually we debate whether
-B is the socks or underwear drawer.  Each juggler has its own slot to move on. Each slot has three positions: left,
+B is the socks or underwear drawer.  Each juggler has its own slot (i.e. *drawer*)  to move on. Each slot has three positions: left,
 middle, and right. Weavers move back and forth on their slots. Moves are made to
 the next position after the pass is made from the current position.
 
 ![](./media/image7.png){width=70%}
 
-When was this pattern created? We have been doing it since 1992.
+The weave predates the MAJ. Seems like the Flying Karamozov's must have done it.
+ We've been weaving since 1992.
 
 ### Inside-Out Weave
 ![](./media/image8.jpeg){width=40%}
