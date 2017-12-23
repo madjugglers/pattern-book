@@ -2,10 +2,10 @@
 
 Welcome to the *Madison Area Jugglers' Pattern Book*, a collection of patterns
 for intermediate to advanced passers. These patterns are part of our juggling repertoire.
-Many of them we learned or adapted from others; they're here because 
-we have had fun trying to juggle them.  But most of the patterns in this book
-were born in Madison, conjured up at Thursday/Sunday juggling sessions, and so 
-the book offers some record of the evolution of club passing in Madison.
+Many we learned or adapted from other jugglers; they're here because 
+we have had fun trying to juggle them.  But very many of the patterns in this book
+were born in Madison, conjured up at Thursday/Sunday juggling sessions or at 47th Annual Madfests, annual
+events since 1992.  The book offers some record of the evolution of club passing in Madison.
 
 Originally we wrote down the patterns just to save time arguing over exactly
 how we did the pattern last time. (Don't worry...there's still plenty of

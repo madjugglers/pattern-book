@@ -264,6 +264,12 @@ well backwards and forwards;  think of the pattern more like a bowtie than a fig
 
 Note on starting: The middle weaver moves towards the end that passes to the feeder first.
 
+Here's another look at the details of the standard weave; the feeder exchanges with jugglers in positions 1, 4, 7,
+and 10 (which is 4, going the other way).  Weavers move regularly through the 12 positions. This detail is
+helpful when we start thinking about Fois-Graham and other complicated double weaves.
+
+![](./media/weavedetail.png){width=70%} 
+
 ### Variations
 
 Oh, there are so many variations of the weave! The mind boggles. To start, try
@@ -554,13 +560,13 @@ able to learn the original variation too, now renamed to the Hyper-Clover.
 Pattern by Luke Emery, 2001.
 
 ## Benzene Ring (Four Juggler Version)
-![](./media/image14.png){width=50%}
+![](./media/image14.png){width=40%}
 
 There is a whole family of benzene ring patterns, where movers juggle in a
 circle between two feeders. The Benzene Ring for Six and for Eight are 
 easier patterns to learn, but Benzene Ring for Four is more fun.
 
-This version is in 3-count.
+This version is in 3-count. We also call this Spinning 3-count.
 
 | **Juggler** | **1**   | **4**   | **7**   | **10**   |
 |-------------|---------|---------|---------|----------|
@@ -597,7 +603,7 @@ backwards. It is a precursor for the Razor juggling pattern.
 Pattern created July, 1997 by MAJ.
 
 ### Chocolate Stir
-![](./media/image15.png){width=50%}
+![](./media/image15.png){width=40%}
 
 A chocolate bar variation of the 4 person Benzene Ring starts in the same
 positions as the Benzene Ring. Each juggler is in chocolate bar. The inner
@@ -808,7 +814,7 @@ the feeder. For example, in the figure below, the red juggler starts as the feed
   You'll notice that the pattern is *chiral*, as we say, which means that it has a specific orientation; a backwards version would be different. In the figure, for example, movement through the middle always goes left to right.   
 
 
-![](./media/el-turbo.jpg)
+![](./media/el-turbo.jpg){width=80%}
 
 Variation: 
 Note that there are opportunities in El Turbo for 
@@ -1086,7 +1092,7 @@ challenging weave. Also see the Popcorn Twister and Popcorn Twister Weave.
 This pattern dates to September, 1999 by Luke Emery and the MAJ.
 
 ## Simple Egg Beater, No Handle
-![](./media/image20.png){width=50%}
+![](./media/image20.png){width=40%}
 
 This is like a 4-person version of a synchronous double weave.
 
@@ -1097,7 +1103,8 @@ This is like a 4-person version of a synchronous double weave.
 | **C**       | A       |         | B       |         |
 | **D**       | B       |         | A       |         |
 
-# TODO fix images here....
+
+TODO fix images here....
 
 After the 4th box, the jugglers are inverted, but the passing sequence repeats.
 
