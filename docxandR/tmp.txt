@@ -1,0 +1,25 @@
+
+### Standard Feed (4 jugglers)
+
+| **Juggler** | **1** | **2** | **3** | **4** |
+|-------------|-------|-------|-------|-------|
+| **A**       | B     | C     | D     | C     |
+| **B**       | A     |       |       |       |
+| **C**       |       | A     |       | A     |
+| **D**       |       |       | A     |       |
+
+> * Right hand counting
+
+
+
+## Standard Feed (3 jugglers)
+
+| **Juggler** | **1** | **2** |
+|-------------|-------|-------|
+| **A**       | B     | C     |
+| **B**       | A     |       |
+| **C**       |       | A     |
+
+> * Right hand counting
+
+

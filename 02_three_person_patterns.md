@@ -1,5 +1,7 @@
 #  3-Person Patterns
 
+Big patterns come from little patterns, so we need to know some of these first!
+
 ## Feed (for 3 jugglers)
 
 The feed for 3 jugglers is the simplest 3 person pattern and likely the first
@@ -9,7 +11,7 @@ before trying them in larger patterns.
 
 |                                        |                          |
 |------------|------------|
-| ![](./media/threefixed.png){width=15%} | ![](./media/feedtable.png){width=27%} | 
+| ![](./media/threefixed.png){width=15%} | ![](./media/3feedtable.png){width=27%} | 
 | positions                                       |    Right hand counting |
 How about left handed, chocolate bar, feeder in double 3-count (and feedees in
 3-count), or Tom's (which is 3 passes in a row to each feedee with no selves for
@@ -24,7 +26,7 @@ extra club chocolate bar feeds.
 
 #### 4-Count Popcorn Feed
 
-| **Juggler** | **1**  | **2**  |
+| **Juggler/beat** | **1**  | **2**  |
 |-------------|--------|--------|
 | **A**       | C      | B      |
 | **B**       | A      | T-self |
@@ -35,7 +37,7 @@ extra club chocolate bar feeds.
 
 #### 6-Count Popcorn Feed
 
-| **Juggler** | **1**  | **2**  | **3**  |
+| **Juggler/beat** | **1**  | **2**  | **3**  |
 |-------------|--------|--------|--------|
 | **A**       | C      | T-self | B      |
 | **B**       | A      |        | T-self |
@@ -52,7 +54,7 @@ double straight self, pass (533p, 5p33, 443p, 44px3 all work).
 
 #### 5-Count Popcorn Feed (one variation)
 
-| **Juggler** | **1** | **2**  | **3** | **4** | **5**  |
+| **Juggler/beat** | **1** | **2**  | **3** | **4** | **5**  |
 |-------------|-------|--------|-------|-------|--------|
 | **A**       | D-B   |        | D-C   |       |        |
 | **B**       |       | T-self |       | D-A   |        |
@@ -67,7 +69,7 @@ The timing is a bit wonky, B and C should delay slightly at the start.
 
 #### Extra Clubs Chocolate Bar Feed (one variation)
 
-| **Juggler** | **1**  | **2**  | **3**  | **4**  |
+| **Juggler/beat** | **1**  | **2**  | **3**  | **4**  |
 |-------------|--------|--------|--------|--------|
 | **A**       | Dx-B   | Dx-B   | Dx-C   | Dx-C   |
 | **B**       | A      | A      | D-self | D-self |
@@ -106,7 +108,7 @@ count and 1-count, 2-count and 4-count.
 The Rotating Feed Triangle is the simplest rotating feed. For 3 jugglers, a
 rotating feed is the same as a feast.
 
-| **Juggler** | **1** | **2** | **3** |
+| **Juggler/beat** | **1** | **2** | **3** |
 |-------------|-------|-------|-------|
 | **A**       | B     |       | C     |
 | **B**       | A     | C     |       |
@@ -116,7 +118,7 @@ rotating feed is the same as a feast.
 
 ### Pulsar
 
-| **Juggler** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** | **11** | **12** |
+| **Juggler/beat** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** | **11** | **12** |
 |-------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|--------|--------|--------|
 | **A**       | B     | C     |       | C     |       | B     | C     | B     | C     |        | B      |        |
 | **B**       | A     |       | C     |       | C     | A     |       | A     |       | C      | A      | C      |
@@ -152,7 +154,7 @@ Right, self, right, self, self, left, self, self, self, left, self, self.
 
 ### Puzzle Feeder (for 3 jugglers)
 
-| **Juggler** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** | **11** | **12** |
+| **Juggler/beat** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** | **11** | **12** |
 |-------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|--------|--------|--------|
 | **A**       | C     |       | C     | B     |       | C     | B     |       | B     | C      |        | B      |
 | **B**       |       |       |       | A     |       |       | A     |       | A     |        |        | A      |
@@ -164,7 +166,7 @@ A is the feeder, and B and C are doing the Three-piece Puzzle pattern six throws
 
 ### Puzzle Feast
 
-| **Juggler** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** | **11** | **12** |
+| **Juggler/beat** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** | **11** | **12** |
 |-------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|--------|--------|--------|
 | **A**       | C     | B     |       | C     | B     |       | B     | C     |       | B      | C      |        |
 | **B**       | A     | C     |       | A     | C     |       | C     | A     |       | C      | A      |        |
@@ -180,7 +182,7 @@ Three-piece Puzzle and Puzzle Feeder patterns are by Jim Brennen. Puzzle Feast i
 
 Here are two nice variations related to a Martin's Madness feed.
 
-| **Juggler** | **1** | **2** | **3** |
+| **Juggler/beat** | **1** | **2** | **3** |
 |-------------|-------|-------|-------|
 | **A**       | D-B   | D-C   | 1     |
 | **B**       |       | A     |       |
@@ -193,7 +195,7 @@ A does 441 (i.e. double pass, double pass, shuffle)
 Alternatively, A can throw cross double passes and B and C can throw cross
 passes too (starting on opposite hands).
 
-| **Juggler** | **1** | **2** | **3** |
+| **Juggler/beat** | **1** | **2** | **3** |
 |-------------|-------|-------|-------|
 | **A**       | T-C   | B     | 1     |
 | **B**       |       | A     |       |
@@ -215,7 +217,7 @@ feed sweep, the feeder must throw a right to left self double to adjust the
 timing of the pattern. Also, the old feeder throws 2 passes in a row to the new
 feeder to transfer the extra club.
 
-| **Juggler** | **1**  | **2** | **3** | **4**  | **5** | **6** | **7**  | **8** | **9** |
+| **Juggler/beat** | **1**  | **2** | **3** | **4**  | **5** | **6** | **7**  | **8** | **9** |
 |-------------|--------|-------|-------|--------|-------|-------|--------|-------|-------|
 | **A**       | D-B    |       | D-C   |        | D-C   |       | D-self | Pause |       |
 | **B**       |        | D-A   |       | D-self | Pause |       | D-C    |       | D-C   |
@@ -243,7 +245,7 @@ version has 10 clubs, and A starts with 4 clubs.
 
 ### 10 Club 3 Count Triangle
 
-| **Juggler** | **1** | **2** | **3** |
+| **Juggler/beat** | **1** | **2** | **3** |
 |-------------|-------|-------|-------|
 | **A**       | D-C   |       |       |
 | **B**       |       | D-B   |       |
@@ -258,7 +260,7 @@ If that isn't challenging enough. Add more clubs and passes. A and C start with
 
 ### 11 Club 2 of 3 Count Triangle
 
-| **Juggler** | **1** | **2** | **3** |
+| **Juggler/beat** | **1** | **2** | **3** |
 |-------------|-------|-------|-------|
 | **A**       | D-C   | D-C   |       |
 | **B**       |       | D-B   | D-B   |
@@ -266,7 +268,7 @@ If that isn't challenging enough. Add more clubs and passes. A and C start with
 
 ### 12 Club 1-Count Triangle
 
-| **Juggler** | **1** | **2** | **3** |
+| **Juggler/beat** | **1** | **2** | **3** |
 |-------------|-------|-------|-------|
 | **A**       | D-C   | D-C   | D-C   |
 | **B**       | D-B   | D-B   | D-B   |
@@ -283,7 +285,7 @@ There are corresponding extensions to a 5 person star in the 5 Person Patterns.
 
 Here's another variation on a 10 club triangle from 4-count 7 with triples.
 
-| **Juggler** | **1** | **2** | **3** |
+| **Juggler/beat** | **1** | **2** | **3** |
 |-------------|-------|-------|-------|
 | **A**       | T-C   | B     | C     |
 | **B**       | C     | A     | T-A   |
@@ -297,7 +299,7 @@ You can skip all the single passes until the triple passes are reliable.
 
 |             |        |        |        |
 |-------------|--------|--------|--------|
-| **Juggler** | **1**  | **2**  | **3**  |
+| **Juggler/beat** | **1**  | **2**  | **3**  |
 | **A**       | C      |        | T-self |
 | **B**       |        | T-self | A      |
 | **C**       | T-self | B      |        |
@@ -307,7 +309,7 @@ You can skip all the single passes until the triple passes are reliable.
 
 ### 5-Count Popcorn Triangle
 
-| **Juggler** | **1**  | **2** | **3**  | **4**  | **5** |
+| **Juggler/beat** | **1**  | **2** | **3**  | **4**  | **5** |
 |-------------|--------|-------|--------|--------|-------|
 | **A**       | C      |       |        | T-self |       |
 | **B**       |        |       | T-self |        | A     |
@@ -346,7 +348,7 @@ We haven't juggled this much in Madison, but we include it for reference. It use
 to be popular in Europe! See [PassingDB](https://www.passingdb.com/patterns.php?id=49)
 
 ### Turbo (standard)
-| **Juggler** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** |
+| **Juggler/beat** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** |
 |-------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
 | **A**       | B     | C     | B     |       | B     |       | C     |       | C     |
 | **B**       | A     |       | A     | C     | A     | C     |       | C     |       |
@@ -414,7 +416,7 @@ opposite hand or by throwing an early triple pass and pausing for one beat. The
 diagram below shows the early triple, but experiment with whatever works best
 for you (some people think a right to left double is easier).
 
-| **Juggler** | **1**   | **2**   | **3**   | **4**   | **5**   | **6**   | **7**   | **8**   | **9**   | **10**   | **11**   | **12**   | **13**   | **14**   |
+| **Juggler/beat** | **1**   | **2**   | **3**   | **4**   | **5**   | **6**   | **7**   | **8**   | **9**   | **10**   | **11**   | **12**   | **13**   | **14**   |
 |-------------|---------|---------|---------|---------|---------|---------|---------|---------|---------|----------|----------|----------|----------|----------|
 | **A**       | D-B     |         | D-C     |         | D-C     |         |         |         | D-C     | Move     |          |          | T-B      | Pause    |
 | **B**       |         | D-A     | Move    |         |         | T-C     | Pause   |         |         |          | D-C      |          | D-A      |          |
@@ -458,7 +460,7 @@ does a half pirouette underneath a double right to left self throw, Then steps
 back to complete a single turbo transition. The table below has one complete
 transition.
 
-| **Juggler** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8**  | **9** | **10** | **11** |
+| **Juggler/beat** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8**  | **9** | **10** | **11** |
 |-------------|-------|-------|-------|-------|-------|-------|-------|--------|-------|--------|--------|
 | **A**       | D-B   |       | D-C   |       | D-B   |       | D-C   |        | D-C   |        |        |
 | **B**       |       | D-A   |       |       |       | D-A   |       | D-self |       |        | D-C    |
@@ -499,7 +501,7 @@ Mel is B (Mel is always B), and starts facing A, then it looks like this.
 
 |             |       |       |       |       |       |       |       |       |       |        |        |        |
 |-------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|--------|--------|--------|
-| **Juggler** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** | **11** | **12** |
+| **Juggler/beat** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** | **11** | **12** |
 | **A**       | C     | B     |       | C     |       |       | C     | B     |       | C      |        |        |
 | **B**       |       | A     |       |       | C     |       |       | A     |       |        | C      |        |
 | **C**       | A     |       |       | A     | B     |       | A     |       |       | A      | B      |        |
@@ -516,7 +518,7 @@ All jugglers are in 3-count. Use the exact same pass sequence, but B (that's Pet
 
 Extra club version of Mel in the Middle, except in 4-count instead of 3-count. Inside person whirls with half pirouettes under doubles while outsides do popcorn. All passes are right handed.
 
-| **Juggler** | **1** | **2**  | **3** | **4** | **5**  | **6** | **7**  | **8** | **9** | **10** | **11** | **12** | **13** | **14** |
+| **Juggler/beat** | **1** | **2**  | **3** | **4** | **5**  | **6** | **7**  | **8** | **9** | **10** | **11** | **12** | **13** | **14** |
 |-------------|-------|--------|-------|-------|--------|-------|--------|-------|-------|--------|--------|--------|--------|--------|
 | **A**       | D-C   |        | B     |       | D-C    |       | T-self |       | D-C   |        | D-C    |        | B      |        |
 | **B**       |       |        | A     |       | D-self | ½ P   |        | C     |       | D-self | ½ P    |        | A      |        |
@@ -549,7 +551,7 @@ everyone!
 
 A and B face each other. C faces A and B.
 
-| **Juggler** | **1**   | **2**   | **3**   | **4**   |
+| **Juggler/beat** | **1**   | **2**   | **3**   | **4**   |
 |-------------|---------|---------|---------|---------|
 | **A**       | D-C     |         | B       |         |
 | **B**       |         |         | A       |         |
@@ -563,7 +565,7 @@ to A. A alternates right triple selves and doubles to A (fast popcorn).
 
 ## GDP
 
-| **Juggler** | **1**   | **2**   | **3**   | **4**   | **5**   | **6**   | **7**   | **8**   | **9**   |
+| **Juggler/beat** | **1**   | **2**   | **3**   | **4**   | **5**   | **6**   | **7**   | **8**   | **9**   |
 |-------------|---------|---------|---------|---------|---------|---------|---------|---------|---------|
 | **A**       | T-C     | B       | T-C     | Move    | C       | Move    |         | T-B     |         |
 | **B**       |         | A       | Move    |         | T-C     |         | T-A     | C       | T-A     |

@@ -87,7 +87,7 @@ or left-to-right throws. Even without adding extra clubs or unusual throws (heff
 there is an incredible  variety of fun patterns found by varying where jugglers are and 
  who passes to whom when.
 
-### Count
+### Counts/Cycles
 
 A basic passing descriptor is the *count*, which tells the juggler how frequently to make a pass. 
 In simple patterns each juggler's count is constant, but even simple patterns can be 
@@ -102,25 +102,26 @@ configuration. E.g., left-hand 2-count is different from right-hand 2-count.  Od
 odd $m$) are 
 nicely balanced for the hands; then the only issue is the start, which we usually do out of the right.
 
+Mortal jugglers, like us, can only do patterns that repeat.  That repeatable unit is called a *cycle*,
+and it takes some total number of beats to complete on whatever is the base count of the pattern.  Patterns with
+longer cycles are usually harder to remember and therefore harder to do, but not always.  In many
+patterns each juggler does something relatively simple (i.e., a shorter *local* cycle) even if the
+whole pattern takes a long time to complete. Those are cool! 
 
 Throw timing, throw destination, and juggler position over time have to be recorded to describe
 a juggling pattern.  We use tables and figures to express this information. For example,
-the table below illustrates a standard feed, with jugglers (letters) on the rows and passing beat (numbers) on the columns. We sometimes reverse row and column for complicated (longer-cycle) patterns . 
-
-The position graph shows where
-the jugglers (letters) stand. The left graph shows where and when passes are made.
+the table below (right) describes a standard feed, with jugglers (letters) on the rows and passing beat (numbers) on the columns. We sometimes reverse row and column for complicated (longer-cycle) patterns.  We often
+accompany the table with a simple figure showing how the jugglers are positioned (left).   In moving
+patterns (later) we also indicate positions and  transitions with a  nodes-edges graph.
 
 
 ###  Example: standard feed
 
-| **Juggler**/**beat** | **1** | **2** | **3** | 
-|-------------|-------|-------|-------|
-| **A**       | B     | C     | D     |
-| **B**       | A     |       |       |
-| **C**       |       | A     |       |
-| **D**       |       |       | A     |
+|                                        |                          |
+|------------|------------|
+| ![](./media/feedPositions.png){width=15%} | ![](./media/4feedtable.png){width=32%} |
+| positions                                       |    Right hand counting |
 
-> * Right-hand counting
 
 
 The label "Right-hand counting" means that only the right-hand throws are
@@ -133,9 +134,7 @@ For example, if I was juggler C in the above pattern, I would read along the
 (the empty box represents a self throw). For the next right-hand throw (column
   2), I pass to A. For the next two right-hand throws, I do a self throw
   followed by a pass to A. The table rolls over, so that the fifth pass is the
-  same as the first.
-
-**to do ...put in a graph of this pattern **
+  same as the first; i.e. the pattern has a 4-beat cycle.
 
 Unless otherwise specified, all passes are single spins and do not cross.
 Doubles and triples to juggler A would be indicated by D-A and T-A respectively
@@ -146,7 +145,7 @@ starting instructions may be noted in or below the table.
 
 ### Typewriter Extra Club Feed (13 clubs)
 
-| **Juggler** | **1** | **2** | **3** | **4** | **5** | **6** |
+| **Juggler/beat** | **1** | **2** | **3** | **4** | **5** | **6** |
 |:-----------:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 | **A**       | D-D   |       | D-C   |       | D-B   |       |
 | **B**       |       | D-A   |       |       |       |       |
@@ -167,7 +166,7 @@ room to pass underneath to C and B.*
 
 ### Some Funny Left/Right Box
 
-| **Juggler** | **1** | **2** | **3** | **4** | **5** | **6** |
+| **Juggler/beat** | **1** | **2** | **3** | **4** | **5** | **6** |
 |-------------|-------|-------|-------|-------|-------|-------|
 | **A**       | B     | C     | B     |       | D     |       |
 | **B**       | A     | D     | A     |       | C     |       |
@@ -192,8 +191,9 @@ requires special circumstances.
 Occasionally we invoke passing site swaps to describe patterns. For example, 7
 club 2-count would be 4p 3 | 3 4p (2<sup>nd</sup> juggler starts with left
 hand). There are a number of different site swap notations out there for
-passing.  *we're not experts in this...cite out, e.g. to Will Murray's page*
-We use whatever seems to make sense to us at the moment and make no guarantee of consistency.
+passing.  Frankly, most of us are not expert in this  (exceptions, Nick, Graham, Peter, Luke), 
+but we point to some internet resources at 
+the end of the chapter fyi.  We use whatever seems to make sense to us at the moment and make no guarantee of consistency.
 
 ## Secret Juggling Code Words and Phrases (Glossary)
 
@@ -248,7 +248,7 @@ We use whatever seems to make sense to us at the moment and make no guarantee of
 * **sweenish**.  A fancy final move in a pattern, preferably clean.
 * **The wind is our friend**. An encouraging commentary when juggling outside.
 * **three-count**. In Madison, the default passing count between two jugglers. Sometimes called the *waltz*.
-* **tomify**.  Replace a 2-count with pass-pass-pass, thus omitting selfs (Tom Pomraning)
+* **tomify**.  Replace a 2-count with pass-pass-pass, thus omitting selfs (or *selves*?) (thanks Tom Pomraning)
 * **triple up**.  The showy last action in a pattern, after the hup, in which each
  juggler lofts a triple self. 
 * **ultimate**. 1-count
@@ -257,9 +257,9 @@ We use whatever seems to make sense to us at the moment and make no guarantee of
 first feeds the line in sequence, and then returns in reverse order.  Windshield wiper and carriage return are the same with two feedees, but
  differ for three or more feedees.
 * **wuss**.  The amount of gentleness, tenderness and love added to a juggling throw.
-  Compare to mayonnaise. The quality of passes you would make to your favorite
-  grandmother. As in, please add some wuss to your middle passes. You're hurting
-  my catching hand!
+  Compare to mayonnaise. Also, the quality of passes you would make to your favorite
+  grandmother. As in, "Please add some wuss to your middle passes. You're hurting
+  my catching hand!"
 * **You herniated my ZOC.** Said if a pass forced extension and excessive effort in the catching.
 * **ZOC**.
   Zone of Catchability. The area around a passer where they can catch
@@ -427,13 +427,12 @@ separate markdown files for each chapter:
 * [Appendix F: Passing 43](16_appendix_f_passing_43.md)
 
 
-## More stuff online: Internet Passing Resources
+## Internet Passing Resources
+* [Martin Frost's Youtube channel](https://www.youtube.com/user/elgra2)
 * [JiBe's passingDB site](https://www.passingdb.com/)
-* [Madison Area Jugglers](http://madjugglers.com)
 * [International Juggling Association site](http://www.juggle.org)
 * [Will Murray's site](http://www.csulb.edu/~wmurray/)
-* Mark Weston's passing collection
-* Martin Frost and Stanford jugglers
+* [Mark Weston's passing collection](http://www.varietyartsdirectory.com/resources/PassingPatternsAug06.pdf)
 * [Gandini Juggling Project](http://www.gandinijuggling.com/)
 
 
