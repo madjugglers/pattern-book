@@ -1,3 +1,31 @@
+# About this document 
+
+All jugglers are welcome to play with, use, distribute, extend, and otherwise enjoy all 
+the club-passing patterns described in *Madison Area Jugglers' Pattern Book, Version 3.0*, which is licensed by its creators, the Madison Area Jugglers, under the [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/deed.en_US) ![Creative Commons License](http://i.creativecommons.org/l/by/3.0/88x31.png){width=7%}. 
+
+
+To see the book online (I mean, if you're not already reading this on a computer!), use this QR code:
+
+![](./media/static_qr_code_without_logo.jpg){width=30%} 
+
+or visit
+the [*Madison Area Jugglers website*](http://madjugglers.com) for other links to this document and cool stuff about the MAJ.  All the code to make (and udpate!) this collection is at a [*Github repository*](https://github.com/wiscstatman/pattern-book). See the *build* subdirectory for the current pdf file.  Thinking it would facilitate
+expansion and easy inclusion of new patterns, we formed the source code for this document as a collection of simple markdown files, including image media as appropriate.  New contributions are welcome for the next version, so 
+please visit the Github site and provide some pattern descriptions.
+
+
+If you have any questions, comments or suggestions relating to this book, 
+please contact the Madison Area Jugglers.
+Where possible we have given  credit to the creators of the patterns described here, though for many
+these origins were unknown to us.  If we have erred in our credits, please let us know.
+
+
+
+[**fix** Madjugglers Github site; *not current*](https://github.com/madjugglers)
+
+
+
+
 # Hello Madison Club Passers and Friends!
 
 Welcome to the *Madison Area Jugglers' Pattern Book*, a collection of patterns
@@ -15,7 +43,8 @@ guide or just a library of the patterns that we originated or find interesting.
 If you're from Madison, then it's a handbook to what we do twice a week on
 Thursdays and Sundays, and if you don't know the patterns already then you
 probably will. This book is not intended to be an encyclopedia of all possible
-passing patterns (that would be a big book)!
+passing patterns (that would be a big book)! In fact, we don't include patterns just because
+they are *theoretically* possible; we include them if we have done them!
 
 
 The Madison Area Jugglers (MAJ) have been attempting, inventing, and 
@@ -35,8 +64,8 @@ In 2015 Matt Hemke and Evan Driscol  created a Github repository for the project
 Melonhead have been recording the patterns we do at  Thursday and Sunday MAJ practices.  It's
 an amazing collection, and for those who remember the code words, like  *1-5-1 Fois Graham* or *3-4 Twister*, it's enough
 to figure out what we really did.  But most of us forget the code words after a while,
-except for the frequently juggled ones, and this has been an impetus for the current 
-update.  All along the editors have had 
+except for the frequently juggled ones, and this has been an impetus for this Version 3.0
+update by Mike Newton.  All along the editors have had 
 substantial input from the Madison Area Jugglers and friends, and we are indebted 
 to them for helping enhance this collection.  Club passing
 is a social pastime that needs a group of similarly inclined jugglers. Many of
@@ -44,22 +73,6 @@ these patterns are inspired by other jugglers and patterns or created in
 collaboration with other jugglers. We hope that these patterns will help
 inspire new club passing ideas and help more jugglers all over the world enjoy
 club passing!
-
-All jugglers are welcome to play with, use, extend and otherwise enjoy all of
-our club passing patterns.
-
-This book may be freely reproduced and distributed for non-commercial use.
-
-We have tried to give credit to the creators of the patterns and have indicated
-when we didn't know. If we have erred in our credits, please let us know.
-
-This book of patterns is on the web at the
-[Madison Area Jugglers' Website](http://www.madjugglers.com/).
-
-
-If you have any questions, comments or suggestions relating to this book,
-please visit the [Madjugglers Github site](https://github.com/madjugglers),
-where you can also download the latest edition of this book.
 
 ## How To Read Patterns
 
@@ -100,12 +113,12 @@ the jugglers (letters) stand. The left graph shows where and when passes are mad
 
 ###  Example: standard feed
 
-| **Juggler** | **1** | **2** | **3** | **4** |
-|-------------|-------|-------|-------|-------|
-| **A**       | B     | C     | D     | C     |
-| **B**       | A     |       |       |       |
-| **C**       |       | A     |       | A     |
-| **D**       |       |       | A     |       |
+| **Juggler**/**beat** | **1** | **2** | **3** | 
+|-------------|-------|-------|-------|
+| **A**       | B     | C     | D     |
+| **B**       | A     |       |       |
+| **C**       |       | A     |       |
+| **D**       |       |       | A     |
 
 > * Right-hand counting
 
@@ -197,7 +210,7 @@ We use whatever seems to make sense to us at the moment and make no guarantee of
 * **cycle**. The  amount of juggling after which the pattern repeats.
 * **Doc Blanchard/Glenn Davis**. Mr. Inside/Mr. Outside.
 * **double 3-count**.  pass-pass-self: Academics insist that this is a  3/2-count not 2/3-count.
-* **encroachment**.  Premature lane-crossing between two passing jugglers.  Usually 
+* **encroachment**.  Premature lane-crossing between two passing jugglers in a moving pattern.  Usually 
  entails a 5-yard penalty. 
 * **everies**. 2-count
 * **every-others**. 4-count
@@ -391,6 +404,10 @@ do a lot of the 7 and 8 club based passing patterns.
 
 
 ## The guts of this book: the patterns
+
+If you're thinking to provide some updates at the Github site, note that there are 
+separate markdown files for each chapter:
+
 * [Three Person Patterns](02_three_person_patterns.md)
 * [Four Person Patterns](03_four_person_patterns.md)
 * [Five Person Patterns](04_five_person_patterns.md)
@@ -411,6 +428,7 @@ do a lot of the 7 and 8 club based passing patterns.
 
 
 ## More stuff online: Internet Passing Resources
+* [JiBe's passingDB site](https://www.passingdb.com/)
 * [Madison Area Jugglers](http://madjugglers.com)
 * [International Juggling Association site](http://www.juggle.org)
 * [Will Murray's site](http://www.csulb.edu/~wmurray/)
@@ -420,9 +438,9 @@ do a lot of the 7 and 8 club based passing patterns.
 
 
 ## Version History
+* Madison, Wisconsin, January 1999 Version 0.1
 * Madison, Wisconsin, October 1999 Version 1.0
 * Madison, Wisconsin, January 2001 Version 1.1
 * Madison, Wisconsin, March 2001 Version 1.2
 * Madison, Wisconsin, January 2012 Version 2.0
 * Madison, Wisconsinm January 2018 Version 3.0
-
