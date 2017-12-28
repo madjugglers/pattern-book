@@ -82,8 +82,8 @@ The timing is a bit wonky, B and C should delay slightly at the start.
 > * The double selves are straight
 
 Fast/Slow Feeds, Gorilla Feeds, Site-Swap Feeds...we do all of them in Madison,
-but they're not really part of the Pattern Book yet. Look them up somewhere else
-for now and maybe we'll get some of them in a future passing pattern book.
+but they're not part of the Pattern Book yet. Look them up somewhere else
+for now and maybe we'll get some of them in a future version of the passing pattern.
 
 ## Triangles
 

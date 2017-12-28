@@ -242,6 +242,7 @@ the end of the chapter fyi.  We use whatever seems to make sense to us at the mo
 * **preverted.** A moving convention in the weave: back-on-the-end/forward-through-the-middle.
 * **run it**.  Continue juggling for an indefinite number of cycles.
 * **scheisse**.  An utterance of frustration, possibly by Dan Schuchnect. 
+* **Someone passed me a bad self**. An excuse for dropping.
 * **southern Wisconsin convention**.  When changing sides from a feedee position in a standard count, do so on an outside-throw/inside-catch; e.g. 
  on a  right-hand throw/left-hand reception when on the right side of the feedee line.
 * **straight**. A right-to-left or left-to-right pass.
@@ -266,46 +267,6 @@ first feeds the line in sequence, and then returns in reverse order.  Windshield
   passes with high probability. Peter Kaseman has the largest ZOC in Madison.
 * **ZOOS**. (sounds like the Greek god Zeus)  Zone of occupied space.   Space occupied by a moving juggler.
 
-## Passing Pattern Philosophy
-
-We're occasionally asked at juggling conventions, where do you come up with all
-these patterns? Actually, they sort of make themselves once you invite the
-opportunity. Here are some tips on how to make new passing patterns and have fun
-doing it.
-
-* Start with a classic juggling pattern or any geometric figure (box, triangle,
-  star, Y, W, line, etc.).
-* Think about everybody juggling 3 or 4 clubs.
-* Replace any selves with a pass to another juggler doing a self.
-* Any two jugglers can switch places. Any three jugglers can weave, or turbo.
-* Replace any 4-count with a Twister Weave, or a 7-club 4-count.
-* Replace any 2-count with a Weave.
-* Replace any 3-count with a double 3-count.
-* Replace any feed with an extra club feed.
-* Replace any extra club feed with a 2 extra club feed.
-* The jugglers can move in any pattern (circles, clovers, figure eights, or any
-  juggling siteswap just to name a few).
-* The clubs can be passed in any juggling pattern or siteswap (admittedly,
-  patterns get challenging quickly once you get past the easier siteswaps).
-* Try the same movement in a different count, or left handed.
-* Try the same passing sequence in a different movement.
-* Many of our favorite patterns are group collaborations where lots of people
-  gave ideas for new ways to move or pass.
-* Share your favorite club passing patterns with other jugglers and listen to
-  their ideas too.
-* Recognize the skill level of your participants and do patterns in which everyone
- can be challenged while also having fun.
-* Antonio Vivaldi, in 1725,  titled his Opus 8, 12 Concerti for chamber orchestra and
- violin:   *Il cimento dell'armonia e dell'inventione*, or,
- *The contest between harmony and invention*.  There's no evidence he was juggling, but
- there is a connection to our endeavor. To be worked on, a juggling pattern has to be sufficiently 
- novel that it is interesting for the participants to engage in, but also sufficiently regular that
- it can be mastered with reasonable effort. The fact that the Pattern Book has grown 
- is testament to the fact that jugglers regularly pass clubs in Madison; for this
- activity to persist there must be invention of new things; and as well there must 
- be consistent elements -- count signatures or motion elements -- that we master and 
- then recombine in interesting and enjoyable ways.
-
 ## Random Tips on Passing Patterns
 * **Better Never than Late**.
     If you miss a passing beat, don't pass on the next throw! Instead, wait for the pass
@@ -328,8 +289,10 @@ doing it.
     requirements, so if you're a beginner in a bigger or more advanced pattern,
     we'll try to put you in the best spot for your level. Just try to do the
     best you can, and if you drop, try to keep the timing anyway.
-* **Throw global, catch local**.  What else would you do?
 * **Mike's the leader**. Unless he's not.
+* **Throw global, catch local**.  A prescription for happing passing.
+
+## Mastering the craft
 
 ### Timing
 It may already be obvious, but good timing is critical to group passing
@@ -344,6 +307,8 @@ Make sure all the passes of the same spin go to the same height.
 
 For many patterns, selecting a juggler to count out loud as a metronome can be
 very helpful.
+
+**TBD: what is the MAJ timing...**
 
 Follow the leader!
 
@@ -403,6 +368,86 @@ juggle 4 clubs comfortably in triple singles, double singles and the fountain to
 do a lot of the 7 and 8 club based passing patterns.
 
 
+## Passing Pattern Philosophy
+
+We're occasionally asked at juggling conventions, where do you come up with all
+these patterns? Actually, they sort of make themselves once you invite the
+opportunity. Here are some tips on how to make new passing patterns and have fun
+doing it.
+
+### Mutate
+
+* Start with a classic juggling pattern or any geometric figure (box, triangle,
+  star, Y, W, line, etc.).
+* Think about everybody juggling 3 or 4 clubs.
+* Replace any selves with a pass to another juggler doing a self.
+* Switch the positions of jugglers, but retain the passing sequence.
+* Try the same movement in a different count, or left handed.
+* Try the same passing sequence in a different movement.
+
+### Complicate
+
+Why not make things harder?
+
+* Replace any 3-count with a double 3-count.
+* Replace any feed with an extra club feed.
+* Replace any extra club feed with a 2 extra club feed.
+* Make stationary jugglers move (circles, clovers, figure eights, or any
+  juggling siteswap just to name a few).
+* The clubs can be passed in any juggling pattern or siteswap (admittedly,
+  patterns get challenging quickly once you get past the easier siteswaps).
+
+
+### Combine patterns (*Mating*)
+
+* Replace any position with a set of jugglers that spits out that same count.
+  E.g. replace one person doing a  4-count with  one side of a Twister Weave;  or
+ replace a 2-count person with a Weave (assuming there is room!).  This is the
+ source of many fun big patterns, such as the Egg-Beater-Twister.
+
+
+### Stacking
+
+* Weaves-of-three and spinning-pairs are pattern components that  emit passes on either
+ side of a line.  They are  naturally combined into
+ multi-layer patterns by stacking them up against each other in parallel.  Then feeders (sometimes
+ called *olives*) or same-facing movers anchoring either.  We then get simple descriptors
+ for quite elaborate patterns, such as 1-2-3-2-1, or 1-2-2-2-2-2-1. (See later chapters
+for more details.)
+
+### Starting
+
+* There's nothing that saps your mojo more than a long discussion about how to start
+a pattern.   Keep instructions simple, informative, and clear. Warm up by doing parts
+of a pattern in isolation.  Minimize the Bernardos.  
+
+* For very big patterns, we use
+two decks of playing cards: one is used to mark starting positions by taping cards to
+the floor; a matched set from the second deck is handed out to the participants. The
+leader just instructs jugglers to find their positions, and they usually self-organize!
+We also use tape on the floor to mark movements or passing lanes to keep it clear. 
+
+###  Make it interesting
+
+* Many of our favorite patterns are group collaborations where lots of people
+  gave ideas for new ways to move or pass.
+* Share your favorite club passing patterns with other jugglers and listen to
+  their ideas too.
+* Recognize the skill level of your participants and do patterns in which everyone
+ can be challenged while also having fun.
+* Antonio Vivaldi, in 1725,  titled his Opus 8, 12 Concerti for chamber orchestra and
+ violin:   *Il cimento dell'armonia e dell'inventione*, or,
+ *The contest between harmony and invention*.  There's no evidence he was juggling, but
+ there is a connection to our endeavor. To be worked on, a juggling pattern has to be sufficiently
+ novel that it is interesting for the participants to engage in, but also sufficiently regular that
+ it can be mastered with reasonable effort. The fact that the Pattern Book has grown
+ is testament to the fact that jugglers regularly pass clubs in Madison; for this
+ activity to persist there must be invention of new things; and as well there must
+ be consistent elements -- count signatures or motion elements -- that we master and
+ then recombine in interesting and enjoyable ways.
+
+
+
 ## The guts of this book: the patterns
 
 If you're thinking to provide some updates at the Github site, note that there are 
@@ -442,4 +487,4 @@ separate markdown files for each chapter:
 * Madison, Wisconsin, January 2001 Version 1.1
 * Madison, Wisconsin, March 2001 Version 1.2
 * Madison, Wisconsin, January 2012 Version 2.0
-* Madison, Wisconsinm January 2018 Version 3.0
+* Madison, Wisconsin, January 2018 Version 3.0

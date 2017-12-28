@@ -5,7 +5,7 @@
 This Apollo for 6 jugglers is another Madison classic. (There are Apollos for
 all numbers.)
 
-![](./media/image65.jpeg)
+![](./media/image65.jpeg){width=50%}
 
 | **Juggler** | **1** | **2** | **3** |
 |-------------|-------|-------|-------|
@@ -24,7 +24,7 @@ Pattern by MAJ.
 
 ## Argyle and Variations
 ### Argyled Triangles
-![](./media/image66.png)
+![](./media/image66.png){width=30%}
 
 It's trickier than you might think, even if you rock double 3 count.
 
@@ -46,7 +46,7 @@ Pattern by MAJ.
 
 ### Argyle Sock
 
-![](./media/image67.png)
+![](./media/image67.png){width=30%}
 
 | **Juggler** | **1** | **2** | **3** | **4** | **5** | **6** |
 |-------------|-------|-------|-------|-------|-------|-------|
@@ -64,7 +64,7 @@ See Anklet for a 4 juggler version.
 Pattern by MAJ.
 
 ## 6-Person Double Weaves
-![](./media/image68.png)
+![](./media/image68.png){width=30%}
 
 As you've seen, there are a mind boggling variety of possible weaves. Well, any of these weaves can be paired up with any other weave to make a double weave. The permutations are infinite, but here are some that we like.
 
@@ -108,7 +108,7 @@ Same as the standard weave, but pass to the opposite corner on the ends.
 
 Both teams do the Dresser Drawers weave.
 
-![](./media/image70.png)
+![](./media/image70.png){width=30%}
 
 All passes are right hand doubles (like 7 2-count). Each weaver passes to only
 one other weaver (like in standard double weave) in a 6-count. The leads are
@@ -187,9 +187,10 @@ Two teams of weavers pass to each other while weaving: moving back on the ends,
 forward in the middle. Pass straight across from whatever position you are in.
 "Synchronous" means everyone passes at the same time. In order for this to work,
 pass twice while in the end positions, and pass once while in the middle.
-Weavers pass in 6-count.
+Weavers pass in 6-count in the standard version, but since they're in sync you can
+easily do other counts. 4-count is pretty tough, but 5-count is fun!
 
-![](./media/image71.png)
+![](./media/image71.png){width=30%}
 
 | **Juggler** | **1** | **4** | **7**                    |
 |-------------|-------|-------|--------------------------|
@@ -238,7 +239,7 @@ When was this pattern created? We have been doing it since 1998.
 
 ### Spiral
 
-![](./media/image75.png)
+![](./media/image75.png){width=50%}
 
 | **Juggler** | **1** | **2** | **3** | **4** |
 |-------------|-------|-------|-------|-------|
@@ -285,7 +286,7 @@ Quick poll. Does this look like a spiral to you? Us either.
 Pattern by Mike Newton and MAJ.
 
 ### Standard 5-Weave
-![](./media/image76.jpeg)
+![](./media/image76.jpeg){width=50%}
 
 The standard weave for 1 feeder and 5 feedees has each feedee in 10-count (every
 5<sup>th</sup> right) and the feeder in 2-count. Each weaver passes once on the
@@ -315,7 +316,7 @@ Pattern by MAJ.
 
 ### Gandini 5 Weave
 
-![](./media/image77.jpeg)
+![](./media/image77.jpeg){width=50%}
 
 In this weave all the weavers move in a figure 8, but they always pass from the
 middle instead of the end.
@@ -331,7 +332,7 @@ The feeder is in 2-count (every right hand pass), the feedees are in 10-count.
 | **E**       |         |         |         | A       |         |
 | **F**       |         |         |         |         | A       |
 
-![](./media/image78.jpeg)
+![](./media/image78.jpeg){width=50%}
 
 It's easiest to start with the weavers stacked in a line all facing the feeder.
 Then each weaver will pass once and move in the opposite direction of the weaver
@@ -349,7 +350,7 @@ and the Gandini Juggling Project in 2000.
 Twister Weaves can be done with any number of jugglers. Here's a twister weave
 for 6.
 
-![](./media/image79.jpeg)
+![](./media/image79.jpeg){width=50%}
 
 | **Juggler** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** |
 |-------------|-------|-------|-------|-------|-------|-------|-------|-------|
@@ -363,6 +364,21 @@ for 6.
 > * Right hand counting
 
 Pattern by Luke Emery.
+
+
+### Foie-Graham
+
+This is an intense off-set double-weave for six jugglers.  As you enter an *outside* loop of your weave
+you do *pass-self-self* (right-hand counting) as usual for a weave. But as you enter the other loop, the *inner* loop, you make a series of 4 passes, starting and ending with the same person, and getting the other two in
+between.  It takes advantage of the fact that coming out of the middle on a weave you are in front of
+your other weavers, and so can get some extra passes in before going to the backside of the weave loop.
+The postion graph, on the left below, shows the 12 spots of a standard weave, duplicated and offset
+to configure the pattern. Blue arrows indicate moves after each beat, with the starting configuration
+shown. The pass graph, on the right, shows where passes happen (green) in the 12-beat cycle.
+
+![](./media/foiegraham.png)
+
+Pattern by Graham Paasch.
 
 ## 6-Person Turbo Variations
 ### Interlocking Turbos
@@ -404,7 +420,7 @@ Lines indicate passes, and arrows indicate movement.
 Pattern by Luke Emery, September 1999.
 
 ### Ball-Beraing
-![](./media/image82.png)
+![](./media/image82.png){width=50%}
 
 A, B, C, and D are doing a Feast (in 4-count), but the self throw is replaced
 with a pass to one of the movers in the middle. A, B, C, and D are passing
@@ -430,7 +446,7 @@ variation with the left hand (or start on 2<sup>nd</sup> beat).
 Pattern by Mike Newton.
 
 ## Benzene Ring
-![](./media/image84.jpeg)
+![](./media/image84.jpeg){width=50%}
 
 Here's another MAJ standard. E and F are carriage return feeders, feeding to 3
 positions: left, middle, right, left, middle, right, etc. The rest of the
@@ -467,7 +483,7 @@ Benzene Ring Pattern by Mike Newton.
 
 ## Hex
 
-![](./media/image85.png)
+![](./media/image85.png){width=30%}
 
 | **Juggler** | **1** | **2** | **3** |
 |-------------|-------|-------|-------|
@@ -488,7 +504,7 @@ club pattern in doubles. It works if the passes are precise.
 Pattern by MAJ.
 
 ## Bubbler of David
-![](./media/image86.png)
+![](./media/image86.png){width=30%}
 
 The Bubbler is a Star of David with interlocking triangles and extra clubs in
 4-count doubles (that's the effervescent part).
@@ -561,9 +577,9 @@ The numbers in the table below count the passes.
 Pattern by Peter Kaseman and the MAJ.
 
 ### Electric Razor
-![](./media/image90.png)
+![](./media/image90.png){width=50%}
 
-![](./media/image91.png)
+![](./media/image91.png){width=50%}
 
 | **Juggler** | **1** | **4** | **7** | **10** |
 |-------------|-------|-------|-------|--------|
@@ -607,7 +623,7 @@ Pattern by MAJ.
 
 ## Mel's Big Woody
 
-![](./media/image94.jpeg)
+![](./media/image94.jpeg){width=50%}
 
 ### Standard
 
@@ -668,7 +684,7 @@ Pattern by That Matt (Matt Mella).
 
 ## Overlapping Y's
 
-![](./media/image96.png)
+![](./media/image96.png){width=50%}
 
 | **Juggler** | **1** | **2** | **3** | **4** | **5** | **6** |
 |-------------|-------|-------|-------|-------|-------|-------|
@@ -769,7 +785,7 @@ Pattern by Peter Kaseman.
 ## Windy Two Holer
 
 This has quickly become a  classic six-person pattern; not sure who invented it, 
-but Mel was there, and it was a windy day on the library mall.  Despite its full cycle being the rather lengthy 24 passing beats 
+but Mel was there, and it was a windy day on the Library Mall.  Despite its full cycle being the rather lengthy 24 passing beats 
 (rows of the tables), the windy-two-holer is pretty easy to remember, since each juggler's task repeats every
 6 passing beats. This is fun in 4-count, 3-count, and even 2-count for those not faint of heart. All
 jugglers juggle in sync but move in turn.  Six jugglers arrange around a circle inscribed with eight spots: 1,2, $\cdots$ 8, 
@@ -788,5 +804,3 @@ beat 1 below, jugglers A and C exchange along the diagonal of the yellow square 
 exchange along the parallel line 3-4. *performed at MADfest?*
 
 ![](./media/windy.png)
-
-

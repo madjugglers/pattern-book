@@ -561,7 +561,9 @@ able to learn the original variation too, now renamed to the Hyper-Clover.
 
 Pattern by Luke Emery, 2001.
 
-## Benzene Ring (Four Juggler Version)
+## Spinny patterns 
+
+### Benzene Ring (Four Juggler Version) 
 ![](./media/image14.png){width=40%}
 
 There is a whole family of benzene ring patterns, where movers juggle in a

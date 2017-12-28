@@ -1,8 +1,4 @@
 
-qr code for book
-artistic license
-full-cycle notation...weave example
-fix weave table and dresser weave table
 fois graham and relatives
 more big patterns; big clovers, old fest patterns
 in principles...giant juggling; mating; 
@@ -13,3 +9,10 @@ Pic of banner
 Pic of first book
 Appendix ? on fests and fest T shirst [Jeff]
 chocolate box is (in Europe) the chocolate bar 3 count feed
+link in some patterns to Martin's youtube channel
+send note to Evan and Mark about pull request
+egg-beater twister...; note on 3-4-5 egg beater
+broken-hearted blast
+in principles; on slowing down a pattern to then add something extra
+stacking (in big patterns); popular 1-3-1; 3-3-3; 3-3-3-3; 1-2-3-2-1 ; 1-2-2-2-2-1...
+check if MAJ can copyright the thing with the creative commons license.
