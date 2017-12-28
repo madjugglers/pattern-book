@@ -4,17 +4,14 @@
 
 ### Original Apollo
 
-The original Apollo (also known as the 1-1-3 Apollo) is a MAJ standard.
+The original Apollo (also known as the 1-1-3 Apollo) is an MAJ standard.
 
-| **Juggler** | **1**   | **2**   | **3**   | **4**   |
-|-------------|---------|---------|---------|---------|
-| **A**       | E       |         | C       |         |
-| **B**       | C       | D       | E       | D       |
-| **C**       | B       |         | A       |         |
-| **D**       |         | B       |         | B       |
-| **E**       | A       |         | B       |         |
 
-> * Right hands counting, all passes with right hand
+|                                        |                          |
+|------------|------------|
+| ![](./media/apollopositions.png){width=15%} | ![](./media/apollotable.png){width=35%} |
+| positions                                       |    Right hand counting |
+
 
 ### Cockeyed Apollo
 
@@ -22,25 +19,17 @@ Change the outside throws to be in a Y and the Apollo becomes cockeyed...so
 named because the middle feeder (B) has to throw and catch from opposite
 directions.
 
-| **Juggler** | **1**   | **2**   | **3**   | **4**   |
-|-------------|---------|---------|---------|---------|
-| **A**       | E       |         | C       |         |
-| **B**       | C       | D       | E       | D       |
-| **C**       | A       |         | B       |         |
-| **D**       |         | B       |         | B       |
-| **E**       | B       |         | A       |         |
+|                                        |                          |
+|------------|------------|
+| ![](./media/apollopositions.png){width=15%} | ![](./media/capollotable.png){width=35%} |
+| positions                                       |    Right hand counting |
 
-> * Right hands counting, all passes with right hand
 
 ### Apollo Plus
 
 A and D can pass an extra club (triple spin) over the pattern on their right
-hand self throw. D starts with the extra club.
-
-This variation works well with the standard Apollo, but is hair raising with the
-Cockeyed Apollo.
-
-If that's not exciting enough, add another club to the inner feed (all those
+hand self throw. D starts with the extra club.  This variation works well with the standard Apollo, but is hair raising with the
+Cockeyed Apollo.  If that's not exciting enough, add another club to the inner feed (all those
 passes are doubles) so it is a 2-count extra club feed.
 
 ### Apollo Plus Weave
@@ -60,16 +49,20 @@ the Gemini Jugglers in 1991.
 
 ## Chocolate Feeds 
 
+These are fun 5 person stationary patterns, with 2 feeders and 3 feedees, originally
+in opposing lines (standard positions) or in the more uncomfortable wedgee positions, which used 
+to work well when we juggled on chairs in 3650 Humanities!
+
+|                        |
+|------------------------|
+| ![](./media/chocolatepositions.png){width=40%} |
+
 ### Chocolate Bar 3-Count Feed
-![](./media/image44.png){width=30%}
 
-The Chocolate Bar feed is shares a 1-count feed between two feeders. The
-standard positions are 2 feeders facing 3 feedees. The Wedgee Positions are
-another alternative pattern layout.
+The Chocolate Bar 3-count  feed shares a 1-count feed between two feeders. 
 
-![](./media/image45.png){width=30%}
 
-| **Juggler** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** | **11** | **12** |
+| **Juggler/beat** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** | **11** | **12** |
 |-------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|--------|--------|--------|
 | **A**       | C     | D     |       |       | D     | E     |       |       | E     | C      |        |        |
 | **B**       |       |       | E     | C     |       |       | C     | D     |       |        | D      | E      |
@@ -94,9 +87,9 @@ Pattern by Steve Otteson and MAJ.
 
 ### Double Chocolate Double 3-Count Feed
 
-Another pattern using the 2 facing 3 position.
+Another pattern using the 2-facing-3 or wedgee positions.
 
-| **Juggler** | **1** | **2** | **3** |
+| **Juggler/beat** | **1** | **2** | **3** |
 |-------------|-------|-------|-------|
 | **A**       | C     | C     | D     |
 | **B**       | E     | D     | E     |
@@ -114,9 +107,9 @@ Pattern by Steve Otteson and MAJ.
 
 ### Semi-Sweet Chocolate 3-Count Feed
 
-As far as the number of passes made by A and B go,the Semi-Sweet pattern is in between the Chocolate Bar and the Double Chocolate Bar patterns. Also uses the 2 facing 3 positions.
+As far as the number of passes made by A and B go,the Semi-Sweet pattern is in between the Chocolate Bar and the Double Chocolate Bar patterns. Also uses the 2-facing-3 or wedgee positions.
 
-| **Juggler** | **1** | **2** | **3** | **4** | **5** | **6** |
+| **Juggler/beat** | **1** | **2** | **3** | **4** | **5** | **6** |
 |-------------|-------|-------|-------|-------|-------|-------|
 | **A**       | E     | C     |       | E     | D     |       |
 | **B**       |       | D     | C     |       | E     | C     |
@@ -130,7 +123,7 @@ In early versions of the passing book this was called *The New One*
 
 #### Variation
 
-| **Juggler** | **1** | **2** | **3** | **4** | **5** | **6** |
+| **Juggler/beat** | **1** | **2** | **3** | **4** | **5** | **6** |
 |-------------|-------|-------|-------|-------|-------|-------|
 | **A**       | C     |       | E     |       | D     |       |
 | **B**       |       | D     |       | C     |       | E     |
@@ -145,9 +138,11 @@ Pattern by Steve Otteson and MAJ.
 
 ## Feast (for 5 jugglers)
 
+Everyone feeds everyone else!
+
 ![](./media/image53.png){width=30%}
 
-| **Juggler** | **1** | **2** | **3** | **4** | **5** |
+| **Juggler/beat** | **1** | **2** | **3** | **4** | **5** |
 |-------------|-------|-------|-------|-------|-------|
 | **A**       | B     | C     | D     | E     |       |
 | **B**       | A     |       | C     | D     | E     |
@@ -155,7 +150,7 @@ Pattern by Steve Otteson and MAJ.
 | **D**       |       | E     | A     | B     | C     |
 | **E**       | C     | D     |       | A     | B     |
 
-> * Right handed 2-count
+> * Any count of your choosing.
 
 Classic pattern. When were these patterns created? We have been doing them since
 1992.
@@ -170,7 +165,7 @@ restore the timing. A right to left self double switches left and rights.
 This pattern is also in a star. A is the first feeder. This feed is shown
 clockwise, but of course it could work either direction.
 
-| **Juggler** | **1**  | **2**  | **3**  | **4**  | **5**  | **6**  | **7**  | **8**  | **9**  | **10** | **11** | **12** | **13** | **14** | **15** |
+| **Juggler/beat** | **1**  | **2**  | **3**  | **4**  | **5**  | **6**  | **7**  | **8**  | **9**  | **10** | **11** | **12** | **13** | **14** | **15** |
 |-------------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
 | **A**       | D-C    |        | D-D    |        | D-E    |        | D-self | Pause  |        |        |        | D-D    |        | D-self | Pause  |
 | **B**       |        | D-self | Pause  |        |        |        | D-E    |        | D-self | Pause  |        |        |        | D-D    |        |
