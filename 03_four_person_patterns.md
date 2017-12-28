@@ -270,7 +270,7 @@ Here's another look at the details of the standard weave; the feeder exchanges w
 and 10 (which is 4, going the other way).  Weavers move regularly through the 12 positions. This detail is
 helpful when we start thinking about Fois-Graham and other complicated double weaves.
 
-![](./media/weavedetail.png){width=70%} 
+![](./media/weavedetail.png){width=50%} 
 
 ### Variations
 
@@ -1115,7 +1115,7 @@ After the 4th box, the jugglers are inverted, but the passing sequence repeats.
 This pattern dates to 1997 by Mike Newton and MAJ.
 
 ## Unicycle
-![](./media/image25.png){width=50%}
+![](./media/image25.png){width=30%}
 
 The unicycle is a nice moving pattern in 3-count.
 
@@ -1141,7 +1141,7 @@ Also see Extra Club Unicycle and Two Seated Unicycle.
 Unicycle dates to 1996 by MAJ.
 
 ### Extra-Club Unicycle
-![](./media/image26.png){width=50%}
+![](./media/image26.png){width=30%}
 
 The Extra-Club Unicycle is a fun moving pattern in 4-count with triple passes,
 double passes and dropbacks.
@@ -1167,7 +1167,7 @@ back of the circle to the start.
 > * B starts with left-hand
 > * A and D start with right-hand selves
 
-![](./media/image27.png){width=50%}
+![](./media/image27.png){width=30%}
 
 ## Y2K
 
@@ -1299,7 +1299,7 @@ Rush and Rest is by Steve Otteson and MAJ from 1998.
 juggler to the right. A Shooting Star is a star with one juggler missing. When
 each juggler runs out of clubs, they move to the empty space.
 
-![](./media/image28.png){width=50%}
+![](./media/image28.png){width=30%}
 
 1.  A, C, and D start with 3 clubs and pass according to diagram one. When C
     runs out of clubs, C moves to the empty spot.

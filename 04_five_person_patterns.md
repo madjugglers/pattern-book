@@ -87,6 +87,9 @@ Feeders pass straight and feedees pass cross.
 A version with 2 extra clubs should be theoretically possible, with all passes
 straight doubles.
 
+This pattern is also called the Chocolate Box. 
+See [](https://www.juggle.org/passing-post-feeding-on-chocolate-bars/)
+
 Pattern by Steve Otteson and MAJ.
 
 ### Double Chocolate Double 3-Count Feed
@@ -122,6 +125,8 @@ As far as the number of passes made by A and B go,the Semi-Sweet pattern is in b
 | **E**       | A     |       |       | A     | B     |       |
 
 > * Both hands counting, right hand starts
+
+In early versions of the passing book this was called *The New One*
 
 #### Variation
 
@@ -868,7 +873,7 @@ A is the handle, B and C are one beater, and D and E are the other beater.
 
 ![](./media/image49.jpeg)
 
-### Variation (by Martin Frost)
+### Martin Frost's Variation 
 
 | **Juggler** | **1**   | **2**   | **3**   | **4**   | **5**   | **6**   | **7**   | **8**   |
 |-------------|---------|---------|---------|---------|---------|---------|---------|---------|
@@ -895,6 +900,15 @@ looking pattern.
 
 > * Right hands counting
 > * A starts with 4
+
+### 3-4-5 Egg Beater
+
+As your passing skills develop the original Egg-Beater gets a little boring.  But use the same
+movements and passes, but on a faster count, nicely balancing the hands.  
+Specifically, the feeder does 3-count and the 
+egg-beaters progress through 3-count, 4-count, then 5-count. 
+
+**fix: add passing table**
 
 ### Egg Beater, Handle in the Batter
 
