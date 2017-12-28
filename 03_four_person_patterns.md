@@ -829,9 +829,16 @@ middle]. Then the passer on the left picks up the odd extra beats (e.g. green
 on 1, blue on 3, red on 5).  Notice the left passer does two passes to one
 side of the El Turbo and then two to the other side, all on 4 count.
 Since the two stationary extra players are on alternating 4 counts they can
-add an extra club triple over the top to each other. We tried this once but it didn't really work!!
+add an extra club triple over the top to each other. We tried this extra-club once but it didn't really work!!
 
 
+## Tomahawk
+
+This is an El Turbo variation.   Slow down the 2-count El Turbo base count to 3-count; then tomify
+by replacing each *pass-self-self* with a *pass-pass-pass*.  It has nice club color coordination like 
+Tom's Turbo. It's pretty heavy duty; e.g. as you cycle into your feeder position you end up
+doing 1-count for 12 passes!
+ 
 ## Oogle Boogie
 
 The Oogle Boogie is a rotating Y.
