@@ -249,10 +249,13 @@ the end of the chapter fyi.  We use whatever seems to make sense to us at the mo
 * **sweenish**.  A fancy final move in a pattern, preferably clean.
 * **The wind is our friend**. An encouraging commentary when juggling outside.
 * **three-count**. In Madison, the default passing count between two jugglers. Sometimes called the *waltz*.
-* **tomify**.  Replace a 2-count with pass-pass-pass, thus omitting selfs (or *selves*?) (thanks Tom Pomraning)
+* **tomify**.  Replace a pass-self or a pass-self-self  with pass-pass-pass to the same recipient.  (thanks Tom Pomraning)
 * **triple up**.  The showy last action in a pattern, after the hup, in which each
  juggler lofts a triple self. 
 * **ultimate**. 1-count
+* **Walk it through**.  To perform a slow-motion instance of a pattern, with juggling replaced by the holding of 
+ clubs, with passes replaced by pointing to where you would pass, and following a slow, deliberate count by the
+ leader. Done while setting up a pattern in order for jugglers to figure out what the hell they are supposed to do.
 * **weave**. A most popular moving pattern with three feedees and a feeder, which is the basis of many multi-person patterns.  The 3 feedees move in a figure 8 while juggling. 
 * **windshield wiper**. The more common style of feeding where the feeder 
 first feeds the line in sequence, and then returns in reverse order.  Windshield wiper and carriage return are the same with two feedees, but
@@ -388,6 +391,8 @@ doing it.
 ### Complicate
 
 Why not make things harder?
+You get better at basic patterns if you try harder variations; plus they can be interesting if they're
+not too hard. (We estimate that a success rate of 1/3 is optimal for making progress and retaining interest!)
 
 * Replace any 3-count with a double 3-count.
 * Replace any feed with an extra club feed.
@@ -411,15 +416,15 @@ Why not make things harder?
 * Weaves-of-three and spinning-pairs are pattern components that  emit passes on either
  side of a line.  They are  naturally combined into
  multi-layer patterns by stacking them up against each other in parallel.  Then feeders (sometimes
- called *olives*) or same-facing movers anchoring either.  We then get simple descriptors
+ called *olives*) or same-facing movers anchor either end of the stack.  We get simple descriptors
  for quite elaborate patterns, such as 1-2-3-2-1, or 1-2-2-2-2-2-1. (See later chapters
 for more details.)
 
 ### Starting
 
 * There's nothing that saps your mojo more than a long discussion about how to start
-a pattern.   Keep instructions simple, informative, and clear. Warm up by doing parts
-of a pattern in isolation.  Minimize the Bernardos.  
+or progress through a pattern.   Keep instructions simple, informative, and clear. Warm up by doing parts
+of a pattern in isolation.  Walk it through and minimize the Bernardos.  
 
 * For very big patterns, we use
 two decks of playing cards: one is used to mark starting positions by taping cards to
