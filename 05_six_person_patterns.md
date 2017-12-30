@@ -1,78 +1,113 @@
 # 6 Person Patterns
 
-## 1-2-3 Apollo for Six
+## 1-2-3 Apollo 
 
 This Apollo for 6 jugglers is another Madison classic. (There are Apollos for
 all numbers.)
 
-![](./media/image65.jpeg){width=50%}
 
-| **Juggler** | **1** | **2** | **3** |
-|-------------|-------|-------|-------|
-| **A**       | D     |       | F     |
-| **B**       | E     |       | D     |
-| **C**       | F     |       | E     |
-| **D**       | A     |       | B     |
-| **E**       | B     |       | C     |
-| **F**       | C     |       | A     |
+|                                        |                          |
+|------------|------------|
+| ![](./media/image65.jpeg){width=40%} | ![](./media/apollo6table.png){width=35%} |
+| positions                                       |    Right-hand counting |
 
-> * Right hand counting
+
 
 Nice easy 4-count pattern.
 
 Pattern by MAJ.
 
-## Argyle and Variations
+## Argyles
+
 ### Argyled Triangles
-![](./media/image66.png){width=30%}
 
-It's trickier than you might think, even if you rock double 3 count.
+Want to challenge your left-right passing? Try one of these.
 
-| **Juggler** | **1** | **2** | **3** | **4** | **5** | **6** |
-|-------------|-------|-------|-------|-------|-------|-------|
-| **A**       | B     | D     |       | C     | D     |       |
-| **B**       | C     |       |       | A     |       |       |
-| **C**       | A     |       |       | B     |       |       |
-| **D**       |       | A     | E     |       | A     | F     |
-| **E**       |       |       | F     |       |       | D     |
-| **F**       |       |       | D     |       |       | E     |
+|                                        |                          |
+|------------|------------|
+| ![](./media/image66.png){width=30%} | ![](./media/argyledtrianglestable.png){width=50%} |
+| positions                                       |    both-hands counting |
 
-> * Both hands counting
 
 A and D face each other, passing double 3-count with the rest. B,C, E, and F
 pass 3-count.
+
+
+It's trickier than you might think, even if you rock double-3 count. Helps if A and D make loopy
+passes to each other.
 
 Pattern by MAJ.
 
 ### Argyle Sock
 
-![](./media/image67.png){width=30%}
+Everyone does double 3-count.
 
-| **Juggler** | **1** | **2** | **3** | **4** | **5** | **6** |
-|-------------|-------|-------|-------|-------|-------|-------|
-| **A**       | B     | D     |       | C     | D     |       |
-| **B**       | C     | C     |       | A     | C     |       |
-| **C**       | A     | B     |       | B     | B     |       |
-| **D**       |       | A     | E     |       | A     | F     |
-| **E**       |       | F     | F     |       |       | D     |
-| **F**       |       | E     | D     |       | E     | E     |
+|                                        |                          |
+|------------|------------|
+| ![](./media/image67.png){width=30%} | ![](./media/argylesocktable.png){width=50%} |
+| positions                                       |    both-hands counting |
 
-Both hands counting
 
 See Anklet for a 4 juggler version.
 
 Pattern by MAJ.
+
+## Hex
+
+This is a nice 3-count warm-up for a group of six jugglers. In the steady state all jugglers
+do the same thing.
+
+|                                        |                          |
+|------------|------------|
+| ![](./media/image85.png){width=30%} | ![](./media/hextable.png){width=40%} |
+| positions                                       |    both-hands counting |
+
+
+**Variation** 7-Club 3-count Hex. For those seeking a challenge, try a Hex where each pair juggles a 3-count 7
+club pattern in doubles. It works if the passes are precise.
+
+Pattern by MAJ.
+
+
+## Bubbler of David
+![](./media/image86.png){width=30%}
+
+The Bubbler is a Star of David with interlocking triangles and extra clubs in
+4-count doubles (that's the effervescent part).
+
+A, C and D are in one triangle. They do a 4-count extra club triangle. The pass
+is a double from right hand to left hand. Each juggler passes to the juggler on
+their left The timing is a little fast and syncopated (A throws to C, C throws
+to D 4/3 beats after A, D throws to A 4/3 beats after C).
+
+B, F and E are another triangle. They do a 4-count extra club triangle too. F
+throws at exactly the same time as A, E throws with C and D is synchronized with
+B.
+
+Get that pattern smooth first. Now, notice how the juggler across from you is
+doing a self at the exact same time as you are? Now, just pass the right hand
+single straight across.
+
+As always, timing is the key.
+
+This pattern doesn't lend itself to a table format because the counts aren't
+even, but it's easy to figure out.
+
+Pattern by MAJ.
+
 
 ## 6-Person Double Weaves
 ![](./media/image68.png){width=30%}
 
 As you've seen, there are a mind boggling variety of possible weaves. Well, any of these weaves can be paired up with any other weave to make a double weave. The permutations are infinite, but here are some that we like.
 
+
+
 ### Standard Double Weave
 
 If A, B and C do a standard weave and pass across to D, E and F in a standard weave, you get the Standard Double Weave.
 
-| **Juggler** | **1** | **2** | **3** |
+| **Juggler/beat** | **1** | **2** | **3** |
 |-------------|-------|-------|-------|
 | **A**       | D     |       |       |
 | **B**       |       | E     |       |
@@ -98,13 +133,23 @@ middle. This is an easier weave than the standard weave if all passers are
 comfortable with both standard and inverted weaves and looks nice because each
 juggler in a pair stays the same distance from the other.
 
-![](./media/image69.png)
+![](./media/image69.png){width=30%}
 
 ### Cross-Corner Weave (Kitty-Korner Weave)
 
-Same as the standard weave, but pass to the opposite corner on the ends.
+Same as the standard double weave, but pass to the opposite corner on the ends.
+
+### Extra-club Double Weave
+
+Set up a standard double weave, but have one juggler with an extra club.  Passing beat
+stays at 6-count; moving stays the same (figure eight), but the passes have to be doubles.
+Importantly, you receive from one juggler then pass to another, in order to retain the 7-club-style
+passing.  Lead deeply on the ends and short and lofty in the middle.
 
 ### Dresser Drawers Double Weave
+
+Either, both weaves do Dresser Drawer style (see 4-person patterns), or they do that plus
+adding 3 clubs, as described here. **check this**
 
 Both teams do the Dresser Drawers weave.
 
@@ -114,7 +159,7 @@ All passes are right hand doubles (like 7 2-count). Each weaver passes to only
 one other weaver (like in standard double weave) in a 6-count. The leads are
 very important.
 
-| **Juggler** | **1** | **2** | **3** | **4** | **5** | **6** |
+| **Juggler/beat** | **1** | **2** | **3** | **4** | **5** | **6** |
 |-------------|-------|-------|-------|-------|-------|-------|
 | **A**       | D-D   |       |       |       |       |       |
 | **B**       |       |       | D-E   |       |       |       |
@@ -141,7 +186,7 @@ passes twice in a row to two different jugglers, and then has 4 selves to move
 out, around back and into the middle. Next time move out in the opposite
 direction.
 
-| **Juggler** | **1** | **2** | **3** | **4** | **5** | **6** |
+| **Juggler/beat** | **1** | **2** | **3** | **4** | **5** | **6** |
 |-------------|-------|-------|-------|-------|-------|-------|
 | **A**       |       |       |       | E     | F     |       |
 | **B**       |       | D     | E     |       |       |       |
@@ -168,7 +213,7 @@ This is the same as the previous pattern with a triple club passed back and
 forth over the top of the pattern. It's a spectacular pattern and not as hard as
 you might think (though certainly not easy).
 
-| **Juggler** | **1** | **2** | **3** | **4** | **5** | **6** |
+| **Juggler/beat** | **1** | **2** | **3** | **4** | **5** | **6** |
 |-------------|-------|-------|-------|-------|-------|-------|
 | **A**       |       | T-F   |       | E     | F     |       |
 | **B**       |       | D     | E     |       |       | T-E   |
@@ -181,41 +226,37 @@ you might think (though certainly not easy).
 
 Pattern by Luke Emery.
 
-### Stick on the End Double Weave (Synchronous)
+### Stick on the End Double Weave 
 
 Two teams of weavers pass to each other while weaving: moving back on the ends,
-forward in the middle. Pass straight across from whatever position you are in.
-"Synchronous" means everyone passes at the same time. In order for this to work,
-pass twice while in the end positions, and pass once while in the middle.
+forward in the middle, starting positions as in the Standard Double Weave.  All  three opposing pairs 
+pass simultaneously.  In order for this to work,
+pass twice (on base count) while in the end positions, and pass once while in the middle.
 Weavers pass in 6-count in the standard version, but since they're in sync you can
 easily do other counts. 4-count is pretty tough, but 5-count is fun!
 
-![](./media/image71.png){width=30%}
+|                                        |                          |
+|------------|------------|
+| ![](./media/image72.jpeg){width=60%} | ![](./media/stickontheendtable.png){width=25%} |
+|  movements   |    right-hand counting |
 
-| **Juggler** | **1** | **4** | **7**                    |
-|-------------|-------|-------|--------------------------|
-| **A**       | D     | E     | F                        |
-| **B**       | E     | F     | D                        |
-| **C**       | F     | D     | E                        |
-| **D**       | A     | C     | B                        |
-| **E**       | B     | A     | C                        |
-| **F**       | C     | B     | A                        |
-
-> * Right hands counting
-
-![](./media/image72.jpeg)
-
-In the graph below, lines indicate passes, numbers indicate the passing beat,
-and arrows indicate movement after the pass.
+In the figure above, lines indicate passes, numbers indicate the passing beat,
+and arrows indicate movement after the pass. So starting out Jugglers A and F are stickers.
 
 Note: If each side moves on the edges and middle of a rectangle, instead of
 weaving, we have the essence of Han's Delight. \[Euro '98'\].
 
-When was this pattern created? We have been doing it since 1993.
+When was this pattern created? We have been doing it since 1993 (when we did it in Tripp Commons with Matt Henry!).
 
 ### Five Person Weave (Peter Feeds Five)
 
-| **Juggler** | **1**  | **2**  | **3**  | **4**  | **5**  | **6**  | **7**  | **8**  | **9**  | **10** |
+This is a fun moving pattern that's pretty simple but mentally tough for beginners, since the count
+changes as you move through the weave.  The local rule is pass to Peter (the feeder) then move to the
+next spot.  If you're in an odd spot, then you move back away from Peter and *with the grain* (i.e. in the
+same direction as Peter's sweep); if you're in an even spot then you move forward and *against the grain*. You end up passing more frequently in the middle and less frequently on the ends.
+
+
+| **Juggler/beat** | **1**  | **2**  | **3**  | **4**  | **5**  | **6**  | **7**  | **8**  | **9**  | **10** |
 |-------------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
 | **A**       | F      |        |        |        |        |        |        | F      |        |        |
 | **B**       |        | F      |        |        |        |        |        |        | F      |        |
@@ -233,26 +274,25 @@ When was this pattern created? We have been doing it since 1993.
 
 > * Right hand counting
 
-![](./media/image73.png)
+![](./media/image73.png){width=50%}
 
 When was this pattern created? We have been doing it since 1998.
 
 ### Spiral
 
-![](./media/image75.png){width=50%}
+Peter and Luke have complained that this shouldn't be called a Spiral, but that's what we call it! It's sort
+of a weave, but there are three loops instead of two. And you pass at the faces of the loops instead of on the edges. The standard version has weavers in 6 count (two doing every third rights and two every third lefts) and feeders in 3 count.
 
-| **Juggler** | **1** | **2** | **3** | **4** |
-|-------------|-------|-------|-------|-------|
-| **A**       |       | E     |       | F     |
-| **B**       | E     |       | F     |       |
-| **C**       |       | F     |       | E     |
-| **D**       | F     |       | E     |       |
-| **E**       | B     | A     | D     | C     |
-| **F**       | D     | C     | B     | A     |
 
-> * Right hand counting Fast Spiral Weave
-> * 3-Count Standard Spiral Weave
-> * double 3 Count Hyper-Spiral Weave
+|                                        |                          |
+|------------|------------|
+| ![](./media/image75.png){width=50%} | ![](./media/spiraltable.png){width=35%} |
+| positions                                       |     |
+
+
+> * Right hand counting Fast Spiral Weave [weavers 4-count; feeders 2-count]
+> * 3-Count Standard Spiral Weave [weavers 6 count; feeders 3-count]
+> * double 3 Count Hyper-Spiral Weave [not sure if we ever got this to work!]
 
 Refer to the graph above to follow A's path through the pattern. A's first pass
 is to E. A then turns around and moves to the bottom of loop 1 where a pass is
@@ -281,7 +321,6 @@ To red line this pattern have the feeders throw double 3 count, but keep the
 same passing order. Now the weavers are all in 3-count. The Hyper Spiral should
 be enough to challenge the most jaded of weavers!
 
-Quick poll. Does this look like a spiral to you? Us either.
 
 Pattern by Mike Newton and MAJ.
 
@@ -316,14 +355,20 @@ Pattern by MAJ.
 
 ### Gandini 5 Weave
 
-![](./media/image77.jpeg){width=50%}
+
+
+|                                        |                          |
+|------------|------------|
+| ![](./media/image77.jpeg){width=45%} | ![](./media/image78.jpeg){width=45%} |
+| start | go     |
+
 
 In this weave all the weavers move in a figure 8, but they always pass from the
 middle instead of the end.
 
 The feeder is in 2-count (every right hand pass), the feedees are in 10-count.
 
-| **Juggler** | **1**   | **2**   | **3**   | **4**   | **5**   |
+| **Juggler/beat** | **1**   | **2**   | **3**   | **4**   | **5**   |
 |-------------|---------|---------|---------|---------|---------|
 | **A**       | B       | C       | D       | E       | F       |
 | **B**       | A       |         |         |         |         |
@@ -332,7 +377,6 @@ The feeder is in 2-count (every right hand pass), the feedees are in 10-count.
 | **E**       |         |         |         | A       |         |
 | **F**       |         |         |         |         | A       |
 
-![](./media/image78.jpeg){width=50%}
 
 It's easiest to start with the weavers stacked in a line all facing the feeder.
 Then each weaver will pass once and move in the opposite direction of the weaver
@@ -350,18 +394,12 @@ and the Gandini Juggling Project in 2000.
 Twister Weaves can be done with any number of jugglers. Here's a twister weave
 for 6.
 
-![](./media/image79.jpeg){width=50%}
 
-| **Juggler** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** |
-|-------------|-------|-------|-------|-------|-------|-------|-------|-------|
-| **X**       | A     | B     | C     | D     | B     | A     | D     | C     |
-| **Y**       |       | D     |       | A     |       | C     |       | B     |
-| **A**       | X     |       |       | Y     |       | X     |       |       |
-| **B**       |       | X     |       |       | X     |       |       | Y     |
-| **C**       |       |       | X     |       |       | Y     |       | X     |
-| **D**       |       | Y     |       | X     |       |       | X     |       |
+|                                        |                          |
+|------------|------------|
+| ![](./media/image79.jpeg){width=30%} | ![](./media/twister4weavetable.png){width=50%} |
+| positions |  right-hand counting |
 
-> * Right hand counting
 
 Pattern by Luke Emery.
 
@@ -392,7 +430,7 @@ hand pass). Three of the jugglers do an “outside turn” (turning away from th
 right hand pass). A, B and C will always go on the outside when they cross with
 the other Turbo. D, E and F always go on the inside.
 
-![](./media/image80.jpeg)
+![](./media/image80.jpeg){width=75%}
 
 The standard pattern is in a 2-count Turbo. You can do it in 4-count or 3-count
 to slow it down.
@@ -415,37 +453,32 @@ should move as soon as you can.
 
 Lines indicate passes, and arrows indicate movement.
 
-![](./media/image81.png)
+![](./media/image81.png){width=50%}
 
 Pattern by Luke Emery, September 1999.
 
-### Ball-Beraing
-![](./media/image82.png){width=50%}
+### Ball Bearing
+
+Here's a nifty extension of the 4-person Feast.
+
+|                                        |                          |
+|------------|------------|
+| ![](./media/image82.png){width=30%} | ![](./media/ballbearingtable.png){width=50%} |
+| positions                                       |    right-hand 4-count |
+
 
 A, B, C, and D are doing a Feast (in 4-count), but the self throw is replaced
 with a pass to one of the movers in the middle. A, B, C, and D are passing
 4-count. E and F are passing 8-count.
 
-| **Juggler** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** |
-|-------------|-------|-------|-------|-------|-------|-------|-------|-------|
-| **A**       | D     | E     | B     | C     | D     | F     | B     | C     |
-| **B**       | C     | D     | A     | E     | C     | D     | A     | F     |
-| **C**       | B     | F     | D     | A     | B     | E     | D     | A     |
-| **D**       | A     | B     | C     | F     | A     | B     | C     | E     |
-| **E**       |       | A     |       | B     |       | C     |       | D     |
-| **F**       |       | C     |       | D     |       | A     |       | B     |
-
-> * Right hand 4-count
-> * (OR 3-count with left hand start)
-
-![](./media/image83.png)
+![](./media/image83.png){width=75%}
 
 **Variation**: A,B,C, and D pass 3-count, and E and F pass 6-count. Start the
 variation with the left hand (or start on 2<sup>nd</sup> beat).
 
 Pattern by Mike Newton.
 
-## Benzene Ring
+## Benzene Ring (6 person)
 ![](./media/image84.jpeg){width=50%}
 
 Here's another MAJ standard. E and F are carriage return feeders, feeding to 3
@@ -453,7 +486,7 @@ positions: left, middle, right, left, middle, right, etc. The rest of the
 jugglers move around in a ring, passing to the feeders. They pass 3 times to
 each feeder and then turn around to pass 3 times to the next feeder.
 
-| **Juggler** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** | **11** | **12** |
+| **Juggler/beat** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** | **11** | **12** |
 |-------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|--------|--------|--------|
 | **A**       |       | E     |       | E     |       | F     |       | F     |       | F      |        | E      |
 | **B**       | E     |       | F     |       | F     |       | F     |       | E     |        | E      |        |
@@ -481,60 +514,13 @@ Also see Benzene Ring for 8 Jugglers
 
 Benzene Ring Pattern by Mike Newton.
 
-## Hex
 
-![](./media/image85.png){width=30%}
-
-| **Juggler** | **1** | **2** | **3** |
-|-------------|-------|-------|-------|
-| **A**       | F     |       |       |
-| **B**       |       | D     |       |
-| **C**       |       |       | E     |
-| **D**       |       | B     |       |
-| **E**       |       |       | C     |
-| **F**       | A     |       |       |
-
-> * 3-count
-
-### 7 Club 3-count Hex
-
-For those seeking a challenge, try a Hex where each pair juggles a 3-count 7
-club pattern in doubles. It works if the passes are precise.
-
-Pattern by MAJ.
-
-## Bubbler of David
-![](./media/image86.png){width=30%}
-
-The Bubbler is a Star of David with interlocking triangles and extra clubs in
-4-count doubles (that's the effervescent part).
-
-A, C and D are in one triangle. They do a 4-count extra club triangle. The pass
-is a double from right hand to left hand. Each juggler passes to the juggler on
-their left The timing is a little fast and syncopated (A throws to C, C throws
-to D 4/3 beats after A, D throws to A 4/3 beats after C).
-
-B, F and E are another triangle. They do a 4-count extra club triangle too. F
-throws at exactly the same time as A, E throws with C and D is synchronized with
-B.
-
-Get that pattern smooth first. Now, notice how the juggler across from you is
-doing a self at the exact same time as you are? Now, just pass the right hand
-single straight across.
-
-As always, timing is the key.
-
-This pattern doesn't lend itself to a table format because the counts aren't
-even, but it's easy to figure out.
-
-Pattern by MAJ.
-
-## Double Handled Egg Beater
+## Double-Handled Egg Beater
 
 I can't imagine why you would want an egg beater with 2 handlers, but if you
 did, and it was made of weaving jugglers, it might look like this.
 
-| **Juggler** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** |
+| **Juggler/beat** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** |
 |-------------|-------|-------|-------|-------|-------|-------|-------|-------|
 | **A**       | C     |       | D     | F     | C     |       | D     | E     |
 | **B**       | D     |       | C     | E     | D     |       | C     | F     |
@@ -547,52 +533,44 @@ did, and it was made of weaving jugglers, it might look like this.
 
 E and F are handles, A and B are one beater, and C and D are the other beater.
 
-![](./media/image87.png)
+![](./media/image87.png){width=75%}
 
 Pattern by Mike Newton and MAJ.
 
 ## Razor
 
 A and B move around one circle, and C and D move around another circle. The
-table below is in 3-count, and is very fast. I recommend 4-count, or even
-6-count.
+table below is in 3-count, and is very fast. Try 4-count, or even
+6-count to start.
 
-![](./media/image88.png)
 
-| **Juggler** | **1** | **4** | **7** | **10**                   |
-|-------------|-------|-------|-------|--------------------------|
-| **A**       | E     | D     | D     | E                        |
-| **B**       | C     | E     | E     | C                        |
-| **C**       | B     | F     | F     | B                        |
-| **D**       | F     | A     | A     | F                        |
-| **E**       | A     | B     | B     | A                        |
-| **F**       | D     | C     | C     | D                        |
+|            |            |
+|------------|------------|
+| ![](./media/image88.png){width=45%} | ![](./media/razortable.png){width=35%} |
+| positions                                       |    both-hands counting (right start) |
 
-> * Both hands counting, right hand starts.
+
 
 The numbers in the table below count the passes.
 
-![](./media/image89.png)
+![](./media/image89.png){width=50%}
+
+In the parlance of stacking patterns, this one is a 1-2-2-1: olive, spinning 3-count pair; spinning 3-count pair; olive.
 
 Pattern by Peter Kaseman and the MAJ.
 
 ### Electric Razor
-![](./media/image90.png){width=50%}
 
-![](./media/image91.png){width=50%}
 
-| **Juggler** | **1** | **4** | **7** | **10** |
-|-------------|-------|-------|-------|--------|
-| **A**       | E     | C     | C     | E      |
-| **B**       | D     | F     | F     | D      |
-| **C**       | F     | A     | A     | F      |
-| **D**       | B     | E     | E     | B      |
-| **E**       | A     | D     | D     | A      |
-| **F**       | C     | B     | B     | C      |
+The Electric Razor is 3 pairs of jugglers of spinning 3 counters.
 
-> * Both hands counting, right hand starts.
 
-The Electric Razor is 3 pairs of jugglers. Each pair moves around their own circle.
+|            |            |   |
+|------------|------------|---|
+| ![](./media/image91.png){width=30%} | ![](./media/image90.png){width=30%} | ![](./media/erazortable.png){width=30%} |
+| positions | passes                                    |    both-hands counting (right start) |
+
+
 
 The numbers in the table above count passes.
 
@@ -600,7 +578,7 @@ The Electric Razor pattern was invented by Peter Kaseman, summer '98.
 
 ## Two-Seated Unicycle
 
-| **Juggler** | **1** | **4** | **7** | **10** |
+| **Juggler/beat** | **1** | **4** | **7** | **10** |
 |-------------|-------|-------|-------|--------|
 | **A**       | C     | D     | D     | C      |
 | **B**       | A     | A     | A     | A      |
@@ -627,7 +605,7 @@ Pattern by MAJ.
 
 ### Standard
 
-| **Juggler** | **1** | **2** | **3** | **4** | **5** | **6** |
+| **Juggler/beat** | **1** | **2** | **3** | **4** | **5** | **6** |
 |-------------|-------|-------|-------|-------|-------|-------|
 | **A**       | D     | B     | C     | F     | C     | B     |
 | **B**       | E     | C     | A     | D     | A     | C     |
@@ -640,7 +618,7 @@ Pattern by MAJ.
 
 Now, to make it more interesting, throw early triples from the corners.
 
-| **Juggler** | **1** | **2** | **3** | **4** | **5** | **6** |
+| **Juggler/beat** | **1** | **2** | **3** | **4** | **5** | **6** |
 |-------------|-------|-------|-------|-------|-------|-------|
 | **A**       | D     | B     | C     | F     | C     | B     |
 | **B**       | E     | C     | A     | D     | A     | C     |
@@ -686,7 +664,7 @@ Pattern by That Matt (Matt Mella).
 
 ![](./media/image96.png){width=50%}
 
-| **Juggler** | **1** | **2** | **3** | **4** | **5** | **6** |
+| **Juggler/beat** | **1** | **2** | **3** | **4** | **5** | **6** |
 |-------------|-------|-------|-------|-------|-------|-------|
 | **A**       | E     | E     |       | F     | D     |       |
 | **B**       |       | D     |       |       | E     |       |
@@ -706,7 +684,7 @@ Pattern by MAJ.
 
 Imagine better looking oogles mating than the previous mating oogles. This is basically a 1-count Oogle variation with a 2-count left handed Y and a 2-count right handed Y superimposed.
 
-| **Juggler** | **1** | **2** |
+| **Juggler/beat** | **1** | **2** |
 |-------------|-------|-------|
 | **X**       | D     | A     |
 | **Y**       | B     | C     |
@@ -735,7 +713,7 @@ jugglers), those collide above your heads.
 
 However, if thrown carefully, there is just enough room for all of them.
 
-| **Juggler** | **1** | **4** | **7** | **10** |
+| **Juggler/beat** | **1** | **4** | **7** | **10** |
 |-------------|-------|-------|-------|--------|
 | **A**       | T-D   |       | D-E   |        |
 | **B**       |       | D-F   |       | D-D    |
@@ -763,7 +741,7 @@ This impressive pattern with 21 clubs is in the same family as the Oogle and the
 * C does a typewriter feed to D, E and F in 6 club 2-count.
 * D, E and F do popcorn passing: triple to A, double to B, single to C.
 
-| **Juggler** | **1** | **2** | **3** | **4** | **5** | **6** |
+| **Juggler/beat** | **1** | **2** | **3** | **4** | **5** | **6** |
 |-------------|-------|-------|-------|-------|-------|-------|
 | **A**       | T-D   |       | T-E   |       | T-F   |       |
 | **B**       |       | D-D   |       | D-E   |       | D-F   |
@@ -801,6 +779,6 @@ the move at the beginning. Each juggler only ever passes to the two others in hi
 to the other square.  The local passing rule, in the steady state (and counting on the passing beat)
  is *pass one - pass other - self - pass one - pass other - move/self *.   At any passing beat one pair from each square is passing, and collisions are avoided because the two passing sets are parallel; e.g. on 
 beat 1 below, jugglers A and C exchange along the diagonal of the yellow square while jugglers D and F 
-exchange along the parallel line 3-4. *performed at MADfest?*
+exchange along the parallel line 3-4. 
 
 ![](./media/windy.png)

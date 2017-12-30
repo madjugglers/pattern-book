@@ -9,7 +9,7 @@ The original Apollo (also known as the 1-1-3 Apollo) is an MAJ standard.
 
 |                                        |                          |
 |------------|------------|
-| ![](./media/apollopositions.png){width=15%} | ![](./media/apollotable.png){width=35%} |
+| ![](./media/apollopositions.png){width=15%} | ![](./media/apollo5table.png){width=35%} |
 | positions                                       |    Right hand counting |
 
 
@@ -17,7 +17,7 @@ The original Apollo (also known as the 1-1-3 Apollo) is an MAJ standard.
 
 Change the outside throws to be in a Y and the Apollo becomes cockeyed...so
 named because the middle feeder (B) has to throw and catch from opposite
-directions.
+directions. Notice the switcheroo in the passing table for jugglers C and E.
 
 |                                        |                          |
 |------------|------------|
@@ -566,7 +566,7 @@ Count: Feeders 3 of 8, Feedees 4-count, moving
 
 > * Both hands counting
 
-### Twister Weave 
+### Ultra-Twister Weave 
 
 Count: Feeders 3 of 7, Feedees alternate 4-count, 3-count, moving
 
@@ -618,7 +618,7 @@ Original Twister Weave suggested by Mike Newton. Variations by MAJ.
 This is a variation of the Twister Weave where the feeders use their right hand
 selves to add an addition club passed back and forth over the top of the weave
 in triples like in a 7 club 4-count. The weaving pattern is exactly the same as
-the Standard Twister Weave.
+the Original Twister Weave.
 
 | **Juggler/beat** | **1**   | **2**   | **3**   | **4**   | **5**   | **6**   |
 |-------------|---------|---------|---------|---------|---------|---------|
@@ -933,31 +933,27 @@ Pattern by Mike Newton and MAJ.
 
 
 This pattern was is a cool way to get the handle into the action, continuously. It was  first done Nov 2, 17 by Graham=A, Mel=B, Mike=C, Jeff=D, Nick=E; nickname EggBeatOff) The table shows positions where each juggler (column) must be at that passing beat [right-hand counting in rows]. Only passes are indicated. So positions 1-2 exchange, similarly 3-8, 4-7, and 5-6.
-The first graph shows where each juggler moves; edge weights indicate number of right-hand counts up to next throw. Right graph shows passing events. Start with jugglers at 4, 7, near 1, 2, and on the edge moving towards 6. There are 30 right hand beats to get around, which seems excessive but doesn’t feel so bad when juggling, thanks to symmetries I guess.
+The upper graph shows where each juggler moves; edge weights indicate number of right-hand counts up to next throw. Lower graph shows passing events. Start with jugglers at 4, 7, near 1, 2, and on the edge moving towards 6. There are 30 right hand beats to get around, which seems excessive but doesn’t feel so bad when juggling, thanks to symmetries I guess.
 
-(also called Egg-beat off)
-
-**to do fill in table and fig**
+![](./media/eggbeatswitch.png){width=60%}
 
 ## Strange Attractor / Estranged Tractors
 
 This came from trying to fill in the self gaps of a Turbo using two stationary jugglers.
 
-![](./media/image56.png){width=30%}
 
-| **Juggler/beat** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** |
-|-------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
-| **A**       | B     | C     | E     | E     | B     |       | C     | D     | D     |
-| **B**       | A     | D     | D     | C     | A     | E     | E     | C     |       |
-| **C**       | E     | A     |       | B     | D     | D     | A     | B     | E     |
-| **D**       |       | B     | B     |       | C     | C     |       | A     | A     |
-| **E**       | C     |       | A     | A     |       | B     | B     |       | C     |
+
+|                                        |                          |
+|------------|------------|
+| ![](./media/image56.png){width=30%} | ![](./media/strangetractortable.png){width=50%} |
+| positions                                       |     |
+
 
 > * Right hands counting
 > * A, B, and C are moving in a figure eight as in a Turbo or a 2-leaf Clover
     pattern. D and E are feeders.
 
-![](./media/image57.jpeg)
+![](./media/image57.jpeg){width=50%}
 
 Pattern created by MAJ.
 
@@ -1048,7 +1044,7 @@ pattern book. Maybe you should try it for yourself and see what you think!
 > * Right handed 4-count
 > * Lines indicate passes; arrows indicate movement.
 
-![](./media/image64.png)
+![](./media/image64.png){width=75%}
 
 Pattern by Mike Newton.
 

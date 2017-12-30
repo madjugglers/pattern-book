@@ -197,6 +197,7 @@ the end of the chapter fyi.  We use whatever seems to make sense to us at the mo
 
 ## Secret Juggling Code Words and Phrases (Glossary)
 
+* **baby position**.  The least challenging task in a juggling pattern, if there is one.
 * **Bernardos**. Unecessary solo juggling tricks performed while other jugglers are trying
  to start a pattern. Named after Paul Bernardo, an expert of the craft.
 * **Canadian catch**.   An impressive catch that would have been difficult
@@ -235,6 +236,7 @@ the end of the chapter fyi.  We use whatever seems to make sense to us at the mo
 * **NFP**.  Nice Pass.
 * **No, this is a club**. Said while pointing to a juggling club and talking to a curious 
  passer-by who asks about the group, "Is this a club?".
+* **olive**. In a stacked, sandwich-style pattern, a single feeder on one side of the pattern.
 * **phantom**.
   A feedee place holder who isn't really there. A feeder, for example, may feed
   2 real feeders and a phantom in a sweep feed: pass-pass-self-pass and repeat.
@@ -266,7 +268,7 @@ first feeds the line in sequence, and then returns in reverse order.  Windshield
   my catching hand!"
 * **You herniated my ZOC.** Said if a pass forced extension and excessive effort in the catching.
 * **ZOC**.
-  Zone of Catchability. The area around a passer where they can catch
+  Zone of Catchability. The volume near a passer where they can catch
   passes with high probability. Peter Kaseman has the largest ZOC in Madison.
 * **ZOOS**. (sounds like the Greek god Zeus)  Zone of occupied space.   Space occupied by a moving juggler.
 
@@ -422,7 +424,7 @@ for more details.)
 
 ### Starting
 
-* There's nothing that saps your mojo more than a long discussion about how to start
+* There's nothing that saps mojo more than a long discussion about how to start
 or progress through a pattern.   Keep instructions simple, informative, and clear. Warm up by doing parts
 of a pattern in isolation.  Walk it through and minimize the Bernardos.  
 

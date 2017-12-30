@@ -1,23 +1,38 @@
 # 10 Person Patterns
 
+## Naturals
+
+ Various patterns for other numbers of jugglers are naturally  modified for 10, such as:
+
+### Feast
+
+   With this many jugglers the feast naturally oscillates (to keep the passing distances about the same)
+ and looks something like an Amoeba.   Fun to make the group move across the floor while juggling!
+
+### 5 on 5 lines
+
+Pass to two opposites, say on 4 count, with two end jugglers on slower (e.g 8) count.   Start one special (e.g. differently colored) club on one end and see if you can make it move to the other end!
+
+### Double-vision 5-person 
+
+ Take any 5-person pattern (well maybe not any one) and turn each juggler into two jugglers.
+ E.g. try double-vision star! 
+
+### Big Hinge minus 2
+
+  Take the 12-person big hinge and drop two of the baby positions (line centers)
+
+
 ## Double Weave (with 10 jugglers)
 
-![](./media/image115.jpeg)
+This one is fun and pretty easy.  Each juggler has just one counterpart in the other weave, and only
+passes the that juggler, on a fixed (usually 10) count.
 
-| **Juggler** | **1** | **2** | **3** | **4** | **5** |
-|-------------|-------|-------|-------|-------|-------|
-| **A**       | F     |       |       |       |       |
-| **B**       |       | G     |       |       |       |
-| **C**       |       |       | H     |       |       |
-| **D**       |       |       |       | I     |       |
-| **E**       |       |       |       |       | J     |
-| **F**       | A     |       |       |       |       |
-| **G**       |       | B     |       |       |       |
-| **H**       |       |       | C     |       |       |
-| **I**       |       |       |       | D     |       |
-| **J**       |       |       |       |       | E     |
+|                                        |                          |
+|------------|------------|
+| ![](./media/image115.jpeg){width=45%} | ![](./media/10doubleweavetable.png){width=40%} |
+| positions                                       |    Right-hand counting, or other |
 
-> * Right hand counting, or any other count.
 
 Pattern by MAJ.
 
@@ -26,26 +41,16 @@ Pattern by MAJ.
 Two mirrored Gandini 5 Weaves face each other and pass in 2-count (or any other
 count).
 
-Weavers go in alternate directions. It is easiest if both weavers go the same
+On either side weavers alternate directions as they leave the middle. It is easiest if weaver counterparts go the same
 direction (for example A and F start to the pattern's right and B and G start to
 the pattern's left).
 
-![](./media/image116.jpeg)
 
-|**Juggler**                 | **1** | **2** | **3** | **4** | **5** |
-|----------------------------|-------|-------|-------|-------|-------|
-| **A**                      | F     |       |       |       |       |
-| **B**                      |       | G     |       |       |       |
-| **C**                      |       |       | H     |       |       |
-| **D**                      |       |       |       | I     |       |
-| **E**                      |       |       |       |       | J     |
-| **F**                      | A     |       |       |       |       |
-| **G**                      |       | B     |       |       |       |
-| **H**                      |       |       | C     |       |       |
-| **I**                      |       |       |       | D     |       |
-| **J**                      |       |       |       |       | E     |
+|                                        |                          |
+|------------|------------|
+| ![](./media/image116.jpeg){width=45%} | ![](./media/doublegandini5table.png){width=40%} |
+| positions                                       |    Right-hand counting, or other |
 
-> * Right hand counting or any other count.
 
 If this is too fast, then pass twice in the middle (either to the same weaver or
 to two different feeders).
@@ -69,6 +74,6 @@ The Double Blast is two mirrored Blast patterns. It is easy.
 | **I**       | D     |       |       | A     |       |
 | **J**       |       | C     |       |       |       |
 
-![](./media/image117.jpeg)
+![](./media/image117.jpeg){width=80%}
 
 Pattern by Peter Kaseman and MAJ.

@@ -1,22 +1,31 @@
 # 9 Person Patterns
 
-## Twister Sandwich
+## Naturals
 
-This is a difficult pattern.
+Various patterns for other numbers of jugglers are naturally modified for 9, such as:
 
-| **Juggler** | **1** | **2** | **3** | **4** | **5** | **6** |
-|-------------|-------|-------|-------|-------|-------|-------|
-| **A**       | D     |       |       | F     |       |       |
-| **B**       |       | D     |       |       | E     |       |
-| **C**       |       |       | F     |       |       | E     |
-| **D**       | A     | B     |       | I     | H     |       |
-| **E**       |       | H     | G     |       | B     | C     |
-| **F**       | I     |       | C     | A     |       | G     |
-| **G**       |       |       | E     |       |       | F     |
-| **H**       |       | E     |       |       | D     |       |
-| **I**       | F     |       |       | D     |       |       |
+### Feast
 
-> * Right hand counting
+### 4 vs 5 line
+
+### Big Hinge minus 3
+
+   Drop 3 of the 4 baby positions.
+
+## Twister Sandwiches
+
+### Original Twister Sandwich
+
+At first this is a difficult pattern, but it's awesome. You need 6 good weavers and 3
+double-time twister weavers.
+
+
+
+|                                        |                          |
+|------------|------------|
+| ![](./media/image112.png){width=40%} | ![](./media/twistersandwichtable.png){width=40%} |
+| positions                                       |    Right-hand counting, or other |
+
 
 D, E, and F are doing the Double-time Twister Weave. The single feeders on the
 opposite sides of D, E, and F have been replaced with 3 weavers on one side and
@@ -46,26 +55,24 @@ pass to who ever is in the middle.
   any of the weaves to fixed positions where the ends pass in 8-count and the
   insides pass in 4-count. This is known as Stale Bread.
 
+In the parlance of stacked patterns, the (original) Twister Sandwich is a  3-3-3:  weave; double-time-twister; weave.
+
+
 Pattern by Peter Kaseman and MAJ.
 
 ## Weaving Canoes
-![](./media/image113.png)
 
 This pattern is a cross between the Asynchronous Double Weave and the Canoe. The
 Canoe for 3 jugglers is commonly referred to as a drop-back line. We recommend
 that you can do these before trying the Weaving Canoes.
 
-| **Juggler** | **1** | **2** | **3** |
-|-------------|-------|-------|-------|
-| **A**       | D     |       |       |
-| **B**       |       | E     |       |
-| **C**       |       |       | F     |
-| **D**       | G     |       |       |
-| **E**       |       | H     |       |
-| **F**       |       |       | I     |
-| **G**       | A     |       |       |
-| **H**       |       | B     |       |
-| **I**       |       |       | C     |
+
+|                                        |                          |
+|------------|------------|
+| ![](./media/image113.png){width=35%} | ![](./media/weavingcanoestable.png){width=32%} |
+| positions                                       |     |
+
+
 
 > * Right hand counting
 > * A, B, and C face downward. The rest face upward.
@@ -84,22 +91,39 @@ Pattern dates to September, 1999 by Peter Kaseman.
 
 ## Weaving Triangles
 
-![](./media/image114.jpeg)
+Here passes happen in the middle positions of the weave, in a Gandini-style.
 
-| **Juggler** | **1** | **2** | **3** | **4** | **5** | **6** |
-|-------------|-------|-------|-------|-------|-------|-------|
-| **A**       |       |       |       |       | I     | D     |
-| **B**       | H     | E     |       |       |       |       |
-| **C**       |       |       | G     | F     |       |       |
-| **D**       |       |       |       |       | A     | I     |
-| **E**       | B     | H     |       |       |       |       |
-| **F**       |       |       | C     | G     |       |       |
-| **G**       |       |       | F     | C     |       |       |
-| **H**       | E     | B     |       |       |       |       |
-| **I**       |       |       |       |       | D     | A     |
-
-> * Right hand counting
+|                                        |                          |
+|------------|------------|
+| ![](./media/image114.jpeg){width=40%} | ![](./media/weavingtrianglestable.png){width=32%} |
+| positions                                       |  Right-hand counting   |
 
 Try it with inside outside triangle first then inside triangle.
 
 Pattern by Luke Emery.
+
+## Triangle of Weaves
+
+  Place three in-sync weaves on edges of an equilateral triangle, a bit like the Weaving Triangles pattern above,
+ but each is an ordinary 6-count weave.  On the inside throws the middle jugglers exchange on a triangle (pick inside
+ or outside).  Do the same for the outside throws. Cool!
+
+  This is different from the big weave variations in Chapter 11.
+
+
+## Stacks
+
+###  1-2-3-2-1
+ 
+ This is a beautiful pattern on a 3-count base:
+
+
+  3-count olive; spinning 3-count pair; 4-5 twister; spinning 3-count pair; 3-count olive
+
+ It's nice and easy if you shift it to 4-count base. Then it's an ordinary twister in the middle, spinning
+ 4-count pairs, and 4-count olives.
+
+### 1-3-4-1
+
+   3-count olive; 4-5 twister; spiral weave; 3-count olive
+

@@ -2,7 +2,7 @@
 
 ## 1-2-4 Apollo (for Seven Jugglers)
 
-![](./media/image98.jpeg)
+![](./media/image98.jpeg){width=50%}
 
 | **Juggler** | **1**   | **2**   | **3**   | **4**   |
 |-------------|---------|---------|---------|---------|
@@ -27,7 +27,7 @@ E and F do a sweep feed with a phantom (don't pass to the phantom).
 Pattern by MAJ.
 
 ## Hinge
-![](./media/image99.png)
+![](./media/image99.png){width=50%}
 
 Easy patterns for lots of people
 
@@ -47,7 +47,7 @@ Easy patterns for lots of people
 * A Hinge is a juggler who passes to two feeders.
 * The feeders in a Hinge pattern do a standard feed to 3 jugglers.
 
-![](./media/image100.png)
+![](./media/image100.png){width=50%}
 
 | **Juggler** | **1**   | **2**   | **3**   | **4**   |
 |-------------|---------|---------|---------|---------|
@@ -67,7 +67,7 @@ Easy patterns for lots of people
 **Hinges:** A, C
 **Feeders:** E, G, J
 
-![](./media/image101.jpeg)
+![](./media/image101.jpeg){width=50%}
 
 | **Juggler** | **1**   | **2**   | **3**   | **4**   |
 |-------------|---------|---------|---------|---------|
@@ -154,7 +154,7 @@ pattern.
 
 ## Twister 5 and Variations
 
-![](./media/image103.jpeg)
+![](./media/image103.jpeg){width=50%}
 
 | **Juggler** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** |
 |-------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|--------|
@@ -191,7 +191,7 @@ Like the Twister Sandwich in 9 Person Patterns, you can replace one or both of t
 Pattern by MAJ.
 
 ## Twister Plus Plus
-![](./media/image104.jpeg)
+![](./media/image104.jpeg){width=50%}
 
 This amazing pattern is another crown jewel of the MAJ pattern repertoire. It's
 a combination of Twister Plus and Double Time Twister.
@@ -218,7 +218,7 @@ Pattern by MAJ.
 
 ## Iron Cross Weave
 
-![](./media/image105.jpeg)
+![](./media/image105.jpeg){width=50%}
 
 | **Juggler** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** | **11** | **12** |
 |-------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|--------|--------|--------|
@@ -242,7 +242,7 @@ to E rather difficult.
 Pattern by Luke Emery.
 
 ## Intersecting Weave
-![](./media/image106.png)
+![](./media/image106.png){width=50%}
 
 A and B are feeding a standard weave with one position common to both. The
 weavers do a standard weave until they get between A and B. The weaver then
@@ -278,7 +278,7 @@ If your weavers are quite comfortable with outside turns in a Twister Weave,
 then here is a fun and good looking pattern. This is just a Twister Weave with
 another passing duo embedded in the center.
 
-![](./media/image108.jpeg)
+![](./media/image108.jpeg){width=50%}
 
 | **Juggler** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** | **11** | **12** |
 |-------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|--------|--------|--------|

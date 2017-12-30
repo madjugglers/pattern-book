@@ -28,7 +28,7 @@ start.
 
 > * Right handed counting.
 
-![](./media/image118.jpeg)
+![](./media/image118.jpeg){width=50%}
 
 For more variations, replace D and F with a weave or with a single feeder. You
 can also remove either of the outside feeders C and E for fewer people (and an
@@ -52,7 +52,7 @@ and 6 feeders in 4-count. There is a Mr. Inside feeder for each weave, and then
 a Mr. Outside feeder in between the weaves who passes in turn to each adjacent
 weave.
 
-![](./media/image119.jpeg)
+![](./media/image119.jpeg){width=50%} 
 
 | **Juggler** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** | **11** | **12** |
 |-------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|--------|--------|--------|
