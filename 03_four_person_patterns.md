@@ -253,7 +253,7 @@ leads to many other exciting patterns.
 
 |      |         |
 |------|--------|
-| ![](./media/image4.jpeg){width=40%}   | ![](./media/weaveTable.png){width=40%} |
+| ![](./media/image4.jpeg){width=40%}   | ![](./media/weaveTable.png){width=37%} |
 |             | Right-hand counting |
 The feeder, A, throws to the end, middle, end, middle and then repeats, passing in 2-count. 
  That's called a wind-shield wiper field (as opposed to a typewriter feed that only goes in one direction).  Each weaver, (B,C,D), passes in their current position and then moves to the next
@@ -818,7 +818,7 @@ the feeder. For example, in the figure below, the red juggler starts as the feed
   You'll notice that the pattern is *chiral*, as we say, which means that it has a specific orientation; a backwards version would be different. In the figure, for example, movement through the middle always goes left to right.   
 
 
-![](./media/el-turbo.jpg){width=80%}
+![](./media/el-turbo.jpg){width=70%}
 
 Variation: 
 Note that there are opportunities in El Turbo for 
@@ -845,7 +845,7 @@ The Oogle Boogie is a rotating Y.
 
 **Positions and passing directions**
 
-![](./media/image18.jpeg)
+![](./media/image18.jpeg){width=75%}
 
 For each box, the jugglers will throw 3 right hand passes (two count) followed
 by a right hand self throw so they can move to the positions in the next box.
@@ -894,7 +894,7 @@ When was this pattern created? We have been doing it since 1991.
  This has the same movement sequence as the standard Oogle Boogie, but with 2
 extra clubs so all the passes are doubles (like 7 2-count).
 
-![](./media/image19.jpeg)
+![](./media/image19.jpeg){width=75%}
 
 Position 1: C, D start with 4 clubs each, do 3 passes, then triple self. A, B
 start (1/2 beat after C and D) with 3 clubs each, do 3 passes, then move to
@@ -1103,21 +1103,18 @@ challenging weave. Also see the Popcorn Twister and Popcorn Twister Weave.
 This pattern dates to September, 1999 by Luke Emery and the MAJ.
 
 ## Simple Egg Beater, No Handle
-![](./media/image20.png){width=40%}
+
 
 This is like a 4-person version of a synchronous double weave.
 
-| **Juggler/beat** | **1**   | **2**   | **3**   | **4**   |
-|-------------|---------|---------|---------|---------|
-| **A**       | C       |         | D       |         |
-| **B**       | D       |         | C       |         |
-| **C**       | A       |         | B       |         |
-| **D**       | B       |         | A       |         |
+
+|                                        |                          |
+|------------|------------|
+| ![](./media/image20.png){width=30%} | ![](./media/simpleeggbeatertable.png){width=35%} |
+| positions                                       |    Right hand counting |
 
 
-TODO fix images here....
-
-After the 4th box, the jugglers are inverted, but the passing sequence repeats.
+After the 4th beat, the jugglers are inverted, but the passing sequence repeats.
 
 This pattern dates to 1997 by Mike Newton and MAJ.
 
@@ -1464,7 +1461,7 @@ pattern, if you can remember the passing sequence.
 In the graph below, lines indicate passes, and arrows indicate the movement of
 jugglers after the pass.
 
-![](./media/image33.jpeg)
+![](./media/image33.jpeg){width=50%}
 
 Notice that the movement around the leaves in Peter's version is reversed from
 Mike's and Steve's version. (The starting positions are also different). It
@@ -1515,7 +1512,7 @@ but it's worth exploring this variation too.
 The movement graph below applies to the three versions above. Lines indicate
 passes. Arrows indicate movement of jugglers after the pass.
 
-![](./media/image35.jpeg)
+![](./media/image35.jpeg){width=50%}
 
 The passing rate and movement along the leaves is the same as in Mike's version
 (notice the different numberings in the graphs of Steve's and Mike's versions).

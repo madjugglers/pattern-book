@@ -1,3 +1,27 @@
+
+
+## Simple Egg Beater, No Handle
+![](./media/image20.png){width=40%}
+
+
+This is like a 4-person version of a synchronous double weave.
+
+
+| **Juggler/beat** | **1**   | **2**   | **3**   | **4**   |
+|-------------|---------|---------|---------|---------|
+| **A**       | C       |         | D       |         |
+| **B**       | D       |         | C       |         |
+| **C**       | A       |         | B       |         |
+| **D**       | B       |         | A       |         |
+
+
+After the 4th beat, the jugglers are inverted, but the passing sequence repeats.
+
+This pattern dates to 1997 by Mike Newton and MAJ.
+
+
+
+
 ### Standard Feed (4 jugglers)
 
 | **Juggler/beat** | **1** | **2** | **3** | **4** |
@@ -16,7 +40,49 @@
 | **B**       | A     |       |
 | **C**       |       | A     |
 
+## Five
+
+
+### Egg Beater, Handle in the Batter
+
+This variation moves the feeder to the other side of the pattern.
+
+
+![](./media/image50.png){width=30%}
+
+| **Juggler/beat** | **1**   | **2**   | **3**   | **4**   | **5**   | **6**   | **7**   | **8**   |
+|-------------|---------|---------|---------|---------|---------|---------|---------|---------|
+| **A**       | C       |         | D       |         | C       |         | D       | E       |
+| **B**       | D       |         | C       | E       | D       |         | C       |         |
+| **C**       | A       | E       | B       |         | A       |         | B       |         |
+| **D**       | B       |         | A       |         | B       | E       | A       |         |
+| **E**       |         | C       |         | B       |         | D       |         | A       |
+
+> * Right hands counting
+
+
+
 ### Original Apollo
+
+
+## Egg Beaters
+
+### Original Egg Beater
+
+![](./media/image48.png){width=30%}
+
+| **Juggler/beat** | **1**   | **2**   | **3**   | **4**   | **5**   | **6**   | **7**   | **8**   |
+|-------------|---------|---------|---------|---------|---------|---------|---------|---------|
+| **A**       |         | E       |         | B       |         | D       |         | C       |
+| **B**       | D       |         |         | A       |         |         | E       |         |
+| **C**       |         |         | D       |         | E       |         |         | A       |
+| **D**       | B       |         | C       |         |         | A       |         |         |
+| **E**       |         | A       |         |         | C       |         | B       |         |
+
+> * Right hands counting
+
+A is the handle, B and C are one beater, and D and E are the other beater.
+
 
 The original Apollo (also known as the 1-1-3 Apollo) is a MAJ standard.
 
@@ -432,5 +498,236 @@ If this is too fast, then pass twice in the middle (either to the same weaver or
 to two different feeders).
 
 Pattern by MAJ and Gandini Juggling Project.
+
+
+
+## Overlapping Y's
+
+![](./media/image96.png){width=50%}
+
+| **Juggler/beat** | **1** | **2** | **3** | **4** | **5** | **6** |
+|-------------|-------|-------|-------|-------|-------|-------|
+| **A**       | E     | E     |       | F     | D     |       |
+| **B**       |       | D     |       |       | E     |       |
+| **C**       | F     |       |       | E     |       |       |
+| **D**       |       | A     |       |       | B     |       |
+| **E**       | C     | B     |       | A     | A     |       |
+| **F**       | A     |       |       | C     |       |       |
+
+> * Both hands counting
+
+You can do a nice 1-count variations similar to this too.
+
+Pattern by MAJ.
+
+
+
+## More Mating Oogles
+![](./media/image97.jpeg)
+
+Imagine better looking oogles mating than the previous mating oogles. This is basically a 1-count Oogle variation with a 2-count left handed Y and a 2-count right handed Y superimposed.
+
+| **Juggler/beat** | **1** | **2** |
+|-------------|-------|-------|
+| **X**       | D     | A     |
+| **Y**       | B     | C     |
+| **A**       |       | Y     |
+| **B**       | X     |       |
+| **C**       |       | X     |
+| **D**       | Y     |       |
+
+> * Both hands counting
+> * X throws rights to D and lefts to A
+> * Y throws rights to B and lefts to C
+> * A throws left hands to Y and does right selves
+> * B throws right hands to X and does left selves
+> * C throws left hands to X and does right selves
+> * D throws right hands to Y and does left selves
+
+Pattern by MAJ.
+
+
+
+## Theatre Style Popcorn
+
+This impressive pattern with 21 clubs is in the same family as the Oogle and the Apollo and is a Madison favorite.
+
+* A does a typewriter feed to D, E and F in 8 club 2-count.
+* B does a typewriter feed to D, E and F in 7 club 2-count.
+* C does a typewriter feed to D, E and F in 6 club 2-count.
+* D, E and F do popcorn passing: triple to A, double to B, single to C.
+
+| **Juggler/beat** | **1** | **2** | **3** | **4** | **5** | **6** |
+|-------------|-------|-------|-------|-------|-------|-------|
+| **A**       | T-D   |       | T-E   |       | T-F   |       |
+| **B**       |       | D-D   |       | D-E   |       | D-F   |
+| **C**       | E     |       | F     |       | D     |       |
+| **D**       | T-A   |       | D-B   |       | C     |       |
+| **E**       | C     |       | T-A   |       | D-B   |       |
+| **F**       | D-B   |       | C     |       | T-A   |       |
+
+> * Both hands counting
+> * All passes from right hand
+> * A, C, D, E, F start with right hand
+> * A, D and F start with 4 clubs
+> * B starts with left hand
+
+As you might expect, A is a challenging position. C, less so.
+
+Pattern by Peter Kaseman.
+
+
+
+## Mr. Inside-Mr. Outside Weave
+![](./media/image36.png){width=50%}
+
+This modifies the standard weave by  dividing the feeder into two feeders (one
+passing on the inside and one on the outside), both on 4-count in the standard version.
+It's  a good warm up pattern
+for the Twister Weave (see below).
+
+| **Juggler/beat** | **1**   | **2**   | **3**   | **4**   | **5**   | **6**   |
+|-------------|---------|---------|---------|---------|---------|---------|
+| **A**       | C       |         | E       |         | D       |         |
+| **B**       |         | D       |         | C       |         | E       |
+| **C**       | A       |         |         | B       |         |         |
+| **D**       |         | B       |         |         | A       |         |
+| **E**       |         |         | A       |         |         | B       |
+
+> * Right hand counting
+
+Juggler A is also called Glen Davis (Mr. Outside), and Juggler B is Doc Blanchard (Mr. Inside), for
+reasons that none of us recall, though Tom Pomraning insisted on the names.  Movements of
+the weavers are identical to the Standard Weave, though passes go alternatively to the two
+feeders.
+
+![](./media/image37.png){width=50%}
+
+The same variations for the standard weave and the Twister Weave can be used for
+this pattern, but there are some others. For example, Jugglers A and B can set up on a line
+perpendicular to the weave, with A (outside) further from the weave.
+
+When was this pattern created? We have been doing it since 1994.
+
+
+
+### Twister Popcorn
+
+The Twister Popcorn is the same as the Popcorn Feed except there are 2 feeders,
+one on each side, and each popcorn feedee passes to one, turns to pass to the
+other, and repeats. The feedees do not weave in this pattern. That's the next
+pattern. In this pattern they just turn in place. The feeders do a Typewriter
+Feed.
+
+![](./media/image39.jpeg){width=40%}
+
+The hardest position is the middle feedee, because he/she cannot cheat as much
+into the turns. You can either turn fast during the single self, throw a right
+to left single straight up in the air and do a ½ pirouette underneath it, or
+throw a behind the back self to turn.
+
+| **Juggler/beat** | **1** | **2** | **3** | **4** | **5** | **6** |
+|-------------|-------|-------|-------|-------|-------|-------|
+| **X**       | D-A   |       | D-C   |       | D-B   |       |
+| **Y**       |       | D-B   |       | D-A   |       | D-C   |
+| **A**       |T-self | D-X   |       |T-self | D-Y   |       |
+| **B**       |       |T-self | D-Y   |       |T-self | D-X   |
+| **C**       | D-Y   |       |T-self | D-    |       |T-self |
+
+> * Right hands counting
+> * X and C start with 4
+> * A, B and C are 1 beat after X and Y
+
+It's probably best to be quite comfortable with popcorn feeds before spending a lot of time on this pattern.
+
+Pattern by Luke Emery and MAJ.
+
+
+
+### Twister Popcorn Weave
+
+![](./media/image40.jpeg){width=35%}
+
+| **Juggler/beat** | 1   | 2   | 3   | 4   | 5   | 6   |
+|---------|-----|-----|-----|-----|-----|-----|
+| X       | D-A |     | D-C |     | D-B |     |
+| Y       |     | D-B |     | D-A |     | D-C |
+| A       | T-self | D-X    |        | T-self | D-Y    |        |
+| B       |        | T-self | D-Y    |        | T-self | D-X    |
+| C       | D-Y    |        | T-self | D-X    |        | T-self |
+
+> * Right hands counting
+> *  and C start with 4
+> * A, B and C are 1 beat after X and Y
+
+Pattern by Luke Emery.
+
+
+## Four Leaf Clover
+
+So the deal with clover patterns is that the number of jugglers is one more than the number of leaves; there's
+always one juggler on each leave and one extra in the middle, about to swap places with one of the leaves. This
+is a very pleasant 5 person moving pattern; all jugglers do the same thing in the steady state: feed three (right to left); 2-selves to move into middle; pass in middle; 4 selves to get out.  That's a 2-in-4-out, in
+contrast to the *2-in-2-out* three-leaf clover for four jugglers.  Each juggler's job repeats after 10, but the
+whole pattern takes 40 rights to complete.
+
+![](./media/image41.jpeg)
+
+| **Juggler/beat** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** |
+|-------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|--------|
+| **A**       |       |       | D     | C     | B     |       |       | E     | \*    |        |
+| **B**       | \*    |       |       |       | A     | D     | E     |       |       | C      |
+| **C**       | D     |       |       | A     | \*    |       |       |       | E     | B      |
+| **D**       | C     | E     | A     |       |       | B     | \*    |       |       |        |
+| **E**       |       | D     | \*    |       |       |       | B     | A     | C     |        |
+
+> * Right hands counting
+> * "\*" notes when jugglers are in the center
+
+![](./media/image42.jpeg){width=50%}
+
+See all of those self throws? Well, you can fill some of them in by adding
+another pass on every beat.
+
+| **Juggler/beat** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** |
+|-------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|--------|
+| **A**       | E     |       | D     | C     | B     | C     | C     | E     | \*    | E      |
+| **B**       | \*    | C     | C     |       | A     | D     | E     | D     | D     | C      |
+| **C**       | D     | B     | B     | A     | \*    | A     | A     |       | E     | B      |
+| **D**       | C     | E     | A     | E     | E     | B     | \*    | B     | B     |        |
+| **E**       | A     | D     | \*    | D     | D     |       | B     | A     | C     | A      |
+
+> * Right hands counting
+
+![](./media/image43.jpeg){width=50%}
+
+Pattern by MAJ.
+
+
+
+## Chocolate Swirl
+![](./media/image46.png){width=30%}
+
+The chocolate swirl is a moving extension of Double Chocolate Double Three
+Count. It is noteworthy for jugglers moving from one side of the pattern to the
+other with only a single self throw. That is possible. It is also noteworthy for
+being hard, both to remember and to juggle.
+
+The table shows a single transition where E moves to the other side.
+
+| **Juggler/beat** | **1** | **2** | **3** | **4** | **5**    | **6** | **7** | **8** | **9** | **10** | **11** | **12** |
+|-------------|-------|-------|-------|-------|----------|-------|-------|-------|-------|--------|--------|--------|
+| **A**       | C     | C     | D     | C     | C        |       | C     | C     |       | C      | C      |        |
+| **B**       | E     | D     | E     | E     | D        | C     | D     |       | C     | D      |        | C      |
+| **C**       | A     | A     |       | A     | A        | B     | A     | A     | B     | A      | A      | B      |
+| **D**       |       | B     | A     |       | B        | E     | B     | E     | E     | B      | E      | E      |
+| **E**       | B     |       | B     | B     | **Move** | D     |       | D     | D     |        | D      | D      |
+
+> * Both hands counting, right hand starts
+
+Once you get comfortable with one transition at a time, then you can run the
+transitions faster. Or so we imagine...we've never been that comfortable...
+
+Pattern by Luke Emery
 
 

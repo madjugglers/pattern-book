@@ -410,9 +410,10 @@ This is an intense off-set double-weave for six jugglers.  As you enter an *outs
 you do *pass-self-self* (right-hand counting) as usual for a weave. But as you enter the other loop, the *inner* loop, you make a series of 4 passes, starting and ending with the same person, and getting the other two in
 between.  It takes advantage of the fact that coming out of the middle on a weave you are in front of
 your other weavers, and so can get some extra passes in before going to the backside of the weave loop.
-The postion graph, on the left below, shows the 12 spots of a standard weave, duplicated and offset
+The position graph, on the left below, shows the 12 spots of a standard weave, duplicated and offset
 to configure the pattern. Blue arrows indicate moves after each beat, with the starting configuration
 shown. The pass graph, on the right, shows where passes happen (green) in the 12-beat cycle.
+(Thanks Conor for the pattern name!)
 
 ![](./media/foiegraham.png)
 
@@ -479,7 +480,7 @@ variation with the left hand (or start on 2<sup>nd</sup> beat).
 Pattern by Mike Newton.
 
 ## Benzene Ring (6 person)
-![](./media/image84.jpeg){width=50%}
+![](./media/image84.jpeg){width=40%}
 
 Here's another MAJ standard. E and F are carriage return feeders, feeding to 3
 positions: left, middle, right, left, middle, right, etc. The rest of the
@@ -631,11 +632,11 @@ Now, to make it more interesting, throw early triples from the corners.
 
 D, E and F can pirouette in their Pause for some extra showmanship.
 
-![](./media/image95.jpeg)
-
 ### Trompe L'oeil (Concentric Triangles)
 
 Here's an extension of the 4-count extra club triangle to 6 jugglers. All the jugglers should be quite comfortable with 4-count extra club triangles.
+
+![](./media/image95.jpeg)
 
 * A – Double to F, self
 * D – Double to C, self
@@ -662,38 +663,27 @@ Pattern by That Matt (Matt Mella).
 
 ## Overlapping Y's
 
-![](./media/image96.png){width=50%}
 
-| **Juggler/beat** | **1** | **2** | **3** | **4** | **5** | **6** |
-|-------------|-------|-------|-------|-------|-------|-------|
-| **A**       | E     | E     |       | F     | D     |       |
-| **B**       |       | D     |       |       | E     |       |
-| **C**       | F     |       |       | E     |       |       |
-| **D**       |       | A     |       |       | B     |       |
-| **E**       | C     | B     |       | A     | A     |       |
-| **F**       | A     |       |       | C     |       |       |
+|                                        |                          |
+|------------|------------|
+| ![](./media/image96.png){width=30%} | ![](./media/overlappingYstable.png){width=45%} |
+| positions                                       |    Both-hands counting |
 
-> * Both hands counting
 
-You can do a nice 1-count variations similar to this too.
+You can do a nice 1-count variation similar to this too.
 
 Pattern by MAJ.
 
 ## More Mating Oogles
-![](./media/image97.jpeg)
 
 Imagine better looking oogles mating than the previous mating oogles. This is basically a 1-count Oogle variation with a 2-count left handed Y and a 2-count right handed Y superimposed.
 
-| **Juggler/beat** | **1** | **2** |
-|-------------|-------|-------|
-| **X**       | D     | A     |
-| **Y**       | B     | C     |
-| **A**       |       | Y     |
-| **B**       | X     |       |
-| **C**       |       | X     |
-| **D**       | Y     |       |
 
-> * Both hands counting
+|                                        |                          |
+|------------|------------|
+| ![](./media/image97.jpeg){width=35%} | ![](./media/matingoogletable.png){width=35%} |
+| positions                                       |    Both-hands counting |
+
 > * X throws rights to D and lefts to A
 > * Y throws rights to B and lefts to C
 > * A throws left hands to Y and does right selves
@@ -730,33 +720,30 @@ The corners do a 2-count feed of triples to the opposite corner and doubles to t
 
 The centers do a 2-count feed of doubles to the corners.
 
-Pattern by Luke Emery.
+Pattern by Luke Emery. **Q: what is the layout?**
+
 
 ## Theatre Style Popcorn
 
 This impressive pattern with 21 clubs is in the same family as the Oogle and the Apollo and is a Madison favorite.
 
-* A does a typewriter feed to D, E and F in 8 club 2-count.
-* B does a typewriter feed to D, E and F in 7 club 2-count.
-* C does a typewriter feed to D, E and F in 6 club 2-count.
+* A does a typewriter feed to D, E and F in 8 club 2-count (triples).
+* B does a typewriter feed to D, E and F in 7 club 2-count (doubles).
+* C does a typewriter feed to D, E and F in 6 club 2-count (crispy singles)
 * D, E and F do popcorn passing: triple to A, double to B, single to C.
 
-| **Juggler/beat** | **1** | **2** | **3** | **4** | **5** | **6** |
-|-------------|-------|-------|-------|-------|-------|-------|
-| **A**       | T-D   |       | T-E   |       | T-F   |       |
-| **B**       |       | D-D   |       | D-E   |       | D-F   |
-| **C**       | E     |       | F     |       | D     |       |
-| **D**       | T-A   |       | D-B   |       | C     |       |
-| **E**       | C     |       | T-A   |       | D-B   |       |
-| **F**       | D-B   |       | C     |       | T-A   |       |
+|                                        |                          |
+|------------|------------|
+| ![](./media/theatrepositions.png){width=20%} | ![](./media/theatretable.png){width=45%} |
+| positions                                       |    Both-hands counting |
 
-> * Both hands counting
+
 > * All passes from right hand
 > * A, C, D, E, F start with right hand
 > * A, D and F start with 4 clubs
 > * B starts with left hand
 
-As you might expect, A is a challenging position. C, less so.
+As you might expect, A is a challenging position. C, less so. 
 
 Pattern by Peter Kaseman.
 

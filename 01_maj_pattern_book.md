@@ -201,7 +201,7 @@ the end of the chapter fyi.  We use whatever seems to make sense to us at the mo
 * **Bernardos**. Unecessary solo juggling tricks performed while other jugglers are trying
  to start a pattern. Named after Paul Bernardo, an expert of the craft.
 * **Canadian catch**.   An impressive catch that would have been difficult
- for most mortal jugglers to achieve.
+ for most mortal jugglers.
 * **carriage return**. A style of feeding where the feeder returns to the first
  feedee in the line after passing in sequence to all feedees. (also called typewriter)
 * **chalant**.  To drop a perfectly fine pass due to lack of focus. The opposite of nonchalant.
