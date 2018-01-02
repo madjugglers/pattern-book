@@ -1,26 +1,31 @@
 # 10 Person Patterns
 
-## Naturals
-
- Various patterns for other numbers of jugglers are naturally  modified for 10, such as:
-
-### Feast
+## Feast
 
    With this many jugglers the feast naturally oscillates (to keep the passing distances about the same)
  and looks something like an Amoeba.   Fun to make the group move across the floor while juggling!
 
-### 5 on 5 lines
+## 5 on 5 lines
 
 Pass to two opposites, say on 4 count, with two end jugglers on slower (e.g 8) count.   Start one special (e.g. differently colored) club on one end and see if you can make it move to the other end!
 
-### Double-vision 5-person 
+## Double-vision 5's
 
  Take any 5-person pattern (well maybe not any one) and turn each juggler into two jugglers.
  E.g. try double-vision star! 
 
-### Big Hinge minus 2
 
-  Take the 12-person big hinge and drop two of the baby positions (line centers)
+## Big Hinge minus 2
+
+  Take the 12-person big hinge and drop two of the baby positions, either line centers
+ on two lines, or one line center and the matching feeder, as described here:
+
+|                                        |                          |
+|------------|------------|
+| ![](./media/image100.png){width=35%} | ![](./media/bighingem2table.png){width=40%} |
+|   |    Right-hand counting |
+|        | **Hinges:** A, C |
+|        | **Feeders:** E, G, J |
 
 
 ## Double Weave (with 10 jugglers)
@@ -77,3 +82,7 @@ The Double Blast is two mirrored Blast patterns. It is easy.
 ![](./media/image117.jpeg){width=80%}
 
 Pattern by Peter Kaseman and MAJ.
+
+## Two Mating Four Leaf Clovers
+
+By Melonhead. *describe*

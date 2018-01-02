@@ -1,16 +1,19 @@
 # 9 Person Patterns
 
-## Naturals
 
-Various patterns for other numbers of jugglers are naturally modified for 9, such as:
 
-### Feast
+## Feast
+   
+  Everyone feeds everyone else, on count of your choice.
 
-### 4 vs 5 line
+## 4 on 5 line
+  
+ **describe one**
 
-### Big Hinge minus 3
+## Big Hinge minus 3
 
-   Drop 3 of the 4 baby positions.
+   Drop 3 of the 4 baby positions from this 12-person pattern.
+
 
 ## Twister Sandwiches
 

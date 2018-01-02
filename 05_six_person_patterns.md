@@ -560,7 +560,7 @@ In the parlance of stacking patterns, this one is a 1-2-2-1: olive, spinning 3-c
 
 Pattern by Peter Kaseman and the MAJ.
 
-### Electric Razor
+## Electric Razor
 
 
 The Electric Razor is 3 pairs of jugglers of spinning 3 counters.
@@ -592,30 +592,24 @@ The Electric Razor pattern was invented by Peter Kaseman, summer '98.
 > * B does drop-back passes to A.
 > * E does drop-back passes to F.
 
-![](./media/image92.png)
+![](./media/image92.png){width=70%}
 
 Arrows indicate the direction of pass.
 
-![](./media/image93.png)
+![](./media/image93.png){width=70%}
 
 Pattern by MAJ.
 
 ## Mel's Big Woody
 
-![](./media/image94.jpeg){width=50%}
+**Standard:**
 
-### Standard
+|            |            |
+|------------|------------|
+| ![](./media/image94.jpeg){width=35%} | ![](./media/melwoodytable.png){width=45%} |
+| positions                                       |    Right-hand counting  |
 
-| **Juggler/beat** | **1** | **2** | **3** | **4** | **5** | **6** |
-|-------------|-------|-------|-------|-------|-------|-------|
-| **A**       | D     | B     | C     | F     | C     | B     |
-| **B**       | E     | C     | A     | D     | A     | C     |
-| **C**       | F     | A     | B     | E     | B     | A     |
-| **D**       | A     |       |       | B     |       |       |
-| **E**       | B     |       |       | C     |       |       |
-| **F**       | C     |       |       | A     |       |       |
-
-> * Right hands counting
+**Variation:**
 
 Now, to make it more interesting, throw early triples from the corners.
 
@@ -632,7 +626,7 @@ Now, to make it more interesting, throw early triples from the corners.
 
 D, E and F can pirouette in their Pause for some extra showmanship.
 
-### Trompe L'oeil (Concentric Triangles)
+## Trompe L'oeil (Concentric Triangles)
 
 Here's an extension of the 4-count extra club triangle to 6 jugglers. All the jugglers should be quite comfortable with 4-count extra club triangles.
 

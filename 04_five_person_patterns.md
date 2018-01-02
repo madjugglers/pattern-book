@@ -447,6 +447,16 @@ for 2 counts instead of pirouetting.) You'll pirouette holding 2 clubs.
 
 Pattern by Luke Emery.
 
+## Up-Up-Over-5
+
+Refer to Up-Up-Over for 3 jugglers. Expand from 2 on 1 to 3 on 2.  Now only the outside jugglers
+on the line do Up-Up-Over; the other three are Over-only feeders.  Remember, these are 
+simultaneous (right and left) double throws. **specify start**
+
+## Gauntlet
+
+ **Mel's description**
+
 ## Mr. Inside-Mr. Outside Weave
 
 This modifies the standard weave by  dividing the feeder into two feeders (one
@@ -790,7 +800,7 @@ Pattern by Luke Emery
 
 * Positions: 2 facing 3, as above in Chocolate Swirl
 
-* Continuously, Juggler on end of 3-line switches sides creating flipped 2-facing-3
+* Continuously, juggler on end of 3-line switches sides creating flipped 2-facing-3
 
 
 The Mango Swirl was an attempt to create a change sides pattern for the 2 extra
@@ -889,12 +899,26 @@ looking pattern.
 
 ### 3-4-5 Egg Beater
 
-As your passing skills develop the original Egg-Beater gets a little boring.  But use the same
-movements and passes, but on a faster count, nicely balancing the hands.  
+As your passing skills develop the original Egg-Beater gets a little boring.  The 3-4-5 variation
+has the same trajectory and the same sequence of folks you pass to, but it's accelerated, and it uses both hands.    This one has 12 total
+1-count beats, where the original egg-beater has 8 2-count (i.e. 16 1-count) beats.
 Specifically, the feeder does 3-count and the 
 egg-beaters progress through 3-count, 4-count, then 5-count. 
 
-**fix: add passing table**
+
+|**Juggler/beat**| **1**| **2**|**3**|**4**|**5**|**6**|**7**|**8**|**9**|**10**|**11**|**12**|
+|-------------|---------|------|-----|-----|-----|-----|-----|-----|-----|------|------|------|
+| **A**       |         | E    |     |     | B   |     |     | D   |     |      | C    |      |
+| **B**       | D       |      |     |     | A   |     |     |     |     |  E   |      |      |
+| **C**       |         |      |     |  D  |     |     |  E  |     |     |      | A    |      |
+| **D**       | B       |      |     |  C  |     |     |     | A   |     |      |      |      |
+| **E**       |         | A    |     |     |     |     | C   |     |     |  B   |      |      |
+
+> * Both hands counting
+
+Since the feeder's doing 3-count, this pattern is mates with anything needing a 3-count position, such
+as a 4-5 Twister.  Estimated birth, 2016.
+
 
 ### Egg Beater, Handle in the Batter
 
@@ -914,7 +938,7 @@ Pattern by Mike Newton and MAJ.
 ### Egg Beater, Switching Handles
 
 
-This pattern was is a cool way to get the handle into the action, continuously. It was  first done Nov 2, 17 (long
+This pattern is a cool way to get the handle into the action, continuously. It was  first done Nov 2, 17 (long
 after the original egg-beater) by Graham=A, Mel=B, Mike=C, Jeff=D, Nick=E; nickname EggBeatOff). The table shows positions where each juggler (column) must be at that passing beat [right-hand counting in rows]. Only passes are indicated. So positions 1-2 exchange, similarly 3-8, 4-7, and 5-6.
 The upper graph shows where each juggler moves; edge weights indicate number of right-hand counts up to next throw. Lower graph shows passing events. Start with jugglers at 4, 7, near 1, 2, and on the edge moving towards 6. There are 30 right hand beats to get around, which seems excessive but doesn’t feel so bad when juggling, thanks to symmetries I guess.
 

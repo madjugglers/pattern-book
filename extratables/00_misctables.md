@@ -731,3 +731,217 @@ transitions faster. Or so we imagine...we've never been that comfortable...
 Pattern by Luke Emery
 
 
+## Mel's Big Woody
+
+![](./media/image94.jpeg){width=50%}
+
+### Standard
+
+| **Juggler/beat** | **1** | **2** | **3** | **4** | **5** | **6** |
+|-------------|-------|-------|-------|-------|-------|-------|
+| **A**       | D     | B     | C     | F     | C     | B     |
+| **B**       | E     | C     | A     | D     | A     | C     |
+| **C**       | F     | A     | B     | E     | B     | A     |
+| **D**       | A     |       |       | B     |       |       |
+| **E**       | B     |       |       | C     |       |       |
+| **F**       | C     |       |       | A     |       |       |
+
+> * Right hands counting
+
+Now, to make it more interesting, throw early triples from the corners.
+
+| **Juggler/beat** | **1** | **2** | **3** | **4** | **5** | **6** |
+|-------------|-------|-------|-------|-------|-------|-------|
+| **A**       | D     | B     | C     | F     | C     | B     |
+| **B**       | E     | C     | A     | D     | A     | C     |
+| **C**       | F     | A     | B     | E     | B     | A     |
+| **D**       | A     | T-F   | Pause | B     | T-E   | Pause |
+| **E**       | B     | T-D   | Pause | C     | T-F   | Pause |
+| **F**       | C     | T-E   | Pause | A     | T-D   | Pause |
+
+> * Right hands counting
+
+D, E and F can pirouette in their Pause for some extra showmanship.
+
+
+
+## 1-2-4 Apollo (for Seven Jugglers)
+
+![](./media/image98.jpeg){width=50%}
+
+| **Juggler** | **1**   | **2**   | **3**   | **4**   |
+|-------------|---------|---------|---------|---------|
+| **A**       | D       |         | G       |         |
+| **B**       | F       | E       | D       | E       |
+| **C**       | G       | F       | E       | F       |
+| **D**       | A       |         | B       |         |
+| **E**       |         | B       | C       | B       |
+| **F**       | B       | C       |         | C       |
+| **G**       | C       |         | A       |         |
+
+> * Right hand counting
+
+A throws long passes in 4-count to the outside edges (D and G)
+
+B and C do sweep feeds of 3 feedees each.
+
+D and G do 4-count between A and the feeder on their side (B and C respectively)
+
+E and F do a sweep feed with a phantom (don't pass to the phantom).
+
+Pattern by MAJ.
+
+
+
+## Hinge
+![](./media/image99.png){width=50%}
+
+Easy patterns for lots of people
+
+| **Juggler** | **1**   | **2**   | **3**   | **4**   |
+|-------------|---------|---------|---------|---------|
+| **A**       | F       |         |         |         |
+| **B**       |         | F       |         | F       |
+| **C**       | G       |         | F       |         |
+| **D**       |         | G       |         | G       |
+| **E**       |         |         | G       |         |
+| **F**       | A       | B       | C       | B       |
+| **G**       | C       | D       | E       | D       |
+
+> * Right hand counting (or whatever count you want)
+
+* C is the Hinge, and F and G are feeders.
+* A Hinge is a juggler who passes to two feeders.
+* The feeders in a Hinge pattern do a standard feed to 3 jugglers.
+
+
+## Twister 5 and Variations
+
+![](./media/image103.jpeg){width=50%}
+
+| **Juggler** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** |
+|-------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|--------|
+| **X**       | A     |       | C     |       | E     |       | B     |       | D     |        |
+| **Y**       |       | B     |       | D     |       | A     |       | C     |       | E      |
+| **A**       | X     |       |       |       |       | Y     |       |       |       |        |
+| **B**       |       | Y     |       |       |       |       | X     |       |       |        |
+| **C**       |       |       | X     |       |       |       |       | Y     |       |        |
+| **D**       |       |       |       | Y     |       |       |       |       | X     |        |
+| **E**       |       |       |       |       | X     |       |       |       |       | Y      |
+
+> * Right hand counting (or whatever count you want)
+
+
+
+## Eye of the Needle
+
+A Twister Weave has lots of time and space in the middle.
+
+If your weavers are quite comfortable with outside turns in a Twister Weave,
+then here is a fun and good looking pattern. This is just a Twister Weave with
+another passing duo embedded in the center.
+
+![](./media/image108.jpeg){width=50%}
+
+| **Juggler** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** | **11** | **12** |
+|-------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|--------|--------|--------|
+| **X**       | A     | N     | C     | M     | B     | N     | A     | M     | C     | N      | B      | M      |
+| **Y**       |       | B     |       | A     |       | C     |       | B     |       | A      |        | C      |
+| **A**       | X     |       |       | Y     |       |       | X     |       |       | Y      |        |        |
+| **B**       |       | X     |       |       | Y     |       |       | X     |       |        | Y      |        |
+| **C**       |       |       | X     |       |       | Y     |       |       | X     |        |        | Y      |
+| **M**       | N     |       | N     | X     | N     |       | N     | X     | N     |        | N      | X      |
+| **N**       | M     | X     | M     |       | M     | X     | M     |       | M     | X      | M      |        |
+
+> * Right hand counting
+
+If this pattern is too challenging as written, then start by skipping the passes
+from M and N to X. Then M and N just do a 4-count in the middle and X does a
+standard Mr. Outside 4-count.
+
+There are a number of patterns that have enough room to embed other patterns in
+the middle.
+
+Pattern by MAJ.
+
+
+## Iron Cross Weave
+
+![](./media/image105.jpeg){width=50%}
+
+| **Juggler** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** | **11** | **12** |
+|-------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|--------|--------|--------|
+| **A**       | D     |       | E     |       | F     |       | D     |       | E     |        | G      |        |
+| **B**       | E     |       | G     |       | D     |       | E     |       | F     |        | D      |        |
+| **C**       | F     |       | D     |       | E     |       | G     |       | D     |        | E      |        |
+| **D**       | A     |       | C     |       | B     |       | A     |       | C     |        | B      |        |
+| **E**       | B     |       | A     |       | C     |       | B     |       | A     |        | C      |        |
+| **F**       | C     |       |       |       | A     |       |       |       | B     |        |        |        |
+| **G**       |       |       | B     |       |       |       | C     |       |       |        | A      |        |
+
+> * Right hand counting
+
+See all those selves? Once you're comfortable with this pattern, make life more
+interesting by adding extra passes in the selves. One variation is for F and G
+to pick up the passes before and after their normal passes (so they throw pass,
+pass, pass, self). Another variation is for each E, F and G to all pass twice in
+a row to the weavers. D can't pass twice in a row without making the turn from D
+to E rather difficult.
+
+Pattern by Luke Emery.
+
+
+
+
+## Big Hinge
+
+
+![](./media/image101.jpeg){width=50%}
+
+| **Juggler** | **1**   | **2**   | **3**   | **4**   |
+|-------------|---------|---------|---------|---------|
+| **A**       | B       | C       | D       | C       |
+| **B**       | A       |         | F       |         |
+| **C**       |         | A       |         | A       |
+| **D**       | G       |         | A       |         |
+| **E**       |         | F       |         | F       |
+| **F**       | I       | E       | B       | E       |
+| **G**       | D       | H       | K       | H       |
+| **H**       |         | G       |         | G       |
+| **I**       | F       |         | L       |         |
+| **J**       |         | L       |         | L       |
+| **K**       | L       |         | G       |         |
+| **L**       | K       | J       | I       | J       |
+
+> * Right hand counting (or whatever count you want)
+
+**Hinges:** B, D, I, K
+**Feeders:** A, F, G, L
+
+
+## Big Hinge minus 2
+
+  Take the 12-person big hinge and drop two of the baby positions, either line centers
+ on two lines, or one line center and the matching feeder, as described here:
+
+![](./media/image100.png){width=50%}
+
+| **Juggler** | **1**   | **2**   | **3**   | **4**   |
+|-------------|---------|---------|---------|---------|
+| **A**       | E       |         | G       |         |
+| **B**       |         | E       |         | E       |
+| **C**       | J       |         | E       |         |
+| **D**       |         | G       |         | G       |
+| **E**       | A       | B       | C       | B       |
+| **F**       |         | J       |         | J       |
+| **G**       | H       | D       | A       | D       |
+| **H**       | G       |         |         |         |
+| **I**       |         |         | J       |         |
+| **J**       | C       | F       | I       | F       |
+
+> * Right hand counting (or whatever count you want)
+
+**Hinges:** A, C
+**Feeders:** E, G, J
+
+

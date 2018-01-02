@@ -1,20 +1,19 @@
 #  8 Person Patterns
 
-## Naturals
 
-Various patterns for other numbers of jugglers are naturally modified to 8, such as:
+## Feast
+  
+  Everyone feeds everyone else, on count of choice.
 
-### Feast
+## 4-on-4 line
 
-### 4-on-4 line
-
-### Double vision
+## Double vision 4's
 
   Take any (almost any) 4 person pattern and turn each juggler into two.  Double-vision boxes are 
    nice and fun; The double-vision oogle boogie is possible too.  Someone should try a double-vision
    shooting star, but we haven't yet!
 
-### Big Hinge minus 4
+## Big Hinge minus 4
 
   Drop all 4 baby positions from this 12 person pattern.
 
@@ -45,7 +44,7 @@ each feeder and then turn around to pass 3 times to the next feeder.
 
 |                                        |                          |
 |------------|------------|
-| ![](./media/image110.jpeg){width=45%} | ![](./media/benzeneringtable.png){width=45%} |
+| ![](./media/image110.jpeg){width=42%} | ![](./media/benzeneringtable.png){width=50%} |
 | positions                                       |    Right-hand counting |
 
 
@@ -93,3 +92,20 @@ Solid lines are movement, dotted lines are passes.
 > * Right hand counting
 
 Pattern by Kat Girdaukas.
+
+## Egg Beater Twister
+
+We tried to replace the handle of a standard Egg Beater (4-count) with a Twister Weave minus one feeder.
+Having to resolve some line problems we got the following, which is pretty fun
+
+**Standard:**
+
+   *insert*
+
+**Variation:**  Everyone moves
+
+## 3-5 Foie Graham
+
+  *insert*
+
+ By Melonhead

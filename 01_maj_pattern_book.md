@@ -9,7 +9,7 @@ To see the book online (I mean, if you're not already reading this on a computer
 ![](./media/static_qr_code_without_logo.jpg){width=30%} 
 
 or visit
-the [*Madison Area Jugglers website*](http://madjugglers.com) for other links to this document and cool stuff about the MAJ.  All the code to make (and udpate!) this collection is at a [*Github repository*](https://github.com/wiscstatman/pattern-book). See the *build* subdirectory for the current pdf file.  Thinking it would facilitate
+the [*Madison Area Jugglers website*](http://madjugglers.com) for other links to this document and cool stuff about the MAJ.  All the code to make (and update!) this collection is at a [*Github repository*](https://github.com/wiscstatman/pattern-book). See the *build* subdirectory for the current pdf file.  Thinking it would facilitate
 expansion and easy inclusion of new patterns, we formed the source code for this document as a collection of simple markdown files, including image media as appropriate.  New contributions are welcome for the next version, so 
 please visit the Github site and provide some pattern descriptions.
 
