@@ -1,125 +1,69 @@
 # 7 Person Patterns
 
-## 1-2-4 Apollo (for Seven Jugglers)
+Here are some  easy stationary patterns for a group of seven.
 
-![](./media/image98.jpeg)
+## Feast
 
-| **Juggler** | **1**   | **2**   | **3**   | **4**   |
-|-------------|---------|---------|---------|---------|
-| **A**       | D       |         | G       |         |
-| **B**       | F       | E       | D       | E       |
-| **C**       | G       | F       | E       | F       |
-| **D**       | A       |         | B       |         |
-| **E**       |         | B       | C       | B       |
-| **F**       | B       | C       |         | C       |
-| **G**       | C       |         | A       |         |
+  Everyone feeds everyone else on count of choice.
 
-> * Right hand counting
+## 1-2-4 Apollo 
 
-A throws long passes in 4-count to the outside edges (D and G)
 
-B and C do sweep feeds of 3 feedees each.
+|            |            |
+|------------|------------|
+| ![](./media/image98.jpeg){width=40%} | ![](./media/7apollotable.png){width=35%} |
+| positions                                       |    Right-hand counting |
+| | A throws long passes in 4-count to D and G |
+| |  B and C each do sweep feeds of 3. |
+| |  D and G do 4-count between A and the feeder on their side  |
+| |  E and F do a sweep feed with a phantom (don't pass to the phantom) |
 
-D and G do 4-count between A and the feeder on their side (B and C respectively)
+See the spaceship?
 
-E and F do a sweep feed with a phantom (don't pass to the phantom).
+As with other big easy patterns, it's fun to *rotate*, i.e., to switch positions after you 
+master one setting.
 
 Pattern by MAJ.
 
 ## Hinge
-![](./media/image99.png)
 
-Easy patterns for lots of people
 
-| **Juggler** | **1**   | **2**   | **3**   | **4**   |
-|-------------|---------|---------|---------|---------|
-| **A**       | F       |         |         |         |
-| **B**       |         | F       |         | F       |
-| **C**       | G       |         | F       |         |
-| **D**       |         | G       |         | G       |
-| **E**       |         |         | G       |         |
-| **F**       | A       | B       | C       | B       |
-| **G**       | C       | D       | E       | D       |
+|            |            |
+|------------|------------|
+| ![](./media/image99.png){width=30%} | ![](./media/7hingetable.png){width=40%} |
+| positions                                       |    Right-hand counting, or other |
+| |  C is the hinge, passing to both feeders |
+| |  Feeders F and G do standard feed of 3 |
 
-> * Right hand counting (or whatever count you want)
 
-* C is the Hinge, and F and G are feeders.
-* A Hinge is a juggler who passes to two feeders.
-* The feeders in a Hinge pattern do a standard feed to 3 jugglers.
+**Variations:** Precious Metal Hinge.  Escalate any line with doubles and an extra club 
+(see Big Patterns chapter for more details).
 
-![](./media/image100.png)
 
-| **Juggler** | **1**   | **2**   | **3**   | **4**   |
-|-------------|---------|---------|---------|---------|
-| **A**       | E       |         | G       |         |
-| **B**       |         | E       |         | E       |
-| **C**       | J       |         | E       |         |
-| **D**       |         | G       |         | G       |
-| **E**       | A       | B       | C       | B       |
-| **F**       |         | J       |         | J       |
-| **G**       | H       | D       | A       | D       |
-| **H**       | G       |         |         |         |
-| **I**       |         |         | J       |         |
-| **J**       | C       | F       | I       | F       |
+Hinge created by Mike Newton; precious metal variations must have been by Luke or Peter!
 
-> * Right hand counting (or whatever count you want)
 
-**Hinges:** A, C
-**Feeders:** E, G, J
+## Overlapping Chocolate Bar 3-count Feeds
 
-![](./media/image101.jpeg)
+The old-school 5-person Chocolate Bar 3-count Feed has two chocolate bar feeders and 3 3-count feedees.
+This recent  extension  for seven overlaps two copies of the classic, with the 3 overlapping positions becoming very cool. In fact
+Juggler B does a pretty special 1-count. A and C continue with chocolate bar; D and G do 3-count; and
+E and F do 3/2-count.
 
-| **Juggler** | **1**   | **2**   | **3**   | **4**   |
-|-------------|---------|---------|---------|---------|
-| **A**       | B       | C       | D       | C       |
-| **B**       | A       |         | F       |         |
-| **C**       |         | A       |         | A       |
-| **D**       | G       |         | A       |         |
-| **E**       |         | F       |         | F       |
-| **F**       | I       | E       | B       | E       |
-| **G**       | D       | H       | K       | H       |
-| **H**       |         | G       |         | G       |
-| **I**       | F       |         | L       |         |
-| **J**       |         | L       |         | L       |
-| **K**       | L       |         | G       |         |
-| **L**       | K       | J       | I       | J       |
+|            |            |
+|------------|------------|
+| ![](./media/overcbpositions.png){width=20%} | ![](./media/overcbtable.png){width=70%} |
+| positions                                       |    passes |
 
-> * Right hand counting (or whatever count you want)
 
-**Hinges:** B, D, I, K
-**Feeders:** A, F, G, L
 
-Hinges are great patterns for large numbers of jugglers, but admittedly, that
-can be rather boring for more advanced passers. One solution is the Precious
-Metal Hinge.
 
-### Precious Metal Hinge
+**On to moving patterns.**
 
-Any line of three can be escalated by adding one or more clubs to the feed. For
-example, in the 12 person hinge above, A can feed an extra club feed with
-doubles. In this case:
+## Open Face Sandwich
 
-* **A** – Feeds B, C and D in standard 7 club extra club 2-count doubles feed.
-* **B** – Hinge, throws doubles to A and singles to F in 4-count.
-* **D** – Hinge throws doubles to A and singles to G in 4-count.
-* **C** – Throws doubles to A in 4-count.
-
-That's a Golden Hinge. To start have B start with 4 clubs and A start with a
-left self).
-
-For a Platinum Hinge, A throws triples and adds 2 clubs. B, C and D throw triple
-straight passes to A. B starts with a triple to A and A starts with a triple to
-C. C does a self.
-
-For a Diamond Hinge (diamonds aren't actually a precious metal, I know), there
-are 4 extra clubs in the line. A throws all triple right hand passes and B, C
-and D throw triple right hand selves except when they throw triples to A or
-singles to the other feeder.
-
-You can mix and match precious metals on any side of the hinge, although care
-must be taken to keep the timing synchronized.
-
-Hinge created by Mike Newton.
+Refer to 9-person Twister Sandwich. Replace one of the end weaves with a single 2-count feeder (an olive).
+In stacking notation, a *1-3-3: olive; double-time-twister; standard weave.*
 
 ## The Blast
 
@@ -127,11 +71,6 @@ Hinge created by Mike Newton.
 straight forward, there are a vast array of extensions and variations that can
 easily be tuned for the skill levels and number of available jugglers.
 
-The weavers move in 8-count in the middle and 12-count on the ends. It's not
-difficult, but certainly not as boring as 8-count and 12-count might seem at
-first glance.
-
-Dotted lines are passes and solid lines are movement.
 
 | **Juggler** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** |
 |-------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|--------|
@@ -143,7 +82,13 @@ Dotted lines are passes and solid lines are movement.
 | **F**       | B     |       |       | B     |       | A     |       |       | A     |        |
 | **G**       |       | B     |       | A     |       |       | A     |       | B     |        |
 
-![](./media/image102.jpeg)
+> * Right-hand 4-count base
+
+The weavers move in 8-count in the middle and 12-count on the ends. It's not
+difficult, but certainly not as boring as 8-count and 12-count might seem at
+first glance.  Dotted lines are passes and solid lines are movement.
+
+![](./media/image102.jpeg){width=70%}
 
 Try the pattern in chocolate bar, or do a pirouette underneath a self triple
 while doing 12-count on the ends. See other variations in Fully Loaded Blast
@@ -152,21 +97,22 @@ underneath Big Patterns, including some very challenging and fun extensions.
 This pattern was created by Peter Kaseman and was inspired by a bouncing ball
 pattern.
 
-## Twister 5 and Variations
+## Broken Hearted Blast
 
-![](./media/image103.jpeg)
+Using the same passing table as above, change the movement. Instead of a **W**, go behind the feeder
+line after you make your second *inside* pass, and thus as you go into your 12 count.  
+ **figure showing broken heart compared to W**
 
-| **Juggler** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** |
-|-------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|--------|
-| **X**       | A     |       | C     |       | E     |       | B     |       | D     |        |
-| **Y**       |       | B     |       | D     |       | A     |       | C     |       | E      |
-| **A**       | X     |       |       |       |       | Y     |       |       |       |        |
-| **B**       |       | Y     |       |       |       |       | X     |       |       |        |
-| **C**       |       |       | X     |       |       |       |       | Y     |       |        |
-| **D**       |       |       |       | Y     |       |       |       |       | X     |        |
-| **E**       |       |       |       |       | X     |       |       |       |       | Y      |
 
-> * Right hand counting (or whatever count you want)
+## Twister 5 
+
+|            |            |
+|------------|------------|
+| ![](./media/image103.jpeg){width=30%} | ![](./media/twister5table.png){width=55%} |
+| positions                                       |    Right-hand counting, or other |
+
+
+**Variations:**
 
 ### Double Time Twister 5
 
@@ -191,7 +137,7 @@ Like the Twister Sandwich in 9 Person Patterns, you can replace one or both of t
 Pattern by MAJ.
 
 ## Twister Plus Plus
-![](./media/image104.jpeg)
+![](./media/image104.jpeg){width=50%}
 
 This amazing pattern is another crown jewel of the MAJ pattern repertoire. It's
 a combination of Twister Plus and Double Time Twister.
@@ -218,19 +164,12 @@ Pattern by MAJ.
 
 ## Iron Cross Weave
 
-![](./media/image105.jpeg)
 
-| **Juggler** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** | **11** | **12** |
-|-------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|--------|--------|--------|
-| **A**       | D     |       | E     |       | F     |       | D     |       | E     |        | G      |        |
-| **B**       | E     |       | G     |       | D     |       | E     |       | F     |        | D      |        |
-| **C**       | F     |       | D     |       | E     |       | G     |       | D     |        | E      |        |
-| **D**       | A     |       | C     |       | B     |       | A     |       | C     |        | B      |        |
-| **E**       | B     |       | A     |       | C     |       | B     |       | A     |        | C      |        |
-| **F**       | C     |       |       |       | A     |       |       |       | B     |        |        |        |
-| **G**       |       |       | B     |       |       |       | C     |       |       |        | A      |        |
+|            |            |
+|------------|------------|
+| ![](./media/image105.jpeg){width=35%} | ![](./media/ironcrossweavetable.png){width=55%} |
+| positions                                       |    Right-hand counting |
 
-> * Right hand counting
 
 See all those selves? Once you're comfortable with this pattern, make life more
 interesting by adding extra passes in the selves. One variation is for F and G
@@ -242,7 +181,7 @@ to E rather difficult.
 Pattern by Luke Emery.
 
 ## Intersecting Weave
-![](./media/image106.png)
+![](./media/image106.png){width=40%}
 
 A and B are feeding a standard weave with one position common to both. The
 weavers do a standard weave until they get between A and B. The weaver then
@@ -261,7 +200,7 @@ passes in a row.
 
 > * Right hand counting
 
-![](./media/image107.png)
+![](./media/image107.png){width=50%}
 
 A and B are feeding a standard weave with one position common to both. The
 weavers do a standard weave until they get between A and B. The weaver then
@@ -278,19 +217,10 @@ If your weavers are quite comfortable with outside turns in a Twister Weave,
 then here is a fun and good looking pattern. This is just a Twister Weave with
 another passing duo embedded in the center.
 
-![](./media/image108.jpeg)
-
-| **Juggler** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** | **11** | **12** |
-|-------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|--------|--------|--------|
-| **X**       | A     | N     | C     | M     | B     | N     | A     | M     | C     | N      | B      | M      |
-| **Y**       |       | B     |       | A     |       | C     |       | B     |       | A      |        | C      |
-| **A**       | X     |       |       | Y     |       |       | X     |       |       | Y      |        |        |
-| **B**       |       | X     |       |       | Y     |       |       | X     |       |        | Y      |        |
-| **C**       |       |       | X     |       |       | Y     |       |       | X     |        |        | Y      |
-| **M**       | N     |       | N     | X     | N     |       | N     | X     | N     |        | N      | X      |
-| **N**       | M     | X     | M     |       | M     | X     | M     |       | M     | X      | M      |        |
-
-> * Right hand counting
+|            |            |
+|------------|------------|
+| ![](./media/image108.jpeg){width=35%} | ![](./media/eyeofneedletable.png){width=55%} |
+| positions                                       |    Right-hand counting |
 
 If this pattern is too challenging as written, then start by skipping the passes
 from M and N to X. Then M and N just do a 4-count in the middle and X does a
@@ -300,3 +230,18 @@ There are a number of patterns that have enough room to embed other patterns in
 the middle.
 
 Pattern by MAJ.
+
+## 2-5 Foie Graham
+  
+ ** insert **
+
+## 1-5-1 Foie Graham
+
+ ** insert **
+
+## Big Mangled Squirrel
+
+  A high-end pattern with extra clubs and change sides:
+ refer to 5-person Mangled Squirrel, which is 2 on 3.  Expand it to 3 on 4.   Now the
+ passing rule is *Triple-2-1-2-1-2*.
+

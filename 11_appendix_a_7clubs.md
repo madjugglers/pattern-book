@@ -1,7 +1,7 @@
 Appendix A – 7 club patterns
 ============================
 
-Peter Kaseman and I had an experiment in winter 1999 to think up how many 7 club patterns we could do. The goal was 100, and at first we thought that would be a difficult target. However we soon realized that there are so many possible site swap variations and tempo changes that we easily passed 100. Not of all of them are easy to actually juggle though! Here are a few of the ideas we explored. (Also see Appendices D and E for some more ideas.)
+Peter Kaseman and Luke Emery had an experiment in winter 1999 to think up how many 7 club patterns they could do. The goal was 100, and at first they thought that would be a difficult target. However they soon realized that there are so many possible site swap variations and tempo changes to easily pass 100. Not of all of them are easy to actually juggle though! Here are a few of them. (Also see Appendices D and E for some more ideas.)
 
 **Chocolate Bars **
 

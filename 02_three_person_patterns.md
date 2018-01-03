@@ -1,5 +1,6 @@
 #  3-Person Patterns
 
+Big patterns come from little patterns, so we need to know some of these first!
 
 ## Feed (for 3 jugglers)
 
@@ -8,14 +9,10 @@ one you tried. Because juggling with 3 is so much different than with 2, it's
 often a good idea to be comfortable with other patterns in a 3 person feed
 before trying them in larger patterns.
 
-| **Juggler** | **1** | **2** |
-|-------------|-------|-------|
-| **A**       | B     | C     |
-| **B**       | A     |       |
-| **C**       |       | A     |
-
-> * Right hand counting
-
+|                                        |                          |
+|------------|------------|
+| ![](./media/threefixed.png){width=15%} | ![](./media/3feedtable.png){width=27%} | 
+| positions                                       |    Right hand counting |
 How about left handed, chocolate bar, feeder in double 3-count (and feedees in
 3-count), or Tom's (which is 3 passes in a row to each feedee with no selves for
 the feeder)?
@@ -29,7 +26,7 @@ extra club chocolate bar feeds.
 
 #### 4-Count Popcorn Feed
 
-| **Juggler** | **1**  | **2**  |
+| **Juggler/beat** | **1**  | **2**  |
 |-------------|--------|--------|
 | **A**       | C      | B      |
 | **B**       | A      | T-self |
@@ -40,7 +37,7 @@ extra club chocolate bar feeds.
 
 #### 6-Count Popcorn Feed
 
-| **Juggler** | **1**  | **2**  | **3**  |
+| **Juggler/beat** | **1**  | **2**  | **3**  |
 |-------------|--------|--------|--------|
 | **A**       | C      | T-self | B      |
 | **B**       | A      |        | T-self |
@@ -57,7 +54,7 @@ double straight self, pass (533p, 5p33, 443p, 44px3 all work).
 
 #### 5-Count Popcorn Feed (one variation)
 
-| **Juggler** | **1** | **2**  | **3** | **4** | **5**  |
+| **Juggler/beat** | **1** | **2**  | **3** | **4** | **5**  |
 |-------------|-------|--------|-------|-------|--------|
 | **A**       | D-B   |        | D-C   |       |        |
 | **B**       |       | T-self |       | D-A   |        |
@@ -72,7 +69,7 @@ The timing is a bit wonky, B and C should delay slightly at the start.
 
 #### Extra Clubs Chocolate Bar Feed (one variation)
 
-| **Juggler** | **1**  | **2**  | **3**  | **4**  |
+| **Juggler/beat** | **1**  | **2**  | **3**  | **4**  |
 |-------------|--------|--------|--------|--------|
 | **A**       | Dx-B   | Dx-B   | Dx-C   | Dx-C   |
 | **B**       | A      | A      | D-self | D-self |
@@ -85,13 +82,15 @@ The timing is a bit wonky, B and C should delay slightly at the start.
 > * The double selves are straight
 
 Fast/Slow Feeds, Gorilla Feeds, Site-Swap Feeds...we do all of them in Madison,
-but they're not really part of the Pattern Book yet. Look them up somewhere else
-for now and maybe we'll get some of them in a future passing pattern book.
+but they're not part of the Pattern Book yet. Look them up somewhere else
+for now and maybe we'll get some of them in a future version of the passing pattern.
 
-## Triangle
+## Triangles
 
-When 3 jugglers stand in a triangle, three obvious passing formations are the
-inside triangle (pass to the juggler on the left with a right hand pass),
+Math geeks recognize that the positions of any three non-colinear jugglers
+form vertices of a triangle.  But that's not what jugglers mean by triangle -- they mean
+equilateral triangle.  When 3 jugglers are so evenly positioned, three obvious passing formations are 
+suggested: the inside triangle (pass to the juggler on the left with a right hand pass),
 outside triangle (pass to the juggler on the right with a right hand pass), and
 two jugglers pass with each other while the other does a self.
 
@@ -109,7 +108,7 @@ count and 1-count, 2-count and 4-count.
 The Rotating Feed Triangle is the simplest rotating feed. For 3 jugglers, a
 rotating feed is the same as a feast.
 
-| **Juggler** | **1** | **2** | **3** |
+| **Juggler/beat** | **1** | **2** | **3** |
 |-------------|-------|-------|-------|
 | **A**       | B     |       | C     |
 | **B**       | A     | C     |       |
@@ -119,7 +118,7 @@ rotating feed is the same as a feast.
 
 ### Pulsar
 
-| **Juggler** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** | **11** | **12** |
+| **Juggler/beat** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** | **11** | **12** |
 |-------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|--------|--------|--------|
 | **A**       | B     | C     |       | C     |       | B     | C     | B     | C     |        | B      |        |
 | **B**       | A     |       | C     |       | C     | A     |       | A     |       | C      | A      | C      |
@@ -155,7 +154,7 @@ Right, self, right, self, self, left, self, self, self, left, self, self.
 
 ### Puzzle Feeder (for 3 jugglers)
 
-| **Juggler** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** | **11** | **12** |
+| **Juggler/beat** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** | **11** | **12** |
 |-------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|--------|--------|--------|
 | **A**       | C     |       | C     | B     |       | C     | B     |       | B     | C      |        | B      |
 | **B**       |       |       |       | A     |       |       | A     |       | A     |        |        | A      |
@@ -167,7 +166,7 @@ A is the feeder, and B and C are doing the Three-piece Puzzle pattern six throws
 
 ### Puzzle Feast
 
-| **Juggler** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** | **11** | **12** |
+| **Juggler/beat** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** | **11** | **12** |
 |-------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|--------|--------|--------|
 | **A**       | C     | B     |       | C     | B     |       | B     | C     |       | B      | C      |        |
 | **B**       | A     | C     |       | A     | C     |       | C     | A     |       | C      | A      |        |
@@ -183,7 +182,7 @@ Three-piece Puzzle and Puzzle Feeder patterns are by Jim Brennen. Puzzle Feast i
 
 Here are two nice variations related to a Martin's Madness feed.
 
-| **Juggler** | **1** | **2** | **3** |
+| **Juggler/beat** | **1** | **2** | **3** |
 |-------------|-------|-------|-------|
 | **A**       | D-B   | D-C   | 1     |
 | **B**       |       | A     |       |
@@ -196,7 +195,7 @@ A does 441 (i.e. double pass, double pass, shuffle)
 Alternatively, A can throw cross double passes and B and C can throw cross
 passes too (starting on opposite hands).
 
-| **Juggler** | **1** | **2** | **3** |
+| **Juggler/beat** | **1** | **2** | **3** |
 |-------------|-------|-------|-------|
 | **A**       | T-C   | B     | 1     |
 | **B**       |       | A     |       |
@@ -218,7 +217,7 @@ feed sweep, the feeder must throw a right to left self double to adjust the
 timing of the pattern. Also, the old feeder throws 2 passes in a row to the new
 feeder to transfer the extra club.
 
-| **Juggler** | **1**  | **2** | **3** | **4**  | **5** | **6** | **7**  | **8** | **9** |
+| **Juggler/beat** | **1**  | **2** | **3** | **4**  | **5** | **6** | **7**  | **8** | **9** |
 |-------------|--------|-------|-------|--------|-------|-------|--------|-------|-------|
 | **A**       | D-B    |       | D-C   |        | D-C   |       | D-self | Pause |       |
 | **B**       |        | D-A   |       | D-self | Pause |       | D-C    |       | D-C   |
@@ -246,7 +245,7 @@ version has 10 clubs, and A starts with 4 clubs.
 
 ### 10 Club 3 Count Triangle
 
-| **Juggler** | **1** | **2** | **3** |
+| **Juggler/beat** | **1** | **2** | **3** |
 |-------------|-------|-------|-------|
 | **A**       | D-C   |       |       |
 | **B**       |       | D-B   |       |
@@ -261,7 +260,7 @@ If that isn't challenging enough. Add more clubs and passes. A and C start with
 
 ### 11 Club 2 of 3 Count Triangle
 
-| **Juggler** | **1** | **2** | **3** |
+| **Juggler/beat** | **1** | **2** | **3** |
 |-------------|-------|-------|-------|
 | **A**       | D-C   | D-C   |       |
 | **B**       |       | D-B   | D-B   |
@@ -269,7 +268,7 @@ If that isn't challenging enough. Add more clubs and passes. A and C start with
 
 ### 12 Club 1-Count Triangle
 
-| **Juggler** | **1** | **2** | **3** |
+| **Juggler/beat** | **1** | **2** | **3** |
 |-------------|-------|-------|-------|
 | **A**       | D-C   | D-C   | D-C   |
 | **B**       | D-B   | D-B   | D-B   |
@@ -286,7 +285,7 @@ There are corresponding extensions to a 5 person star in the 5 Person Patterns.
 
 Here's another variation on a 10 club triangle from 4-count 7 with triples.
 
-| **Juggler** | **1** | **2** | **3** |
+| **Juggler/beat** | **1** | **2** | **3** |
 |-------------|-------|-------|-------|
 | **A**       | T-C   | B     | C     |
 | **B**       | C     | A     | T-A   |
@@ -300,7 +299,7 @@ You can skip all the single passes until the triple passes are reliable.
 
 |             |        |        |        |
 |-------------|--------|--------|--------|
-| **Juggler** | **1**  | **2**  | **3**  |
+| **Juggler/beat** | **1**  | **2**  | **3**  |
 | **A**       | C      |        | T-self |
 | **B**       |        | T-self | A      |
 | **C**       | T-self | B      |        |
@@ -310,7 +309,7 @@ You can skip all the single passes until the triple passes are reliable.
 
 ### 5-Count Popcorn Triangle
 
-| **Juggler** | **1**  | **2** | **3**  | **4**  | **5** |
+| **Juggler/beat** | **1**  | **2** | **3**  | **4**  | **5** |
 |-------------|--------|-------|--------|--------|-------|
 | **A**       | C      |       |        | T-self |       |
 | **B**       |        |       | T-self |        | A     |
@@ -341,9 +340,15 @@ incoming double pass approaches. The timing on this pattern is not symmetric.
 Each juggler is 1/3 beat out of time with the juggler before. This pattern can
 be extended to a number of interesting variations, such as the Bubbler of David.
 
-## Turbo
+## Turbos
 
-| **Juggler** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** |
+### Bruno's nightmare
+
+We haven't juggled this much in Madison, but we include it for reference. It used
+to be popular in Europe! See [PassingDB](https://www.passingdb.com/patterns.php?id=49)
+
+### Turbo (standard)
+| **Juggler/beat** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** |
 |-------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
 | **A**       | B     | C     | B     |       | B     |       | C     |       | C     |
 | **B**       | A     |       | A     | C     | A     | C     |       | C     |       |
@@ -351,28 +356,36 @@ be extended to a number of interesting variations, such as the Bubbler of David.
 
 > * Right hand counting
 
-An animation of this pattern can be seen by visiting the
-[Juggloid website](http://juggloid.com/editor/?s=npRW7l)
+[Here's a cool animation of the Turbo](http://juggloid.com/editor/?s=npRW7l)  (Thanks Nick!)
 
 A Turbo is a group of 3 weaving jugglers who feed themselves. It is also a
 Two-leaf Clover or a continuous change sides feed through the middle. Pass every
 right hand throw when you are feeding, and pass every other when you are not
 feeding.
 
-![](./media/image1.png)
+| layout     | moves/passes |
+|-------------|-------|
+| ![](./media/image1.png){width=25%} |![](./media/image2.png){width=40%} |
 
 When a juggler moves to the other side, he or she cuts across in front of the
 old feeder, and turns around to pass to the new feeder.
 
-History: Turbo is a pattern that developed from Bruno's Nightmare.  Bruno's Nightmare was desinged without a specific count and the 18 throw version, the same number as the turbo, is called Bruno's Nightmare Turbo.  The difference between Bruno's Nightmare Turbo and Turbo is when you turn.  In Turbo you turn before entering the middle.  In Bruno's Nightmare you turn after exiting the middle.
+History: We're not sure. Turbo may have developed inadvertently when in the early 90's we tried, unsuccessfully, 
+to recreate  Bruno's Nightmare from faulty memory.  The main difference between Bruno's Nightmare and Turbo is when you turn.  In Turbo you turn before entering the middle.  In Bruno's Nightmare you turn after exiting the middle, which lengthens the cycle and makes the pattern easier by some measures.  There is also variations of
+Bruno's Nightmare that we've heard about but we don't juggle.
 
-![](./media/image2.png)
 
 To learn the Turbo, start by practicing a regular feed change sides. Then learn
 the feed change sides through the middle. Finally, speed up the change side
 moves until the feedees all move at the earliest possible opportunity.
 
-### Variations
+*Jazzing it up:* When changing sides the mover has the option of clockwise or
+counter-clockwise turns. Try both.  One is harder and cooler.  The standard (inside) turn is usually easier for right-handers off the right side of the feed
+and harder for right-handers off the left side.  Try double or triple earlies
+before entering the middle. Try a behind-the-back pass when moving
+  off the right side.
+
+### Count and Hand Variations
 
 There are a lot of Turbo variations. Turbos can be done in almost any count and
 combined in many different ways.
@@ -403,7 +416,7 @@ opposite hand or by throwing an early triple pass and pausing for one beat. The
 diagram below shows the early triple, but experiment with whatever works best
 for you (some people think a right to left double is easier).
 
-| **Juggler** | **1**   | **2**   | **3**   | **4**   | **5**   | **6**   | **7**   | **8**   | **9**   | **10**   | **11**   | **12**   | **13**   | **14**   |
+| **Juggler/beat** | **1**   | **2**   | **3**   | **4**   | **5**   | **6**   | **7**   | **8**   | **9**   | **10**   | **11**   | **12**   | **13**   | **14**   |
 |-------------|---------|---------|---------|---------|---------|---------|---------|---------|---------|----------|----------|----------|----------|----------|
 | **A**       | D-B     |         | D-C     |         | D-C     |         |         |         | D-C     | Move     |          |          | T-B      | Pause    |
 | **B**       |         | D-A     | Move    |         |         | T-C     | Pause   |         |         |          | D-C      |          | D-A      |          |
@@ -426,7 +439,7 @@ speed. Excelsior!
 
 By Luke Emery, 1999.
 
-### Variations
+### Even more variations
 
 Try with single passes instead of double passes in 7 club 2 count singles speed.
 
@@ -434,7 +447,7 @@ We worked out an 11-Club Turbo variation with triple selves on the transitions,
 but it's too hard for us to run more than a couple transitions at a time. Maybe
 we'll get it in a future version of the book.
 
-## Another 10-Club Turbo
+### Another 10-Club Turbo
 
 The pattern above will always be **the** 10-Club Turbo, but here is another
 version that makes a nice diversion. It's based on an extra club feed too, but
@@ -447,7 +460,7 @@ does a half pirouette underneath a double right to left self throw, Then steps
 back to complete a single turbo transition. The table below has one complete
 transition.
 
-| **Juggler** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8**  | **9** | **10** | **11** |
+| **Juggler/beat** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8**  | **9** | **10** | **11** |
 |-------------|-------|-------|-------|-------|-------|-------|-------|--------|-------|--------|--------|
 | **A**       | D-B   |       | D-C   |       | D-B   |       | D-C   |        | D-C   |        |        |
 | **B**       |       | D-A   |       |       |       | D-A   |       | D-self |       |        | D-C    |
@@ -466,6 +479,17 @@ collisions.
 
 By Luke Emery, 2002.
 
+## 2$\pi$/3
+
+Read this *two pi on three*.   This one is a late bloomer, considering how simple it is and how long people have been juggling
+and moving in groups of three.  There are three moving jugglers, A, B, and C, and six passing beats for a full cycle: (on count of choice; rows of tables).  Everyone moves through the figure eight; in contrast to a Turbo or Bruno’s nightmare, 
+there is not a feeder being swapped here; all folks are moving all the time.  Four count is fun; three count is more fun.   In any count, it’s pass-one, pass-the other, self.   Whatever is the base count the pattern has a gap (in this layout, positions 2 and 5) where you can plug in any other juggler or 
+pattern that matches that count (including three other jugglers doing a 2$\pi$/3!).   Looks like two pies when viewed from above, and it’s 3 jugglers.  Plus, each circle in the layout is divided into 3, hence the name.  Mike invented  2$\pi$/3 in summer 2017 and we juggled it a lot then.
+
+![](./media/twopionthree.png){width=50%}
+
+
+
 ## Lines
 
 The Line is another classic family of patterns with countless variations. Here are a few we often juggle in Madison.
@@ -477,7 +501,7 @@ Mel is B (Mel is always B), and starts facing A, then it looks like this.
 
 |             |       |       |       |       |       |       |       |       |       |        |        |        |
 |-------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|--------|--------|--------|
-| **Juggler** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** | **11** | **12** |
+| **Juggler/beat** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** | **11** | **12** |
 | **A**       | C     | B     |       | C     |       |       | C     | B     |       | C      |        |        |
 | **B**       |       | A     |       |       | C     |       |       | A     |       |        | C      |        |
 | **C**       | A     |       |       | A     | B     |       | A     |       |       | A      | B      |        |
@@ -494,7 +518,7 @@ All jugglers are in 3-count. Use the exact same pass sequence, but B (that's Pet
 
 Extra club version of Mel in the Middle, except in 4-count instead of 3-count. Inside person whirls with half pirouettes under doubles while outsides do popcorn. All passes are right handed.
 
-| **Juggler** | **1** | **2**  | **3** | **4** | **5**  | **6** | **7**  | **8** | **9** | **10** | **11** | **12** | **13** | **14** |
+| **Juggler/beat** | **1** | **2**  | **3** | **4** | **5**  | **6** | **7**  | **8** | **9** | **10** | **11** | **12** | **13** | **14** |
 |-------------|-------|--------|-------|-------|--------|-------|--------|-------|-------|--------|--------|--------|--------|--------|
 | **A**       | D-C   |        | B     |       | D-C    |       | T-self |       | D-C   |        | D-C    |        | B      |        |
 | **B**       |       |        | A     |       | D-self | ½ P   |        | C     |       | D-self | ½ P    |        | A      |        |
@@ -527,7 +551,7 @@ everyone!
 
 A and B face each other. C faces A and B.
 
-| **Juggler** | **1**   | **2**   | **3**   | **4**   |
+| **Juggler/beat** | **1**   | **2**   | **3**   | **4**   |
 |-------------|---------|---------|---------|---------|
 | **A**       | D-C     |         | B       |         |
 | **B**       |         |         | A       |         |
@@ -541,7 +565,7 @@ to A. A alternates right triple selves and doubles to A (fast popcorn).
 
 ## GDP
 
-| **Juggler** | **1**   | **2**   | **3**   | **4**   | **5**   | **6**   | **7**   | **8**   | **9**   |
+| **Juggler/beat** | **1**   | **2**   | **3**   | **4**   | **5**   | **6**   | **7**   | **8**   | **9**   |
 |-------------|---------|---------|---------|---------|---------|---------|---------|---------|---------|
 | **A**       | T-C     | B       | T-C     | Move    | C       | Move    |         | T-B     |         |
 | **B**       |         | A       | Move    |         | T-C     |         | T-A     | C       | T-A     |
@@ -574,7 +598,19 @@ triple followed by a pirouette, etc.)
 
 There's a 5 person variation we call Cathedral in the 5 Person Patterns.
 
-## Up Up Over
+## Up-Up-Over
+
+Here's a curious pattern that exercises your 4-club columns skill.  Jugglers A and B start with 4 clubs
+each. Juggler C starts with 2 clubs.  The vertical arrow in the table means *up*, i.e., throw two clubs up
+as double selves.  Feeder A is doing a slow two-hand doubles feed, starting with C.  Juggler B starts in sync
+with A and does *up-up-over*.  Juggler C waits to receive the two incoming from A and then responds with
+*up-up-over*.
+
+|            |            |
+|------------|------------|
+| ![](./media/threefixed.png){width=15%} | ![](./media/upupovertable.png){width=27%} |
+| positions                                       |    simultaneous double throws |
+Mike and Steve did this first in the early 90's, when Madfest was still in the Memorial Union.
 
 An animation of this pattern can be seen by visiting the
 [Juggloid website](http://juggloid.com/editor/?s=yhIKp1)
