@@ -169,3 +169,8 @@ You need 20 jugglers who are all good at the four leaf clover.
 Performed at Pass Out (2015?)
 
 Pattern by Melonhead
+
+## Hex of Three Leaf Clovers
+
+*describe *
+

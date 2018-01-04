@@ -34,7 +34,9 @@ the pattern (just like adding additional passers to a W).
 
 Pattern by Mike Newton.
 
-## Benzene Ring (for 8 Jugglers)
+## Benzene Rings (for 8 Jugglers)
+
+### Standard
 
 Here's another MAJ standard. E and F are carriage return feeders, feeding to 3
 positions: left, middle, right, left, middle, right, etc. The rest of the
@@ -55,9 +57,9 @@ shows half of a full cycle. The pattern will repeat in its mirror image.
 
 Pattern by Mike Newton and MAJ.
 
-Variations:  
+**Variation:**  
 
-### Inverted extra club Benzene Ring. 
+### Inverted Extra Club Benzene Ring. 
 
 A very cool variation of the Benzene Ring is to invert the movers, so they are all facing
  inward instead of outward on the elliptical path.   They can't pass to the same feeder (unless by back drop),
@@ -66,9 +68,6 @@ club pattern: double-throw then shift over on 6-count, repeat for four spots, th
   To make it more fun the movers can do 3-count, by adding a single pass to their counterpart inside the ellipse!
 These are are lefts that are themselves 6 count; so together the movers do 3-count, alternating single inside pass double pass over the line.
 
-### Wonky Benzene Ring.  
-
-Instead of 4 spots on each side and all passing 6 count **Peter, how does this work?**
 
 ## Khaos Butterfly
 ![](./media/image111.jpeg){width=50%}

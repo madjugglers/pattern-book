@@ -62,7 +62,7 @@ In 2015 Matt Hemke and Evan Driscol  created a Github repository for the project
 
  Recently  Chan Wilson, Jeff Adamus, and
 Melonhead have been recording the patterns we do at  Thursday and Sunday MAJ practices.  It's
-an amazing collection, and for those who remember the code words, like  *1-5-1 Fois Graham* or *3-4 Twister*, it's enough
+an amazing collection, and for those who remember the code words, like  *1-5-1 Foie Graham* or *4-5 Twister*, it's enough
 to figure out what we really did.  But most of us forget the code words after a while,
 except for the frequently juggled ones, and this has been an impetus for this Version 3.0
 update by Mike Newton.  All along the editors have had 
@@ -237,10 +237,13 @@ the end of the chapter fyi.  We use whatever seems to make sense to us at the mo
 * **No, this is a club**. Said while pointing to a juggling club and talking to a curious 
  passer-by who asks about the group, "Is this a club?".
 * **olive**. In a stacked, sandwich-style pattern, a single feeder on one side of the pattern.
+* **orbiter**. A juggler who orbits a standard moving pattern and passes to others on 
+some of their would-be self throws. 
 * **phantom**.
   A feedee place holder who isn't really there. A feeder, for example, may feed
   2 real feeders and a phantom in a sweep feed: pass-pass-self-pass and repeat.
 * **plus**.  A suffix added to indicate an extra club added to the base pattern.
+* **post**. A stationary orbiter.
 * **preverted.** A moving convention in the weave: back-on-the-end/forward-through-the-middle.
 * **run it**.  Continue juggling for an indefinite number of cycles.
 * **scheisse**.  An utterance of frustration, possibly by Dan Schuchnect. 

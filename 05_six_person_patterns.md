@@ -17,6 +17,14 @@ Nice easy 4-count pattern.
 
 Pattern by MAJ.
 
+## Feast
+
+Everyone feeds everyone else.
+
+**Variation:** When on 3-count, try to **Picnic**.  I.e., do one cycle on straight
+throws and the next on crossing throws.  This creates some crazy Jim's jams.
+
+
 ## Argyles
 
 ### Argyled Triangles
@@ -413,7 +421,7 @@ your other weavers, and so can get some extra passes in before going to the back
 The position graph, on the left below, shows the 12 spots of a standard weave, duplicated and offset
 to configure the pattern. Blue arrows indicate moves after each beat, with the starting configuration
 shown. The pass graph, on the right, shows where passes happen (green) in the 12-beat cycle.
-(Thanks Conor for the pattern name!)
+(Thanks Conner for the pattern name!)
 
 ![](./media/foiegraham.png)
 
@@ -763,3 +771,18 @@ beat 1 below, jugglers A and C exchange along the diagonal of the yellow square 
 exchange along the parallel line 3-4. 
 
 ![](./media/windy.png)
+
+## El Turbo plus two posts
+
+Refer back to 4-person El Turbo. In **variations** see how to add one or two 4-count
+stationary posts when the El Turbo jugglers are on selves.
+
+
+## Four Leaf Clover plus Orbiter
+
+Refer back to 5-person 4-leaf clover.  An extra passer (the orbiter) picks up passes
+to the movers after each one clears the middle (on their 4-out).  One way is on
+the 2nd beat (1 beat after the star in the pattern table); the even beats 2-4-6-8-10,
+say passing 4-count to B-E-C-D-A. Start the orbiter just outside the line C-D and move
+clockwise, staying inside each feeder.
+

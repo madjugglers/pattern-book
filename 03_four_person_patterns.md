@@ -425,14 +425,14 @@ Patterns and other variations in Appendix C.
 We learned about this family of weave variations from juggling with Sean Gandini
 and the Gandini Juggling Project in 2000.
 
-## Clovers 
+## Three Leaf Clovers 
 
 The clover leaf patterns have a juggler on each *leaf*, and one
 in the middle, all moving.  As the pattern  progresses, the juggler in the middle trades places with a juggler on
 a leaf, *pushing* that juggler out of his/her leaf and back into the middle towards the next leaf in
 the sequence, and passing along the way.  There are a different ways to make this work, but the following has become our default.
 
-### Three Leaf Clover (Standard)
+### Standard Clover
 
 |      |         |
 |------|--------|
@@ -454,7 +454,8 @@ middle pass in the next person's feed.
 
 Just remember, feed, 2 selves-in-pass-2-selves-out. In the diagram above, A is the first
 feeder. In 8 passes, the clover has completed a cycle where every juggler has
-moved from their leaf to the next leaf. *how many beats for a full cycle?*
+moved from their leaf to the next leaf.  A full cycle is 24 right-hand beats (3 leaves
+times 8 beats per leaf).
 
 ![](./media/image10.jpeg)
 
@@ -463,15 +464,14 @@ enjoy it as much as we do!
 
 Mike Newton created this pattern in 2000.
 
-### Variations
+**Variations:**
 
-Try it in 3-count or chocolate bar. There are straight forward extensions for any number of people and you can also add extra clubs (see Extra Club Clover and Hyper Clover).
-
-Madison passing history has a lot of other clover variations, some of which are described later in the book.
-
-The Run Over Clover is the same pattern with some of the selves replaced with passes.
+Try it in 3-count or chocolate bar.  There are extensions that add clubs, people, 
+and variations that change the passing sequence.
 
 ### Run Over Clover
+
+The Run Over Clover is the same pattern (as the standard clover)  with some of the selves replaced with passes.
 
 |      |         |
 |------|--------|
@@ -485,7 +485,6 @@ The Run Over Clover is the same pattern with some of the selves replaced with pa
 Created in 2001 by Mike Newton and the MAJ.
 
 ### Extra-Club Three Leaf Clover
-![](./media/image13.jpeg){width=60%}
 
 This is the standard three leaf clover with an extra club added and all passes
 as doubles. As usual, there are a number of ways to add a club. Here is a slower
@@ -561,27 +560,130 @@ able to learn the original variation too, now renamed to the Hyper-Clover.
 
 Pattern by Luke Emery, 2001.
 
+### Mike's Original Clover 
+
+Here's another version of the 4 person clover. However, we juggle the Standard
+Clover more often (which used to be called the New Clover) because it is easier
+to remember and has a nicer flow to it.
+
+| **Juggler/beat** | **1**   | **2**   | **3**   | **4**   | **5**   | **6**   | **7**   | **8**   |
+|-------------|---------|---------|---------|---------|---------|---------|---------|---------|
+| **A**       | B       |         | D       |         | C       |         | D       |         |
+| **B**       | A       |         | C       |         | D       |         | C       |         |
+| **C**       | D       |         | B       |         | A       |         | B       |         |
+| **D**       | C       |         | A       |         | B       |         | A       |         |
+
+> * Right hand counting
+
+Every juggler is a feeder passing a standard 4-count feed to the other 3
+jugglers.
+
+![](./media/image31.png){width=50%}
+
+
+### Peter's Clover
+
+The MAJ juggles the Standard Clover more often than this version. This is a nice
+pattern, if you can remember the passing sequence.
+
+| **Juggler/beat**   | **1**   | **2**   | **3**   | **4**   | **5**   | **6**   | **7**   | **8**   | **9**   | **10**   | **11**   | **12**   |
+|---------------|---------|---------|---------|---------|---------|---------|---------|---------|---------|----------|----------|----------|
+| **A**         | B       | C       | D       | B       | D       | C       | B       | C       | D       | B        | D        | C        |
+| **B**         | A       | D       | C       | A       | C       | D       | A       | D       | C       | A        | C        | D        |
+| **C**         | D       | A       | B       | D       | B       | A       | D       | A       | B       | D        | B        | A        |
+| **D**         | C       | B       | A       | C       | A       | B       | C       | B       | A       | C        | A        | B        |
+
+> * Right handed 4-count
+
+In the graph below, lines indicate passes, and arrows indicate the movement of
+jugglers after the pass.
+
+![](./media/image33.jpeg){width=50%}
+
+Notice that the movement around the leaves in Peter's version is reversed from
+Mike's original and Steve's version. (The starting positions are also different). It
+takes 12 passes for everyone to move to the next leaf.
+
+Every juggler is a feeder in a modified typewriter feed.
+
+
+### Steve's Clovers
+
+As above, the MAJ now juggles the standard clover more often than this version,
+but it's worth exploring this variation too.
+
+
+
+**Inside Passing Triangles**
+
+
+
+| **Juggler/beat**   | **1**   | **2**   | **3**   | **4**   | **5**   | **6**   | **7**   | **8**   |
+|---------------|---------|---------|---------|---------|---------|---------|---------|---------|
+| **A**         | B       |         | D       |         | C       |         | D       |         |
+| **B**         | A       |         | C       |         | D       |         | C       |         |
+| **C**         | D       |         | B       |         | A       |         | B       |         |
+| **D**         | C       |         | A       |         | B       |         | A       |         |
+
+> * Right hand passing 4-count
+
+
+**Outside Passing Triangles**
+
+
+| **Juggler/beat**   | **1**   | **2**   | **3**   | **4**   | **5**   | **6**   | **7**   | **8**   |
+|---------------|---------|---------|---------|---------|---------|---------|---------|---------|
+| **A**         | B       |         | D       |         | C       |         | D       |         |
+| **B**         | A       |         | C       |         | D       |         | C       |         |
+| **C**         | D       |         | B       |         | A       |         | B       |         |
+| **D**         | C       |         | A       |         | B       |         | A       |         |
+
+> * Right hand passing 4-count
+
+
+**Alternate Inside/Outside Passing Triangles**
+
+| **Juggler/beat**   | **1**   | **2**   | **3**   | **4**   | **5**   | **6**   | **7**   | **8**   |
+|---------------|---------|---------|---------|---------|---------|---------|---------|---------|
+| **A**         | B       |         | D       |         | C       |         | D       |         |
+| **B**         | A       |         | C       |         | D       |         | C       |         |
+| **C**         | D       |         | B       |         | A       |         | B       |         |
+| **D**         | C       |         | A       |         | B       |         | A       |         |
+
+> * Right hand passing 4-count
+
+The movement graph below applies to the three versions above. Lines indicate
+passes. Arrows indicate movement of jugglers after the pass.
+
+![](./media/image35.jpeg){width=50%}
+
+The passing rate and movement along the leaves is the same as in Mike's original version.
+In Steve's version, for the odd numbered passes, A and D always pass to each
+other, and B and C always pass to each other. For the even numbered passes,
+three jugglers pass to each other in a triangle. The juggler not in the triangle
+will be bumped off its leaf.
+
+The 1st of Steve's versions has inside passing triangles, the 2nd has
+outside passing triangles, and the 3rd toggles between outside and inside
+passing triangles.  Steve Otteson created these variations.
+
 ## Spinny patterns 
 
 ### Benzene Ring (Four Juggler Version) 
-![](./media/image14.png){width=40%}
 
 There is a whole family of benzene ring patterns, where movers juggle in a
 circle between two feeders. The Benzene Ring for Six and for Eight are 
 easier patterns to learn, but Benzene Ring for Four is more fun.
 
-This version is in 3-count. We also call this Spinning 3-count.
+This version is in 3-count. Now we usually call this Spinning 3-count.
 
-| **Juggler/beat** | **1**   | **4**   | **7**   | **10**   |
-|-------------|---------|---------|---------|----------|
-| **A**       | C       | D       | D       | C        |
-| **B**       | D       | C       | C       | D        |
-| **C**       | A       | B       | B       | A        |
-| **D**       | B       | A       | A       | B        |
 
-> * Both hands counting starting
->   with the right hand
-> * Numbers missing are self throws.
+|      |         |
+|------|--------|
+| ![](./media/image14.png){width=27%}   | ![](./media/4benzenetable.png){width=45%} |
+|             | Both hands counting |
+|             | Starting with right hand |
+|             | Only passing beats shown |
 
 After the first pass (throw \#1 in the graph, made with the right hand), A and B
 have 2 self throws to turn around. If C and D make their right hand passes deep,
@@ -607,24 +709,21 @@ backwards. It is a precursor for the Razor juggling pattern.
 Pattern created July, 1997 by MAJ.
 
 ### Chocolate Stir
-![](./media/image15.png){width=40%}
 
 A chocolate bar variation of the 4 person Benzene Ring starts in the same
 positions as the Benzene Ring. Each juggler is in chocolate bar. The inner
 jugglers throw right pass, left pass, then right to left single and do a half
 pirouette underneath, followed by a left self and then repeat.
 
-| **Juggler/beat** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** |
-|-------------|-------|-------|-------|-------|-------|-------|-------|-------|
-| **A**       | D     | D     | ½ P   |       | C     | C     | ½ P   |       |
-| **B**       | C     | C     | ½ P   |       | D     | D     | ½ P   |       |
-| **C**       | B     | B     |       |       | A     | A     |       |       |
-| **D**       | A     | A     |       |       | B     | B     |       |       |
+|      |         |
+|------|--------|
+| ![](./media/image15.png){width=27%}   | ![](./media/chocolatestirtable.png){width=55%} |
+|             | Both hands counting |
+|             | Starting with right hand |
+|             | Only passing beats shown |
 
-> * Both hands counting starting with the right hand.
 > * The ½ P marks a half pirouette under a single spin right to left self.
->   A and B spin in place. They don't move to both positions like in the Benzene
->   Ring.
+>   A and B spin in place. 
 
 Pattern by Luke Emery
 
@@ -820,8 +919,8 @@ the feeder. For example, in the figure below, the red juggler starts as the feed
 
 ![](./media/el-turbo.jpg){width=70%}
 
-Variation: 
-Note that there are opportunities in El Turbo for 
+**Variations:**
+There are opportunities in El Turbo for 
  extra passes (compared to El Nino) that have become available owing to the crossing of jugglers.  These extra passes are noted with dashed grey lines in the figure above.   Of course they're not required, but they're cool.  There are also opportunities to pass to stationary jugglers on the left or right side of the pattern, making it a 5 or 6 person variant.  These extra jugglers pass 4 count; we
 set the one on the right doing even beats:  pass to pink on beat 2,
  green on beat 4, blue on 6, and red on 8 [i.e. after they come through the
@@ -1110,7 +1209,7 @@ This is like a 4-person version of a synchronous double weave.
 
 |                                        |                          |
 |------------|------------|
-| ![](./media/image20.png){width=30%} | ![](./media/simpleeggbeatertable.png){width=35%} |
+| ![](./media/image20.png){width=25%} | ![](./media/simpleeggbeatertable.png){width=45%} |
 | positions                                       |    Right hand counting |
 
 
@@ -1417,113 +1516,3 @@ Ok, add in some more extra passes. Why not?
 > * A and D start with 4 and right hand
 > * B and C start with 3 and left hand and throw all dropbacks as doubles
 
-## Clover Variations
-
-### Three Leaf Clover (Mike's Version)
-![](./media/image30.jpeg){width=50%}
-
-Here's another version of the 4 person clover. However, we juggle the Standard
-Clover more often (which used to be called the New Clover) because it is easier
-to remember and has a nicer flow to it.
-
-| **Juggler/beat** | **1**   | **2**   | **3**   | **4**   | **5**   | **6**   | **7**   | **8**   |
-|-------------|---------|---------|---------|---------|---------|---------|---------|---------|
-| **A**       | B       |         | D       |         | C       |         | D       |         |
-| **B**       | A       |         | C       |         | D       |         | C       |         |
-| **C**       | D       |         | B       |         | A       |         | B       |         |
-| **D**       | C       |         | A       |         | B       |         | A       |         |
-
-> * Right hand counting
-
-Every juggler is a feeder passing a standard 4-count feed to the other 3
-jugglers.
-
-![](./media/image31.png){width=50%}
-
-Mike Newton is the creator of this pattern.
-
-![](./media/image32.jpeg){width=50%}
-
-### Three Leaf Clover (Peter's Version)
-
-The MAJ juggles the Standard Clover more often than this version. This is a nice
-pattern, if you can remember the passing sequence.
-
-| **Juggler/beat**   | **1**   | **2**   | **3**   | **4**   | **5**   | **6**   | **7**   | **8**   | **9**   | **10**   | **11**   | **12**   |
-|---------------|---------|---------|---------|---------|---------|---------|---------|---------|---------|----------|----------|----------|
-| **A**         | B       | C       | D       | B       | D       | C       | B       | C       | D       | B        | D        | C        |
-| **B**         | A       | D       | C       | A       | C       | D       | A       | D       | C       | A        | C        | D        |
-| **C**         | D       | A       | B       | D       | B       | A       | D       | A       | B       | D        | B        | A        |
-| **D**         | C       | B       | A       | C       | A       | B       | C       | B       | A       | C        | A        | B        |
-
-> * Right handed 4-count
-
-In the graph below, lines indicate passes, and arrows indicate the movement of
-jugglers after the pass.
-
-![](./media/image33.jpeg){width=50%}
-
-Notice that the movement around the leaves in Peter's version is reversed from
-Mike's and Steve's version. (The starting positions are also different). It
-takes 12 passes for everyone to move to the next leaf.
-
-Every juggler is a feeder in a modified typewriter feed.
-
-![](./media/image34.jpeg){width=50%}
-
-### Three-Leaf Clover (Steve's Version)
-
-As above, the MAJ now juggles the standard clover more often than this version,
-but it's worth exploring this variation too.
-
-#### Inside Passing Triangles
-
-| **Juggler/beat**   | **1**   | **2**   | **3**   | **4**   | **5**   | **6**   | **7**   | **8**   |
-|---------------|---------|---------|---------|---------|---------|---------|---------|---------|
-| **A**         | B       |         | D       |         | C       |         | D       |         |
-| **B**         | A       |         | C       |         | D       |         | C       |         |
-| **C**         | D       |         | B       |         | A       |         | B       |         |
-| **D**         | C       |         | A       |         | B       |         | A       |         |
-
-> * Right hand passing 4-count
-
-#### Outside Passing Triangles
-
-| **Juggler/beat**   | **1**   | **2**   | **3**   | **4**   | **5**   | **6**   | **7**   | **8**   |
-|---------------|---------|---------|---------|---------|---------|---------|---------|---------|
-| **A**         | B       |         | D       |         | C       |         | D       |         |
-| **B**         | A       |         | C       |         | D       |         | C       |         |
-| **C**         | D       |         | B       |         | A       |         | B       |         |
-| **D**         | C       |         | A       |         | B       |         | A       |         |
-
-> * Right hand passing 4-count
-
-#### Alternate Inside/Outside Passing Triangles
-
-| **Juggler/beat**   | **1**   | **2**   | **3**   | **4**   | **5**   | **6**   | **7**   | **8**   |
-|---------------|---------|---------|---------|---------|---------|---------|---------|---------|
-| **A**         | B       |         | D       |         | C       |         | D       |         |
-| **B**         | A       |         | C       |         | D       |         | C       |         |
-| **C**         | D       |         | B       |         | A       |         | B       |         |
-| **D**         | C       |         | A       |         | B       |         | A       |         |
-
-> * Right hand passing 4-count
-
-The movement graph below applies to the three versions above. Lines indicate
-passes. Arrows indicate movement of jugglers after the pass.
-
-![](./media/image35.jpeg){width=50%}
-
-The passing rate and movement along the leaves is the same as in Mike's version
-(notice the different numberings in the graphs of Steve's and Mike's versions).
-
-In Steve's version, for the odd numbered passes, A and D always pass to each
-other, and B and C always pass to each other. For the even numbered passes,
-three jugglers pass to each other in a triangle. The juggler not in the triangle
-will be bumped off its leaf.
-
-The 1st version of Steve's version has inside passing triangles, the 2nd has
-outside passing triangles, and the 3rd toggles between outside and inside
-passing triangles.
-
-Steve Otteson is the creator of this pattern.

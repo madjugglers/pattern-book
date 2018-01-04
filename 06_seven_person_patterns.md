@@ -103,6 +103,12 @@ Using the same passing table as above, change the movement. Instead of a **W**, 
 line after you make your second *inside* pass, and thus as you go into your 12 count.  
  **figure showing broken heart compared to W**
 
+## Wonky Benzene Ring
+
+Refer ahead to the original, 8-person, Benzene Ring.   Drop one mover, leaving 5 movers, 
+and retain 2 feeders.  One feeder feeds 4 spots and the other feeder feeds 3 spots.  The feedees do 4 count on the side that has 3 spots and 6 count for the side that has 4 spots.  You start your new count as soon as you turn (only one right handed self after you finish on the side with 4 spots).
+
+Pattern by Peter Kaseman.
 
 ## Twister 5 
 

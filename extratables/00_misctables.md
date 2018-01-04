@@ -945,3 +945,54 @@ Pattern by Luke Emery.
 **Feeders:** E, G, J
 
 
+## Spinny patterns
+
+### Benzene Ring (Four Juggler Version)
+![](./media/image14.png){width=40%}
+
+There is a whole family of benzene ring patterns, where movers juggle in a
+circle between two feeders. The Benzene Ring for Six and for Eight are
+easier patterns to learn, but Benzene Ring for Four is more fun.
+
+This version is in 3-count. We also call this Spinning 3-count.
+
+| **Juggler/beat** | **1**   | **4**   | **7**   | **10**   |
+|-------------|---------|---------|---------|----------|
+| **A**       | C       | D       | D       | C        |
+| **B**       | D       | C       | C       | D        |
+| **C**       | A       | B       | B       | A        |
+| **D**       | B       | A       | A       | B        |
+
+> * Both hands counting starting
+>   with the right hand
+> * Numbers missing are self throws.
+
+After the first pass (throw \#1 in the graph, made with the right hand), A and B
+have 2 self throws to turn around. If C and D make their right hand passes deep,
+A and B will have an easier time turning.
+
+
+
+### Chocolate Stir
+![](./media/image15.png){width=40%}
+
+A chocolate bar variation of the 4 person Benzene Ring starts in the same
+positions as the Benzene Ring. Each juggler is in chocolate bar. The inner
+jugglers throw right pass, left pass, then right to left single and do a half
+pirouette underneath, followed by a left self and then repeat.
+
+| **Juggler/beat** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** |
+|-------------|-------|-------|-------|-------|-------|-------|-------|-------|
+| **A**       | D     | D     | ½ P   |       | C     | C     | ½ P   |       |
+| **B**       | C     | C     | ½ P   |       | D     | D     | ½ P   |       |
+| **C**       | B     | B     |       |       | A     | A     |       |       |
+| **D**       | A     | A     |       |       | B     | B     |       |       |
+
+> * Both hands counting starting with the right hand.
+> * The ½ P marks a half pirouette under a single spin right to left self.
+>   A and B spin in place. They don't move to both positions like in the Benzene
+>   Ring.
+
+Pattern by Luke Emery
+
+

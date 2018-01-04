@@ -159,6 +159,9 @@ Everyone feeds everyone else!
 Classic pattern. When were these patterns created? We have been doing them since
 1992. Already this generalizes the standard Rotating Feed (which is not marked up here; we don't usually do it).
 
+**Variation:** When on 3-count, try to **Picnic**.  I.e., do one cycle on straight
+throws and the next on crossing throws.  This creates some crazy Jim's jams.
+
 ### Extra Club Rotating Feed
 
 Any feed or feast can be done with an extra club by throwing passes as doubles
@@ -1068,3 +1071,7 @@ from positions 2-to-3 and 7-to-8.
 
 ![](./media/ivypi.png)
 
+## El Turbo plus one post
+
+Refer back to 4-person El Turbo. In variations see on adding one or two 4-count
+stationary posts.
