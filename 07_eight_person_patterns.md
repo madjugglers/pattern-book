@@ -36,7 +36,7 @@ Pattern by Mike Newton.
 
 ## Benzene Rings (for 8 Jugglers)
 
-### Standard
+### Original
 
 Here's another MAJ standard. E and F are carriage return feeders, feeding to 3
 positions: left, middle, right, left, middle, right, etc. The rest of the

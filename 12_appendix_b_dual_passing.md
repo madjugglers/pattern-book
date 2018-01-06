@@ -1,5 +1,4 @@
-Appendix B – Dual Passing Patterns
-==================================
+## Dual Passing Patterns
 
 Steve and Mike were playing with the idea of considering the hands of a juggling passing pattern independently of the jugglers, and then moving around which jugglers are attached to which hands. Between every two real jugglers is a phantom or shadow juggler whose left hand is a real person's right hand and their right hand is a different real person's left hand. Every pattern has a corresponding out of phase dual passing pattern.
 

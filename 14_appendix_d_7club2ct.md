@@ -1,5 +1,4 @@
-Appendix D – 7 Club 2-Count Exposed
-====================================
+## 7 Club 2-Count Exposed
 
 Seven clubs is the playground for the serious club passer. Six clubs is easy. Eight is hard. Seven is just right.
 

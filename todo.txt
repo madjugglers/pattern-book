@@ -22,3 +22,4 @@ Gauntlet
 check files against old written notes
 fix Turbo fig
 princess ball
+appendices into one misc chapter

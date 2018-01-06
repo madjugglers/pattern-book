@@ -1,4 +1,5 @@
-Appendix G – Graham's Patterns
-==============================
+## Graham's Patterns
+ 
+ ** maybe separate **
 
 

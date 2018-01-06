@@ -1,5 +1,4 @@
-Appendix C – Gandini Siteswap Weaves
-====================================
+## Gandini Siteswap Weaves
 
 Site-swap is a way to use numbers to determine how high an object is thrown in a pattern, and determines which hand the object lands in. At the IJA festival in Niagara Falls, Sean Gandini showed us that jugglers could weave in a site-swap pattern while being fed passes by a feeder.
 
