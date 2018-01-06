@@ -1,4 +1,4 @@
-Appendix F? – Passing 43
+Appendix F – Passing 43
 ========================
 
 Here is a further analysis of all the possible 2 person 7 club patterns in the siteswap 43. There appear to be 58 valid patterns.

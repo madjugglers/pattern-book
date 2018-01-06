@@ -1,4 +1,4 @@
-Appendix E? – Synchronous Passing
+Appendix E – Synchronous Passing
 =================================
 
 Hi Mandy,

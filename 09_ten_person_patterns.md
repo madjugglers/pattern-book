@@ -79,7 +79,7 @@ The Double Blast is two mirrored Blast patterns. It is easy.
 | **I**       | D     |       |       | A     |       |
 | **J**       |       | C     |       |       |       |
 
-![](./media/image117.jpeg){width=80%}
+![](./media/image117.jpeg){width=70%}
 
 Pattern by Peter Kaseman and MAJ.
 

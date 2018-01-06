@@ -237,13 +237,10 @@ the middle.
 
 Pattern by MAJ.
 
-## 2-5 Foie Graham
+## 2-5 or 1-5-1 Foie Graham
   
- ** insert **
+ Refer to the 8-person 3-5 Foie Graham and the variations that drop one juggler.
 
-## 1-5-1 Foie Graham
-
- ** insert **
 
 ## Big Mangled Squirrel
 

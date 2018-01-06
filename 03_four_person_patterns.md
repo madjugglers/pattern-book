@@ -875,7 +875,7 @@ the Madison elite group of Jugglers Who Can Do The El Nino.
 > * Both hands counting
 > * All jugglers start with left hands
 
-![](./media/image17.jpeg)
+![](./media/image17.jpeg){width=80%}
 
 Positions: Lines indicate passes, arrows indicate movement of juggler after the
 pass.
@@ -938,9 +938,11 @@ by replacing each *pass-self-self* with a *pass-pass-pass*.  It has nice club co
 Tom's Turbo. It's pretty heavy duty; e.g. as you cycle into your feeder position you end up
 doing 1-count for 12 passes!
  
-## Oogle Boogie
+## Oogle Boogies 
 
-The Oogle Boogie is a rotating Y.
+Oogle Boogies are rotating Y patterns, with four jugglers passing multiple times then switching positions.
+
+### Original Oogle Boogie 
 
 **Positions and passing directions**
 
@@ -1049,7 +1051,7 @@ Pattern created in 1998 by Luke Emery.
 
 ### Slingshot
 
-This is an 14 club variation on the Y pattern (Oogle) where all of the right
+This is a 14 club variation on the Y pattern (Oogle) where all of the right
 hands are synchronized.
 
 |             |         |         |
@@ -1218,28 +1220,21 @@ After the 4th beat, the jugglers are inverted, but the passing sequence repeats.
 This pattern dates to 1997 by Mike Newton and MAJ.
 
 ## Unicycle
-![](./media/image25.png){width=30%}
 
 The unicycle is a nice moving pattern in 3-count.
 
-| **Juggler/beat** | **1**   | **4**   | **7**   | **10**   |
-|-------------|---------|---------|---------|----------|
-| **A**       | C       | D       | D       | C        |
-| **B**       | A       | A       | A       | A        |
-| **C**       | B       |         |         | B        |
-| **D**       |         | B       | B       |          |
 
-> * Both hands counting
-> * Start with right hand
-> * A is the seat, B is the stem, and C and D are the wheel.
-> * A and B face C and D. C and D move around the circle in a counter clockwise
-    direction.
-> * Passes are done on 3-count.
-> * All passes from B to A are drop-backs.
+|      |         |
+|------|--------|
+| ![](./media/image25.png){width=30%}   | ![](./media/unicycletable.png){width=40%} |
+|   |  * Both hands counting |
+|   |  * Start with right hand |
+|   |  * A is the seat, B is the stem, and C and D are the wheel. |
+|   |  * A and B face C and D. C and D move around the circle in  | 
+|   |    a counter-clockwise  direction |
+|   |  * Passes are done on 3-count. |
+|   |  * All passes from B to A are drop-backs. |
 
-The following table combines the position table and passing table from above.
-
-Also see Extra Club Unicycle and Two Seated Unicycle.
 
 Unicycle dates to 1996 by MAJ.
 
@@ -1270,9 +1265,10 @@ back of the circle to the start.
 > * B starts with left-hand
 > * A and D start with right-hand selves
 
-![](./media/image27.png){width=30%}
 
 ## Y2K
+
+![](./media/image27.png){width=30%}
 
 This pattern has synchronous 1-count passes from A and synchronous dropbacks
 from B to A. A and B throw simultaneously with the left and right hand. It might
@@ -1416,7 +1412,7 @@ back of your head.
 There are many variations on the shooting star. Add multiple clubs and up the
 passes to doubles and/or triples. Pirouette through the middle
 
-Shooting Star was created by Bryan Olson in 1993.
+Shooting Star was created by Bryan Olson in 1993 (not in Madison!!).
 
 ## 14 Club Lines (for 4 jugglers)
 

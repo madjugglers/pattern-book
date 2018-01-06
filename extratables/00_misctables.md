@@ -996,3 +996,31 @@ pirouette underneath, followed by a left self and then repeat.
 Pattern by Luke Emery
 
 
+
+## Unicycle
+![](./media/image25.png){width=30%}
+
+The unicycle is a nice moving pattern in 3-count.
+
+| **Juggler/beat** | **1**   | **4**   | **7**   | **10**   |
+|-------------|---------|---------|---------|----------|
+| **A**       | C       | D       | D       | C        |
+| **B**       | A       | A       | A       | A        |
+| **C**       | B       |         |         | B        |
+| **D**       |         | B       | B       |          |
+
+> * Both hands counting
+> * Start with right hand
+> * A is the seat, B is the stem, and C and D are the wheel.
+> * A and B face C and D. C and D move around the circle in a counter clockwise
+    direction.
+> * Passes are done on 3-count.
+> * All passes from B to A are drop-backs.
+
+The following table combines the position table and passing table from above.
+
+Also see Extra Club Unicycle and Two Seated Unicycle.
+
+Unicycle dates to 1996 by MAJ.
+
+
