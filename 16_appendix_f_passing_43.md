@@ -125,3 +125,9 @@ RR3 requires RR4
 (4px 4x)
 
 58 total pattern combinations
+
+## 7 Club Dingle
+
+ ![](./media/SevenClubDingle.jpg){width=85%}
+
+Pattern by Graham Paasch.

@@ -906,6 +906,18 @@ wrong direction like La Nina! :)
 
 El Nino dates to August, 1997 by Peter Kaseman and MAJ.
 
+## El Nino Plus 
+
+### Slow Version
+
+![](./media/ElNinoPlusSlow.jpg){width=100%}
+
+### Fast Version
+
+![](./media/ElNinoPlusFast.jpg){width=100%}
+
+Patterns by Graham Paasch
+
 ## El Turbo
 
 A four-person turbo-fied version of El Nino.  The idea is to cross through the 

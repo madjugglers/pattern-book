@@ -614,3 +614,9 @@ Mike and Steve did this first in the early 90's, when Madfest was still in the M
 
 An animation of this pattern can be seen by visiting the
 [Juggloid website](http://juggloid.com/editor/?s=yhIKp1)
+
+## Safe Beast of Arg
+
+![](./media/SafeBeastofArg.jpg){width=90%} 
+
+Pattern by Graham Paasch.
