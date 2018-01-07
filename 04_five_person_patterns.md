@@ -304,7 +304,6 @@ When was this pattern created? We have been doing it since 1992.
 ### Feast-Star
 
 This is a fun brain game.  You alternate passes of a star and of a feast!!
- **more** **Graham?**
 
 
 
@@ -426,7 +425,6 @@ and does 2-count doubles to the juggler across and to the right.
 
 It's a good study in timing.
 
-Another classic pattern.
 
 ### Twirly Star
 
@@ -450,15 +448,32 @@ for 2 counts instead of pirouetting.) You'll pirouette holding 2 clubs.
 
 Pattern by Luke Emery.
 
-## Up-Up-Over-5
+## Up-Up-Over-5 
 
-Refer to Up-Up-Over for 3 jugglers. Expand from 2 on 1 to 3 on 2.  Now only the outside jugglers
+Refer to Up-Up-Over for 3 jugglers; recall this one involves simultaneous double
+throws from both hands.  Expand from 2 facing 1  to 3 facing 2 jugglers.  Now only the outside jugglers
 on the line do Up-Up-Over; the other three are Over-only feeders.  Remember, these are 
-simultaneous (right and left) double throws. **specify start**
+simultaneous (right and left) double throws. 
+
+
+|                                        |                          |
+|------------|------------|
+| ![](./media/2on3positions.png){width=20%} | ![](./media/upupover5table.png){width=30%} |
+| positions                                       |    sync-hand counting |
+|    |   A, B, C start with 4 clubs each |
+|    |   D, E start with 2 clubs  each |
+|    | vertical arrow is synced double self |
+
+
+
 
 ## Gauntlet
 
- **Mel's description**
+This is an easy but need-to-pay-attention moving pattern, which the Cool Guyz used once  to  exit the Madfest stage. It's a 5-person 4-count. On each passing beat one juggler (yellow nodes in figure) has 2 clubs (and doesn't pass).  These occur
+twice in a row for each juggler, as he/she moves through the middle and waits to receive a pass at the *bottom* of the pattern.   The leader calls out *down*, *box*, *down*, 
+*box* on passing beats, and the passes and movements are as in the figure..
+
+![](./media/gauntlet.jpg){width=85%}
 
 ## Mr. Inside-Mr. Outside Weave
 
@@ -479,16 +494,14 @@ reasons that none of us recall, though Tom Pomraning insisted on the names.  Mov
 the weavers are identical to the Standard Weave, though passes go alternatively to the two
 feeders. 
 
-![](./media/image37.png){width=50%}
+![](./media/image37.png){width=55%}
 
 The same variations for the standard weave and the Twister Weave can be used for
 this pattern, but there are some others. For example, Jugglers A and B can set up on a line
-perpendicular to the weave, with A (outside) further from the weave.
-
-When was this pattern created? We have been doing it since 1994.
+perpendicular to the weave, with A (outside) further from the weave.  We have been doing it since at least 1994, but are not sure of its origin.  It probably predates the MAJ.
 
 ## Twister Weaves 
-![](./media/image38.jpeg){width=50%}
+![](./media/image38.jpeg){width=30%}
 
 The original Twister Weave is perhaps one of our greatest discoveries.
 It has the exact same passing table as the Mr. Inside Mr. Outside Weave.
@@ -498,9 +511,6 @@ late 90's it seemed
 incredibly hard, probably because we hadn't yet mastered moving patterns involving rotations;
 Oogle Boogies and other weaves had moves but no rotations; Egg Beaters had 90 degree rotations; Quincunx had
 a full rotation but it was very slow.  Good self throws make the difference! 
-
-An animated version of this pattern can be seen at the
-[Juggloid website](http://juggloid.com/editor/?s=sU0PC0).
 
 
 ### Original Twister Weave 
@@ -520,10 +530,10 @@ The turns may be done by turning towards the inside or towards the outside. Most
 | **C**       |         |         |         |         | X       |         |         |         |         |          | Y        |          |
 
 > * Both hands counting, all passes right hands
+> * [Animation](http://juggloid.com/editor/?s=sU0PC0).
 
 Here are some other twister weaves with the feeders in different counts. They
-get progressively trickier. There are many other possible variations besides
-these.
+get progressively trickier, so get ready! 
 
 ### PSPSP Twister Weave 
 

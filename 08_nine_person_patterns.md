@@ -8,7 +8,6 @@
 
 ## 4 on 5 line
   
- **describe one**
 
 ## Big Hinge minus 3
 

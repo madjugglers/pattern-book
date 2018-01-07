@@ -82,8 +82,7 @@ The timing is a bit wonky, B and C should delay slightly at the start.
 > * The double selves are straight
 
 Fast/Slow Feeds, Gorilla Feeds, Site-Swap Feeds...we do all of them in Madison,
-but they're not part of the Pattern Book yet. Look them up somewhere else
-for now and maybe we'll get some of them in a future version of the passing pattern.
+but they're not part of the Pattern Book yet! 
 
 ## Triangles
 
@@ -92,16 +91,12 @@ form vertices of a triangle.  But that's not what jugglers mean by triangle -- t
 equilateral triangle.  When 3 jugglers are so evenly positioned, three obvious passing formations are 
 suggested: the inside triangle (pass to the juggler on the left with a right hand pass),
 outside triangle (pass to the juggler on the right with a right hand pass), and
-two jugglers pass with each other while the other does a self.
-
-Those 3 simple building blocks can be repeated in an infinite variety of
-permutations in many different counts to provide hours of instruction and
-diversion. You may already be familiar with the Hovey's Nightmare variations.
-Mastery of such triangle variations is very useful for larger and more complex
+two jugglers pass with each other while the other does a self.  These simple building blocks can be combined in a delightful variety of ways
+ to provide hours of instruction and diversion. (You may already be familiar with the Hovey's Nightmare variations.)  Mastery of such triangles is very useful for larger and more complex
 patterns.
 
-See Extra Club Triangles for variations of the triangle with 3-count, double 3
-count and 1-count, 2-count and 4-count.
+
+![](./media/triangle.png){width=30%}
 
 ### Rotating Feed
 
@@ -206,8 +201,7 @@ passes too (starting on opposite hands).
 
 Alternatively, A can throw straight passes and B and C can throw cross passes (starting on opposite hands).
 
-** TODO: Reviewers – is that right?**
-===============================
+**Q: check this**
 
 ## Extra Club Rotating Feed (for 3 jugglers)
 
@@ -227,7 +221,7 @@ feeder to transfer the extra club.
 > * A and C start with right hand.
 > * B starts with left hand
 
-### Variations
+**Variations:**
 
  Once you're comfortable with this pattern, try pirouetting under the double
 self, or instead of throwing the double self, do two single selves and an early
@@ -236,14 +230,16 @@ By Luke Emery 1999.
 
 ## Extra Club Triangles
 
-There are a lot of nice extra club triangle variations. Here are a few examples
+There are a lot of nice extra-club triangle variations. Here are a few examples
 to play with.
+
+### 10 Club 3 Count Triangle
 
 This pattern is based on the standard 7 club 3-count in double spins and extends
 it to a triangle. All passes cross (rights to right, lefts to left). This
 version has 10 clubs, and A starts with 4 clubs.
 
-### 10 Club 3 Count Triangle
+
 
 | **Juggler/beat** | **1** | **2** | **3** |
 |-------------|-------|-------|-------|
@@ -340,159 +336,14 @@ incoming double pass approaches. The timing on this pattern is not symmetric.
 Each juggler is 1/3 beat out of time with the juggler before. This pattern can
 be extended to a number of interesting variations, such as the Bubbler of David.
 
-## Turbos
-
-### Bruno's nightmare
-
-We haven't juggled this much in Madison, but we include it for reference. It used
-to be popular in Europe! See [PassingDB](https://www.passingdb.com/patterns.php?id=49)
-
-### Turbo (standard)
-| **Juggler/beat** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** |
-|-------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
-| **A**       | B     | C     | B     |       | B     |       | C     |       | C     |
-| **B**       | A     |       | A     | C     | A     | C     |       | C     |       |
-| **C**       |       | A     |       | B     |       | B     | A     | B     | A     |
-
-> * Right hand counting
-
-[Here's a cool animation of the Turbo](http://juggloid.com/editor/?s=npRW7l)  (Thanks Nick!)
-
-A Turbo is a group of 3 weaving jugglers who feed themselves. It is also a
-Two-leaf Clover or a continuous change sides feed through the middle. Pass every
-right hand throw when you are feeding, and pass every other when you are not
-feeding.
-
-| layout     | moves/passes |
-|-------------|-------|
-| ![](./media/image1.png){width=25%} |![](./media/image2.png){width=40%} |
-
-When a juggler moves to the other side, he or she cuts across in front of the
-old feeder, and turns around to pass to the new feeder.
-
-History: We're not sure. Turbo may have developed inadvertently when in the early 90's we tried, unsuccessfully, 
-to recreate  Bruno's Nightmare from faulty memory.  The main difference between Bruno's Nightmare and Turbo is when you turn.  In Turbo you turn before entering the middle.  In Bruno's Nightmare you turn after exiting the middle, which lengthens the cycle and makes the pattern easier by some measures.  There is also variations of
-Bruno's Nightmare that we've heard about but we don't juggle.
-
-
-To learn the Turbo, start by practicing a regular feed change sides. Then learn
-the feed change sides through the middle. Finally, speed up the change side
-moves until the feedees all move at the earliest possible opportunity.
-
-*Jazzing it up:* When changing sides the mover has the option of clockwise or
-counter-clockwise turns. Try both.  One is harder and cooler.  The standard (inside) turn is usually easier for right-handers off the right side of the feed
-and harder for right-handers off the left side.  Try double or triple earlies
-before entering the middle. Try a behind-the-back pass when moving
-  off the right side.
-
-### Count and Hand Variations
-
-There are a lot of Turbo variations. Turbos can be done in almost any count and
-combined in many different ways.
-
-* **Left Handed** – Same as above, but mirror image.
-* **3-count** – Feeder does 3
-    count, feedees do 6 count.
-* **Chocolate Bar** – Fun!
-* **Double 3 count** –
-    Tricky. There are 2 different ways to do the transitions. Usually we have
-    the movers stay in 3-count and move on the inside hand throw. You can also
-    do this pattern where the movers transition in 4 count and move on the
-    outside hand throw. Feels a little like the El Nino.
-* **Tom's Turbo** – Feeder is in 1-count and does 3 passes in a row to each
-    feeder. Have each juggler start with a different set of clubs. (Created by
-    Tom Pomraning.)
-* **10-Club Turbo** – See below.
-* Also see Interlocking Turbos in 6 person patterns and Strange Attractor in 5
-person patterns.
-
-### 10-Club Turbo
-
-The 10 Club Turbo has the same positions and movement as the Turbo but with an
-extra club. Usually we throw the passes as doubles (same as in 7 club 2-count).
-In order to keep the timing the mover must add an extra beat into the pattern.
-That can be done by throwing a double self (either right or left) to the
-opposite hand or by throwing an early triple pass and pausing for one beat. The
-diagram below shows the early triple, but experiment with whatever works best
-for you (some people think a right to left double is easier).
-
-| **Juggler/beat** | **1**   | **2**   | **3**   | **4**   | **5**   | **6**   | **7**   | **8**   | **9**   | **10**   | **11**   | **12**   | **13**   | **14**   |
-|-------------|---------|---------|---------|---------|---------|---------|---------|---------|---------|----------|----------|----------|----------|----------|
-| **A**       | D-B     |         | D-C     |         | D-C     |         |         |         | D-C     | Move     |          |          | T-B      | Pause    |
-| **B**       |         | D-A     | Move    |         |         | T-C     | Pause   |         |         |          | D-C      |          | D-A      |          |
-| **C**       |         |         |         | D-A     |         | D-B     |         | D-A     |         | D-B      |          | D-B      |          |          |
-
-> * Both hands counting
-> * A starts with right hand.
-> * B and C start with left hand.
-
-The table shows 2 transitions. Note that the old feeder (A) passes twice in a
-row to the new feeder (C). The mover (B) throws a triple to the new feeder at
-the SAME time as the new feeder throws a double to the mover and then pauses for
-one beat. The feeder and the 2 feedees are always on opposite timings (the
-feeder's right is synchronized with the feedees' lefts).
-
-The easiest way to learn is by practicing the change sides feed with transitions
-on the outside and getting comfortable with the triple or the self double timing
-transition. Then learn the inside transition and finally rev it up to true turbo
-speed. Excelsior!
-
-By Luke Emery, 1999.
-
-### Even more variations
-
-Try with single passes instead of double passes in 7 club 2 count singles speed.
-
-We worked out an 11-Club Turbo variation with triple selves on the transitions,
-but it's too hard for us to run more than a couple transitions at a time. Maybe
-we'll get it in a future version of the book.
-
-### Another 10-Club Turbo
-
-The pattern above will always be **the** 10-Club Turbo, but here is another
-version that makes a nice diversion. It's based on an extra club feed too, but
-the transitions in the middle are made by a half pirouette underneath a right to
-left double.
-
-The feedee who is moving first steps into the middle of the pattern directly
-between the feeder and the non-moving feedee. After one pass the moving feedee
-does a half pirouette underneath a double right to left self throw, Then steps
-back to complete a single turbo transition. The table below has one complete
-transition.
-
-| **Juggler/beat** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8**  | **9** | **10** | **11** |
-|-------------|-------|-------|-------|-------|-------|-------|-------|--------|-------|--------|--------|
-| **A**       | D-B   |       | D-C   |       | D-B   |       | D-C   |        | D-C   |        |        |
-| **B**       |       | D-A   |       |       |       | D-A   |       | D-self |       |        | D-C    |
-| **C**       |       |       |       | D-A   |       |       |       | D-A    |       | D-B    |        |
-
-> * Both hands counting
-> * A starts with R
-> * B and C start with L
-> * D-self is a half pirouette
-
- ![](./media/image3.jpeg)
-
-When you do the half pirouette, make sure to throw the double more inside than
-usual and have the outside passers pass a little on the wide side to reduce
-collisions.
-
-By Luke Emery, 2002.
-
-## 2$\pi$/3
-
-Read this *two pi on three*.   This one is a late bloomer, considering how simple it is and how long people have been juggling
-and moving in groups of three.  There are three moving jugglers, A, B, and C, and six passing beats for a full cycle: (on count of choice; rows of tables).  Everyone moves through the figure eight; in contrast to a Turbo or Bruno’s nightmare, 
-there is not a feeder being swapped here; all folks are moving all the time.  Four count is fun; three count is more fun.   In any count, it’s pass-one, pass-the other, self.   Whatever is the base count the pattern has a gap (in this layout, positions 2 and 5) where you can plug in any other juggler or 
-pattern that matches that count (including three other jugglers doing a 2$\pi$/3!).   Looks like two pies when viewed from above, and it’s 3 jugglers.  Plus, each circle in the layout is divided into 3, hence the name.  Mike invented  2$\pi$/3 in summer 2017 and we juggled it a lot then.
-
-![](./media/twopionthree.png){width=50%}
-
-
 
 ## Lines
 
 The Line is another classic family of patterns with countless variations. Here are a few we often juggle in Madison.
+
+
+![](./media/line.png){width=30%}
+
 
 ### Mel in the Middle
 
@@ -563,7 +414,154 @@ A and B face each other. C faces A and B.
 A alternates right hand doubles to C and singles to B. B does right hand 4-count
 to A. A alternates right triple selves and doubles to A (fast popcorn).
 
+
+
+
+## Turbos
+
+### Bruno's nightmare
+
+We haven't juggled this much in Madison, but we mention it for reference. It used
+to be popular in Europe! See [PassingDB](https://www.passingdb.com/patterns.php?id=49)
+
+### Turbo (standard)
+
+A Turbo is a group of 3 weaving jugglers who feed themselves. It is also a
+Two-leaf Clover or a continuous change sides feed through the middle. Pass every
+right hand throw when you are feeding, and pass every other when you are not
+feeding. 
+
+
+| layout     | moves/passes |
+|-------------|-------|
+| ![](./media/image1new.png){width=30%} |![](./media/image2.png){width=40%} |
+
+It's 18 right-hand beats for a full cycle; 9 beats to repeat the passing 
+sequence, but flipped in orientation.  When a juggler moves to the other side, he or she cuts across in front of the
+old feeder, and turns around to pass to the new feeder.
+
+| **Juggler/beat** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** |
+|-------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
+| **A**       | B     | C     | B     |       | B     |       | C     |       | C     |
+| **B**       | A     |       | A     | C     | A     | C     |       | C     |       |
+| **C**       |       | A     |       | B     |       | B     | A     | B     | A     |
+
+> * Right-hand counting
+> * [A cool animation (thanks Nick!)](http://juggloid.com/editor/?s=npRW7l) 
+
+
+History: We're not sure. Turbo may have developed inadvertently when in the early 90's we tried, unsuccessfully, 
+to recreate  Bruno's Nightmare from faulty memory.  The main difference between Bruno's Nightmare and Turbo is when you turn.  In Turbo you turn before entering the middle.  In Bruno's Nightmare you turn after exiting the middle, which lengthens the cycle and makes the pattern easier by some measures.  There is also variations of
+Bruno's Nightmare that we've heard about but we don't juggle.
+
+
+To learn the Turbo, start by practicing a regular feed change sides. Then learn
+the feed change sides through the middle. Finally, speed up the change side
+moves until the feedees all move at the earliest possible opportunity.
+
+*Jazzing it up:* When changing sides the mover has the option of clockwise or
+counter-clockwise turns. Try both.  One is harder and cooler.  The standard (inside) turn is usually easier for right-handers off the right side of the feed
+and harder for right-handers off the left side.  Try double or triple earlies
+before entering the middle. Try a behind-the-back pass when moving
+  off the right side.
+
+### Count and Hand Variations
+
+There are a lot of Turbo variations. Turbos can be done in almost any count and
+combined in many different ways.
+
+* **Left Handed** – Same as above, but mirror image.
+* **3-count** – Feeder does 3
+    count, feedees do 6 count.
+* **Chocolate Bar** – Fun!
+* **Double 3 count** –
+    Tricky. There are 2 different ways to do the transitions. Usually we have
+    the movers stay in 3-count and move on the inside hand throw. You can also
+    do this pattern where the movers transition in 4 count and move on the
+    outside hand throw. Feels a little like the El Nino.
+* **Tom's Turbo** – Feeder is in 1-count and does 3 passes in a row to each
+    feeder. Have each juggler start with a different set of clubs. (Created by
+    Tom Pomraning.)
+* **10-Club Turbo** – See below.
+* Also see Interlocking Turbos in 6 person patterns and Strange Attractor in 5
+person patterns.
+
+### 10-Club Turbo
+
+The 10 Club Turbo has the same positions and movement as the Turbo but with an
+extra club. Usually we throw the passes as doubles (same as in 7 club 2-count).
+In order to keep the timing the mover must add an extra beat into the pattern.
+That can be done by throwing a double self (either right or left) to the
+opposite hand or by throwing an early triple pass and pausing for one beat. The
+diagram below shows the early triple, but experiment with whatever works best
+for you (some people think a right to left double is easier).
+
+| **Juggler/beat** | **1**   | **2**   | **3**   | **4**   | **5**   | **6**   | **7**   | **8**   | **9**   | **10**   | **11**   | **12**   | **13**   | **14**   |
+|-------------|---------|---------|---------|---------|---------|---------|---------|---------|---------|----------|----------|----------|----------|----------|
+| **A**       | D-B     |         | D-C     |         | D-C     |         |         |         | D-C     | Move     |          |          | T-B      | Pause    |
+| **B**       |         | D-A     | Move    |         |         | T-C     | Pause   |         |         |          | D-C      |          | D-A      |          |
+| **C**       |         |         |         | D-A     |         | D-B     |         | D-A     |         | D-B      |          | D-B      |          |          |
+
+> * Both hands counting
+> * A starts with right hand.
+> * B and C start with left hand.
+
+The table shows 2 transitions. Note that the old feeder (A) passes twice in a
+row to the new feeder (C). The mover (B) throws a triple to the new feeder at
+the SAME time as the new feeder throws a double to the mover and then pauses for
+one beat. The feeder and the 2 feedees are always on opposite timings (the
+feeder's right is synchronized with the feedees' lefts).
+
+The easiest way to learn is by practicing the change sides feed with transitions
+on the outside and getting comfortable with the triple or the self double timing
+transition. Then learn the inside transition and finally rev it up to true turbo
+speed. Excelsior!
+
+By Luke Emery, 1999.
+
+**Even more variations:**
+
+Try with single passes instead of double passes in 7 club 2 count singles speed.
+
+We worked out an 11-Club Turbo variation with triple selves on the transitions,
+but it's too hard for us to run more than a couple transitions at a time. Maybe
+we'll get it in a future version of the book.
+
+### Another 10-Club Turbo
+
+The pattern above will always be **the** 10-Club Turbo, but here is another
+version that makes a nice diversion. It's based on an extra club feed too, but
+the transitions in the middle are made by a half pirouette underneath a right to
+left double.
+
+The feedee who is moving first steps into the middle of the pattern directly
+between the feeder and the non-moving feedee. After one pass the moving feedee
+does a half pirouette underneath a double right to left self throw, Then steps
+back to complete a single turbo transition. The table below has one complete
+transition.
+
+| **Juggler/beat** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8**  | **9** | **10** | **11** |
+|-------------|-------|-------|-------|-------|-------|-------|-------|--------|-------|--------|--------|
+| **A**       | D-B   |       | D-C   |       | D-B   |       | D-C   |        | D-C   |        |        |
+| **B**       |       | D-A   |       |       |       | D-A   |       | D-self |       |        | D-C    |
+| **C**       |       |       |       | D-A   |       |       |       | D-A    |       | D-B    |        |
+
+> * Both hands counting
+> * A starts with R
+> * B and C start with L
+> * D-self is a half pirouette
+
+ ![](./media/image3.jpeg)
+
+When you do the half pirouette, make sure to throw the double more inside than
+usual and have the outside passers pass a little on the wide side to reduce
+collisions.
+
+By Luke Emery, 2002.
+
 ## GDP
+
+Luke's GDP is a sort of extra-club continuous change-sides feed.  We like to practice it after doing  the extra-club turbo; it's a fine pairing! 
 
 | **Juggler/beat** | **1**   | **2**   | **3**   | **4**   | **5**   | **6**   | **7**   | **8**   | **9**   |
 |-------------|---------|---------|---------|---------|---------|---------|---------|---------|---------|
@@ -585,18 +583,29 @@ Right hand counting:
 
 B: self, single to A, self, self (while replacing A), triple to C, self (A
 replaces C), triple to A, single to C, triple to A, self, (as B moves to the
-middle). Start over.
+middle). Start over.   Be careful to keep your triples from hitting the non-recipient!
 
 By Luke Emery, 1999.
 
-### Variations
+**Variations:**
 
 Doubles – Throw doubles instead of singles.
 
 A variety of tricks can be done while moving into the center (such as an early
-triple followed by a pirouette, etc.)
+triple followed by a pirouette).
 
-There's a 5 person variation we call Cathedral in the 5 Person Patterns.
+See also a variation we call Cathedral in the 5 Person Patterns.
+
+
+## 2$\pi$/3
+
+Read this *two pi on three*.   This one is a late bloomer, considering how simple it is and how long people have been juggling
+and moving in groups of three.  There are three moving jugglers, A, B, and C, and six passing beats for a full cycle: (on count of choice; rows of tables).  Everyone moves through the figure eight; in contrast to a Turbo or Bruno’s nightmare, 
+there is not a feeder being swapped here; all folks are moving all the time.  Four count is fun; three count is more fun.   In any count, it’s pass-one, pass-the other, self.   Whatever is the base count the pattern has a gap (in this layout, positions 2 and 5) where you can plug in any other juggler or 
+pattern that matches that count (including three other jugglers doing a 2$\pi$/3!).   Looks like two pies when viewed from above, and it’s 3 jugglers.  Plus, each circle in the layout is divided into 3, hence the name.  Mike invented  2$\pi$/3 in summer 2017 and we juggled it a lot then.
+
+![](./media/twopionthree.png){width=90%}
+
 
 ## Up-Up-Over
 
@@ -610,13 +619,27 @@ with A and does *up-up-over*.  Juggler C waits to receive the two incoming from 
 |------------|------------|
 | ![](./media/threefixed.png){width=15%} | ![](./media/upupovertable.png){width=27%} |
 | positions                                       |    simultaneous double throws |
-Mike and Steve did this first in the early 90's, when Madfest was still in the Memorial Union.
+| |    A and B start with 4 clubs |
+| |    C starts  with 2 clubs |
+| |    vertical arrow is synced double self |
 
-An animation of this pattern can be seen by visiting the
+Mike and Steve did this first in the early 90's, when Madfest was still in the Memorial Union.  An animation of (a variation of!!) this pattern can be seen by visiting the
 [Juggloid website](http://juggloid.com/editor/?s=yhIKp1)
 
-## Safe Beast of Arg
+##  Graham's 3 stuff
+
+Here are some patterns for 3 jugglers by Graham Paasch.
+
+
+### Change Sides Double-3 Count Feed Plus
+
+![](./media/ChangeSidesDouble3FeedPlus.jpg){width=90%} 
+
+### Change Sides RRLRLRLLRLRL
+
+![](./media/ChangeSidesRRLRLRLLRLRL.jpg){width=90%} 
+
+### Safe Beast of Arg
 
 ![](./media/SafeBeastofArg.jpg){width=90%} 
 
-Pattern by Graham Paasch.

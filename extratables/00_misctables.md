@@ -1024,3 +1024,36 @@ Also see Extra Club Unicycle and Two Seated Unicycle.
 Unicycle dates to 1996 by MAJ.
 
 
+
+## Ultimate Feeds
+
+One count feeds are fun by themselves but they also provide a foundation for other
+cool patterns, such as El Nino. Positions: 1 juggler faces 3 others in a line.
+
+### Typewriter
+
+| **Juggler/beat** | **1**   | **2**   | **3**   |
+|-------------|---------|---------|---------|
+| **A**       | B       | C       | D       |
+| **B**       | A       |         |         |
+| **C**       |         | A       |         |
+| **D**       |         |         | A       |
+
+> * Both hands counting
+> * Start with right-hand
+
+### Windshield Wiper
+
+| **Juggler/beat** | **1**   | **2**   | **3**   | **4**   |
+|-------------|---------|---------|---------|---------|
+| **A**       | B       | C       | D       | C       |
+| **B**       | A       |         |         |         |
+| **C**       |         | A       |         | A       |
+| **D**       |         |         | A       |         |
+
+> * Both hands counting
+
+This is a 3-count feed where A feeds a 1-count carriage return, and B, C, and D
+are passing 3-count.
+
+

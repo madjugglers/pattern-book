@@ -157,13 +157,7 @@ passing.  Lead deeply on the ends and short and lofty in the middle.
 ### Dresser Drawers Double Weave
 
 Either, both weaves do Dresser Drawer style (see 4-person patterns), or they do that plus
-adding 3 clubs, as described here. **check this**
-
-Both teams do the Dresser Drawers weave.
-
-![](./media/image70.png){width=30%}
-
-All passes are right hand doubles (like 7 2-count). Each weaver passes to only
+adding 3 clubs, as described here.  Both teams do the Dresser Drawers weave.  All passes are right hand doubles (like 7 2-count). Each weaver passes to only
 one other weaver (like in standard double weave) in a 6-count. The leads are
 very important.
 
@@ -245,7 +239,7 @@ easily do other counts. 4-count is pretty tough, but 5-count is fun!
 
 |                                        |                          |
 |------------|------------|
-| ![](./media/image72.jpeg){width=60%} | ![](./media/stickontheendtable.png){width=25%} |
+| ![](./media/image72.jpeg){width=60%} | ![](./media/stickontheendtable.png){width=30%} |
 |  movements   |    right-hand counting |
 
 In the figure above, lines indicate passes, numbers indicate the passing beat,
@@ -718,9 +712,7 @@ However, if thrown carefully, there is just enough room for all of them.
 > * A, C, D and F start with 4 clubs and right hands
 > * B and E start with 3 clubs and left hands
 
-The corners do a 2-count feed of triples to the opposite corner and doubles to the centers.
-
-The centers do a 2-count feed of doubles to the corners.
+The corners do a 2-count feed of triples to the opposite corner and doubles to the centers.  The centers do a 2-count feed of doubles to the corners.
 
 Pattern by Luke Emery. **Q: what is the layout?**
 
@@ -770,9 +762,9 @@ to the other square.  The local passing rule, in the steady state (and counting 
 beat 1 below, jugglers A and C exchange along the diagonal of the yellow square while jugglers D and F 
 exchange along the parallel line 3-4. 
 
-![](./media/windy.png)
+![](./media/windy.png){width=90%}
 
-## El Turbo plus two posts
+## El Turbo Plus Two Posts
 
 Refer back to 4-person El Turbo. In **variations** see how to add one or two 4-count
 stationary posts when the El Turbo jugglers are on selves.

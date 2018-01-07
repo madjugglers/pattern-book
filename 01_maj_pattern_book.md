@@ -21,7 +21,6 @@ these origins were unknown to us.  If we have erred in our credits, please let u
 
 
 
-[**fix** Madjugglers Github site; *not current*](https://github.com/madjugglers)
 
 
 
@@ -190,9 +189,8 @@ requires special circumstances.
 
 Occasionally we invoke passing site swaps to describe patterns. For example, 7
 club 2-count would be 4p 3 | 3 4p (2<sup>nd</sup> juggler starts with left
-hand). There are a number of different site swap notations out there for
-passing.  Frankly, most of us are not expert in this  (exceptions, Nick, Graham, Peter, Luke), 
-but we point to some internet resources at 
+hand).  Most of this discussion is in Chapter 12.  There are a number of different site swap notations out there for
+passing.  Frankly, most of us are not expert in this  (exceptions, Nick, Graham, Peter, Luke), but we point to some internet resources at 
 the end of the chapter fyi.  We use whatever seems to make sense to us at the moment and make no guarantee of consistency.
 
 ## Secret Juggling Code Words and Phrases (Glossary)
@@ -316,7 +314,7 @@ Make sure all the passes of the same spin go to the same height.
 For many patterns, selecting a juggler to count out loud as a metronome can be
 very helpful.
 
-**TBD: what is the MAJ timing...**
+**MAJ timing:**
 
 Follow the leader!
 
@@ -458,31 +456,13 @@ We also use tape on the floor to mark movements or passing lanes to keep it clea
 
 
 
-## The guts of this book: the patterns
-
-If you're thinking to provide some updates at the Github site, note that there are 
-separate markdown files for each chapter:
-
-* [Three Person Patterns](02_three_person_patterns.md)
-* [Four Person Patterns](03_four_person_patterns.md)
-* [Five Person Patterns](04_five_person_patterns.md)
-* [Six Person Patterns](05_six_person_patterns.md)
-* [Seven Person Patterns](06_seven_person_patterns.md)
-* [Eight Person Patterns](07_eight_person_patterns.md)
-* [Nine Person Patterns](08_nine_person_patterns.md)
-* [Ten Person Patterns](09_ten_person_patterns.md)
-* [Big Patterns (11+ people)](10_big_patterns.md)
-
-## More stuff about patterns: the appendices
-* [Appendix A: 7 Club Patterns and Variations](11_appendix_a_7clubs.md)
-* [Appendix B: Dual Passing Patterns](12_appendix_b_dual_passing.md)
-* [Appendix C: Gandini Siteswap Weaves](13_appendix_c_gandini_weaves.md)
-* [Appendix D: Seven Club Two-Count Exposed](14_appendix_d_7club2ct.md)
-* [Appendix E: Synchronous Passing](15_appendix_e_synchronous_passing.md)
-* [Appendix F: Passing 43](16_appendix_f_passing_43.md)
-
-
 ## Internet Passing Resources
+
+The world of juggling has many contributors and
+contributions that we have failed to identify in this collection. 
+ The following links are important ones we know about:
+
+
 * [Martin Frost's Youtube channel](https://www.youtube.com/user/elgra2)
 * [JiBe's passingDB site](https://www.passingdb.com/)
 * [International Juggling Association site](http://www.juggle.org)
@@ -498,3 +478,9 @@ separate markdown files for each chapter:
 * Madison, Wisconsin, March 2001 Version 1.2
 * Madison, Wisconsin, January 2012 Version 2.0
 * Madison, Wisconsin, January 2018 Version 3.0
+
+
+Like all earlier versions, the current Version 3.0 contains mistakes and
+unfortunate omissions, which we have yet to discover and 
+ for which the Editor's take responsibility.   We hope
+that  future versions will correct these shortcomings.

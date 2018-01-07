@@ -110,33 +110,39 @@ and retain 2 feeders.  One feeder feeds 4 spots and the other feeder feeds 3 spo
 
 Pattern by Peter Kaseman.
 
-## Twister 5 
+## Twister-5's 
+
+These arise from the 6-person Gandini-5 Weave by adding a second feeder (*hand*) on the oppossite side of the pattern (and thus defying gravity!).
+
+### Original Twister-5
 
 |            |            |
 |------------|------------|
 | ![](./media/image103.jpeg){width=30%} | ![](./media/twister5table.png){width=55%} |
-| positions                                       |    Right-hand counting, or other |
+| positions                                       |    Right-hand counting |
 
 
-**Variations:**
+**Variations:**  Add passes, clubs, or change the count.
 
 ### Double Time Twister 5
 
 The feeders pass twice in a row to each feeder.
 
-### Twister 5 Plus
+### Twister-5 Plus
 
 Add an extra club over the top with X and Y passing 7 club 4-count on their self throws.
+This was a Mad-5 favorite one year; we performed it at the Cascade of Stars in the 2000 IJA Festival.
 
-### Twister 5 7/8-Count
+
+### Twister-5 7-then-8-Count
 
 The feeders throw 3-count and the weavers pass 7 count on one leg, and 8 count on the other.
 
-### Twister 5 5-Count
+### Twister-5 5-Count
 
 X throws 2-count right handed. Y throws 2-count left handed. The weavers do 5-count. Fun!
 
-### Twister 5 Sandwich
+### Twister-5 Sandwich
 
 Like the Twister Sandwich in 9 Person Patterns, you can replace one or both of the feeders with a 3 person weave (or any other weave, really). To make it more interesting, try a double time weave where each weaver passes twice to the other weave.
 

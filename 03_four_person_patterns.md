@@ -4,7 +4,9 @@
 
 The box is a classic passing pattern with dozens of variations, many of which
 have been around for a long time. It's a great foundation for innovating new
-patterns, though.
+patterns.
+
+![](./media/box.png){width=30%} 
 
 ### Basic 4-Count Box
 
@@ -79,8 +81,8 @@ box.
 |-------------|-------|-------|
 | **A**       | D-B   | C     |
 | **B**       | D     | D-A   |
-| **C**       | D-D   | A     |
-| **D**       | B     | D-C   |
+| **C**       | D-D   | B     |
+| **D**       | A     | D-C   |
 
 > * Both hands counting
 > * A and C start with 4 clubs and right hands
@@ -150,9 +152,7 @@ This is a variation of the box with 3 extra clubs and all right hand passes.
 
 ### Extra Club Rotating Feed (for 4 jugglers)
 
-This is a box pattern with a rotating feed for 4 jugglers and one extra club.
-
-The graph shows a counter clockwise feed but both directions work.
+This is a box pattern with a rotating feed for 4 jugglers and one extra club; both directions work.
 
 |             |        |        |       |        |        |       |        |        |       |        |        |        |
 |-------------|--------|--------|-------|--------|--------|-------|--------|--------|-------|--------|--------|--------|
@@ -256,13 +256,13 @@ leads to many other exciting patterns.
 | ![](./media/image4.jpeg){width=40%}   | ![](./media/weaveTable.png){width=37%} |
 |             | Right-hand counting |
 The feeder, A, throws to the end, middle, end, middle and then repeats, passing in 2-count. 
- That's called a wind-shield wiper field (as opposed to a typewriter feed that only goes in one direction).  Each weaver, (B,C,D), passes in their current position and then moves to the next
+ That's called a wind-shield wiper feed (as opposed to a typewriter feed that only goes in one direction).  Each weaver, (B,C,D), passes in their current position and then moves to the next
 position. For the standard weave, the three movers pass in a 6-count, moving back on the ends and forward in the middle in a figure eight pattern.  Beginners have a tendency to move well side-to-side but not so
 well backwards and forwards;  think of the pattern more like a bowtie than a figure 8 if that's a problem. Notice
 also that it's a 12-beat cycle for everyone to get back to the same positions, 
 but the passing cycle takes on 3 beats, as the table above shows. 
 
-![](./media/image5.png){width=80%} 
+![](./media/image5.png){width=60%} 
 
 Note on starting: The middle weaver moves towards the end that passes to the feeder first.
 
@@ -270,9 +270,9 @@ Here's another look at the details of the standard weave; the feeder exchanges w
 and 10 (which is 4, going the other way).  Weavers move regularly through the 12 positions. This detail is
 helpful when we start thinking about Fois-Graham and other complicated double weaves.
 
-![](./media/weavedetail.png){width=50%} 
+![](./media/weavedetail.png){width=40%} 
 
-### Variations
+**Variations:**
 
 Oh, there are so many variations of the weave! The mind boggles. To start, try
 with left handed throws in 2-count feeding. Try moving forward on the ends and
@@ -383,9 +383,9 @@ Pattern by Mike Newton.
 ### Gandini Weave
 
 The Gandini Juggling Project has explored a lot of interesting weaves (see
-Appendix C for more examples). We call any weave a Gandini Weave if the weavers
+Chapter 12 for more examples). We call any weave a Gandini Weave if the weavers
 always pass in the middle of the figure 8 loop, although the Gandini's have
-innovated many other interesting weaves besides just these variations. I don't
+innovated many other interesting weaves besides just these variations. We  don't
 know if that is what the Gandini's call them! This is a simple Gandini Weave
 that is a great foundation for other patterns.
 
@@ -418,9 +418,6 @@ This weave can be done in many interesting variations.
 * You can also invert the weave (reverse cascade).
 * Try this weave in 6-count with only a single pass to each weaver if you want a
   challenge that will really make you break a sweat.
-
-See the Gandini 5 variations in 6 Person Patterns, the Twister 5 in 7 Person
-Patterns and other variations in Appendix C.
 
 We learned about this family of weave variations from juggling with Sean Gandini
 and the Gandini Juggling Project in 2000.
@@ -610,7 +607,8 @@ Every juggler is a feeder in a modified typewriter feed.
 ### Steve's Clovers
 
 As above, the MAJ now juggles the standard clover more often than this version,
-but it's worth exploring this variation too.
+but describe this variation too. It's curious that so many variations were 
+described after the first discovery.
 
 
 
@@ -661,11 +659,9 @@ The passing rate and movement along the leaves is the same as in Mike's original
 In Steve's version, for the odd numbered passes, A and D always pass to each
 other, and B and C always pass to each other. For the even numbered passes,
 three jugglers pass to each other in a triangle. The juggler not in the triangle
-will be bumped off its leaf.
+will be bumped off its leaf. You get three variations based on inside-only, outside-only,
+or alternating passes.
 
-The 1st of Steve's versions has inside passing triangles, the 2nd has
-outside passing triangles, and the 3rd toggles between outside and inside
-passing triangles.  Steve Otteson created these variations.
 
 ## Spinny patterns 
 
@@ -792,43 +788,31 @@ opposite version (feeding from left to right) for doing the backwards El-Nino
 
 \[dates to 7/97 MAJ\]
 
-## Ultimate Feed
+## Ultimate Feeds
 
-This is just a standard typewriter or windshield wiper feed in 1-count, but it's
-worth extra attention because it is a foundation for so many other patterns,
-including the very cool El Nino.
 
-### Typewriter
+One count feeds are fun by themselves but they also provide a foundation for other
+cool patterns, such as El Nino. 
 
-| **Juggler/beat** | **1**   | **2**   | **3**   |
-|-------------|---------|---------|---------|
-| **A**       | B       | C       | D       |
-| **B**       | A       |         |         |
-| **C**       |         | A       |         |
-| **D**       |         |         | A       |
+### 12 club standards
 
-> * Both hands counting
-> * Start with right-hand
 
-### Windshield Wiper
+|    |     |        |
+|----|-----|--------|
+| ![](./media/1faces3.png){width=20%}   | ![](./media/typewriter1counttable.png){width=30%} | ![](./media/windshield1counttable.png){width=30%} |
+|  |            | Both-hands counting |
+|  |            | start with right |
+|  | **typewriter**       | **windshield wiper** |
 
-| **Juggler/beat** | **1**   | **2**   | **3**   | **4**   |
-|-------------|---------|---------|---------|---------|
-| **A**       | B       | C       | D       | C       |
-| **B**       | A       |         |         |         |
-| **C**       |         | A       |         | A       |
-| **D**       |         |         | A       |         |
 
-> * Both hands counting
+The typewriter form is 
+a 3-count feed where A feeds a 1-count carriage return, and B, C, and D
+are passing 3-count. The windshield-wiper form has C doing 2-count lefts and the other
+feedees on 4-count rights. The typewriter can also be done backwards.
 
-This is a 3-count feed where A feeds a 1-count carriage return, and B, C, and D
-are passing 3-count.
+Not sure where these came from but we love them in Madison!
 
-This pattern has been around for a long time and is a basis for other patterns.
-For example, each of the jugglers in the El Nino pattern will take their turn as
-feeder of the above pattern.
-
-### Extra Club Ultimate Feed
+### Ultimate Feed Plus
 
 Add one extra club to the Ultimate feed by having all the feedees throw crosses.
 Alternatively (the feeder can throw crosses while the feedees throw straight).
@@ -846,7 +830,7 @@ with feedee rights.)
 Feeder in single ultimates, feedees in triples. (Feeder rights synchronized with
 feedee rights.)
 
-### Two Extra Club Ultimate Feed
+### Ultimate Feed Plus Plus
 
 To add another club (14 total), throw all passes as doubles and all passes are
 straight from both feeder and feedees.
@@ -1235,6 +1219,8 @@ This pattern dates to 1997 by Mike Newton and MAJ.
 
 The unicycle is a nice moving pattern in 3-count.
 
+### 12 club 
+
 
 |      |         |
 |------|--------|
@@ -1250,10 +1236,10 @@ The unicycle is a nice moving pattern in 3-count.
 
 Unicycle dates to 1996 by MAJ.
 
-### Extra-Club Unicycle
+### Unicycle Plus
 ![](./media/image26.png){width=30%}
 
-The Extra-Club Unicycle is a fun moving pattern in 4-count with triple passes,
+This is a fun moving pattern in 4-count with triple passes,
 double passes and dropbacks.
 
 A feeds the left and right positions with 4-count triples.
