@@ -17,7 +17,7 @@ please visit the Github site and provide some pattern descriptions.
 If you have any questions, comments or suggestions relating to this book, 
 please contact the Madison Area Jugglers.
 Where possible we have given  credit to the creators of the patterns described here, though for many
-these origins were unknown to us.  If we have erred in our credits, please let us know.
+these origins were unknown to us.  If we have erred in our attributions, please let us know.
 
 
 

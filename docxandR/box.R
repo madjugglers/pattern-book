@@ -15,7 +15,7 @@ library(igraph)
 
  pdf( file="box.pdf" )
  plot(g, layout=ll, xlim=c(-.2,1.2), ylim=c(-.2,1.2),
-	edge.arrow.width=0, edge.width=3, vertex.label=c("A","C","B","D"),
+	edge.arrow.width=0, edge.width=3, vertex.label=c("A","D","B","C"),
 	edge.color="green" , rescale=FALSE, vertex.color="yellow",
 	vertex.label.cex=3, vertex.size=35 )
 

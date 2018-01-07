@@ -83,7 +83,7 @@ straight doubles.
 This pattern is also called the Chocolate Box. 
 See [](https://www.juggle.org/passing-post-feeding-on-chocolate-bars/)
 
-Pattern by Steve Otteson and MAJ.
+Pattern by Steve Otteson and MAJ; performed by Mad-5 at 1997 Madfest.
 
 ### Double Chocolate Double 3-Count Feed
 
@@ -103,9 +103,9 @@ Another pattern using the 2-facing-3 or wedgee positions.
 Notice that the first 3 throws are R-L-R, and the next 3 throws are to the same
 people but are L-R-L.
 
-Pattern by Steve Otteson and MAJ.
+Pattern by Steve Otteson and MAJ. Performed by Mad-5+1 at 1999 Madfest.
 
-### Semi-Sweet Chocolate 3-Count Feed
+### Semi-Sweet Chocolate 3-Count Feed 
 
 As far as the number of passes made by A and B go,the Semi-Sweet pattern is in between the Chocolate Bar and the Double Chocolate Bar patterns. Also uses the 2-facing-3 or wedgee positions.
 
@@ -119,7 +119,7 @@ As far as the number of passes made by A and B go,the Semi-Sweet pattern is in b
 
 > * Both hands counting, right hand starts
 
-In early versions of the passing book this was called *The New One*
+In early versions of the passing book this was called *The New One*. Pattern by Mike N.
 
 #### Variation
 
@@ -498,7 +498,7 @@ feeders.
 
 The same variations for the standard weave and the Twister Weave can be used for
 this pattern, but there are some others. For example, Jugglers A and B can set up on a line
-perpendicular to the weave, with A (outside) further from the weave.  We have been doing it since at least 1994, but are not sure of its origin.  It probably predates the MAJ.
+perpendicular to the weave, with A (outside) further from the weave.  We have been doing it since at least 1994, but are not sure of its origin.  It probably predates the MAJ; the Mad-5 performed it a the 1996 Madfest.
 
 ## Twister Weaves 
 ![](./media/image38.jpeg){width=30%}
@@ -515,7 +515,7 @@ a full rotation but it was very slow.  Good self throws make the difference!
 
 ### Original Twister Weave 
 
-Count: Feeders 4-Count, Feedees 6-Count moving
+Count: Feeders 4-Count, Feedees 6-Count moving. 
 
 Each weaver passes once on the end to Mr. Outside (X), and then has a 6-count (2 right hand selves) to move to the inside and turn around. Then pass once to Mr. Inside (Y) and continue in a 6-count outside and then turning around.
 
@@ -866,13 +866,12 @@ Pattern by Luke Emery
 This one has one feeder and  4 movers -- in 2 pairs of 2 spinning around each other.
 A is the *handle*, B and C are one *beater*, and D and E are the other *beater*.  It's pretty
 good for beginner movers on this original base count, but you have to think because your count changes 
-as yout go: 6-count; 4-count; 6-count.
+as yout go: 6-count; 4-count; 6-count.  Performed by Mad-5 at 1997 Madfest.
 
 |                                        |                          |
 |------------|------------|
 | ![](./media/image48.png){width=25%} | ![](./media/eggbeatertable.png){width=45%} |
 | positions                                       |    Right-hand counting |
-
 
 
 ![](./media/image49.jpeg){width=50%}
@@ -892,6 +891,7 @@ as yout go: 6-count; 4-count; 6-count.
 
 > * Right hands counting
 
+Born at 1996 Madfest.
 
 
 ### Luke's Egg Beater Plus 

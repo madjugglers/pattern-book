@@ -1,6 +1,12 @@
 # Big Patterns
 
 
+So the big problem with big patterns is to get enough interested jugglers who are
+like-minded and sufficiently skilled to pull off something cool.   Mathematically
+there are many more possible juggling patterns for lots of people, but in fact most of 
+them are not realistic, thanks to the big problem.   We have been fortunate to overcome
+this problem in a few cases, summarized here.
+
 ## Big Hinge
 
 
@@ -147,9 +153,9 @@ Pattern by Mike Newton and Luke Emery.
 Similar to the Triangle Weave, except with 8 sides and 48 jugglers. This was
 the big pattern at 2007 Madfest.
 
-![](./media/octagon-1.jpg){width=85%}
+![](./media/octagon-1.jpg){width=80%}
 
-![](./media/octagon-2.jpg){width=85%}
+![](./media/octagon-2.jpg){width=80%}
 
 Pattern by Mike Newton.
 
@@ -164,7 +170,7 @@ Pattern by Kat Girdaukas.
 
 You need 20 jugglers who are all good at the four leaf clover.
 
- *describe*
+Link together 4 4-leaf clovers. 
 
 Performed at Pass Out (2015?)
 
@@ -172,13 +178,15 @@ Pattern by Melonhead
 
 ## Hex of Three Leaf Clovers
 
-*describe *
+Link together 6 standard 3-leaf clovers.
 
 
-### Big Circle 
+## Big Circle 
 
  ![](./media/MadfestBigPatternScalableBy4.jpg){width=100%}
 
-Pattern by Graham Paasch
+Pattern by Graham Paasch.
+
+[Juggled at 2013 Madfest; Thanks Casey Rentmeester](https://youtu.be/hfRiGC7_NSU)
 
 

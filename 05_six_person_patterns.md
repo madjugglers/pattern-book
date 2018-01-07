@@ -769,6 +769,10 @@ exchange along the parallel line 3-4.
 Refer back to 4-person El Turbo. In **variations** see how to add one or two 4-count
 stationary posts when the El Turbo jugglers are on selves.
 
+## Ivy-$\pi$ Weave Plus Post
+
+Refer back to 5-person Ivy-$\pi$ weave, and notice that there's a steady 4-count gap created by the the five weavers.   Put a post on one side and have that juggler fill in the gap. [Summer '17]
+
 
 ## Four Leaf Clover plus Orbiter
 

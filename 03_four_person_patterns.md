@@ -561,7 +561,7 @@ Pattern by Luke Emery, 2001.
 
 Here's another version of the 4 person clover. However, we juggle the Standard
 Clover more often (which used to be called the New Clover) because it is easier
-to remember and has a nicer flow to it.
+to remember and has a nicer flow to it. Local cycle is 8 beats and full cycle is 24.
 
 | **Juggler/beat** | **1**   | **2**   | **3**   | **4**   | **5**   | **6**   | **7**   | **8**   |
 |-------------|---------|---------|---------|---------|---------|---------|---------|---------|
@@ -573,7 +573,7 @@ to remember and has a nicer flow to it.
 > * Right hand counting
 
 Every juggler is a feeder passing a standard 4-count feed to the other 3
-jugglers.
+jugglers. Performed by Mad-5 at 1998 Madfest.
 
 ![](./media/image31.png){width=50%}
 
@@ -702,7 +702,7 @@ while spinning around each other.
 This pattern could be considered a 2-seated unicycle without the seats, going
 backwards. It is a precursor for the Razor juggling pattern.
 
-Pattern created July, 1997 by MAJ.
+Pattern created July, 1997 by MAJ. Performed by Peter, Mel, Mike and Dan at Madfest 1998.
 
 ### Chocolate Stir
 
@@ -984,7 +984,8 @@ version we usually do.
 
 Notice that the passes are always from A to C, B to D, C to B, and D to A.
 
-When was this pattern created? We have been doing it since 1991.
+When was this pattern created? We have been doing it since 1991; the Mad-5 performed it
+at Madfest 1997.
 
 ### 14 Club Oogle Boogie
 
@@ -1213,7 +1214,7 @@ This is like a 4-person version of a synchronous double weave.
 
 After the 4th beat, the jugglers are inverted, but the passing sequence repeats.
 
-This pattern dates to 1997 by Mike Newton and MAJ.
+This pattern dates to 1997 by Mike Newton and MAJ, but it took us a while to recognize it is an egg-beater without a handle!
 
 ## Unicycle
 
@@ -1234,7 +1235,7 @@ The unicycle is a nice moving pattern in 3-count.
 |   |  * All passes from B to A are drop-backs. |
 
 
-Unicycle dates to 1996 by MAJ.
+Unicycle dates to 1996 by MAJ. Performed by Mad-5+1 at Madfest 1999.
 
 ### Unicycle Plus
 ![](./media/image26.png){width=30%}
