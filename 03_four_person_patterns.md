@@ -91,7 +91,7 @@ box.
 Throw a little wide on the double passes and make sure that everyone has
 metronome perfect timing and it actually works!
 
-Pattern by Luke Emery, 2007.
+Pattern by Luke Emery, 2007. **Q. Luke. C is not on A's left; should C-D swap?**
 
 ### Bermuda Quadrangle
 
@@ -339,7 +339,6 @@ Also see Mr. Inside Mr. Outside Weaves, Inside Out Weaves, Twister Weaves, etc.
 There are a number of variations floating around where the weavers trade place
 with the feeder (typically on one end only). Work it out.
 
-The Standard Weave has been around longer than any of us have been juggling.
 
 ### Dresser-Drawer Weave
 
@@ -786,7 +785,7 @@ This is the standard MAJ double 3-count box, but you might as well learn the
 opposite version (feeding from left to right) for doing the backwards El-Nino
 (La Nina).
 
-\[dates to 7/97 MAJ\]
+\[dates to 7/97 MAJ, maybe earlier by others\]
 
 ## Ultimate Feeds
 
@@ -794,7 +793,7 @@ opposite version (feeding from left to right) for doing the backwards El-Nino
 One count feeds are fun by themselves but they also provide a foundation for other
 cool patterns, such as El Nino. 
 
-### 12 club standards
+### 12 club standard 1-count feeds
 
 
 |    |     |        |
@@ -900,7 +899,7 @@ El Nino dates to August, 1997 by Peter Kaseman and MAJ.
 
 ![](./media/ElNinoPlusFast.jpg){width=100%}
 
-Patterns by Graham Paasch
+El Nino patterns by Graham Paasch. **Q. Graham, where are the transitions?**
 
 ## El Turbo
 

@@ -143,3 +143,9 @@ in which A=Mark, B=Conner, C=Mel, D=Jeff, E=Chan, X=Graham, Y=Mike, Z=Peter.  As
  retained but the 3-weave is replaced by two 2-count feeders.   In one the
  feeders are on the same side; the other is Twister style.   To avoid a collision
   in the Twister, the feeders need to swap one of their throws on each cycle.
+
+## Two Mating Three Leaf Clovers
+
+Refer to the 4-person Three Leaf Clover (standard).   Make two copies that overlap
+along one leaf, and start out juggling within clover as normal. But whenever you
+enter the special leaf you transition into the other clover.  

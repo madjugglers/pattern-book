@@ -314,9 +314,12 @@ Make sure all the passes of the same spin go to the same height.
 For many patterns, selecting a juggler to count out loud as a metronome can be
 very helpful.
 
-**MAJ timing:**
+And follow the leader!
 
-Follow the leader!
+**MAJ timing:** We estimate 0.9 seconds per right hand beat for no-extra-club passing.
+This is a little slower than most North American sites and a little faster than 
+ some European sites!
+
 
 ### Leads
 The second most important skill is for the passer to lead the catcher in the

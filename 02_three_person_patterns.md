@@ -201,7 +201,7 @@ passes too (starting on opposite hands).
 
 Alternatively, A can throw straight passes and B and C can throw cross passes (starting on opposite hands).
 
-**Q: check this**
+**Q: Luke, is this correct?**
 
 ## Extra Club Rotating Feed (for 3 jugglers)
 
