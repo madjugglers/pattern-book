@@ -20,8 +20,7 @@ Where possible we have given  credit to the creators of the patterns described h
 these origins were unknown to us.  If we have erred in our attributions, please let us know.
 
 
-
-
+Special thanks to the Flying Karamozov Brothers for making us laugh at all of this.
 
 
 
@@ -256,7 +255,7 @@ some of their would-be self throws.
 * **triple up**.  The showy last action in a pattern, after the hup, in which each
  juggler lofts a triple self. 
 * **ultimate**. 1-count
-* **Walk it through**.  To perform a slow-motion instance of a pattern, with juggling replaced by the holding of 
+* **walk it through**.  To perform a slow-motion instance of a pattern, with juggling replaced by the holding of 
  clubs, with passes replaced by pointing to where you would pass, and following a slow, deliberate count by the
  leader. Done while setting up a pattern in order for jugglers to figure out what the hell they are supposed to do.
 * **weave**. A most popular moving pattern with three feedees and a feeder, which is the basis of many multi-person patterns.  The 3 feedees move in a figure 8 while juggling. 
@@ -382,7 +381,7 @@ do a lot of the 7 and 8 club based passing patterns.
 We're occasionally asked at juggling conventions, where do you come up with all
 these patterns? Actually, they sort of make themselves once you invite the
 opportunity. Here are some tips on how to make new passing patterns and have fun
-doing it.
+doing it.  We discuss some other pattern generation techniques in Chapter 12.
 
 ### Mutate
 
@@ -463,7 +462,7 @@ We also use tape on the floor to mark movements or passing lanes to keep it clea
 
 The world of juggling has many contributors and
 contributions that we have failed to identify in this collection. 
- The following links are important ones we know about:
+ The following links are some of the important ones:
 
 
 * [Martin Frost's Youtube channel](https://www.youtube.com/user/elgra2)

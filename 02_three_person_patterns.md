@@ -2,7 +2,7 @@
 
 Big patterns come from little patterns, so we need to know some of these first!
 
-## Feed (for 3 jugglers)
+## Feed 
 
 The feed for 3 jugglers is the simplest 3 person pattern and likely the first
 one you tried. Because juggling with 3 is so much different than with 2, it's
@@ -596,6 +596,14 @@ triple followed by a pirouette).
 
 See also a variation we call Cathedral in the 5 Person Patterns.
 
+## Laura's Weave
+
+Peter came up with this pattern as a birthday present for Laura in 2010.
+
+Three jugglers move in a figure eight, as in a standard weave but with no feeder. There's one
+extra club.  On right-hand counting, it's  triple self, triple pass, then four single selves 
+as you move over to the other side.  This same sequence can be done with straight-up 
+passes in the middle of the weave.  
 
 ## 2$\pi$/3
 
@@ -623,8 +631,8 @@ with A and does *up-up-over*.  Juggler C waits to receive the two incoming from 
 | |    C starts  with 2 clubs |
 | |    vertical arrow is synced double self |
 
-Mike and Steve did this first in the early 90's, when Madfest was still in the Memorial Union.  An animation of (a variation of!!) this pattern can be seen by visiting the
-[Juggloid website](http://juggloid.com/editor/?s=yhIKp1)
+Mike and Steve did this first in the early 90's, when Madfest was still in the Memorial Union.  See an animation of (a variation of!!) this pattern 
+at [Juggloid](http://juggloid.com/editor/?s=yhIKp1)
 
 ##  Graham's 3 stuff
 

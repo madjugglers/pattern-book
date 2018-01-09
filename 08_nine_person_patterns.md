@@ -6,8 +6,6 @@
    
   Everyone feeds everyone else, on count of your choice.
 
-## 4 on 5 line
-  
 
 ## Big Hinge minus 3
 

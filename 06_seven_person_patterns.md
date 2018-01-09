@@ -99,11 +99,8 @@ pattern.
 
 ## Broken Hearted Blast
 
-Using the same passing table as above, change the movement. Instead of a **W**, go behind the feeder
-line after you make your second *inside* pass, and thus as you go into your 12 count.  
-We convinced ourselves that the long motion past the feeders and back looks like half of
-a heart-shape. Taking into account the stagger needed to let another juggler pass in
-front gave us the name!   
+Using the same passing table as above, change the movement. Instead of a **W**, go behind the feeder line after you make your second *inside* pass, and thus as you go into your 12 count.  We convinced ourselves that the long motion past the feeders and back looks like half of
+a heart-shape. Taking into account the stagger needed to let another juggler pass in front gave us the name!   
 
 ## Wonky Benzene Ring
 

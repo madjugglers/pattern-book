@@ -7,6 +7,9 @@
 
 ## 4-on-4 line
 
+Feed the two people opposite you, or do a baby position on the end. Use only as
+a warm-up!
+
 ## Double vision 4's
 
   Take any (almost any) 4 person pattern and turn each juggler into two.  Double-vision boxes are 

@@ -126,21 +126,21 @@ RR3 requires RR4
 
 58 total pattern combinations
 
-## Graham's Stuff
+## More Patterns by  Graham
 
 More patterns by Graham Paasch 
 
 ### 6 Club Dingle
 
- ![](./media/SixClubDingle.jpg){width=85%}
+ ![](./media/SixDingle.png){width=55%}
 
 ### 7 Club Dingle
 
- ![](./media/SevenClubDingle.jpg){width=85%}
+ ![](./media/SevenDingle.png){width=55%}
 
 ### 7 Club Martins
 
- ![](./media/SevenClubMartins.jpg){width=85%}
+ ![](./media/SevenClubMartins.jpg){width=55%}
 
 ### Hard 4 Person With Easy Positions
 

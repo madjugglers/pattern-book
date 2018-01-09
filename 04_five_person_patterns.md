@@ -83,7 +83,7 @@ straight doubles.
 This pattern is also called the Chocolate Box. 
 See [](https://www.juggle.org/passing-post-feeding-on-chocolate-bars/)
 
-Pattern by Steve Otteson and MAJ; performed by Mad-5 at 1997 Madfest.
+Pattern by Steve Otteson and MAJ; performed by Mad-5 at 1997 Madfest and elsewhere.
 
 ### Double Chocolate Double 3-Count Feed
 
@@ -1068,7 +1068,7 @@ pattern book. Maybe you should try it for yourself and see what you think!
 
 Pattern by Mike Newton.
 
-## Ivy$-\pi$ weave (read ivy pie weave)
+## Ivy$-\pi$ weave (read ivy pi weave)
 
 Here's a variation on the 2$\pi$/3.  We figured it out by adding one and then
 a second feeder to fill the gap in the 3-person pattern.  Then we noticed

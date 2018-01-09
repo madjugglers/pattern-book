@@ -375,9 +375,20 @@ move forwards for the “middle” (where C starts) and backwards from the “en
 (where B and D are).
 
 The passing lanes can be somewhat narrow, so be careful, or you might bruise
-your Zoc.
+your ZOC.
 
 Pattern by Mike Newton.
+
+### It's a Good One
+
+For a count challenge with no extra clubs, but in the standard weave formation,
+the Feeder (A) passes 2 count, twice in a row to each feedee on each side. Feedees 
+(B,C, D) throw: 2 throws of 2-count, 3-count transition, left-handed 4-count, 3-count transition, and repeat on other side. Set up with A facing B, C, D, with C in the middle,
+moving forward and to the left.
+
+![](./media/goodone.png){width=70%}
+
+
 
 ### Gandini Weave
 
@@ -605,9 +616,8 @@ Every juggler is a feeder in a modified typewriter feed.
 
 ### Steve's Clovers
 
-As above, the MAJ now juggles the standard clover more often than this version,
-but describe this variation too. It's curious that so many variations were 
-described after the first discovery.
+Here's another way to configure clover passes, though it hasn't garnered the adoraton
+of the standard clover.
 
 
 
@@ -730,7 +740,7 @@ everyone else, but alternating to positions 2 and 5.
 
 ## Canoe
 
-![](./media/image16.png){width=70%}
+![](./media/image16.png){width=50%}
 
 > * A is facing B, C, and D.
 > * B, C, and D are facing A.
@@ -887,17 +897,18 @@ similar to 1-count El Nino where the mover transitions in 4-count instead of
 and joining the double three count box on the opposite count. He also goes the
 wrong direction like La Nina! :)
 
-El Nino dates to August, 1997 by Peter Kaseman and MAJ.
+El Nino dates to August, 1997 by Peter Kaseman and MAJ, during the famous
+[meteorological event](https://en.wikipedia.org/wiki/1997%E2%80%9398_El_Ni%C3%B1o_event) .
 
 ## El Nino Plus 
 
 ### Slow Version
 
-![](./media/ElNinoPlusSlow.jpg){width=100%}
+![](./media/ElNinoPlusSlow.jpg){width=75%}
 
 ### Fast Version
 
-![](./media/ElNinoPlusFast.jpg){width=100%}
+![](./media/ElNinoPlusFast.jpg){width=75%}
 
 El Nino patterns by Graham Paasch. **Q. Graham, where are the transitions?**
 

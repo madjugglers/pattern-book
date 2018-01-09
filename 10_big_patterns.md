@@ -56,7 +56,7 @@ must be taken to keep the timing synchronized.
 
 ## Double Vision Hex
 
- See 6-person Hex and make each juggler two!
+ See 6-person Hex and make each juggler two! Still a dream, but maybe not for long.
 
 ## Fully Loaded Blast
 
@@ -168,11 +168,7 @@ Pattern by Kat Girdaukas.
 
 ## Box of Four Leaf Clovers
 
-You need 20 jugglers who are all good at the four leaf clover.
-
-Link together 4 4-leaf clovers. 
-
-Performed at Pass Out (2015?)
+You need 20 jugglers who are all good at the four leaf clover.  Link together 4 4-leaf clovers.  Performed at Pass Out (2015?)
 
 Pattern by Melonhead
 
@@ -185,8 +181,6 @@ Link together 6 standard 3-leaf clovers.
 
  ![](./media/MadfestBigPatternScalableBy4.jpg){width=100%}
 
-Pattern by Graham Paasch.
-
-[Juggled at 2013 Madfest; Thanks Casey Rentmeester](https://youtu.be/hfRiGC7_NSU)
+Pattern by Graham Paasch.  Juggled at 2013 Madfest. [Thanks Casey Rentmeester](https://youtu.be/hfRiGC7_NSU)
 
 

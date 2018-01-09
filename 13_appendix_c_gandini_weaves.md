@@ -16,6 +16,6 @@ To save space, the feeder is not pictured in the following example.
 
 Lines indicate passes, arrows indicate movement.
 
-![](./media/image123.png)
+![](./media/image123.png){width=80%}
 
 This idea can be extended in many different ways. For example, the weavers and feeders can do patterns like Burke's Barrage or Mill's Mess. A double weave can be any two siteswap weaves passing to each other. For example, try a regular Gandini Weave (333) against a 441 Gandini Weave or a 534 Gandini weave, etc.
