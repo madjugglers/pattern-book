@@ -20,8 +20,6 @@ Where possible we have given  credit to the creators of the patterns described h
 these origins were unknown to us.  If we have erred in our attributions, please let us know.
 
 
-Special thanks to the Flying Karamozov Brothers for making us laugh at all of this.
-
 
 
 # Hello Madison Club Passers and Friends!
@@ -212,6 +210,7 @@ the end of the chapter fyi.  We use whatever seems to make sense to us at the mo
  entails a 5-yard penalty. 
 * **everies**. 2-count
 * **every-others**. 4-count
+* **exclusion principle**. No two jugglers can occupy the same place at the same time.
 * **extra clubs**.  When the number of clubs for the pattern exceeds three
  times the number of jugglers.
 * **feast**. A pattern having only feeders, usually arranged in a circle.
@@ -462,15 +461,16 @@ We also use tape on the floor to mark movements or passing lanes to keep it clea
 
 The world of juggling has many contributors and
 contributions that we have failed to identify in this collection. 
- The following links are some of the important ones:
+Some important ones are:
 
 
+* [Flying Karamozov Brothers](http://www.fkb.com/)
+* [Gandini Juggling Project](http://www.gandinijuggling.com/)
 * [Martin Frost's Youtube channel](https://www.youtube.com/user/elgra2)
 * [JiBe's passingDB site](https://www.passingdb.com/)
 * [International Juggling Association site](http://www.juggle.org)
 * [Will Murray's site](http://www.csulb.edu/~wmurray/)
 * [Mark Weston's passing collection](http://www.varietyartsdirectory.com/resources/PassingPatternsAug06.pdf)
-* [Gandini Juggling Project](http://www.gandinijuggling.com/)
 
 
 ## Version History
