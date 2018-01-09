@@ -221,14 +221,14 @@ the end of the chapter fyi.  We use whatever seems to make sense to us at the mo
 * **immaculate assumption**.
   When you think that a juggler is about to move or pass...maybe they even give
   you the look...you know, the **look**...but then they don't!
-* **inverted.** A moving convention in the weave: forward-on-the-end/backd-through-the-middle
+* **inverted.** A moving convention in the weave: forward-on-the-end/back-through-the-middle
 * **I blame society**. An excuse for some juggling failure (usually by Mel).
 * **last jugglers' try**. The last attept at a pattern, but only if it goes well enough.
 * **leader**. One who calls out, *jugglers ready: up, down, ...* at the beginning of a pattern. 
 * **Mel catch**.  The act of catching the fat end after a 2.5 triple up.
 * **Mr. Inside/Mr. Outside**.  The two feeding positions of a doubly-fed weave.
-* **mustard**.  Energy, power, spice, velocity or chi added to throws. As in, your corner
-  passes need more mustard. The opposite of mustard is mayonnaise.
+* **mustard**.  Energy, power, spice, velocity or chi added to throws. As in, "your corner
+  passes need more mustard." The opposite of mustard is mayonnaise.
 * **NFP**.  Nice Pass.
 * **No, this is a club**. Said while pointing to a juggling club and talking to a curious 
  passer-by who asks about the group, "Is this a club?".
@@ -267,8 +267,8 @@ first feeds the line in sequence, and then returns in reverse order.  Windshield
   my catching hand!"
 * **You herniated my ZOC.** Said if a pass forced extension and excessive effort in the catching.
 * **ZOC**.
-  Zone of Catchability. The volume near a passer where they can catch
-  passes with high probability. Peter Kaseman has the largest ZOC in Madison.
+  Zone of Catchability. The volume near a juggler in which successful catches are probable.
+ Peter Kaseman has the largest ZOC in Madison.
 * **ZOOS**. (sounds like the Greek god Zeus)  Zone of occupied space.   Space occupied by a moving juggler.
 
 ## Random Tips on Passing Patterns
@@ -282,8 +282,7 @@ first feeds the line in sequence, and then returns in reverse order.  Windshield
 * **Juggle slow, move fast**. You get it. There's a tendency to speed up
  your juggling when you move. Don't.
 * **Juggling means never having to say you're sorry**
-    No, really.  Don't say you're sorry unless you draw blood.  (However, if you draw blood then you do have to say you're sorry.)  
-    Beginners often apologize profusely for their lack of skill. It's ok! We
+    No, really.  Don't say you're sorry unless you draw blood.  (However, if you draw blood then you do have to say you're sorry.)  Beginners often apologize profusely for their lack of skill. It's ok! We
     already know you're a beginner. But we like passing with other people and
     passing with beginners too. You'll get better soon and the best way is with
     lots of passing! If people want to do a hard pattern that is too advanced
@@ -315,8 +314,8 @@ very helpful.
 And follow the leader!
 
 **MAJ timing:** We estimate 0.9 seconds per right hand beat for no-extra-club passing.
-This is a little slower than most North American sites and a little faster than 
- some European sites!
+This is a little slower than at most North American sites and a little faster than 
+ at some European sites!
 
 
 ### Leads
