@@ -1,7 +1,7 @@
 
 ## 7 Club Patterns
 
-Peter Kaseman and I  had an experiment in winter 1999 to think up how many 7 club patterns we  could do. The goal was 100, and at first we thought that would be a difficult target. However we soon realized that there are so many possible site swap variations and tempo changes to easily pass 100. Not of all of them are easy to actually juggle though! Here are a few of them. (Also see Appendices D and E for some more ideas.)
+Peter Kaseman and I  had an experiment in winter 1999 to think up how many 7 club patterns we  could do. The goal was 100, and at first we thought that would be a difficult target. However we soon realized that there are so many possible site swap variations and tempo changes to easily pass 100. Not of all of them are easy to actually juggle though! Here are a few of them. 
 
 **Chocolate Bars **
 
@@ -79,7 +79,7 @@ The same idea can be extended to any set of siteswaps with any number of items, 
 
 If the two jugglers have different numbers of clubs (for example 444 | 333), then they can switch sides with each other at almost any point by the first juggler throwing two passes in a row.
 
-There is also a dual passing pattern variation of each of the above, as described in Appendix B.
+There is also a dual passing pattern variation of each of the above, as described earlier.
 
 **Popcorns**
 
@@ -160,7 +160,7 @@ Crossed versions of above.
 
 Because of symmetry, there are really only 9 unique patterns so far instead of 12. The left hand versions and the right hand versions turn into the same pattern when the jugglers cross passes.
 
-As we've seen from Appendix B, every passing pattern has a corresponding complementary dual pattern (or shadow pattern) where a juggler's right hand pattern is combined with the left hand pattern off the adjacent juggler. This is really just one permutation of a 4 person 2 handed site swap. Each of the 9 patterns above has a corresponding shadow person pattern, and curiously, they are all 2-count, more or less. Let's look at a couple more closely.
+As we've seen, every passing pattern has a corresponding complementary dual pattern (or shadow pattern) where a juggler's right hand pattern is combined with the left hand pattern off the adjacent juggler. This is really just one permutation of a 4 person 2 handed site swap. Each of the 9 patterns above has a corresponding shadow person pattern, and curiously, they are all 2-count, more or less. Let's look at a couple more closely.
 
 1.  The shadow pattern for the standard 4p3 is a synchronous juggling pattern where the left and right hands of a juggler throw and catch at exactly the same time. For this pattern the left hand will throw a crossing double self while the right hand throws a straight single pass: (4x, 3p) | (4x, 3p). The second juggler pauses ½ beat before throwing their 2 synchronous throws: one as a pass and the other as a self.
 
