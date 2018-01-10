@@ -84,7 +84,7 @@ start.
 | **J**       | B     |       | E     | F     | E     |       | B     |       | D     |        |
 | **K**       | E     |       | B     |       | D     |       | A     |       | C     | F      |
 
-> * Right handed counting.
+> * Right-hand counting.
 
 ![](./media/image118.jpeg){width=50%}
 
@@ -130,7 +130,7 @@ weave.
 | **N**       | F     |       | G     |       | E     |       | I     |       | D     |        | H      |        |
 | **O**       |       | H     |       | I     |       | G     |       | H     |       | I      |        | G      |
 
-> * Right handed counting.
+> * Right-hand counting.
 
 To start, all the Mr. Outside feeders pass to their right, and then feed
 alternately left and right in 4-count. The Mr. Inside feeders start on beat 2
@@ -159,23 +159,16 @@ the big pattern at 2007 Madfest.
 
 Pattern by Mike Newton.
 
-## Mandala Weave
 
-<!-- TODO GET GRPAHICS FROM KAT!-->
+## Mating Clovers
 
-Pattern by Kat Girdaukas.
+There are lots of interesting options by mating clovers and possibly adding orbiters.
+We got a Box of Four Leaf Clovers, for 20 jugglers, working at a recent Pass Out. We may
+do a Hex of Three Leaf Clovers (below), for 24 jugglers, at Madfest 2018.   We've practiced a mate pair of 4 leaf clovers with 2 orbiters (12). Orbiters stay in their clovers; others move between clovers. The standard configuration has one juggler per isolated leaf; two jugglers per overlapping leaf, and one in the middle of each clover (e.g. on points of the hexagon below).  Line up the start so that those sharing a leaf are counterparts in the two neighboring clovers.
 
+ ![](./media/hexofclovers.png){width=75%}
 
-## Box of Four Leaf Clovers
-
-You need 20 jugglers who are all good at the four leaf clover.  Link together 4 4-leaf clovers.  Performed at Pass Out (2015?)
-
-Pattern by Melonhead
-
-## Hex of Three Leaf Clovers
-
-Link together 6 standard 3-leaf clovers.
-
+By Melonhead and MAJ.
 
 ## Big Circle 
 

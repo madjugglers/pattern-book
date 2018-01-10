@@ -85,4 +85,9 @@ Pattern by Peter Kaseman and MAJ.
 
 ## Two Mating Four Leaf Clovers
 
-By Melonhead. *describe*
+Refer to the standard 5-person 4-leaf clover, and duplicate for 10 jugglers.  Overlap the clovers on one leaf, as indicated in the figure.   Juggle as in a standard clover but
+when you and your double land in the overlapping leaf you change places, and thus move into the other clover.
+
+![](./media/mating4leafclover.png){width=60%}
+
+By Melonhead. 

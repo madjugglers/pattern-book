@@ -124,7 +124,7 @@ If A, B and C do a standard weave and pass across to D, E and F in a standard we
 | **E**       |       | B     |       |
 | **F**       |       |       | C     |
 
-> * Right hand counting
+> * Right-hand counting
 
 The standard weave has each juggler moving forward in the middle, and back on
 the ends. Move to the next position after each pass. See the Standard Weave for
@@ -197,7 +197,7 @@ direction.
 | **E**       |       |       | B     | A     |       |       |
 | **F**       |       |       |       |       | A     | C     |
 
-> * Right hands counting
+> * Right-hand counting
 
 For a good time, call Melonhead. Or try this pattern in chocolate bar.
 
@@ -224,7 +224,7 @@ you might think (though certainly not easy).
 | **E**       | T-A   |       | B     | A     |       |       |
 | **F**       |       |       | T-C   |       | A     | C     |
 
-> * Right hands counting
+> * Right-hand counting
 
 Pattern by Luke Emery.
 
@@ -274,7 +274,7 @@ same direction as Peter's sweep); if you're in an even spot then you move forwar
 | **E**       |        | F      |        |        | F      |        |        | F      |        |        |
 | **F**       | A      | E      | C      | A      | E      | B      | D      | E      | B      | C      |
 
-> * Right hand counting
+> * Right-hand counting
 
 ![](./media/image73.png){width=50%}
 
@@ -292,7 +292,7 @@ of a weave, but there are three loops instead of two. And you pass at the faces 
 | positions                                       |     |
 
 
-> * Right hand counting Fast Spiral Weave [weavers 4-count; feeders 2-count]
+> * Right-hand counting Fast Spiral Weave [weavers 4-count; feeders 2-count]
 > * 3-Count Standard Spiral Weave [weavers 6 count; feeders 3-count]
 > * double 3 Count Hyper-Spiral Weave [not sure if we ever got this to work!]
 
@@ -308,7 +308,7 @@ numbers show right hand counting this is the Fast Spiral and the weavers have a
 4-count to move between each position. This is very fast.
 
 To slow the pattern to 3-count, change the column numbers in the table above
-from 1, 2, 3, 4 to 1, 4, 7, and 10, and change "Right hand counting" to "Both
+from 1, 2, 3, 4 to 1, 4, 7, and 10, and change "Right-hand counting" to "Both
 hands counting, right hand starts". The weavers will pass in 6-count (note that
 2 weavers, A and C are passing left handed 6-count).
 
@@ -498,7 +498,7 @@ each feeder and then turn around to pass 3 times to the next feeder.
 | **E**       | B     | A     | D     | A     | D     | C     | D     | C     | B     | C      | B      | A      |
 | **F**       | D     | C     | B     | C     | B     | A     | B     | A     | D     | A      | D      | C      |
 
-> * Right hand counting
+> * Right-hand counting
 
 Lets look to see what B does. B passes to E on the first beat and then has one
 right hand self to turn around and make the first pass to F. Then B moves to the
@@ -532,7 +532,7 @@ did, and it was made of weaving jugglers, it might look like this.
 | **E**       |       | C     |       | B     |       | D     |       | A     |
 | **F**       |       | D     |       | A     |       | C     |       | B     |
 
-> * Right hand counting
+> * Right-hand counting
 
 E and F are handles, A and B are one beater, and C and D are the other beater.
 
@@ -624,7 +624,7 @@ Now, to make it more interesting, throw early triples from the corners.
 | **E**       | B     | T-D   | Pause | C     | T-F   | Pause |
 | **F**       | C     | T-E   | Pause | A     | T-D   | Pause |
 
-> * Right hands counting
+> * Right-hand counting
 
 D, E and F can pirouette in their Pause for some extra showmanship.
 

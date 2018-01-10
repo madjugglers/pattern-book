@@ -10,7 +10,7 @@ The original Apollo (also known as the 1-1-3 Apollo) is an MAJ standard.
 |                                        |                          |
 |------------|------------|
 | ![](./media/apollopositions.png){width=15%} | ![](./media/apollo5table.png){width=35%} |
-| positions                                       |    Right hand counting |
+| positions                                       |    Right-hand counting |
 
 
 ### Cockeyed Apollo
@@ -22,7 +22,7 @@ directions. Notice the switcheroo in the passing table for jugglers C and E.
 |                                        |                          |
 |------------|------------|
 | ![](./media/apollopositions.png){width=15%} | ![](./media/capollotable.png){width=35%} |
-| positions                                       |    Right hand counting |
+| positions                                       |    Right-hand counting |
 
 
 ### Apollo Plus
@@ -389,7 +389,7 @@ extra time.
 | **D**       | B     | T-B   |       |       | A     |
 | **E**       |       | B     | C     | T-C   |       |
 
-> * Right hand counting
+> * Right-hand counting
 > * A starts with 4
 
 If you want to get crazy, note that each juggler has 2 right selves in a row.
@@ -409,7 +409,7 @@ Here's another variation with triple selves instead of triple passes.
 | **D**       | B      | T-self | B      |        | A      |
 | **E**       |        | B      | C      | T-self | C      |
 
-> * Right hand counting
+> * Right-hand counting
 > * C starts with 4
 
 There could be many more interesting star variations based on siteswaps that are
@@ -440,7 +440,7 @@ less moving.
 | **D**       | B         | B         | B         | Pirouette | B         |
 | **E**       | Pirouette | C         | C         | C         | C         |
 
-> * Right hand counting, 2-count
+> * Right-hand counting, 2-count
 > * E starts with 2 clubs
 
 Make sure to keep the count after the pirouette! (At first you can just pause
@@ -498,7 +498,7 @@ feeders.
 
 The same variations for the standard weave and the Twister Weave can be used for
 this pattern, but there are some others. For example, Jugglers A and B can set up on a line
-perpendicular to the weave, with A (outside) further from the weave.  We have been doing it since at least 1994, but are not sure of its origin.  It probably predates the MAJ; the Mad-5 performed it a the 1996 Madfest.
+perpendicular to the weave, with A (outside) further from the weave.  We have been doing it since at least 1994, but are not sure of its origin.  It must predate the MAJ; the Mad-5 performed it a the 1996 Madfest.
 
 ## Twister Weaves 
 ![](./media/image38.jpeg){width=30%}
@@ -644,7 +644,7 @@ selves with triple passes back and forth over the top of the weave, in 7-club 4-
 | **B**       |         | Y       |         |         | X       |         |
 | **C**       |         |         | X       |         |         | Y       |
 
-> * Right hands counting
+> * Right-hand counting
 > * Y starts with 4
 
 Another nice variation is for the weavers to do ½ pirouettes under a triple
@@ -669,7 +669,7 @@ go by.
 | **B**       |         | Y       | Y       |         | X       |         |
 | **C**       | Y       |         | X       | X       |         | Y       |
 
-> * Right hands counting
+> * Right-hand counting
 
 For each weaver that A passes to, the first pass is made when the weaver is on
 the outside. The weaver moves to the inside, following the arrows, for the
@@ -781,7 +781,7 @@ See all of those self throws? Well, you can fill some of them in by adding anoth
 | **D**       | C     | E     | A     | E     | E     | B     | \*    | B     | B     |        |
 | **E**       | A     | D     | \*    | D     | D     |       | B     | A     | C     | A      |
 
-> * Right hands counting
+> * Right-hand counting
 
 ![](./media/image43.jpeg){width=50%}
 
@@ -889,7 +889,7 @@ as yout go: 6-count; 4-count; 6-count.  Performed by Mad-5 at 1997 Madfest.
 | **D**       | B       |         | C       |         | B       | A       | C       |         |
 | **E**       | C       | A       | B       |         | C       |         | B       |         |
 
-> * Right hands counting
+> * Right-hand counting
 
 Born at 1996 Madfest.
 
@@ -907,7 +907,7 @@ looking pattern.
 | **D**       | B       |         | C       |         | B       | T-A     | C       |         |
 | **E**       | C       | T-A     | B       |         | C       |         | B       |         |
 
-> * Right hands counting
+> * Right-hand counting
 > * A starts with 4
 
 ### 3-4-5 Egg Beater
@@ -969,7 +969,7 @@ This came from trying to fill in the self gaps of a Turbo using two stationary j
 | positions                                       |     |
 
 
-> * Right hands counting
+> * Right-hand counting
 > * A, B, and C are moving in a figure eight as in a Turbo or a 2-leaf Clover
     pattern. D and E are feeders.
 
@@ -1061,7 +1061,7 @@ pattern book. Maybe you should try it for yourself and see what you think!
 | **D**       | B     |       | E     | B     | B     | A     | A     |       |       | E      | E      | C      | C      | A      |        | C      | C      | E      | A      | B      |
 | **E**       | A     | B     | D     | C     | C     |       | B     | C     | C     | D      | D      |        |        | B      | B      | A      | A      | D      |        | A      |
 
-> * Right handed 4-count
+> * Right-handed 4-count
 > * Lines indicate passes; arrows indicate movement.
 
 ![](./media/image64.png){width=65%}

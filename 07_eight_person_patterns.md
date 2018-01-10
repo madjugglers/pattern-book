@@ -91,7 +91,7 @@ Solid lines are movement, dotted lines are passes.
 | **G**       | E     |       | E     |       |       | C     |       |       | D     | A      | D      | H      |        |        |        | F      |
 | **H**       |       | E     |       |       | A     | B     | A     | D     |       |        |        | G      | F      |        | F      |        |
 
-> * Right hand counting
+> * Right-hand counting
 
 Pattern by Kat Girdaukas.
 
@@ -149,6 +149,7 @@ in which A=Mark, B=Conner, C=Mel, D=Jeff, E=Chan, X=Graham, Y=Mike, Z=Peter.  As
 
 ## Two Mating Three Leaf Clovers
 
-Refer to the 4-person Three Leaf Clover (standard).   Make two copies that overlap
+Refer to the 4-person  Three Leaf Clover (standard).   Make two copies that overlap
 along one leaf, and start out juggling within clover as normal. But whenever you
-enter the special leaf you transition into the other clover.  
+and your enter  the special leaf you transition into the other clover.  
+

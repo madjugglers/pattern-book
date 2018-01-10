@@ -20,14 +20,15 @@ Where possible we have given  credit to the creators of the patterns described h
 these origins were unknown to us.  If we have erred in our attributions, please let us know.
 
 
+![](./media/majbanner.jpeg){width=100%} 
 
 
 # Hello Madison Club Passers and Friends!
 
 Welcome to the *Madison Area Jugglers' Pattern Book*, a collection of patterns
 for intermediate to advanced passers. These patterns are part of our juggling repertoire.
-Many we learned or adapted from other jugglers; they're here because 
-we have had fun trying to juggle them.  But very many of the patterns in this book
+Many we learned or adapted from other jugglers; we include them  because 
+it's fun trying to juggle them.  But very many of the patterns in this book
 were born in Madison, conjured up at Thursday/Sunday juggling sessions or at 47th Annual Madfests, annual
 events since 1992.  The book offers some record of the evolution of club passing in Madison.
 
@@ -116,7 +117,7 @@ patterns (later) we also indicate positions and  transitions with a  nodes-edges
 |                                        |                          |
 |------------|------------|
 | ![](./media/feedPositions.png){width=15%} | ![](./media/4feedtable.png){width=32%} |
-| positions                                       |    Right hand counting |
+| positions                                       |    Right-hand counting |
 
 
 
@@ -184,11 +185,9 @@ requires special circumstances.
 
 ### Site Swaps
 
-Occasionally we invoke passing site swaps to describe patterns. For example, 7
-club 2-count would be 4p 3 | 3 4p (2<sup>nd</sup> juggler starts with left
-hand).  Most of this discussion is in Chapter 12.  There are a number of different site swap notations out there for
-passing.  Frankly, most of us are not expert in this  (exceptions, Nick, Graham, Peter, Luke), but we point to some internet resources at 
-the end of the chapter fyi.  We use whatever seems to make sense to us at the moment and make no guarantee of consistency.
+Occasionally we tap the wonderful world of site-swap [notation](https://en.wikipedia.org/wiki/Siteswap) to describe patterns. For example, 7
+club 2-count is 4p 3 | 3 4p (2<sup>nd</sup> juggler starts with left
+hand).   There are a number of different site swap notations out there for passing.  We use whatever seems to make sense to us at the moment and make no guarantee of consistency!
 
 ## Secret Juggling Code Words and Phrases (Glossary)
 
@@ -227,8 +226,8 @@ the end of the chapter fyi.  We use whatever seems to make sense to us at the mo
 * **leader**. One who calls out, *jugglers ready: up, down, ...* at the beginning of a pattern. 
 * **Mel catch**.  The act of catching the fat end after a 2.5 triple up.
 * **Mr. Inside/Mr. Outside**.  The two feeding positions of a doubly-fed weave.
-* **mustard**.  Energy, power, spice, velocity or chi added to throws. As in, "your corner
-  passes need more mustard." The opposite of mustard is mayonnaise.
+* **mustard**.  Energy, power, spice, velocity or chi added to throws. As in, "Your corner
+  passes need more mustard." Also, crispy. The opposite of mustard is mayonnaise. 
 * **NFP**.  Nice Pass.
 * **No, this is a club**. Said while pointing to a juggling club and talking to a curious 
  passer-by who asks about the group, "Is this a club?".
