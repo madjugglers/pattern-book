@@ -1,6 +1,12 @@
 # Big Patterns
 
 
+So the big problem with big patterns is to get enough interested jugglers who are
+like-minded and sufficiently skilled to pull off something cool.   Mathematically
+there are many more possible juggling patterns for lots of people, but in fact most of 
+them are not realistic, thanks to the big problem.   We have been fortunate to overcome
+this problem in a few cases, summarized here.
+
 ## Big Hinge
 
 
@@ -50,7 +56,7 @@ must be taken to keep the timing synchronized.
 
 ## Double Vision Hex
 
- See 6-person Hex and make each juggler two!
+ See 6-person Hex and make each juggler two! Still a dream, but maybe not for long.
 
 ## Fully Loaded Blast
 
@@ -78,7 +84,7 @@ start.
 | **J**       | B     |       | E     | F     | E     |       | B     |       | D     |        |
 | **K**       | E     |       | B     |       | D     |       | A     |       | C     | F      |
 
-> * Right handed counting.
+> * Right-hand counting.
 
 ![](./media/image118.jpeg){width=50%}
 
@@ -124,7 +130,7 @@ weave.
 | **N**       | F     |       | G     |       | E     |       | I     |       | D     |        | H      |        |
 | **O**       |       | H     |       | I     |       | G     |       | H     |       | I      |        | G      |
 
-> * Right handed counting.
+> * Right-hand counting.
 
 To start, all the Mr. Outside feeders pass to their right, and then feed
 alternately left and right in 4-count. The Mr. Inside feeders start on beat 2
@@ -147,25 +153,27 @@ Pattern by Mike Newton and Luke Emery.
 Similar to the Triangle Weave, except with 8 sides and 48 jugglers. This was
 the big pattern at 2007 Madfest.
 
-![](./media/octagon-1.jpg){width=85%}
+![](./media/octagon-1.jpg){width=80%}
 
-![](./media/octagon-2.jpg){width=85%}
+![](./media/octagon-2.jpg){width=80%}
 
 Pattern by Mike Newton.
 
-## Mandala Weave
 
-<!-- TODO GET GRPAHICS FROM KAT!-->
+## Mating Clovers
 
-Pattern by Kat Girdaukas.
+There are lots of interesting options by mating clovers and possibly adding orbiters.
+We got a Box of Four Leaf Clovers, for 20 jugglers, working at a recent Pass Out. We may
+do a Hex of Three Leaf Clovers (below), for 24 jugglers, at Madfest 2018.   We've practiced a mate pair of 4 leaf clovers with 2 orbiters (12). Orbiters stay in their clovers; others move between clovers. The standard configuration has one juggler per isolated leaf; two jugglers per overlapping leaf, and one in the middle of each clover (e.g. on points of the hexagon below).  Line up the start so that those sharing a leaf are counterparts in the two neighboring clovers.
+
+ ![](./media/hexofclovers.png){width=75%}
+
+By Melonhead and MAJ.
+
+## Big Circle 
+
+ ![](./media/MadfestBigPatternScalableBy4.jpg){width=100%}
+
+Pattern by Graham Paasch.  Juggled at 2013 Madfest. [Thanks Casey Rentmeester](https://youtu.be/hfRiGC7_NSU)
 
 
-## Box of Four Leaf Clovers
-
-You need 20 jugglers who are all good at the four leaf clover.
-
- *describe*
-
-Performed at Pass Out (2015?)
-
-Pattern by Melonhead

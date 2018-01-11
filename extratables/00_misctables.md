@@ -945,3 +945,115 @@ Pattern by Luke Emery.
 **Feeders:** E, G, J
 
 
+## Spinny patterns
+
+### Benzene Ring (Four Juggler Version)
+![](./media/image14.png){width=40%}
+
+There is a whole family of benzene ring patterns, where movers juggle in a
+circle between two feeders. The Benzene Ring for Six and for Eight are
+easier patterns to learn, but Benzene Ring for Four is more fun.
+
+This version is in 3-count. We also call this Spinning 3-count.
+
+| **Juggler/beat** | **1**   | **4**   | **7**   | **10**   |
+|-------------|---------|---------|---------|----------|
+| **A**       | C       | D       | D       | C        |
+| **B**       | D       | C       | C       | D        |
+| **C**       | A       | B       | B       | A        |
+| **D**       | B       | A       | A       | B        |
+
+> * Both hands counting starting
+>   with the right hand
+> * Numbers missing are self throws.
+
+After the first pass (throw \#1 in the graph, made with the right hand), A and B
+have 2 self throws to turn around. If C and D make their right hand passes deep,
+A and B will have an easier time turning.
+
+
+
+### Chocolate Stir
+![](./media/image15.png){width=40%}
+
+A chocolate bar variation of the 4 person Benzene Ring starts in the same
+positions as the Benzene Ring. Each juggler is in chocolate bar. The inner
+jugglers throw right pass, left pass, then right to left single and do a half
+pirouette underneath, followed by a left self and then repeat.
+
+| **Juggler/beat** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** |
+|-------------|-------|-------|-------|-------|-------|-------|-------|-------|
+| **A**       | D     | D     | ½ P   |       | C     | C     | ½ P   |       |
+| **B**       | C     | C     | ½ P   |       | D     | D     | ½ P   |       |
+| **C**       | B     | B     |       |       | A     | A     |       |       |
+| **D**       | A     | A     |       |       | B     | B     |       |       |
+
+> * Both hands counting starting with the right hand.
+> * The ½ P marks a half pirouette under a single spin right to left self.
+>   A and B spin in place. They don't move to both positions like in the Benzene
+>   Ring.
+
+Pattern by Luke Emery
+
+
+
+## Unicycle
+![](./media/image25.png){width=30%}
+
+The unicycle is a nice moving pattern in 3-count.
+
+| **Juggler/beat** | **1**   | **4**   | **7**   | **10**   |
+|-------------|---------|---------|---------|----------|
+| **A**       | C       | D       | D       | C        |
+| **B**       | A       | A       | A       | A        |
+| **C**       | B       |         |         | B        |
+| **D**       |         | B       | B       |          |
+
+> * Both hands counting
+> * Start with right hand
+> * A is the seat, B is the stem, and C and D are the wheel.
+> * A and B face C and D. C and D move around the circle in a counter clockwise
+    direction.
+> * Passes are done on 3-count.
+> * All passes from B to A are drop-backs.
+
+The following table combines the position table and passing table from above.
+
+Also see Extra Club Unicycle and Two Seated Unicycle.
+
+Unicycle dates to 1996 by MAJ.
+
+
+
+## Ultimate Feeds
+
+One count feeds are fun by themselves but they also provide a foundation for other
+cool patterns, such as El Nino. Positions: 1 juggler faces 3 others in a line.
+
+### Typewriter
+
+| **Juggler/beat** | **1**   | **2**   | **3**   |
+|-------------|---------|---------|---------|
+| **A**       | B       | C       | D       |
+| **B**       | A       |         |         |
+| **C**       |         | A       |         |
+| **D**       |         |         | A       |
+
+> * Both hands counting
+> * Start with right-hand
+
+### Windshield Wiper
+
+| **Juggler/beat** | **1**   | **2**   | **3**   | **4**   |
+|-------------|---------|---------|---------|---------|
+| **A**       | B       | C       | D       | C       |
+| **B**       | A       |         |         |         |
+| **C**       |         | A       |         | A       |
+| **D**       |         |         | A       |         |
+
+> * Both hands counting
+
+This is a 3-count feed where A feeds a 1-count carriage return, and B, C, and D
+are passing 3-count.
+
+

@@ -17,6 +17,14 @@ Nice easy 4-count pattern.
 
 Pattern by MAJ.
 
+## Feast
+
+Everyone feeds everyone else.
+
+**Variation:** When on 3-count, try to **Picnic**.  I.e., do one cycle on straight
+throws and the next on crossing throws.  This creates some crazy Jim's jams.
+
+
 ## Argyles
 
 ### Argyled Triangles
@@ -116,7 +124,7 @@ If A, B and C do a standard weave and pass across to D, E and F in a standard we
 | **E**       |       | B     |       |
 | **F**       |       |       | C     |
 
-> * Right hand counting
+> * Right-hand counting
 
 The standard weave has each juggler moving forward in the middle, and back on
 the ends. Move to the next position after each pass. See the Standard Weave for
@@ -149,13 +157,7 @@ passing.  Lead deeply on the ends and short and lofty in the middle.
 ### Dresser Drawers Double Weave
 
 Either, both weaves do Dresser Drawer style (see 4-person patterns), or they do that plus
-adding 3 clubs, as described here. **check this**
-
-Both teams do the Dresser Drawers weave.
-
-![](./media/image70.png){width=30%}
-
-All passes are right hand doubles (like 7 2-count). Each weaver passes to only
+adding 3 clubs, as described here.  Both teams do the Dresser Drawers weave.  All passes are right hand doubles (like 7 2-count). Each weaver passes to only
 one other weaver (like in standard double weave) in a 6-count. The leads are
 very important.
 
@@ -195,7 +197,7 @@ direction.
 | **E**       |       |       | B     | A     |       |       |
 | **F**       |       |       |       |       | A     | C     |
 
-> * Right hands counting
+> * Right-hand counting
 
 For a good time, call Melonhead. Or try this pattern in chocolate bar.
 
@@ -222,7 +224,7 @@ you might think (though certainly not easy).
 | **E**       | T-A   |       | B     | A     |       |       |
 | **F**       |       |       | T-C   |       | A     | C     |
 
-> * Right hands counting
+> * Right-hand counting
 
 Pattern by Luke Emery.
 
@@ -237,7 +239,7 @@ easily do other counts. 4-count is pretty tough, but 5-count is fun!
 
 |                                        |                          |
 |------------|------------|
-| ![](./media/image72.jpeg){width=60%} | ![](./media/stickontheendtable.png){width=25%} |
+| ![](./media/image72.jpeg){width=60%} | ![](./media/stickontheendtable.png){width=30%} |
 |  movements   |    right-hand counting |
 
 In the figure above, lines indicate passes, numbers indicate the passing beat,
@@ -272,7 +274,7 @@ same direction as Peter's sweep); if you're in an even spot then you move forwar
 | **E**       |        | F      |        |        | F      |        |        | F      |        |        |
 | **F**       | A      | E      | C      | A      | E      | B      | D      | E      | B      | C      |
 
-> * Right hand counting
+> * Right-hand counting
 
 ![](./media/image73.png){width=50%}
 
@@ -290,7 +292,7 @@ of a weave, but there are three loops instead of two. And you pass at the faces 
 | positions                                       |     |
 
 
-> * Right hand counting Fast Spiral Weave [weavers 4-count; feeders 2-count]
+> * Right-hand counting Fast Spiral Weave [weavers 4-count; feeders 2-count]
 > * 3-Count Standard Spiral Weave [weavers 6 count; feeders 3-count]
 > * double 3 Count Hyper-Spiral Weave [not sure if we ever got this to work!]
 
@@ -306,7 +308,7 @@ numbers show right hand counting this is the Fast Spiral and the weavers have a
 4-count to move between each position. This is very fast.
 
 To slow the pattern to 3-count, change the column numbers in the table above
-from 1, 2, 3, 4 to 1, 4, 7, and 10, and change "Right hand counting" to "Both
+from 1, 2, 3, 4 to 1, 4, 7, and 10, and change "Right-hand counting" to "Both
 hands counting, right hand starts". The weavers will pass in 6-count (note that
 2 weavers, A and C are passing left handed 6-count).
 
@@ -413,7 +415,7 @@ your other weavers, and so can get some extra passes in before going to the back
 The position graph, on the left below, shows the 12 spots of a standard weave, duplicated and offset
 to configure the pattern. Blue arrows indicate moves after each beat, with the starting configuration
 shown. The pass graph, on the right, shows where passes happen (green) in the 12-beat cycle.
-(Thanks Conor for the pattern name!)
+(Thanks Conner for the pattern name!)
 
 ![](./media/foiegraham.png)
 
@@ -496,7 +498,7 @@ each feeder and then turn around to pass 3 times to the next feeder.
 | **E**       | B     | A     | D     | A     | D     | C     | D     | C     | B     | C      | B      | A      |
 | **F**       | D     | C     | B     | C     | B     | A     | B     | A     | D     | A      | D      | C      |
 
-> * Right hand counting
+> * Right-hand counting
 
 Lets look to see what B does. B passes to E on the first beat and then has one
 right hand self to turn around and make the first pass to F. Then B moves to the
@@ -530,7 +532,7 @@ did, and it was made of weaving jugglers, it might look like this.
 | **E**       |       | C     |       | B     |       | D     |       | A     |
 | **F**       |       | D     |       | A     |       | C     |       | B     |
 
-> * Right hand counting
+> * Right-hand counting
 
 E and F are handles, A and B are one beater, and C and D are the other beater.
 
@@ -622,7 +624,7 @@ Now, to make it more interesting, throw early triples from the corners.
 | **E**       | B     | T-D   | Pause | C     | T-F   | Pause |
 | **F**       | C     | T-E   | Pause | A     | T-D   | Pause |
 
-> * Right hands counting
+> * Right-hand counting
 
 D, E and F can pirouette in their Pause for some extra showmanship.
 
@@ -710,9 +712,7 @@ However, if thrown carefully, there is just enough room for all of them.
 > * A, C, D and F start with 4 clubs and right hands
 > * B and E start with 3 clubs and left hands
 
-The corners do a 2-count feed of triples to the opposite corner and doubles to the centers.
-
-The centers do a 2-count feed of doubles to the corners.
+The corners do a 2-count feed of triples to the opposite corner and doubles to the centers.  The centers do a 2-count feed of doubles to the corners.
 
 Pattern by Luke Emery. **Q: what is the layout?**
 
@@ -762,4 +762,23 @@ to the other square.  The local passing rule, in the steady state (and counting 
 beat 1 below, jugglers A and C exchange along the diagonal of the yellow square while jugglers D and F 
 exchange along the parallel line 3-4. 
 
-![](./media/windy.png)
+![](./media/windy.png){width=90%}
+
+## El Turbo Plus Two Posts
+
+Refer back to 4-person El Turbo. In **variations** see how to add one or two 4-count
+stationary posts when the El Turbo jugglers are on selves.
+
+## Ivy-$\pi$ Weave Plus Post
+
+Refer back to 5-person Ivy-$\pi$ weave, and notice that there's a steady 4-count gap created by the the five weavers.   Put a post on one side and have that juggler fill in the gap. [Summer '17]
+
+
+## Four Leaf Clover plus Orbiter
+
+Refer back to 5-person 4-leaf clover.  An extra passer (the orbiter) picks up passes
+to the movers after each one clears the middle (on their 4-out).  One way is on
+the 2nd beat (1 beat after the star in the pattern table); the even beats 2-4-6-8-10,
+say passing 4-count to B-E-C-D-A. Start the orbiter just outside the line C-D and move
+clockwise, staying inside each feeder.
+

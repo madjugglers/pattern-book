@@ -1,5 +1,4 @@
-Appendix E? – Synchronous Passing
-=================================
+##  Synchronous Passing
 
 Hi Mandy,
 

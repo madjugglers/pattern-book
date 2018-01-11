@@ -1,5 +1,4 @@
-Appendix F? – Passing 43
-========================
+##  Passing 43
 
 Here is a further analysis of all the possible 2 person 7 club patterns in the siteswap 43. There appear to be 58 valid patterns.
 
@@ -126,3 +125,24 @@ RR3 requires RR4
 (4px 4x)
 
 58 total pattern combinations
+
+## More Patterns by  Graham
+
+More patterns by Graham Paasch 
+
+### 6 Club Dingle
+
+ ![](./media/SixDingle.png){width=55%}
+
+### 7 Club Dingle
+
+ ![](./media/SevenDingle.png){width=55%}
+
+### 7 Club Martins
+
+ ![](./media/SevenClubMartins.jpg){width=55%}
+
+### Hard 4 Person With Easy Positions
+
+ ![](./media/HardFourPersonWithEasyPositions.jpg){width=85%}
+

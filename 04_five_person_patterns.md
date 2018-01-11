@@ -10,7 +10,7 @@ The original Apollo (also known as the 1-1-3 Apollo) is an MAJ standard.
 |                                        |                          |
 |------------|------------|
 | ![](./media/apollopositions.png){width=15%} | ![](./media/apollo5table.png){width=35%} |
-| positions                                       |    Right hand counting |
+| positions                                       |    Right-hand counting |
 
 
 ### Cockeyed Apollo
@@ -22,7 +22,7 @@ directions. Notice the switcheroo in the passing table for jugglers C and E.
 |                                        |                          |
 |------------|------------|
 | ![](./media/apollopositions.png){width=15%} | ![](./media/capollotable.png){width=35%} |
-| positions                                       |    Right hand counting |
+| positions                                       |    Right-hand counting |
 
 
 ### Apollo Plus
@@ -83,7 +83,7 @@ straight doubles.
 This pattern is also called the Chocolate Box. 
 See [](https://www.juggle.org/passing-post-feeding-on-chocolate-bars/)
 
-Pattern by Steve Otteson and MAJ.
+Pattern by Steve Otteson and MAJ; performed by Mad-5 at 1997 Madfest and elsewhere.
 
 ### Double Chocolate Double 3-Count Feed
 
@@ -103,9 +103,9 @@ Another pattern using the 2-facing-3 or wedgee positions.
 Notice that the first 3 throws are R-L-R, and the next 3 throws are to the same
 people but are L-R-L.
 
-Pattern by Steve Otteson and MAJ.
+Pattern by Steve Otteson and MAJ. Performed by Mad-5+1 at 1999 Madfest.
 
-### Semi-Sweet Chocolate 3-Count Feed
+### Semi-Sweet Chocolate 3-Count Feed 
 
 As far as the number of passes made by A and B go,the Semi-Sweet pattern is in between the Chocolate Bar and the Double Chocolate Bar patterns. Also uses the 2-facing-3 or wedgee positions.
 
@@ -119,7 +119,7 @@ As far as the number of passes made by A and B go,the Semi-Sweet pattern is in b
 
 > * Both hands counting, right hand starts
 
-In early versions of the passing book this was called *The New One*
+In early versions of the passing book this was called *The New One*. Pattern by Mike N.
 
 #### Variation
 
@@ -158,6 +158,9 @@ Everyone feeds everyone else!
 
 Classic pattern. When were these patterns created? We have been doing them since
 1992. Already this generalizes the standard Rotating Feed (which is not marked up here; we don't usually do it).
+
+**Variation:** When on 3-count, try to **Picnic**.  I.e., do one cycle on straight
+throws and the next on crossing throws.  This creates some crazy Jim's jams.
 
 ### Extra Club Rotating Feed
 
@@ -301,7 +304,6 @@ When was this pattern created? We have been doing it since 1992.
 ### Feast-Star
 
 This is a fun brain game.  You alternate passes of a star and of a feast!!
- **more** **Graham?**
 
 
 
@@ -387,7 +389,7 @@ extra time.
 | **D**       | B     | T-B   |       |       | A     |
 | **E**       |       | B     | C     | T-C   |       |
 
-> * Right hand counting
+> * Right-hand counting
 > * A starts with 4
 
 If you want to get crazy, note that each juggler has 2 right selves in a row.
@@ -407,7 +409,7 @@ Here's another variation with triple selves instead of triple passes.
 | **D**       | B      | T-self | B      |        | A      |
 | **E**       |        | B      | C      | T-self | C      |
 
-> * Right hand counting
+> * Right-hand counting
 > * C starts with 4
 
 There could be many more interesting star variations based on siteswaps that are
@@ -423,7 +425,6 @@ and does 2-count doubles to the juggler across and to the right.
 
 It's a good study in timing.
 
-Another classic pattern.
 
 ### Twirly Star
 
@@ -439,7 +440,7 @@ less moving.
 | **D**       | B         | B         | B         | Pirouette | B         |
 | **E**       | Pirouette | C         | C         | C         | C         |
 
-> * Right hand counting, 2-count
+> * Right-hand counting, 2-count
 > * E starts with 2 clubs
 
 Make sure to keep the count after the pirouette! (At first you can just pause
@@ -447,15 +448,32 @@ for 2 counts instead of pirouetting.) You'll pirouette holding 2 clubs.
 
 Pattern by Luke Emery.
 
-## Up-Up-Over-5
+## Up-Up-Over-5 
 
-Refer to Up-Up-Over for 3 jugglers. Expand from 2 on 1 to 3 on 2.  Now only the outside jugglers
+Refer to Up-Up-Over for 3 jugglers; recall this one involves simultaneous double
+throws from both hands.  Expand from 2 facing 1  to 3 facing 2 jugglers.  Now only the outside jugglers
 on the line do Up-Up-Over; the other three are Over-only feeders.  Remember, these are 
-simultaneous (right and left) double throws. **specify start**
+simultaneous (right and left) double throws. 
+
+
+|                                        |                          |
+|------------|------------|
+| ![](./media/2on3positions.png){width=20%} | ![](./media/upupover5table.png){width=30%} |
+| positions                                       |    sync-hand counting |
+|    |   A, B, C start with 4 clubs each |
+|    |   D, E start with 2 clubs  each |
+|    | vertical arrow is synced double self |
+
+
+
 
 ## Gauntlet
 
- **Mel's description**
+This is an easy but need-to-pay-attention moving pattern, which the Cool Guyz used once  to  exit the Madfest stage. It's a 5-person 4-count. On each passing beat one juggler (yellow nodes in figure) has 2 clubs (and doesn't pass).  These occur
+twice in a row for each juggler, as he/she moves through the middle and waits to receive a pass at the *bottom* of the pattern.   The leader calls out *down*, *box*, *down*, 
+*box* on passing beats, and the passes and movements are as in the figure..
+
+![](./media/gauntlet.jpg){width=85%}
 
 ## Mr. Inside-Mr. Outside Weave
 
@@ -476,16 +494,14 @@ reasons that none of us recall, though Tom Pomraning insisted on the names.  Mov
 the weavers are identical to the Standard Weave, though passes go alternatively to the two
 feeders. 
 
-![](./media/image37.png){width=50%}
+![](./media/image37.png){width=55%}
 
 The same variations for the standard weave and the Twister Weave can be used for
 this pattern, but there are some others. For example, Jugglers A and B can set up on a line
-perpendicular to the weave, with A (outside) further from the weave.
-
-When was this pattern created? We have been doing it since 1994.
+perpendicular to the weave, with A (outside) further from the weave.  We have been doing it since at least 1994, but are not sure of its origin.  It must predate the MAJ; the Mad-5 performed it a the 1996 Madfest.
 
 ## Twister Weaves 
-![](./media/image38.jpeg){width=50%}
+![](./media/image38.jpeg){width=30%}
 
 The original Twister Weave is perhaps one of our greatest discoveries.
 It has the exact same passing table as the Mr. Inside Mr. Outside Weave.
@@ -496,13 +512,10 @@ incredibly hard, probably because we hadn't yet mastered moving patterns involvi
 Oogle Boogies and other weaves had moves but no rotations; Egg Beaters had 90 degree rotations; Quincunx had
 a full rotation but it was very slow.  Good self throws make the difference! 
 
-An animated version of this pattern can be seen at the
-[Juggloid website](http://juggloid.com/editor/?s=sU0PC0).
-
 
 ### Original Twister Weave 
 
-Count: Feeders 4-Count, Feedees 6-Count moving
+Count: Feeders 4-Count, Feedees 6-Count moving. 
 
 Each weaver passes once on the end to Mr. Outside (X), and then has a 6-count (2 right hand selves) to move to the inside and turn around. Then pass once to Mr. Inside (Y) and continue in a 6-count outside and then turning around.
 
@@ -517,10 +530,10 @@ The turns may be done by turning towards the inside or towards the outside. Most
 | **C**       |         |         |         |         | X       |         |         |         |         |          | Y        |          |
 
 > * Both hands counting, all passes right hands
+> * [Animation](http://juggloid.com/editor/?s=sU0PC0).
 
 Here are some other twister weaves with the feeders in different counts. They
-get progressively trickier. There are many other possible variations besides
-these.
+get progressively trickier, so get ready! 
 
 ### PSPSP Twister Weave 
 
@@ -631,7 +644,7 @@ selves with triple passes back and forth over the top of the weave, in 7-club 4-
 | **B**       |         | Y       |         |         | X       |         |
 | **C**       |         |         | X       |         |         | Y       |
 
-> * Right hands counting
+> * Right-hand counting
 > * Y starts with 4
 
 Another nice variation is for the weavers to do ½ pirouettes under a triple
@@ -656,7 +669,7 @@ go by.
 | **B**       |         | Y       | Y       |         | X       |         |
 | **C**       | Y       |         | X       | X       |         | Y       |
 
-> * Right hands counting
+> * Right-hand counting
 
 For each weaver that A passes to, the first pass is made when the weaver is on
 the outside. The weaver moves to the inside, following the arrows, for the
@@ -768,7 +781,7 @@ See all of those self throws? Well, you can fill some of them in by adding anoth
 | **D**       | C     | E     | A     | E     | E     | B     | \*    | B     | B     |        |
 | **E**       | A     | D     | \*    | D     | D     |       | B     | A     | C     | A      |
 
-> * Right hands counting
+> * Right-hand counting
 
 ![](./media/image43.jpeg){width=50%}
 
@@ -853,13 +866,12 @@ Pattern by Luke Emery
 This one has one feeder and  4 movers -- in 2 pairs of 2 spinning around each other.
 A is the *handle*, B and C are one *beater*, and D and E are the other *beater*.  It's pretty
 good for beginner movers on this original base count, but you have to think because your count changes 
-as yout go: 6-count; 4-count; 6-count.
+as yout go: 6-count; 4-count; 6-count.  Performed by Mad-5 at 1997 Madfest.
 
 |                                        |                          |
 |------------|------------|
 | ![](./media/image48.png){width=25%} | ![](./media/eggbeatertable.png){width=45%} |
 | positions                                       |    Right-hand counting |
-
 
 
 ![](./media/image49.jpeg){width=50%}
@@ -877,8 +889,9 @@ as yout go: 6-count; 4-count; 6-count.
 | **D**       | B       |         | C       |         | B       | A       | C       |         |
 | **E**       | C       | A       | B       |         | C       |         | B       |         |
 
-> * Right hands counting
+> * Right-hand counting
 
+Born at 1996 Madfest.
 
 
 ### Luke's Egg Beater Plus 
@@ -894,7 +907,7 @@ looking pattern.
 | **D**       | B       |         | C       |         | B       | T-A     | C       |         |
 | **E**       | C       | T-A     | B       |         | C       |         | B       |         |
 
-> * Right hands counting
+> * Right-hand counting
 > * A starts with 4
 
 ### 3-4-5 Egg Beater
@@ -956,7 +969,7 @@ This came from trying to fill in the self gaps of a Turbo using two stationary j
 | positions                                       |     |
 
 
-> * Right hands counting
+> * Right-hand counting
 > * A, B, and C are moving in a figure eight as in a Turbo or a 2-leaf Clover
     pattern. D and E are feeders.
 
@@ -1048,14 +1061,14 @@ pattern book. Maybe you should try it for yourself and see what you think!
 | **D**       | B     |       | E     | B     | B     | A     | A     |       |       | E      | E      | C      | C      | A      |        | C      | C      | E      | A      | B      |
 | **E**       | A     | B     | D     | C     | C     |       | B     | C     | C     | D      | D      |        |        | B      | B      | A      | A      | D      |        | A      |
 
-> * Right handed 4-count
+> * Right-handed 4-count
 > * Lines indicate passes; arrows indicate movement.
 
 ![](./media/image64.png){width=65%}
 
 Pattern by Mike Newton.
 
-## Ivy$-\pi$ weave (read ivy pie weave)
+## Ivy$-\pi$ weave (read ivy pi weave)
 
 Here's a variation on the 2$\pi$/3.  We figured it out by adding one and then
 a second feeder to fill the gap in the 3-person pattern.  Then we noticed
@@ -1068,3 +1081,7 @@ from positions 2-to-3 and 7-to-8.
 
 ![](./media/ivypi.png)
 
+## El Turbo plus one post
+
+Refer back to 4-person El Turbo. In variations see on adding one or two 4-count
+stationary posts.

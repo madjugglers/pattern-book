@@ -17,21 +17,18 @@ please visit the Github site and provide some pattern descriptions.
 If you have any questions, comments or suggestions relating to this book, 
 please contact the Madison Area Jugglers.
 Where possible we have given  credit to the creators of the patterns described here, though for many
-these origins were unknown to us.  If we have erred in our credits, please let us know.
+these origins were unknown to us.  If we have erred in our attributions, please let us know.
 
 
-
-[**fix** Madjugglers Github site; *not current*](https://github.com/madjugglers)
-
-
+![](./media/majbanner.jpeg){width=100%} 
 
 
 # Hello Madison Club Passers and Friends!
 
 Welcome to the *Madison Area Jugglers' Pattern Book*, a collection of patterns
 for intermediate to advanced passers. These patterns are part of our juggling repertoire.
-Many we learned or adapted from other jugglers; they're here because 
-we have had fun trying to juggle them.  But very many of the patterns in this book
+Many we learned or adapted from other jugglers; we include them  because 
+it's fun trying to juggle them.  But very many of the patterns in this book
 were born in Madison, conjured up at Thursday/Sunday juggling sessions or at 47th Annual Madfests, annual
 events since 1992.  The book offers some record of the evolution of club passing in Madison.
 
@@ -62,7 +59,7 @@ In 2015 Matt Hemke and Evan Driscol  created a Github repository for the project
 
  Recently  Chan Wilson, Jeff Adamus, and
 Melonhead have been recording the patterns we do at  Thursday and Sunday MAJ practices.  It's
-an amazing collection, and for those who remember the code words, like  *1-5-1 Fois Graham* or *3-4 Twister*, it's enough
+an amazing collection, and for those who remember the code words, like  *1-5-1 Foie Graham* or *4-5 Twister*, it's enough
 to figure out what we really did.  But most of us forget the code words after a while,
 except for the frequently juggled ones, and this has been an impetus for this Version 3.0
 update by Mike Newton.  All along the editors have had 
@@ -120,7 +117,7 @@ patterns (later) we also indicate positions and  transitions with a  nodes-edges
 |                                        |                          |
 |------------|------------|
 | ![](./media/feedPositions.png){width=15%} | ![](./media/4feedtable.png){width=32%} |
-| positions                                       |    Right hand counting |
+| positions                                       |    Right-hand counting |
 
 
 
@@ -188,12 +185,9 @@ requires special circumstances.
 
 ### Site Swaps
 
-Occasionally we invoke passing site swaps to describe patterns. For example, 7
-club 2-count would be 4p 3 | 3 4p (2<sup>nd</sup> juggler starts with left
-hand). There are a number of different site swap notations out there for
-passing.  Frankly, most of us are not expert in this  (exceptions, Nick, Graham, Peter, Luke), 
-but we point to some internet resources at 
-the end of the chapter fyi.  We use whatever seems to make sense to us at the moment and make no guarantee of consistency.
+Occasionally we tap the wonderful world of site-swap [notation](https://en.wikipedia.org/wiki/Siteswap) to describe patterns. For example, 7
+club 2-count is 4p 3 | 3 4p (2<sup>nd</sup> juggler starts with left
+hand).   There are a number of different site swap notations out there for passing.  We use whatever seems to make sense to us at the moment and make no guarantee of consistency!
 
 ## Secret Juggling Code Words and Phrases (Glossary)
 
@@ -215,6 +209,7 @@ the end of the chapter fyi.  We use whatever seems to make sense to us at the mo
  entails a 5-yard penalty. 
 * **everies**. 2-count
 * **every-others**. 4-count
+* **exclusion principle**. No two jugglers can occupy the same place at the same time.
 * **extra clubs**.  When the number of clubs for the pattern exceeds three
  times the number of jugglers.
 * **feast**. A pattern having only feeders, usually arranged in a circle.
@@ -225,22 +220,25 @@ the end of the chapter fyi.  We use whatever seems to make sense to us at the mo
 * **immaculate assumption**.
   When you think that a juggler is about to move or pass...maybe they even give
   you the look...you know, the **look**...but then they don't!
-* **inverted.** A moving convention in the weave: forward-on-the-end/backd-through-the-middle
+* **inverted.** A moving convention in the weave: forward-on-the-end/back-through-the-middle
 * **I blame society**. An excuse for some juggling failure (usually by Mel).
 * **last jugglers' try**. The last attept at a pattern, but only if it goes well enough.
 * **leader**. One who calls out, *jugglers ready: up, down, ...* at the beginning of a pattern. 
 * **Mel catch**.  The act of catching the fat end after a 2.5 triple up.
 * **Mr. Inside/Mr. Outside**.  The two feeding positions of a doubly-fed weave.
-* **mustard**.  Energy, power, spice, velocity or chi added to throws. As in, your corner
-  passes need more mustard. The opposite of mustard is mayonnaise.
+* **mustard**.  Energy, power, spice, velocity or chi added to throws. As in, "Your corner
+  passes need more mustard." Also, crispy. The opposite of mustard is mayonnaise. 
 * **NFP**.  Nice Pass.
 * **No, this is a club**. Said while pointing to a juggling club and talking to a curious 
  passer-by who asks about the group, "Is this a club?".
 * **olive**. In a stacked, sandwich-style pattern, a single feeder on one side of the pattern.
+* **orbiter**. A juggler who orbits a standard moving pattern and passes to others on 
+some of their would-be self throws. 
 * **phantom**.
   A feedee place holder who isn't really there. A feeder, for example, may feed
   2 real feeders and a phantom in a sweep feed: pass-pass-self-pass and repeat.
 * **plus**.  A suffix added to indicate an extra club added to the base pattern.
+* **post**. A stationary orbiter.
 * **preverted.** A moving convention in the weave: back-on-the-end/forward-through-the-middle.
 * **run it**.  Continue juggling for an indefinite number of cycles.
 * **scheisse**.  An utterance of frustration, possibly by Dan Schuchnect. 
@@ -255,7 +253,7 @@ the end of the chapter fyi.  We use whatever seems to make sense to us at the mo
 * **triple up**.  The showy last action in a pattern, after the hup, in which each
  juggler lofts a triple self. 
 * **ultimate**. 1-count
-* **Walk it through**.  To perform a slow-motion instance of a pattern, with juggling replaced by the holding of 
+* **walk it through**.  To perform a slow-motion instance of a pattern, with juggling replaced by the holding of 
  clubs, with passes replaced by pointing to where you would pass, and following a slow, deliberate count by the
  leader. Done while setting up a pattern in order for jugglers to figure out what the hell they are supposed to do.
 * **weave**. A most popular moving pattern with three feedees and a feeder, which is the basis of many multi-person patterns.  The 3 feedees move in a figure 8 while juggling. 
@@ -268,8 +266,8 @@ first feeds the line in sequence, and then returns in reverse order.  Windshield
   my catching hand!"
 * **You herniated my ZOC.** Said if a pass forced extension and excessive effort in the catching.
 * **ZOC**.
-  Zone of Catchability. The volume near a passer where they can catch
-  passes with high probability. Peter Kaseman has the largest ZOC in Madison.
+  Zone of Catchability. The volume near a juggler in which successful catches are probable.
+ Peter Kaseman has the largest ZOC in Madison.
 * **ZOOS**. (sounds like the Greek god Zeus)  Zone of occupied space.   Space occupied by a moving juggler.
 
 ## Random Tips on Passing Patterns
@@ -283,8 +281,7 @@ first feeds the line in sequence, and then returns in reverse order.  Windshield
 * **Juggle slow, move fast**. You get it. There's a tendency to speed up
  your juggling when you move. Don't.
 * **Juggling means never having to say you're sorry**
-    No, really.  Don't say you're sorry unless you draw blood.  (However, if you draw blood then you do have to say you're sorry.)  
-    Beginners often apologize profusely for their lack of skill. It's ok! We
+    No, really.  Don't say you're sorry unless you draw blood.  (However, if you draw blood then you do have to say you're sorry.)  Beginners often apologize profusely for their lack of skill. It's ok! We
     already know you're a beginner. But we like passing with other people and
     passing with beginners too. You'll get better soon and the best way is with
     lots of passing! If people want to do a hard pattern that is too advanced
@@ -313,9 +310,12 @@ Make sure all the passes of the same spin go to the same height.
 For many patterns, selecting a juggler to count out loud as a metronome can be
 very helpful.
 
-**TBD: what is the MAJ timing...**
+And follow the leader!
 
-Follow the leader!
+**MAJ timing:** We estimate 0.9 seconds per right hand beat for no-extra-club passing.
+This is a little slower than at most North American sites and a little faster than 
+ at some European sites!
+
 
 ### Leads
 The second most important skill is for the passer to lead the catcher in the
@@ -378,7 +378,7 @@ do a lot of the 7 and 8 club based passing patterns.
 We're occasionally asked at juggling conventions, where do you come up with all
 these patterns? Actually, they sort of make themselves once you invite the
 opportunity. Here are some tips on how to make new passing patterns and have fun
-doing it.
+doing it.  We discuss some other pattern generation techniques in Chapter 12.
 
 ### Mutate
 
@@ -455,37 +455,20 @@ We also use tape on the floor to mark movements or passing lanes to keep it clea
 
 
 
-## The guts of this book: the patterns
-
-If you're thinking to provide some updates at the Github site, note that there are 
-separate markdown files for each chapter:
-
-* [Three Person Patterns](02_three_person_patterns.md)
-* [Four Person Patterns](03_four_person_patterns.md)
-* [Five Person Patterns](04_five_person_patterns.md)
-* [Six Person Patterns](05_six_person_patterns.md)
-* [Seven Person Patterns](06_seven_person_patterns.md)
-* [Eight Person Patterns](07_eight_person_patterns.md)
-* [Nine Person Patterns](08_nine_person_patterns.md)
-* [Ten Person Patterns](09_ten_person_patterns.md)
-* [Big Patterns (11+ people)](10_big_patterns.md)
-
-## More stuff about patterns: the appendices
-* [Appendix A: 7 Club Patterns and Variations](11_appendix_a_7clubs.md)
-* [Appendix B: Dual Passing Patterns](12_appendix_b_dual_passing.md)
-* [Appendix C: Gandini Siteswap Weaves](13_appendix_c_gandini_weaves.md)
-* [Appendix D: Seven Club Two-Count Exposed](14_appendix_d_7club2ct.md)
-* [Appendix E: Synchronous Passing](15_appendix_e_synchronous_passing.md)
-* [Appendix F: Passing 43](16_appendix_f_passing_43.md)
-
-
 ## Internet Passing Resources
+
+The world of juggling has many contributors and
+contributions that we have failed to identify in this collection. 
+Some important ones are:
+
+
+* [Flying Karamozov Brothers](http://www.fkb.com/)
+* [Gandini Juggling Project](http://www.gandinijuggling.com/)
 * [Martin Frost's Youtube channel](https://www.youtube.com/user/elgra2)
 * [JiBe's passingDB site](https://www.passingdb.com/)
 * [International Juggling Association site](http://www.juggle.org)
 * [Will Murray's site](http://www.csulb.edu/~wmurray/)
 * [Mark Weston's passing collection](http://www.varietyartsdirectory.com/resources/PassingPatternsAug06.pdf)
-* [Gandini Juggling Project](http://www.gandinijuggling.com/)
 
 
 ## Version History
@@ -495,3 +478,9 @@ separate markdown files for each chapter:
 * Madison, Wisconsin, March 2001 Version 1.2
 * Madison, Wisconsin, January 2012 Version 2.0
 * Madison, Wisconsin, January 2018 Version 3.0
+
+
+Like all earlier versions, the current Version 3.0 contains mistakes and
+unfortunate omissions, which we have yet to discover and 
+ for which the Editor's take responsibility.   We hope
+that  future versions will correct these shortcomings.

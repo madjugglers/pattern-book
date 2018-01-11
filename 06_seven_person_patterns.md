@@ -99,38 +99,49 @@ pattern.
 
 ## Broken Hearted Blast
 
-Using the same passing table as above, change the movement. Instead of a **W**, go behind the feeder
-line after you make your second *inside* pass, and thus as you go into your 12 count.  
- **figure showing broken heart compared to W**
+Using the same passing table as above, change the movement. Instead of a **W**, go behind the feeder line after you make your second *inside* pass, and thus as you go into your 12 count.  We convinced ourselves that the long motion past the feeders and back looks like half of
+a heart-shape. Taking into account the stagger needed to let another juggler pass in front gave us the name!   
 
+## Wonky Benzene Ring
 
-## Twister 5 
+Refer ahead to the original, 8-person, Benzene Ring.   Drop one mover, leaving 5 movers, 
+and retain 2 feeders.  One feeder feeds 4 spots and the other feeder feeds 3 spots.  The feedees do 4 count on the side that has 3 spots and 6 count for the side that has 4 spots.  You start your new count as soon as you turn (only one right handed self after you finish on the side with 4 spots).
+
+Pattern by Peter Kaseman.
+
+## Twister-5's 
+
+These arise from the 6-person Gandini-5 Weave by adding a second feeder (*hand*) on the oppossite side of the pattern (and thus defying gravity!).
+
+### Original Twister-5
 
 |            |            |
 |------------|------------|
 | ![](./media/image103.jpeg){width=30%} | ![](./media/twister5table.png){width=55%} |
-| positions                                       |    Right-hand counting, or other |
+| positions                                       |    Right-hand counting |
 
 
-**Variations:**
+**Variations:**  Add passes, clubs, or change the count.
 
 ### Double Time Twister 5
 
 The feeders pass twice in a row to each feeder.
 
-### Twister 5 Plus
+### Twister-5 Plus
 
 Add an extra club over the top with X and Y passing 7 club 4-count on their self throws.
+This was a Mad-5 favorite one year; we performed it at the Cascade of Stars in the 2000 IJA Festival.
 
-### Twister 5 7/8-Count
+
+### Twister-5 7-then-8-Count
 
 The feeders throw 3-count and the weavers pass 7 count on one leg, and 8 count on the other.
 
-### Twister 5 5-Count
+### Twister-5 5-Count
 
 X throws 2-count right handed. Y throws 2-count left handed. The weavers do 5-count. Fun!
 
-### Twister 5 Sandwich
+### Twister-5 Sandwich
 
 Like the Twister Sandwich in 9 Person Patterns, you can replace one or both of the feeders with a 3 person weave (or any other weave, really). To make it more interesting, try a double time weave where each weaver passes twice to the other weave.
 
@@ -231,13 +242,10 @@ the middle.
 
 Pattern by MAJ.
 
-## 2-5 Foie Graham
+## 2-5 or 1-5-1 Foie Graham
   
- ** insert **
+ Refer to the 8-person 3-5 Foie Graham and the variations that drop one juggler.
 
-## 1-5-1 Foie Graham
-
- ** insert **
 
 ## Big Mangled Squirrel
 
