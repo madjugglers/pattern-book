@@ -1,5 +1,7 @@
+SHELL=/bin/bash -O extglob -c
 
 pdf: *.md
+	
 	mkdir -p build
 	pandoc --toc \
 				 -s \
@@ -12,7 +14,7 @@ pdf: *.md
 				 -V links-as-notes=True \
 				 -f markdown \
 				 -t latex \
-				 *.md \
+				 !(*README).md \
 				 -o build/majbook.pdf
 clean:
 	rm -rf build
