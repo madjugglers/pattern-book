@@ -9,7 +9,6 @@ site](http://madjugglers.com/Madison%20Pattern%20Book).
 
 Dependencies
 ------------
-* BASH
 * make
 * R
 * Pandoc
@@ -21,7 +20,7 @@ How to Build Locally
 To build locally, do:
 
 1. Clone/download this repository.
-2. Open a BASH terminal and navigate to the repository parent directory.
+2. Open a terminal and navigate to the repository parent directory.
 3. Run `make`.
 
 If there were any changes since the last build, a new pdf will

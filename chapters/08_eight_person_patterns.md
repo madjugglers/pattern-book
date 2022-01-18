@@ -1,4 +1,4 @@
-#  8 Person Patterns
+# 8-Person Patterns
 
 
 ## Feast

@@ -1,4 +1,4 @@
-# 6 Person Patterns
+# 6-Person Patterns
 
 ## 1-2-3 Apollo 
 

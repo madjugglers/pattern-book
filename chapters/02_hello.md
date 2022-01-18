@@ -36,7 +36,7 @@ In 2015 Matt Hemke and Evan Driscol  created a Github repository for the project
 Melonhead have been recording the patterns we do at  Thursday and Sunday MAJ practices.  It's
 an amazing collection, and for those who remember the code words, like  *1-5-1 Foie Graham* or *4-5 Twister*, it's enough
 to figure out what we really did.  But most of us forget the code words after a while,
-except for the frequently juggled ones, and this has been an impetus for this Version 3.0
+except for the frequently juggled ones, and this has been an impetus for  Version 3.0
 update by Mike Newton.  All along the editors have had 
 substantial input from the Madison Area Jugglers and friends, and we are indebted 
 to them for helping enhance this collection.  Club passing
@@ -45,6 +45,11 @@ these patterns are inspired by other jugglers and patterns or created in
 collaboration with other jugglers. We hope that these patterns will help
 inspire new club passing ideas and help more jugglers all over the world enjoy
 club passing!
+
+
+Since Version 3.0 in 2018, we've all suffered through two years of COVID restrictions and two lost Madfests.   But
+we kept juggling, and add some of our new favorites in this Version 3.1.
+
 
 ## How To Read Patterns
 
@@ -453,9 +458,10 @@ Some important ones are:
 * Madison, Wisconsin, March 2001 Version 1.2
 * Madison, Wisconsin, January 2012 Version 2.0
 * Madison, Wisconsin, January 2018 Version 3.0
+* Madison, Wisconsin, February 2022 Version 3.1
 
 
-Like all earlier versions, the current Version 3.0 contains mistakes and
+Like all earlier versions, the current Version 3.1 contains mistakes and
 unfortunate omissions, which we have yet to discover and 
  for which the Editor's take responsibility.   We hope
 that  future versions will correct these shortcomings.

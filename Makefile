@@ -1,5 +1,3 @@
-SHELL=/bin/bash -O extglob -c
-
 pdf: *.md
 	
 	mkdir -p build
@@ -16,7 +14,8 @@ pdf: *.md
 				 -V links-as-notes=True \
 				 -f markdown \
 				 -t latex \
-				 !(*README).md \
+				 chapters/*.md \
+				 appendices/*.md \
 				 -o build/majbook.pdf
 clean:
 	rm -rf build

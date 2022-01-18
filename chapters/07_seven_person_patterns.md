@@ -1,4 +1,4 @@
-# 7 Person Patterns
+# 7-Person Patterns
 
 Here are some  easy stationary patterns for a group of seven.
 
