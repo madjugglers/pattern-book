@@ -1,0 +1,10 @@
+
+April 15, 2022
+
+Takes 72 passing beats to return to starting state
+The handle only touches 6 out of the 15 clubs
+Made possible by the 2 6-count passes each beater person does (In passing counts that are multiples of 3, the club you catch is the club you throw next) 
+The other 9 clubs are shifted around the beaters
+As such, there are 2 closed circuits of clubs
+Handle circuit which has a period of 24 passing beats
+Beater circuit which has a period of 72 passing beats
