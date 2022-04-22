@@ -1,7 +1,8 @@
 
 pdf: *.md
 	mkdir -p build
-	pandoc --toc \
+	pandoc 			 --toc \
+				 --columns=300 \
 				 -s \
 				 --template=pdf/template.tex \
 				 -V title="Madison Area Jugglers' Pattern Book" \
