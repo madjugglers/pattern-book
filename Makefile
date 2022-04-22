@@ -12,4 +12,7 @@ pdf: *.md
 				 -V links-as-notes=True \
 				 -f markdown \
 				 -t latex \
-				 *.md  \
+				 *.md \
+				 -o build/majbook.pdf
+clean:
+	rm -rf build
