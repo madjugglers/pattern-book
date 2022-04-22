@@ -1,4 +1,4 @@
-# Hello Madison Club Passers and Friends!
+# Hello Club Passers and Friends!
 
 Welcome to the *Madison Area Jugglers' Pattern Book*, a collection of patterns
 for intermediate to advanced passers. These patterns are part of our juggling repertoire.
@@ -12,7 +12,7 @@ how we did the pattern last time. (Don't worry...there's still plenty of
 arguing, even with the book.) We were pleasantly surprised to find other people
 found our book helpful too! The pattern book can be used as a club passing
 guide or just a library of the patterns that we originated or find interesting.
-If you're from Madison, then it's a handbook to what we do twice a week on
+If you're from Madison, then it's a handbook to what we do twice a week, on
 Thursdays and Sundays, and if you don't know the patterns already then you
 probably will. This book is not intended to be an encyclopedia of all possible
 passing patterns (that would be a big book)! In fact, we don't include patterns just because
@@ -23,21 +23,23 @@ The Madison Area Jugglers (MAJ) have been attempting, inventing, and
 recording juggling patterns for longer than most of us can remember. In 1997, when our memories were already getting strained by the variations, Mike
 Newton compiled our first *Pattern Catalogue* to record the patterns for four
 or more jugglers.
-This morphed into the first *Pattern Book* by January 1999, but the hand-written collection (*Version 0.1*) 
+This morphed into the first *Pattern Book* by him in January 1999, but the hand-written collection (*Version 0.1*) 
 was in a pretty limiting format.  By October of that year, Steve Otteson created the first computerized collection by 
 reformating and expanding Mike's hand-written notes.
  Melonhead still caries around a tattered printout of *Version 1.0.*
 Steve made a few version updates, for example adding a bunch of extra-club patterns by Peter Kaseman and Luke Emery; the unusual computer format of Steve's version and his departure from Madison  slowed down subsequent updates, even though the MAJ continued to create new patterns at a steady rate.  The next big contribution was Luke Emery's version (*Version 2.0*, 2012). Though it was not widely distributed, Luke's version
 contained all kinds of new additions: more patterns for all numbers of jugglers, more on site-swap, more
 on specialized extra-club patterns, and tips for creating and doing patterns.  
-In 2015 Matt Hemke and Evan Driscol  created a Github repository for the project, converted Luke's version into a repo, and updated the collection further. 
 
- Recently  Chan Wilson, Jeff Adamus, and
-Melonhead have been recording the patterns we do at  Thursday and Sunday MAJ practices.  It's
+In 2015 Matt Hemke and Evan Driscol  created a Github repository for the project, converted Luke's version into a repo, and updated the collection further.  Chan Wilson, Jeff Adamus, and
+Melonhead began tracking the patterns we do at  Thursday and Sunday MAJ practices.  It's
 an amazing collection, and for those who remember the code words, like  *1-5-1 Foie Graham* or *4-5 Twister*, it's enough
 to figure out what we really did.  But most of us forget the code words after a while,
-except for the frequently juggled ones, and this has been an impetus for  Version 3.0
-update by Mike Newton.  All along the editors have had 
+except for the frequently juggled ones, and this was impetus for the  Version 3.0
+update by Mike Newton in 2018.  Since then, we've suffered through two years of COVID restrictions and two lost Madfests.   But we kept juggling and discovered some cool new patterns that work well with face masks!  Nathan Nard's rejuvenating and inventive contributions have helped to launch this recent Version \majpatternbookversion.
+
+
+All along the editors have had 
 substantial input from the Madison Area Jugglers and friends, and we are indebted 
 to them for helping enhance this collection.  Club passing
 is a social pastime that needs a group of similarly inclined jugglers. Many of
@@ -46,9 +48,6 @@ collaboration with other jugglers. We hope that these patterns will help
 inspire new club passing ideas and help more jugglers all over the world enjoy
 club passing!
 
-
-Since Version 3.0 in 2018, we've all suffered through two years of COVID restrictions and two lost Madfests.   But
-we kept juggling, and add some of our new favorites in this Version 3.1.
 
 
 ## How To Read Patterns
@@ -69,8 +68,7 @@ there is an incredible  variety of fun patterns found by varying where jugglers 
 A basic passing descriptor is the *count*, which tells the juggler how frequently to make a pass. 
 In simple patterns each juggler's count is constant, but even simple patterns can be 
 very difficult on a fast count.  We say you are passing on an $m/n$-count if you make $n$ passes in
-a cycle of $m$ beats, counting on both hands.  
- For example, $2/1$-count means,  *pass-self*, then repeat.  When the
+a cycle of $m$ beats, counting on both hands.  For example, $2/1$-count means,  *pass-self*, then repeat.  When the
 denominator $n$ is 1 we just say $m$-count, as in the familiar 1-count, 2-count, 3-count, and so on. 
 Double-three count is a popular count, which in this notation is $3/2$-count.
  Stating the count does not necessarily imply what hands are doing what, how many clubs
@@ -181,6 +179,7 @@ hand).   There are a number of different site swap notations out there for passi
 * **chalant**.  To drop a perfectly fine pass due to lack of focus. The opposite of nonchalant.
 * **chocolate bar**. 
   pass--pass--self--self; a $4/2$-count.   By convention, this starts with the right-hand pass.
+* **colors**. The restriction that each juggler starts the pattern with a visually distinct (usually by color) set of clubs.
 * **cross**.  A left-to-left or right-to-right pass.
 * **cycle**. The  amount of juggling after which the pattern repeats.
 * **Doc Blanchard/Glenn Davis**. Mr. Inside/Mr. Outside.
@@ -451,17 +450,3 @@ Some important ones are:
 * [Mark Weston's passing collection](http://www.varietyartsdirectory.com/resources/PassingPatternsAug06.pdf)
 
 
-## Version History
-* Madison, Wisconsin, January 1999 Version 0.1
-* Madison, Wisconsin, October 1999 Version 1.0
-* Madison, Wisconsin, January 2001 Version 1.1
-* Madison, Wisconsin, March 2001 Version 1.2
-* Madison, Wisconsin, January 2012 Version 2.0
-* Madison, Wisconsin, January 2018 Version 3.0
-* Madison, Wisconsin, February 2022 Version 3.1
-
-
-Like all earlier versions, the current Version 3.1 contains mistakes and
-unfortunate omissions, which we have yet to discover and 
- for which the Editor's take responsibility.   We hope
-that  future versions will correct these shortcomings.

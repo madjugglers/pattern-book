@@ -181,6 +181,10 @@ $for(header-includes)$
 $header-includes$
 $endfor$
 
+$if(majpatternbookversion)$
+\newcommand{\majpatternbookversion}{$majpatternbookversion$}
+$endif$
+
 $if(subparagraph)$
 $else$
 % Redefines (sub)paragraphs to behave more like sections

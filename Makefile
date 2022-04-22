@@ -8,6 +8,7 @@ pdf: *.md
 				 -V title="Madison Area Jugglers' Pattern Book" \
 				 -V documentclass=book \
 				 -V subtitle="Version 3.1.01" \
+				 -V majpatternbookversion="3.1" \
 				 -V date="\today" \
 				 -V geometry="margin=1in" \
 				 -V fontsize=12pt \
