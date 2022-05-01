@@ -7,10 +7,11 @@ the coolest variation of the mating clovers from last chapter
 
 <i> talk about it ... </i>
 
+
 ![](./media/hexclover/pages/hc-1.pdf){width=100%}
-![](./media/hexclover/pages/hc-2.pdf){width=100%}
-![](./media/hexclover/pages/hc-3.pdf){width=100%}
 ![](./media/hexclover/pages/hc-4.pdf){width=100%}
+![](./media/hexclover/pages/hc-3.pdf){width=100%}
+
 ![](./media/hexclover/pages/hc-5.pdf){width=100%}
 ![](./media/hexclover/pages/hc-6.pdf){width=100%}
 ![](./media/hexclover/pages/hc-7.pdf){width=100%}
