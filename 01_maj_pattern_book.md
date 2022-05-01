@@ -35,8 +35,9 @@ these origins were unknown to us.  If we have erred in our attributions, please 
 ## What's New in Version 3.1
 
 Let's not talk about the mistakes and omissions 
-in Version 3.0, many of which have been repaired in the present document.  We have added a bunch of new patterns (e.g., laxatives, the pollinator, the zigzag, sneaky-snake, that's-a-really-good-one, fully-loaded-blast, Mel's-dream,...).  e.g., we included details of a super-fun 24-person hex-clover** At practices we've experimented a lot with <i> colors </i>, in which jugglers each start with a distinct set of clubs, 
-and we see how long it takes to move the colors around, and this version has some details on the substructure of a few of our cool patterns. .   *more of Steve's and Nick's patterns??*
+in Version 3.0, many of which have been repaired in the present document.  We have added a bunch of new patterns (e.g., laxatives, the pollinator, the zigzag, sneaky-snake, that's-a-really-good-one, fully-loaded-blast, Mel's-dream,...).  We added more on big patterns, including on the super-fun 24-person hex-of-clovers.  
+ At recent practices we've experimented a lot with <i> colors</i>, in which jugglers each start with a distinct set of clubs, 
+and we see how long it takes to move the colors around.  This version has some details on the substructure of a few of our cool patterns.    *more of Steve's and Nick's patterns??*
 
 Thanks to Jeff Adamus for posting YouTube recordings of a bunch of our patterns; we've
 added links *where* (Thanks to Jeremy, Jessie, and ? others for great camera work!) . *other animations?**  On formatting,  we've moved to 12pt font to reduce eye strain!  Like all earlier versions, the current Version 3.1 contains mistakes and unfortunate omissions, which we have yet to discover and
@@ -44,13 +45,22 @@ added links *where* (Thanks to Jeremy, Jessie, and ? others for great camera wor
 that  future versions will correct these shortcomings.
 
 
+## The Editors
+
+Michael Newton and the Madison Area Jugglers, especially: Jeff Adamus, Nick Aikens, Steve Clipson, Evan Driscol, Luke Emery, Matt Hemke, Peter Kaseman, Melonhead, Nathan Nard, Graham Paasch,  Steve Otteson,  and Chan Wilson.  
+
+You can be an editor too by working on the next  [version](https://github.com/wiscstatman/pattern-book)! 
+
+
+## The Madison Area Jugglers
+
+*Mark, please write an intro paragraph or two on the MAJ*
+
+
 ![](./media/majbanner.jpeg){width=99%} 
 
 
-
-
-
-# Hello Madison Club Passers and Friends!
+# Hello Club Passers and Friends!
 
 Welcome to the *Madison Area Jugglers' Pattern Book*, a collection of patterns
 for intermediate to advanced passers. These patterns are part of our juggling repertoire.
@@ -101,7 +111,6 @@ inspire new club passing ideas and help more jugglers all over the world enjoy
 club passing!
 
 
-**signatures of the mystery editors**
 
 ## How To Read Patterns
 

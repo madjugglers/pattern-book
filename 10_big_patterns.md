@@ -169,8 +169,12 @@ Pattern by Graham Paasch.  Juggled at 2013 Madfest. [Thanks Casey Rentmeester](h
 ## Mating Clovers
 
 There are lots of interesting options by mating clovers and possibly adding orbiters.
-We got a Box of Four Leaf Clovers, for 20 jugglers, working at a recent Pass Out (2017?). 
-We've practiced a mate pair of 4 leaf clovers with 2 orbiters (12). Orbiters stay in their clovers; others move between clovers. The standard configuration has one juggler per isolated leaf; two jugglers per overlapping leaf, and one in the middle of each clover **CHECK WITH MEL**.  Line up the start so that those sharing a leaf are counterparts in the two neighboring clovers.  Melonhead gave us the first mating clovers.
+Mel and a patient crew at Pass Out (2017) got a Box of Four Leaf Clovers working for 20 jugglers, 
+We've practiced a mate pair of 4 leaf clovers with 2 orbiters (12). Orbiters stay in their clovers; others move between clovers. The standard configuration has one juggler per isolated leaf; two jugglers per overlapping leaf, and one in the middle of each clover.  
+
+*two mating 4-leaf clover pics*
+
+**CHECK**Line up the start so that those sharing a leaf are counterparts in the two neighboring clovers.  Melonhead gave us the first mating clovers.
 
 
-The next chapter shows one of the favorite examples, which we did as the <i> big pattern </i> at both Madfest 2018 and Madfest 2019. It's a ring (in fact a hex) of 7 connected three-leaf clovers, for 24 jugglers!
+A magnificent expression of mating clovers is the hex-of-clovers, which we did as the <i> big pattern </i> at both Madfest 2018 and Madfest 2019. It's a ring (in fact a hex) of 7 connected three-leaf clovers, for 24 jugglers!

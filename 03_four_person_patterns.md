@@ -154,6 +154,7 @@ This is a variation of the box with 3 extra clubs and all right hand passes.
 
 This is a box pattern with a rotating feed for 4 jugglers and one extra club; both directions work.
 
+\footnotesize
 |             |        |        |       |        |        |       |        |        |       |        |        |        |
 |-------------|--------|--------|-------|--------|--------|-------|--------|--------|-------|--------|--------|--------|
 | **Juggler/beat** | **1**  | **2**  | **3** | **4**  | **5**  | **6** | **7**  | **8**  | **9** | **10** | **11** | **12** |
@@ -161,6 +162,7 @@ This is a box pattern with a rotating feed for 4 jugglers and one extra club; bo
 | **B**       | D-self | Pause  |       | D-D    |        | D-C   |        | D-self | Pause |        | D-D    |        |
 | **C**       |        | D-A    |       | D-self | Pause  |       | D-A    |        | D-D   |        | D-self | Pause  |
 | **D**       |        | D-self | Pause |        | D-B    |       | D-self | Pause  |       | D-B    |        | D-A    |
+\normalsize
 
 > * Both hands counting, all right hand throws are either double passes or double selves
 > * A starts with 4 clubs
@@ -227,6 +229,7 @@ In this version, movers go back and forth, passing 8-count.
 
 In this version, weavers move back and forth in an 6-count. This is a fun one.
 
+\footnotesize
 |             |        |       |       |        |       |       |       |        |       |        |        |        |        |        |
 |-------------|--------|-------|-------|--------|-------|-------|-------|--------|-------|--------|--------|--------|--------|--------|
 | **Juggler/beat** | **1**  | **2** | **3** | **4**  | **5** | **6** | **7** | **8**  | **9** | **10** | **11** | **12** | **13** | **14** |
@@ -234,6 +237,7 @@ In this version, weavers move back and forth in an 6-count. This is a fun one.
 | **B**       |        | D-A   |       | D-self | ½ P   |       |       |        | D-C   |        | D-self | ½ P    |        |        |
 | **C**       |        |       |       | D-A    |       |       |       | D-B    |       | D-A    |        | D-D    |        | D-A    |
 | **D**       | D-self | ½ P   |       |        |       | D-A   |       | D-self | ½ P   |        |        |        | D-C    |        |
+\normalsize
 
 > * Both hands counting, all passes are right handed
 > * A starts with right hand and 4 clubs
@@ -505,6 +509,7 @@ much harder) relation.
 All passes are right hand straight doubles. A right to left double self is
 required to keep the timing.
 
+\footnotesize
 | **Juggler/beat** | **1**    | **2**   | **3**    | **4**    | **5**   | **6**    | **7**   | **8**    | **9**   | **10**   | **11**   | **12**   |
 |-------------|----------|---------|----------|----------|---------|----------|---------|----------|---------|----------|----------|----------|
 | **A**       | D-D      |         | D-B      |          | D-B     |          | D-C     |          | D-C     |          | D-self   | Pause    |
@@ -521,6 +526,7 @@ required to keep the timing.
 | **B**       | D-self   | Pause   |          |          |         |          |         |          |         |          |          |          |
 | **C**       | D-D      |         | D-D      |          |         |          |         |          |         |          |          |          |
 | **D**       |          | D-C     |          | D-A      |         |          |         |          |         |          |          |          |
+\normalsize
 
 > * Both hands counting, right hand passes only
 > * A and C start with R
@@ -544,12 +550,14 @@ Pattern by Luke Emery, 2001.
 
 ### Hyper-Clover
 
+\footnotesize
 | **Juggler/beat** | **1** | **2**  | **3**  | **4** | **5**  | **6**  | **7** | **8**  | **9**  | **10** | **11** | **12** |
 |-------------|-------|--------|--------|-------|--------|--------|-------|--------|--------|--------|--------|--------|
 | **A**       |       | D-B    |        | D-C   |        | D-self | Pause |        | D-B    |        | D-self | Pause  |
 | **B**       | Pause |        | D-A    |       | D-self | Pause  |       | D-A    |        | D-D    |        | D-self |
 | **C**       |       | D-self | Pause  |       | D-D    |        | D-B   |        | D-self | Pause  |        | D-D    |
 | **D**       | D-A   |        | D-self | Pause |        | D-C    |       | D-self | Pause  |        | D-C    |        |
+\normalsize
 
 > * Both hands counting, all right hands are double passes or double selves
 > * A starts with left hand
@@ -860,6 +868,7 @@ It is a challenging pattern, but quite doable once passers master the 1-count
 feed and the 2 on 2 double 3-count box. And once you can juggle it, you can join
 the Madison elite group of Jugglers Who Can Do The El Nino.
 
+\footnotesize
 |             |         |         |         |         |         |         |         |         |         |          |          |          |          |          |          |          |
 |-------------|---------|---------|---------|---------|---------|---------|---------|---------|---------|----------|----------|----------|----------|----------|----------|----------|
 | **Juggler/beat** | **1**   | **2**   | **3**   | **4**   | **5**   | **6**   | **7**   | **8**   | **9**   | **10**   | **11**   | **12**   | **13**   | **14**   | **15**   | **16**   |
@@ -867,6 +876,7 @@ the Madison elite group of Jugglers Who Can Do The El Nino.
 | **B**       |         |         | A       |         | D       | A       | C       | D       |         | C        |          |          | D        |          |          | D        |
 | **C**       | A       |         |         | A       |         |         | B       |         | A       | B        | D        | A        |          | D        |          |          |
 | **D**       |         | A       |         |         | B       |         |         | B       |         |          | C        |          | B        | C        | A        | B        |
+\normalsize
 
 > * Both hands counting
 > * All jugglers start with left hands
@@ -977,6 +987,7 @@ positions in box two. Continue assigning 3 passes to each box. After the 4th
 box, you will be at the end of the table below. For the boxes 5 through 8, start
 again at the beginning of the table below.
 
+\footnotesize
 |             |         |         |         |          |          |          |          |          |          |          |          |          |          |          |          |          |
 |-------------|---------|---------|---------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
 | **Juggler/beat** | **1**   | **4**   | **7**   | **10**   | **13**   | **16**   | **19**   | **22**   | **25**   | **28**   | **31**   | **34**   | **37**   | **40**   | **43**   | **46**   |
@@ -984,6 +995,7 @@ again at the beginning of the table below.
 | **B**       | D       | C       | D       |          | D        | D        | D        |          | D        | C        | D        |          | C        | C        | C        |          |
 | **C**       | B       | A       | B       |          | A        | A        | A        |          | B        | A        | B        |          | B        | B        | B        |          |
 | **D**       | A       | B       | A       |          | B        | B        | B        |          | A        | B        | A        |          | A        | A        | A        |          |
+\normalsize
 
 Try the above in a 'pass, pass, self' pattern. Each box in the position table
 will have 6 passes before changing positions for the next box. This is a
@@ -1145,6 +1157,7 @@ After we learned Martin's Madness, we put 4 jugglers in the positions shown and
 tried to figure out if all 4 jugglers could be the feeder as in Martin's Madness
 at the same time. The pattern below is what we ended up with.
 
+\footnotesize
 | **Juggler/beat**       | **1**           | **2**           | **3**           | **4**           | **5**           | **6**           | **7**           | **8**           | **9**           | **10**          | **11**          | **12**          |
 |-------------------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|
 | **A<sub>l</sub>** | \*              | C<sub>r</sub>   |                 | s               |                 | D<sub>r</sub>   | s               |                 | D<sub>r</sub>   |                 | C<sub>r</sub>   |                 |
@@ -1155,6 +1168,7 @@ at the same time. The pattern below is what we ended up with.
 | **C<sub>r</sub>** | B<sub>r</sub>   |                 | s               |                 | A<sub>r</sub>   | s               |                 | A<sub>r</sub>   |                 | B<sub>r</sub>   |                 | \*              |
 | **D<sub>l</sub>** |                 | B<sub>l</sub>   |                 | \*              | B<sub>l</sub>   |                 | s               |                 | A<sub>l</sub>   | s               |                 | A<sub>l</sub>   |
 | **D<sub>r</sub>** | s               |                 | A<sub>r</sub>   | s               |                 | A<sub>r</sub>   |                 | B<sub>r</sub>   |                 | \*              | B<sub>r</sub>   |                 |
+\normalsize
 
 > * Legend: A<sub>l</sub> = left hand of A
 > * C<sub>r</sub> = right hand of C
@@ -1264,6 +1278,7 @@ C and D each throw 2 double passes to B in 4-count from the left position and
 then the right position, and then have 4 right hand counts to move around the
 back of the circle to the start.
 
+\footnotesize
 |             |       |       |       |       |       |       |       |       |       |        |        |        |        |        |        |        |
 |-------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|--------|--------|--------|--------|--------|--------|--------|
 | **Juggler/beat** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** | **11** | **12** | **13** | **14** | **15** | **16** |
@@ -1271,6 +1286,7 @@ back of the circle to the start.
 | **B**       |       | D-A   |       |       |       | D-A   |       |       |       | D-A    |        |        |        | D-A    |        |        |
 | **C**       | D-B   |       |       |       | D-B   |       |       |       |       |        |        |        |        |        |        |        |
 | **D**       |       |       |       |       |       |       |       |       | D-B   |        |        |        | D-B    |        |        |        |
+\normalsize
 
 > * Both hands counting – all passes with right-hand
 > * C starts with 4 clubs and right-hand

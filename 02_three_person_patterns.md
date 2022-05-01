@@ -369,11 +369,13 @@ All jugglers are in 3-count. Use the exact same pass sequence, but B (that's Pet
 
 Extra club version of Mel in the Middle, except in 4-count instead of 3-count. Inside person whirls with half pirouettes under doubles while outsides do popcorn. All passes are right handed.
 
+\footnotesize
 | **Juggler/beat** | **1** | **2**  | **3** | **4** | **5**  | **6** | **7**  | **8** | **9** | **10** | **11** | **12** | **13** | **14** |
 |-------------|-------|--------|-------|-------|--------|-------|--------|-------|-------|--------|--------|--------|--------|--------|
 | **A**       | D-C   |        | B     |       | D-C    |       | T-self |       | D-C   |        | D-C    |        | B      |        |
 | **B**       |       |        | A     |       | D-self | ½ P   |        | C     |       | D-self | ½ P    |        | A      |        |
 | **C**       |       | T-self |       | D-A   |        | D-A   |        | B     |       | D-A    |        | D-A    |        | T-self |
+\normalsize
 
 > * Both hands counting
 > * A starts with 4 clubs, right hand
@@ -496,11 +498,13 @@ opposite hand or by throwing an early triple pass and pausing for one beat. The
 diagram below shows the early triple, but experiment with whatever works best
 for you (some people think a right to left double is easier).
 
+\footnotesize
 | **Juggler/beat** | **1**   | **2**   | **3**   | **4**   | **5**   | **6**   | **7**   | **8**   | **9**   | **10**   | **11**   | **12**   | **13**   | **14**   |
 |-------------|---------|---------|---------|---------|---------|---------|---------|---------|---------|----------|----------|----------|----------|----------|
 | **A**       | D-B     |         | D-C     |         | D-C     |         |         |         | D-C     | Move     |          |          | T-B      | Pause    |
 | **B**       |         | D-A     | Move    |         |         | T-C     | Pause   |         |         |          | D-C      |          | D-A      |          |
 | **C**       |         |         |         | D-A     |         | D-B     |         | D-A     |         | D-B      |          | D-B      |          |          |
+\normalsize
 
 > * Both hands counting
 > * A starts with right hand.
@@ -540,11 +544,13 @@ does a half pirouette underneath a double right to left self throw, Then steps
 back to complete a single turbo transition. The table below has one complete
 transition.
 
+\footnotesize
 | **Juggler/beat** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8**  | **9** | **10** | **11** |
 |-------------|-------|-------|-------|-------|-------|-------|-------|--------|-------|--------|--------|
 | **A**       | D-B   |       | D-C   |       | D-B   |       | D-C   |        | D-C   |        |        |
 | **B**       |       | D-A   |       |       |       | D-A   |       | D-self |       |        | D-C    |
 | **C**       |       |       |       | D-A   |       |       |       | D-A    |       | D-B    |        |
+\normalsize
 
 > * Both hands counting
 > * A starts with R
