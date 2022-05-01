@@ -272,6 +272,9 @@ helpful when we start thinking about Fois-Graham and other complicated double we
 
 ![](./media/weavedetail.png){width=40%} 
 
+The weave is an old pattern.  For sure the Flying Karamazov Brothers were doing it the 1980's, and maybe earlier. 
+(Prof. Mike saw them at a show in Seattle in the late 80's, and became hooked on club juggling after that!).
+
 **Variations:**
 
 Oh, there are so many variations of the weave! The mind boggles. To start, try
