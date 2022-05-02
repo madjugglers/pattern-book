@@ -8,6 +8,7 @@ $if(linestretch)$
 \usepackage{setspace}
 \setstretch{$linestretch$}
 $endif$
+\usepackage{appendix}
 \usepackage{amssymb,amsmath}
 \usepackage{ifxetex,ifluatex}
 \usepackage{fixltx2e} % provides \textsubscript
@@ -179,6 +180,10 @@ $endif$
 $for(header-includes)$
 $header-includes$
 $endfor$
+
+$if(majpatternbookversion)$
+\newcommand{\majpatternbookversion}{$majpatternbookversion$}
+$endif$
 
 $if(subparagraph)$
 $else$
