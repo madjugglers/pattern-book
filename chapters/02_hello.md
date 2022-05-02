@@ -1,6 +1,6 @@
 # Hello Club Passers and Friends!
 
-Welcome to the *Madison Area Jugglers' Pattern Book*, a collection of patterns
+Welcome to the *Madison Area Jugglers' Pattern Book*, a collection of club-passing patterns
 for intermediate to advanced passers. These patterns are part of our juggling repertoire.
 Many we learned or adapted from other jugglers; we include them  because 
 it's fun trying to juggle them.  But very many of the patterns in this book
