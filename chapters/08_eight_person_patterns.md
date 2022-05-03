@@ -151,5 +151,5 @@ in which A=Mark, B=Conner, C=Mel, D=Jeff, E=Chan, X=Graham, Y=Mike, Z=Peter.  As
 
 Refer to the 4-person  Three Leaf Clover (standard).   Make two copies that overlap
 along one leaf, and start out juggling within clover as normal. But whenever you
-and your enter  the special leaf you transition into the other clover.  
+and your counterpart enter  the special leaf you transition into the other clover. 
 
