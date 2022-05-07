@@ -386,14 +386,21 @@ your ZOC.
 
 Pattern by Mike Newton.
 
-### It's a Good One
+### That's a Good One
 
 For a count challenge with no extra clubs, but in the standard weave formation,
 the Feeder (A) passes 2 count, twice in a row to each feedee on each side. Feedees 
 (B,C, D) throw: 2 throws of 2-count, 3-count transition, left-handed 4-count, 3-count transition, and repeat on other side. Set up with A facing B, C, D, with C in the middle,
-moving forward and to the left.
+moving forward and to the left. (Also called, *It's a good one*)
 
 ![](./media/goodone.png){width=70%}
+
+### That's a Really Good One
+
+This is a challenging, no-extra-club moving pattern.  It starts in the same set up as *That's a Good One*, but the feeder also gets to move.  In the favored version, every weaver coming into the middle from the right (i.e., weaver's right; feeder's left) passes to the feeder and then moves into the feeder position to become the (temporary) feeder, completing a 1/2 turn in order to face the weavers.  Meanwhile,
+ the former feeder vacates the feeding position and continues to the (weaver) left, the destinaton of the person
+who he/she just exchanged with, had they not swapped spots.   You find in running this that the maneuver into and out of the feed entails a series of 6 2-count passes in a row while moving in a tight circle.  It's pretty fun! (sorted out by MIke, Steve C, Mel, and Conor on Dec 13, 2018). (btw, the pattern degenerates if you try to swap from both
+sides of the weave).
 
 
 

@@ -620,6 +620,9 @@ pattern that matches that count (including three other jugglers doing a 2$\pi$/3
 
 ![](./media/twopionthree.png){width=90%}
 
+## Laxative 
+
+...details...
 
 ## Up-Up-Over
 

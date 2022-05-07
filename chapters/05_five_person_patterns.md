@@ -105,7 +105,7 @@ people but are L-R-L.
 
 Pattern by Steve Otteson and MAJ. Performed by Mad-5+1 at 1999 Madfest.
 
-### Semi-Sweet Chocolate 3-Count Feed 
+### Semi-Sweet Chocolate 3-Count Feed  (The New One)
 
 As far as the number of passes made by A and B go,the Semi-Sweet pattern is in between the Chocolate Bar and the Double Chocolate Bar patterns. Also uses the 2-facing-3 or wedgee positions.
 
@@ -798,7 +798,7 @@ being hard, both to remember and to juggle.  The table shows a single transition
 |                                        |                          |
 |------------|------------|
 | ![](./media/2on3positions.png){width=22%} | ![](./media/chocolateswirltable.png){width=60%} |
-| positions                                       |    Right-hand counting |
+| positions                                       |    Both-hands counting |
 |                                          |  Right hand starts |
 
 
