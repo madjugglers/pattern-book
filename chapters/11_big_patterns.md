@@ -184,13 +184,14 @@ Melonhead gave us the first mating clovers.
 
 ## Hex of Clovers
 
-A magnificent expression of mating clovers is the hex-of-clovers, which we did as the <i> big pattern </i> at both Madfest 2018 and Madfest 2019. It's a ring (in fact a hex) of 7 connected three-leaf clovers, for 24 jugglers!
-Like the box of 4 4-leaf clovers, this ring of 7 3-leaf clovers has everyone doing their own local cycle, this time
+A magnificent expression of mating clovers is the hex-of-clovers, which we did as the <i> big pattern </i> at both Madfest 2018 and Madfest 2019. It's a ring (in fact a hex) of 6 connected three-leaf clovers, for 24 jugglers!
+Like the box of 4 4-leaf clovers, this ring of 6 3-leaf clovers has everyone doing their own local cycle, this time
 it's a bit shorter at 8 passing beats (possibly on 6-count, better at 4-count), and involves a feed of three followed by two-in, pass, and two-out.  
-There are two distinct roles, interestingly, with a minority of the jugglers (homework: how many?) doing a counter-clockwise circle, and threst doing a loop-de-loop clockwise.  It actually works!!
+There are two distinct roles, interestingly, with a minority of the jugglers (homework: how many?) doing a counter-clockwise circle, and the rest doing a loop-de-loop clockwise.  It actually works!!
+
+![](./media/hexclover/pages/hc-1.pdf){width=80%}
 
 
-![](./media/hexclover/pages/hc-1.pdf){width=100%}
 ![](./media/hexclover/pages/hc-4.pdf){width=100%}
 ![](./media/hexclover/pages/hc-3.pdf){width=100%}
 

@@ -622,7 +622,15 @@ pattern that matches that count (including three other jugglers doing a 2$\pi$/3
 
 ## Laxative 
 
-...details...
+This one makes you *go go go*, hence the name.   It's dynamic, simply-structured  3-person moving pattern, in which
+everyone is synced up and passing on the same odd count.  Because of the constant movement, 
+the to-from passes never change.  Referring to the figure, red (a) always passes to green (c), who always passes to blue (b), who always
+	passes to red.  The movement and the odd-count allows that all these passes are inside-triangle passes.
+We usually do this on 7-count, which allows plenty of time to move; 5-count also works well; 3-count is still a dream!  Notice there are 6 total passing beats, during which each juggler traverses the 6 positions, though the *local* cycle is three beats.   Those movements entail crossing between the other two jugglers (which goes in turn $a$ then $b$ then $c$), and then moving along the edges of the hexagon (either twice to left or twice to the right), in order to make space for the next mover.   
+
+![](./media/laxative/3j.png){width=85%}
+
+Pattern by Mike, sometime after 2018.  Frequently juggled by Mike (c), Mel (b), Conor (a) or Mike (c), Mel (b), Nathan (a).
 
 ## Up-Up-Over
 
