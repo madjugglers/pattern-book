@@ -531,6 +531,7 @@ The turns may be done by turning towards the inside or towards the outside. Most
 
 > * Both hands counting, all passes right hands
 > * [Animation](http://juggloid.com/editor/?s=sU0PC0).
+> * [Watch SJRI](https://www.youtube.com/watch?v=hmP4aZVFGJc)
 
 Here are some other twister weaves with the feeders in different counts. They
 get progressively trickier, so get ready! 
