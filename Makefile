@@ -4,7 +4,7 @@ pdf: *.md
 	pandoc 			 --toc \
 				 --columns=300 \
 				 -s \
-				 --template=pdf/template.tex \
+				 --template=qdf/template.tex \
 				 -V title="Madison Area Jugglers' Pattern Book" \
 				 -V documentclass=book \
 				 -V subtitle="Version 3.1.01" \

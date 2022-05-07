@@ -166,31 +166,28 @@ Pattern by Graham Paasch.  Juggled at 2013 Madfest. [Thanks Casey Rentmeester](h
  ![](./media/MadfestBigPatternScalableBy4.jpg){width=100%}
 
 
-## Mating Clovers
+## Box of Mating 4-Leaf Clovers
 
 There are lots of interesting options by mating clovers and possibly adding orbiters.
-Mel and a patient crew at Pass Out (2017) got a Box of Four Leaf Clovers working for 20 jugglers, 
-We've practiced a mate pair of 4 leaf clovers with 2 orbiters (12). Orbiters stay in their clovers; others move between clovers. The standard configuration has one juggler per isolated leaf; two jugglers per overlapping leaf, and one in the middle of each clover.  
+Mel and a patient crew at Pass Out (2017) got a Box of Four Leaf Clovers working for 20 jugglers (see below). 
+We've also practiced a mate pair of 4 leaf clovers with 2 orbiters (12). Orbiters stay in their clovers; others move between clovers. The standard configuration has one juggler per isolated leaf; two jugglers per overlapping leaf, and one in the middle of each clover.  
 
 
-Refer back to regular 5-person 4-leaf clover for basic rule.  On standard count, each person does *pass-pass-pass-self-self-pass-self-self-self-self*, the 2-in-4-out maneuver, with moving on the 2-in.  Notice in the figure below that the four clovers overlap on four leaf-pairs.  It could be a bit crowded, since each leaf has a juggler, and there's always someone in the middle pushing into the next leaf.   Colors indicate the four separate clovers-worth of jugglers.   It's set up like in the standard, with D starting the feed, to C, then E, then A, and with B starting in the middle and pushing E into the next position.   It's curious with the 4 mating 4-leaf-clovers that five jugglers,
-$D_1$, $A_3$, $B_3$, $E_4$, and $C_2$, are moving in a counter-clockwise circle, while all the other jugglers follow a different path, doing a loop-de-loop clockwise pattern, that touches all the non-overlapping leaves.
+Refer back to regular 5-person 4-leaf clover for basic rule.  On a standard count, each person does *pass-pass-pass-self-self-pass-self-self-self-self*, the 2-in-4-out maneuver, with moving on the 2-in and the 4-out (jugglers are offset in this 10-beat cycle).  Notice in the figure below that the four clovers overlap on four leaf-pairs.  It could be a bit crowded, since each leaf has a juggler, and there's always someone in the middle pushing into the next leaf.   Colors indicate the four separate clovers-worth of jugglers.   It's set up like in the standard, with D starting the feed, to C, then E, then A, and with B starting in the middle and pushing E into the next position.   It's curious with the 4 mating 4-leaf-clovers that five jugglers,
+$D_1$, $A_3$, $B_3$, $E_4$, and $C_2$, are moving in a counter-clockwise circle, while all the other jugglers follow a different path, doing a loop-de-loop clockwise pattern, that touches all the non-overlapping leaves.  It may also
+help to notice, for example, that a $B$ always chases an $E$ (always the same one), likewise E chases C, C chases D, D chases A, and A chases B.
 
- ![](./media/mating4leaf.001.jpg){width=100%}
+ ![](./media/mating4leaf.001.jpeg){width=100%}
 
 Melonhead gave us the first mating clovers.
 
 
+## Hex of Clovers
+
 A magnificent expression of mating clovers is the hex-of-clovers, which we did as the <i> big pattern </i> at both Madfest 2018 and Madfest 2019. It's a ring (in fact a hex) of 7 connected three-leaf clovers, for 24 jugglers!
-
-## Hex of Clover
-
-
-performed at two madfests...
-
-the coolest variation of the mating clovers from last chapter
-
-<i> talk about it ... </i>
+Like the box of 4 4-leaf clovers, this ring of 7 3-leaf clovers has everyone doing their own local cycle, this time
+it's a bit shorter at 8 passing beats (possibly on 6-count, better at 4-count), and involves a feed of three followed by two-in, pass, and two-out.  
+There are two distinct roles, interestingly, with a minority of the jugglers (homework: how many?) doing a counter-clockwise circle, and threst doing a loop-de-loop clockwise.  It actually works!!
 
 
 ![](./media/hexclover/pages/hc-1.pdf){width=100%}
