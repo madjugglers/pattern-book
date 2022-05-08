@@ -503,7 +503,20 @@ The Run Over Clover is the same pattern (as the standard clover)  with some of t
 
 ![](./media/image12.jpeg)
 
+
+Notice that the movers now do *1-in-1-out* in this clover, compared to the *2-in-2-out* in the standard 3-leaf
+clover.   We conceived this as a 2-count pattern, but we find it's great to learn on a slower 3 or 4 count.
+
+> * [Watch the 3-count run-over-clover with colors](https://www.youtube.com/watch?v=bJLnODIlHMI)
+
 Created in 2001 by Mike Newton and the MAJ.
+
+### Zero in Zero Out (ZIZO) Clover
+
+As above, but now just get rid of that one self, which takes some contortion to manage!   We've done it most-successfully on a 5-count, in which case all your lefts go to the same person, and your rights alternate.  We sometimes call this the *zigzag*
+
+> * [link the ZIZO video] 
+> * [See the piano role]
 
 ### Extra-Club Three Leaf Clover
 
@@ -939,22 +952,15 @@ center of the pattern when you make your change-side, as in the Turbo.  It might
 not be theoretically possible in 1-count (the rate for El-Nino), so we usually
 do it in 2 count (right-handed).   The pattern has 16 passing beats, and we
 usually count it 1-2-3-4 four times; each set corresponds to one person being
-the feeder. For example, in the figure below, the red juggler starts as the feeder.  Notice, that beats 1 and 4 of each feed go to the same feedee.  
-  You'll notice that the pattern is *chiral*, as we say, which means that it has a specific orientation; a backwards version would be different. In the figure, for example, movement through the middle always goes left to right.   
-
+the feeder. For example, in the figure below, the red juggler starts as the feeder.  Notice, that beats 1 and 4 of each feed go to the same feedee.  You'll also notice that the pattern is *chiral*, as we say, which means that it has a specific orientation; a backwards version would be different. In the figure, for example, movement through the middle always goes left to right.   
 
 ![](./media/el-turbo.jpg){width=70%}
 
+>  * [Watch the 3-count El Turbo with colors](https://www.youtube.com/watch?v=5ORfAzSpCcU)
+
 **Variations:**
 There are opportunities in El Turbo for 
- extra passes (compared to El Nino) that have become available owing to the crossing of jugglers.  These extra passes are noted with dashed grey lines in the figure above.   Of course they're not required, but they're cool.  There are also opportunities to pass to stationary jugglers on the left or right side of the pattern, making it a 5 or 6 person variant.  These extra jugglers pass 4 count; we
-set the one on the right doing even beats:  pass to pink on beat 2,
- green on beat 4, blue on 6, and red on 8 [i.e. after they come through the
-middle]. Then the passer on the left picks up the odd extra beats (e.g. green
-on 1, blue on 3, red on 5).  Notice the left passer does two passes to one
-side of the El Turbo and then two to the other side, all on 4 count.
-Since the two stationary extra players are on alternating 4 counts they can
-add an extra club triple over the top to each other. We tried this extra-club once but it didn't really work!!
+ extra passes (compared to El Nino) that have become available owing to the crossing of jugglers.  These extra passes are noted with dashed grey lines in the figure above.   Of course they're not required, but they're cool.  There are also opportunities to pass to stationary jugglers on the left or right side of the pattern, making it a 5 or 6 person variant.  These extra jugglers pass 4 count; we set the one on the right doing even beats:  pass to pink on beat 2, green on beat 4, blue on 6, and red on 8 [i.e. after they come through the middle]. Then the passer on the left picks up the odd extra beats (e.g. green on 1, blue on 3, red on 5).  Notice the left passer does two passes to one side of the El Turbo and then two to the other side, all on 4 count.  Since the two stationary extra players are on alternating 4 counts they can add an extra club triple over the top to each other. We tried this extra-club once but it didn't really work!!
 
 
 ## Tomahawk

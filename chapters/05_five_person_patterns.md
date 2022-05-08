@@ -771,6 +771,8 @@ whole pattern takes 40 rights to complete.
 
 It's fun to try different counts, such as on a 3-count base instead of a 2-count base.
 
+> * [Watch the 4-leaf clover on 3-count](https://www.youtube.com/watch?v=ikqU-CTVB9o)
+
 
 See all of those self throws? Well, you can fill some of them in by adding another pass on every beat.
 
@@ -1054,6 +1056,7 @@ either. (Melonhead says he still likes it...)
 Now that it's a part of the MAJ mythology though, we can't take it out of the
 pattern book. Maybe you should try it for yourself and see what you think!
 
+\footnotesize
 | **Juggler/beat** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** | **11** | **12** | **13** | **14** | **15** | **16** | **17** | **18** | **19** | **20** |
 |-------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
 | **A**       | E     | C     | C     |       |       | D     | D     | B     | B     | C      |        | B      | B      | D      | C      | E      | E      |        | D      | E      |
@@ -1061,6 +1064,7 @@ pattern book. Maybe you should try it for yourself and see what you think!
 | **C**       |       | A     | A     | E     | E     | B     |       | E     | E     | A      | B      | D      | D      |        | A      | D      | D      | B      | B      |        |
 | **D**       | B     |       | E     | B     | B     | A     | A     |       |       | E      | E      | C      | C      | A      |        | C      | C      | E      | A      | B      |
 | **E**       | A     | B     | D     | C     | C     |       | B     | C     | C     | D      | D      |        |        | B      | B      | A      | A      | D      |        | A      |
+\normalsize
 
 > * Right-handed 4-count
 > * Lines indicate passes; arrows indicate movement.

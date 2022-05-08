@@ -97,6 +97,13 @@ weave on top).
 
 Pattern by Peter Kaseman and MAJ.
 
+## Tuck-it-in-Blast
+
+This is a wider version of the original Blast, with extra zigs, for 12 jugglers.  You have to *tuck it in* in 
+order to make it through the movements, hence the name!
+
+> * [Watch the Tuck-it-in Blast](https://www.youtube.com/watch?v=iovXQDmw4rQ)
+
 ## Double-Decker Sandwich
 
 A sandwich with two middle layers. In stacking speak, it's a 3-3-3-3: weave; double-time twister; double-time twister; weave.
