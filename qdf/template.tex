@@ -201,8 +201,21 @@ $endif$
 
 \begin{document}
 $if(title)$
+%\maketitle
+
 \begin{titlepage}
-\maketitle
+\centering
+\vfill
+\vfill
+{\bfseries\Huge
+{Madison Area Jugglers' Pattern Book}}
+
+\vfill
+\LARGE
+\centering{Version} \majpatternbookversion
+\vfill
+\centering{\today}
+\vfill
 \end{titlepage}
 $endif$
 $if(abstract)$
@@ -210,6 +223,7 @@ $if(abstract)$
 $abstract$
 \end{abstract}
 $endif$
+
 
 $for(include-before)$
 $include-before$
@@ -229,6 +243,7 @@ $if(lof)$
 \listoffigures
 $endif$
 $body$
+
 
 $if(natbib)$
 $if(bibliography)$
