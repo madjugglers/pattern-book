@@ -782,3 +782,7 @@ the 2nd beat (1 beat after the star in the pattern table); the even beats 2-4-6-
 say passing 4-count to B-E-C-D-A. Start the orbiter just outside the line C-D and move
 clockwise, staying inside each feeder.
 
+
+## Pollinator (3-Leaf clover + 2 orbiters)
+
+This beauty of a 6-person moving pattern was born on May 16, 2019.  Start with the standard 3-leaf clover (for 4 people), but performed on a 4-count base.   Recall that clover is *2-in-2-out* in terms of phantoms, which each clover juggler does while moving before and after a feed of the other three.  Now include 2 orbiters on the inside of the pattern, who collectively pick up the phantom before (Nick) and the phantom after (Steve C) the feed.   Then all 4 clover jugglers are doing a solid 4-count with no-gaps. **Nick and Steve's advice on moving??**
