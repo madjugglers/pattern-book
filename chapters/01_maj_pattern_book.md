@@ -23,6 +23,8 @@ these origins were unknown to us.  If we have erred in our attributions, please 
 
 
 ## Version History
+
+* Madison, Wisconsin, August 1997 Version 0.0
 * Madison, Wisconsin, January 1999 Version 0.1
 * Madison, Wisconsin, October 1999 Version 1.0
 * Madison, Wisconsin, January 2001 Version 1.1
@@ -30,6 +32,8 @@ these origins were unknown to us.  If we have erred in our attributions, please 
 * Madison, Wisconsin, January 2012 Version 2.0
 * Madison, Wisconsin, January 2018 Version 3.0
 * Madison, Wisconsin, May/June?? 2022 Version 3.1
+
+![](./media/front.0.1.jpg){width=99%} 
 
 
 ## What's New in Version 3.1

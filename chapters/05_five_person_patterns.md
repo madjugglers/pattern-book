@@ -498,26 +498,28 @@ feeders.
 
 The same variations for the standard weave and the Twister Weave can be used for
 this pattern, but there are some others. For example, Jugglers A and B can set up on a line
-perpendicular to the weave, with A (outside) further from the weave.  We have been doing it since at least 1994, but are not sure of its origin.  It must predate the MAJ; the Mad-5 performed it a the 1996 Madfest.
+perpendicular to the weave, with A (outside) further from the weave.  We have been doing it since at least 1994, but are not sure of its origin.  
+
 
 ## Twister Weaves 
 ![](./media/image38.jpeg){width=30%}
 
-The original Twister Weave is perhaps one of our greatest discoveries.
+The original Twister Weave is perhaps one of our greatest discoveries. 
 It has the exact same passing table as the Mr. Inside Mr. Outside Weave.
 However, Mr. Inside and Mr. Outside are on opposite sides of the weavers, so the
-feedees turn around after every pass. When we first tried this on Library Mall in the
-late 90's it seemed
-incredibly hard, probably because we hadn't yet mastered moving patterns involving rotations;
-Oogle Boogies and other weaves had moves but no rotations; Egg Beaters had 90 degree rotations; Quincunx had
-a full rotation but it was very slow.  Good self throws make the difference! 
+feedees turn around after every pass. When we first tried this on Library Mall (August 24, 1992),
+it seemed incredibly hard, probably because we hadn't yet mastered moving patterns involving rotations; Oogle Boogies and other weaves had moves but no rotations; Egg Beaters had 90 degree rotations; Quincunx had a full rotation but it was very slow.  Good self throws make the difference! 
 
 
 ### Original Twister Weave 
 
 Count: Feeders 4-Count, Feedees 6-Count moving. 
 
-Each weaver passes once on the end to Mr. Outside (X), and then has a 6-count (2 right hand selves) to move to the inside and turn around. Then pass once to Mr. Inside (Y) and continue in a 6-count outside and then turning around.
+Simply, take the Mr. Inside Mr. Outside weave from above, retain the passing
+sequence as given but put the feeders on opposite sides of the weave.
+
+
+Alternatively, each weaver passes once on the end to Mr. Outside (X), and then has a 6-count (2 right hand selves) to move to the inside and turn around. Then pass once to Mr. Inside (Y) and continue in a 6-count outside and then turning around.
 
 The turns may be done by turning towards the inside or towards the outside. Most people find inside turns easier in the middle and on the ends (i.e. back away from the current feeder and then turn towards the new feeder). However, we suggest that you learn both turns and see which combinations you like best.
 
@@ -532,6 +534,8 @@ The turns may be done by turning towards the inside or towards the outside. Most
 > * Both hands counting, all passes right hands
 > * [Animation](http://juggloid.com/editor/?s=sU0PC0).
 > * [Watch SJRI](https://www.youtube.com/watch?v=hmP4aZVFGJc)
+> * Pattern by Prof. Mike
+> * Performed by the Mad 5 at the 1996 Madfest.
 
 Here are some other twister weaves with the feeders in different counts. They
 get progressively trickier, so get ready! 
@@ -826,6 +830,7 @@ possible transitions. Although we originally created the pattern with a
 different transition, this one seems easier (especially if you've practiced the
 Extra Club Turbo).
 
+\footnotesize
 | **Juggler/beat** | **1**  | **2**  | **3**    | **4** | **5** | **6**    | **7** | **8** | **9**    | **10** | **11** | **12**   |
 |-------------|--------|--------|----------|-------|-------|----------|-------|-------|----------|--------|--------|----------|
 | **A**       | D-D    |        | D-C      |       | D-C   | **Move** |       |       | T-B      | Pause  |        | D-E      |
@@ -839,6 +844,7 @@ Extra Club Turbo).
 | **C**       |        | D-D    | **Move** |       |       |          |       |       |          |        |        |          |
 | **D**       | Pause  |        | D-A      |       |       |          |       |       |          |        |        |          |
 | **E**       | D-A    |        | D-B      |       |       |          |       |       |          |        |        |          |
+\normalsize
 
 > * Both hands counting, right hand passes
 > * A and B start with 4, right hands
@@ -989,6 +995,7 @@ circle, that's the Whirling Melvish.
 To make it easier, the Melvish (the juggler in the middle, who may or may not be
 named Melonhead), can do 2 passes in a row to each corner.
 
+\footnotesize
 | **Juggler/beat** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** | **11** | **12** | **13** | **14** | **15** | **16** |
 |-------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|--------|--------|--------|--------|--------|--------|--------|
 | **A**       | T-C   |       | M     |       | T-C   |       | M     |       | T-C   |        |        |        | T-C    |        |        |        |
@@ -996,6 +1003,7 @@ named Melonhead), can do 2 passes in a row to each corner.
 | **C**       |       |       | T-A   |       |       |       | T-A   |       |       |        | T-A    |        |        |        | T-A    |        |
 | **D**       |       |       |       | T-B   |       |       |       | T-B   |       |        |        | T-B    |        |        |        | T-B    |
 | **M**       |       | D-B   | Pause |       |       |       | A     |       |       |        | D-B    | Pause  |        |        |        | M      |
+\normalsize
 
 > * Both hands counting
 > * A and B start with 4 clubs
@@ -1029,6 +1037,7 @@ The center juggler passes once with a leaf and then replaces that leaf in a
 6-count turn. The table below shows one transition, where E replaces A, and A
 completes the transition facing B.
 
+\footnotesize
 | **Juggler/beat** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** | **11** | **12** | **13** | **14** | **15** | **16** |
 |-------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|--------|--------|--------|--------|--------|--------|--------|
 | **A**       | T-C   |       | E     |       | T-C   |       |       |       |       |        | D-B    | Pause  |        |        |        |        |
@@ -1036,6 +1045,7 @@ completes the transition facing B.
 | **C**       |       |       | T-A   |       |       |       | T-A   |       |       |        | T-E    |        |        |        | T-E    |        |
 | **D**       |       |       |       | T-B   |       |       |       | T-B   |       |        |        | T-B    |        |        |        | T-B    |
 | **E**       |       | D-A   | Pause |       |       |       |       |       | T-C   |        |        |        | T-C    |        |        |        |
+\normalsize
 
 > * Both hands counting
 > * Beats 1 through 9 make up a single transition.
