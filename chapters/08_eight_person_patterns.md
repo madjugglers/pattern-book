@@ -153,3 +153,11 @@ Refer to the 4-person  Three Leaf Clover (standard).   Make two copies that over
 along one leaf, and start out juggling within clover as normal. But whenever you
 and your counterpart enter  the special leaf you transition into the other clover. 
 
+
+## Mel's Dream (Natural)
+
+![](./media/j2-meldream-natural.pdf){width=100%}
+
+## Mel's Dream (Original)
+
+![](./media/j2-meldream-original.pdf){width=100%}
