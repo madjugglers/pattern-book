@@ -490,9 +490,13 @@ Mike Newton created this pattern in 2000.
 Try it in 3-count or chocolate bar.  There are extensions that add clubs, people, 
 and variations that change the passing sequence.
 
+The 8 beat cycle (in passing table above) resets the jugglers into their original *relative* positions, but it takes 24 beats for the pattern to get back to its original state.  It's helpful to recognize that on the non-passing beats a juggler must be moving through regular spots on the three-leaf clover, and considering this there are 18 such positions.  The position table below shows exactly where all jugglers are throughout the pattern.   Check out Nathan's piano roll **WHERE** to see also the trajectory of all 12 clubs, and how long it takes to get them back in order.
+
+![](./media/3clovertable.pdf){width=99%} 
+
 ### Run Over Clover
 
-The Run Over Clover is the same pattern (as the standard clover)  with some of the selves replaced with passes.
+The Run Over Clover is the same pattern (as the standard clover)  with some of the selves (before and after each feed) replaced with passes.
 
 |      |         |
 |------|--------|
