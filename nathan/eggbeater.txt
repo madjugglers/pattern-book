@@ -1,0 +1,48 @@
+
+April 15, 2022
+
+Takes 72 passing beats to return to starting state
+The handle only touches 6 out of the 15 clubs
+Made possible by the 2 6-count passes each beater person does (In passing counts that are multiples of 3, the club you catch is the club you throw next) 
+The other 9 clubs are shifted around the beaters
+As such, there are 2 closed circuits of clubs
+Handle circuit which has a period of 24 passing beats
+Beater circuit which has a period of 72 passing beats
+
+Another interesting point: Andy (the handle) doesn't touch any of Mark's clubs.
+
+April 17, 2022
+
+This 345 egg beater variant is something very special.  I'm wondering if I made any mistakes, but I've double and triple checked.  I'm sure it's correct, but please let me know if you see any mistakes.
+
+You'll find attached the original piano roll (466 variant), updated with a "unique clubs encountered" section at the end of the piano roll, plus a new piano roll for the 345 variant of the egg beater pattern we did today.    The "unique clubs encountered" sections show which clubs were encountered by each juggler's right, left, and self positions.
+
+Here are some interesting observations regarding the 345 variant:
+Whole pattern takes 180 throws (we're counting both right and left throws, regardless of passes and selves)
+The 466 had 72 passing beats, two throws between each pass.  So 72 * 2 = 144 throws for its entire pattern.
+Handle has a period of 30 throws
+The beaters have to go through 180 / 12 = 15 cycles to complete the pattern.
+The handle only touches 7 clubs, 2 of which they keep the entire time (not so surprising given they're in 3 count the whole time).  Let's call the 2 clubs that the handle keeps the "handle's selfish" clubs.
+Every time a beater receives a club from the handle, it is that club that the beater will throw to the handle the next time they pass.
+There are 5 of these clubs, one from each juggler.  I call these the "leftist community" clubs because everyone touches these, and they all start from their respective juggler's left hand.
+Every beater keeps 1 of their original clubs the entire pattern
+This is every juggler's starting right hand 2nd club (notated as having the self position on the piano roll at the start)
+I call these the " beaters' selfish" clubs.
+There's a "reject" club that nobody keeps, and throws immediately.  IE, the beaters play hot potatoe with Mark's starting right club, D.
+This causes Mark to be the only beater position that gets their clubs back twice before reaching the end of the  pattern .  All other beaters get their clubs back once before the end of the  pattern.
+Mark and Mike only touch the reject with their right hands, Mel and Nate touch the reject with their left hands.  The handle never touches the reject.
+While each beater gets their clubs back at least once before the pattern ends, Mike is the only one who never gets them back in the original permutation.  Interestingly, Mark's two "returns" are both in the original permutation.
+All of the beater's starting right hand throw clubs stay with the beaters.  I call these the "beaters' rights", which includes the reject club.
+Something that these piano rolls both suggest to me is that, though these two egg beater variants may look symmetrical, they are both very much "chiral" in nature.
+
+Lastly, something that needs more thought.  I am having difficulty deciding on what a "closed circuit" should mean.  I felt pretty comfortable declaring the 466 variant has two closed circuits, but with this 345 variant I am having trouble identifying the closed circuits, and thus I'm wondering how to define a closed circuit.  Part of it might be related to the 466 variant having only right hand passes, while this 345 variant has both right and left hand passes.  I would appreciate any insight on what you all think a "closed circuit" should mean.
+
+Here is how I see the "closed circuits" in the 345 variant:
+Each beater's selfish club is its own circuit.  Thus, 4 single club circuits
+The reject club forms its own circuit.
+The handle's two selfish clubs form their own circuit.
+The "leftist community" clubs form their own circuit.
+the "beaters' rights" sans the reject club form their own circuit.
+So as I am seeing this, there are 8 closed circuits within the 345 variant of the egg beater pattern.  However, I am sure if I used as much scrutiny on the original 466 variant I could come up with a finer grained listing of circuits.  That and I am not sure what a proper closed circuit should mean.  Let me know what you think.
+
+Thanks for attending my TED talk, I hope you find it interesting.
