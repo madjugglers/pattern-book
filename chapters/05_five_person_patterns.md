@@ -451,7 +451,7 @@ Pattern by Luke Emery.
 
 ### Stationary Isla Vista Weave
 
-In this circle pattern a 2-count feed travels around the circle.  No juggler passes to either of their adjacent neighbors. The first table shows the 2666 variation which is a good introduction to those new to the pattern.
+In this circle pattern a 2-count feed travels around the circle.  No juggler passes to either of their adjacent neighbors. The first table shows the 2666 variation which is a good introduction to those new to the pattern. (This is not an MAJ pattern.)
 
 | **Juggler/beat** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** |
 |-------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
@@ -513,15 +513,8 @@ This is an easy but need-to-pay-attention moving pattern, which the Cool Guyz us
 twice in a row for each juggler, as he/she moves through the middle and waits to receive a pass at the *bottom* of the pattern.   The leader calls out *down*, *box*, *down*, 
 *box* on passing beats, and the passes and movements are as in the figure..
 
-![](./media/gauntlet.jpg){width=85%}
+![](./media/gauntlet.jpg){width=85%} 
 
-## Isla Vista Weave
-
-This is the same passing pattern as the Stationary Isla Vista Weave, but instead of a circle, the jugglers start in two rows facing each other: a top row of 3 jugglers and a bottom row of 2 jugglers.  The bottom row positions take turns doing a 2-count feed while rotating through a figure 8 shape.
-
-The figure below shows the general motion, the arrows indicate the 2-count feeds:
-
-![](./media/isla_vista.png){width=100%}
 
 ## Mr. Inside-Mr. Outside Weave
 
@@ -801,6 +794,15 @@ Pattern by Luke Emery and MAJ.
 > * A, B and C are 1 beat after X and Y
 
 Pattern by Luke Emery.
+
+## Isla Vista Weave
+
+This is the same passing pattern as the Stationary Isla Vista Weave, but instead of a circle, the jugglers start in two rows facing each other: a top row of 3 jugglers and a bottom row of 2 jugglers.  The bottom row positions take turns doing a 2-count feed while rotating through a figure 8 shape.
+
+The figure below shows the general motion, the arrows indicate the 2-count feeds:
+
+![](./media/isla_vista.png){width=100%}
+
 
 
 ## Four-Leaf Clover
