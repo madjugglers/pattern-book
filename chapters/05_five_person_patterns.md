@@ -448,6 +448,46 @@ for 2 counts instead of pirouetting.) You'll pirouette holding 2 clubs.
 
 Pattern by Luke Emery.
 
+
+### Stationary Isla Vista Weave
+
+In this circle pattern a 2-count feed travels around the circle.  No juggler passes to either of their adjacent neighbors. The first table shows the 2666 variation which is a good introduction to those new to the pattern. (This is not an MAJ pattern.)
+
+| **Juggler/beat** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** |
+|-------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
+| **A**       | D     | C     |       |       | C     |       |       | D     |       |       |
+| **B**       |       |       | E     | D     |       |       | D     |       |       | E     |
+| **C**       |       | A     |       |       | A     | E     |       |       | E     |       |
+| **D**       | A     |       |       | B     |       |       | B     | A     |       |       |
+| **E**       |       |       | B     |       |       | C     |       |       | C     | B     |
+
+> * Right hand couting only
+
+But for those seeking a more challenging pattern, here's a 2454 variation:
+
+| **Juggler/beat** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** | **11** | **12** | **13** | **14** | **15** |
+|-------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
+| **A**       | D     |       | C     |       |       |       | C     |       |       |       |       | D     |       |       |       |
+| **B**       |       |       |       | E     |       | D     |       |       |       | D     |       |       |       |       | E     |
+| **C**       |       |       | A     |       |       |       | A     |       | E     |       |       |       | E     |       |       |
+| **D**       | A     |       |       |       |       | B     |       |       |       | B     |       | A     |       |       |       |
+| **E**       |       |       |       | B     |       |       |       |       | C     |       |       |       | C     |       | B     |
+
+> * Both hands counting
+> * Pattern mirrors itself, so full pattern is 30 throws.
+
+And for even more challenge, try doing the 1333 variation:
+
+| **Juggler/beat** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** |
+|-------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
+| **A**       | D     | C     |       |       | C     |       |       | D     |       |       |
+| **B**       |       |       | E     | D     |       |       | D     |       |       | E     |
+| **C**       |       | A     |       |       | A     | E     |       |       | E     |       |
+| **D**       | A     |       |       | B     |       |       | B     | A     |       |       |
+| **E**       |       |       | B     |       |       | C     |       |       | C     | B     |
+
+> * Both hands counting
+
 ## Up-Up-Over-5 
 
 Refer to Up-Up-Over for 3 jugglers; recall this one involves simultaneous double
@@ -473,7 +513,8 @@ This is an easy but need-to-pay-attention moving pattern, which the Cool Guyz us
 twice in a row for each juggler, as he/she moves through the middle and waits to receive a pass at the *bottom* of the pattern.   The leader calls out *down*, *box*, *down*, 
 *box* on passing beats, and the passes and movements are as in the figure..
 
-![](./media/gauntlet.jpg){width=85%}
+![](./media/gauntlet.jpg){width=85%} 
+
 
 ## Mr. Inside-Mr. Outside Weave
 
@@ -753,6 +794,15 @@ Pattern by Luke Emery and MAJ.
 > * A, B and C are 1 beat after X and Y
 
 Pattern by Luke Emery.
+
+## Isla Vista Weave
+
+This is the same passing pattern as the Stationary Isla Vista Weave, but instead of a circle, the jugglers start in two rows facing each other: a top row of 3 jugglers and a bottom row of 2 jugglers.  The bottom row positions take turns doing a 2-count feed while rotating through a figure 8 shape.
+
+The figure below shows the general motion, the arrows indicate the 2-count feeds:
+
+![](./media/isla_vista.png){width=100%}
+
 
 
 ## Four-Leaf Clover
