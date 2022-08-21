@@ -668,3 +668,30 @@ Here are some patterns for 3 jugglers by Graham Paasch.
 
 ![](./media/SafeBeastofArg.jpg){width=90%} 
 
+## Ryan's Feed
+
+### Original
+
+The juggler's assume the traditional feed positions. Both hands counting. More information can be found [here](https://jugglingfan.org/pmwiki/pmwiki.php?n=Patterns.RyansFeed).
+
+| **Juggler/beat** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** |
+|-------------|-------|-------|-------|-------|-------|-------|-------|-------|
+| **A**       | B     |       | C     |       | B     | C     | C     | B     |
+| **B**       | A     |       |       |       | A     |       |       | A     |
+| **C**       |       |       | A     |       |       | A     | A     |       |
+
+### Inverted
+
+| **Juggler/beat** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** |
+|-------------|-------|-------|-------|-------|-------|-------|-------|-------|
+| **A**       | C     |       | B     |       | C     | B     | B     | C     |
+| **B**       |       |       | A     |       |       | A     | A     |       |
+| **C**       | A     |       |       |       | A     |       |       | A     |
+
+### Change Sides Variant
+
+In this variant, the feedees take turns moving across like in the traditional change sides feed.  However with each transition the pattern will be flip flopping between the original Ryan's Feed and the inverted variant.  All 3 juggler's will need to pay attention to what variant they are transitioning to.  As to when the feedees should make their transition, we found there are multiple times when the feedees can take turns moving across.  The easiest time to transition is after the feedee does their two 1-count throws (EG, Juggler C's 6 and 7 throws in the original pattern).
+
+### Turbo Variant
+
+It is theoretically possible to turbo the change sides variant by having the feedees transition through the middle.  However in practice we found it difficult, but the nice thing is the pattern doesn't invert itself after each transition like in the change sides variant.
