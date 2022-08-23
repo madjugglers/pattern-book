@@ -795,6 +795,30 @@ Pattern by Luke Emery and MAJ.
 
 Pattern by Luke Emery.
 
+### Involuting Twister Weave
+
+This variant has the feeders and feedees constantly swapping places with each other after they complete a pass.  This results in everyone passing on an alternating 4-count, 6-count passing pattern.  The jugglers' movements trace out the shape outlined below with arrows indicating direction of movements:
+
+![](./media/involution.png){width=50%}
+
+The jugglers will need to pay attention though, as they alternate which semicircle they go around.  In other words, each juggler traces out an elongated figure 8.  Below follows a tabular recording of the passing pattern, along with an accompanying positional diagram.
+
+| **Juggler/beat** | **1**   | **2**   | **3**   | **4**   | **5**   |
+|-------------|---------|---------|---------|---------|---------|
+| **X**       |         | B       |         |         | A       |
+| **Y**       | C       |         |         | B       |         |
+| **A**       |         |         | C       |         | X       |
+| **B**       |         | X       |         | Y       |         |
+| **C**       | Y       |         | A       |         |         |
+
+> *  Right hand counting only, all right hand passes.
+
+![](./media/involuting_twister.png){width=100%}
+
+Notice that the pattern is only 5 beats long while it takes a total of 20 passing beats to return each juggler to their starting position.
+
+Pattern created by Mike Newton and Melonhead August 2022. 
+
 ## Isla Vista Weave
 
 This is the same passing pattern as the Stationary Isla Vista Weave, but instead of a circle, the jugglers start in two rows facing each other: a top row of 3 jugglers and a bottom row of 2 jugglers.  The bottom row positions take turns doing a 2-count feed while rotating through a figure 8 shape.
