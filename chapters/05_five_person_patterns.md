@@ -1031,14 +1031,16 @@ This variation moves the feeder to the other side of the pattern.
 
 Pattern by Mike Newton and MAJ.
 
-### Egg Beater, Switching Handles
+### Egg Beater, Switching Handles (also, the Involuted Egg Beater)
 
 
 This pattern is a cool way to get the handle into the action, continuously. It was  first done Nov 2, 17 (long
-after the original egg-beater) by Graham=A, Mel=B, Mike=C, Jeff=D, Nick=E; nickname EggBeatOff). The table shows positions where each juggler (column) must be at that passing beat [right-hand counting in rows]. Only passes are indicated. So positions 1-2 exchange, similarly 3-8, 4-7, and 5-6.
+after the original egg-beater) by Graham=A, Mel=B, Mike=C, Jeff=D, Nick=E; nickname EggBeatOff), and more recently done  with lights on Library Mall, Aug 25, 2022!) The table shows positions where each juggler (column) must be at that passing beat [right-hand counting in rows]. Only passes are indicated. So positions 1-2 exchange, similarly 3-8, 4-7, and 5-6.
 The upper graph shows where each juggler moves; edge weights indicate number of right-hand counts up to next throw. Lower graph shows passing events. Start with jugglers at 4, 7, near 1, 2, and on the edge moving towards 6. There are 30 right hand beats to get around, which seems excessive but doesn’t feel so bad when juggling, thanks to symmetries I guess.
 
-![](./media/eggbeatswitch.png){width=60%}
+Note: Mel likes to think of positions 3 and 4 as one spot, and likewise positions 7 and 8 as one spot, at which you make two passes.  Mike likes to think of them each as two spots that you slide through!
+
+![](./media/eggbeaterswitch2.png){width=60%}
 
 ## Strange Attractor / Estranged Tractors
 
