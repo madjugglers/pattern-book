@@ -386,6 +386,9 @@ your ZOC.
 
 Pattern by Mike Newton.
 
+### El Turmeric Weave
+![](./media/elturmeric.png){width=105%}
+
 ### That's a Good One
 
 For a count challenge with no extra clubs, but in the standard weave formation,
