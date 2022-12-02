@@ -421,6 +421,8 @@ shown. The pass graph, on the right, shows where passes happen (green) in the 12
 
 Pattern by Graham Paasch.
 
+On Decembe 1, 2022, we revisited Foie-Graham.  Two important variations: (1) add extra passes on both ends, so each juggler passes on 8 of 12 beats, and (2) Involute, by every pair of counterparts switches sides after their first beat coming into the middle.  4-count or 6-count a lot easier than 2-count!
+
 ## 6-Person Turbo Variations
 ### Interlocking Turbos
 
@@ -578,6 +580,8 @@ The Electric Razor is 3 pairs of jugglers of spinning 3 counters.
 The numbers in the table above count passes.
 
 The Electric Razor pattern was invented by Peter Kaseman, summer '98.
+
+On December 1, 2022, we revisted the Electric Razor with colors, and on a comforable 5-count base (rather than 3-count base).  It takes 3 cycles to get back to the start (Chan/Jeff/Mike/Mel/Nathan/Nick).
 
 ## Two-Seated Unicycle
 
