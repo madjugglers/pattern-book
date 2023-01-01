@@ -31,7 +31,7 @@ these origins were unknown to us.  If we have erred in our attributions, please 
 * Madison, Wisconsin, March 2001 Version 1.2
 * Madison, Wisconsin, January 2012 Version 2.0
 * Madison, Wisconsin, January 2018 Version 3.0
-* Madison, Wisconsin, May/June?? 2022 Version 3.1
+* Madison, Wisconsin, January 2023 Version 3.1
 
 ![](./media/front.0.1.jpg){width=99%} 
 
@@ -39,9 +39,9 @@ these origins were unknown to us.  If we have erred in our attributions, please 
 ## What's New in Version 3.1
 
 Let's not talk about the mistakes and omissions 
-in Version 3.0, many of which have been repaired in the present document.  We have added a bunch of new patterns (e.g., laxatives, the pollinator, the zigzag, sneaky-snake, that's-a-really-good-one, fully-loaded-blast, Mel's-dream,...).  We added more on big patterns, including on the super-fun 24-person hex-of-clovers.  
+in previous versions, many of which have been repaired in the present document.  We have added a bunch of new patterns (e.g., laxatives, the pollinator, the zigzag, sneaky-snake, that's-a-really-good-one, fully-loaded-blast, Mel's-dream, and more).  We added more on big patterns, including on the super-fun 24-person hex-of-clovers.  
  At recent practices we've experimented a lot with <i> colors</i>, in which jugglers each start with a distinct set of clubs, 
-and we see how long it takes to move the colors around.  This version has some details on the substructure of a few of our cool patterns.    *more of Steve's and Nick's patterns??*
+and we see how long it takes to move the colors around.  This version has some details on the substructure of a few of our cool patterns.    
 
 Thanks to Jeff Adamus for posting YouTube recordings of a bunch of our patterns; we've
 added links *where* (Thanks to Jeremy, Jessie, and ? others for great camera work!) . *other animations?*  On formatting,  we've moved to 12pt font to reduce eye strain!  Like all earlier versions, the current Version \majpatternbookversion&nbsp;contains mistakes and unfortunate omissions, which we have yet to discover and
