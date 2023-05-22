@@ -1,0 +1,33 @@
+
+11/29/22 from Nathan
+
+Hi,
+
+Here's the El Nino piano roll.  If I did things correctly, it takes 3 cycles to return to the starting state.
+
+I think Mike predicted 2 cycles, and I initially predicted 4 cycles.   Funny it ended up being in the middle. 🤣
+
+##
+
+11/30/22 from Nathan
+
+Here's an explanation for how to interpret and construct a piano roll.
+
+The first three rows of the spreadsheet I use for counting total throws, counting total passing beats, and counting passing beats in a "cycle", respectively.  "Cycle" meaning the finite passing pattern, which in the maj pattern book equates to a full table of passes for a pattern.  EG, the standard clover's cycle is 8 passing beats long, and uses a 2 count base resulting in a total of 16 throws to a cycle.
+
+Each juggler has 3 rows to represent the three clubs they're juggling and [0, J-1] rows for each of the other jugglers that represent passes.  The model could be compacted by removing the passing rows, but it's more explicit to include them.  ( In fact, if you compact the model like this it suggests a linear algebra model which I've discussed before, but I digress)
+
+The three initial rows for each juggler are labeled L, S, R, which stand for Left, Self, Right.  The three rows are ordered as if you are viewing the juggler from above as they face East.  
+
+Each column represents a throw, and a throw results in the permutation of the clubs.  A right hand throw swaps the R and S clubs from the previous column, while a left hand throw swaps the L and S clubs.
+
+The "zeroeth" column-- the column just before the first numbered column-- represents every juggler's starting state.  Usually jugglers start with two clubs in one hand, but the model pretends one of them is in the S position.  
+
+The model has these assumptions:
+1. A juggler holds a club twice as long as a club in the air for a throw.
+2.  A club is in the air for the same amount of time for both self throws and passing throws.
+3.  All throws are site swap 3  (any patterns involving higher values will require a more complex model...)
+4.  Only one club is in a hand at a time.
+
+
+https://www.youtube.com/watch?v=OZHeaFwWl2s
