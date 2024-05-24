@@ -3,9 +3,9 @@
 Madison Area Jugglers pattern book
 ==================================
 
-This is the working home of the MAJ's pattern book; you can access the
+This is the working home of the MAJ's pattern book. You can access the
 latest *official* version in PDF format from [our web
-site](http://madjugglers.com/Madison%20Pattern%20Book).
+site](http://madjugglers.com/majpatternbook/).
 
 Dependencies
 ------------
@@ -25,4 +25,3 @@ To build locally, do:
 
 If there were any changes since the last build, a new pdf will
 reside in the `build` directory.
-
